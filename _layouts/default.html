@@ -68,53 +68,53 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="https://d12y7sg0iam4lc.cloudfront.net/s/css/lato-2.010.min.css" />
-    <!-- <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/blog.css" /> -->
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:8080/s/css/lato-2.010.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:8080/s/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:8080/s/css/blog.css" />
 
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" data-init="blog">
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div class="initial-content">
-      {{ content }}
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <div align="center" style="margin: 1em 0;">
-        <ins class="adsbygoogle"
-             style="display:block; border-bottom: initial;"
-             data-ad-client="ca-pub-7328585512091257"
-             data-ad-slot="3049671934"
-             data-ad-format="auto"></ins>
+    <div id="wrap">
+      <header id="header-wrapper" role="banner" 
+        class="header-wrap navbar navbar-default navbar-fixed-top">
+        <div id="header" class="container">
+          {% include header.html %}
         </div>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-    </div>
+      </header>
 
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include search/search_form.html %}
+      <div class="initial-content">
+        {{ content }}
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <div align="center" style="margin: 1em 0;">
+          <ins class="adsbygoogle"
+               style="display:block; border-bottom: initial;"
+               data-ad-client="ca-pub-7328585512091257"
+               data-ad-slot="3049671934"
+               data-ad-format="auto"></ins>
+          </div>
+          <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
       </div>
-    {% endif %}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+      <footer class="footer-wrap navbar navbar-default">
+        <div id="footer" class="container">
+          {% include footer.html %}
+        </div>
       </footer>
-    </div>
 
+    </div>
     {% include scripts.html %}
 
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48347893-1"></script> -->
-    <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script>
-    <script async src="https://quire.io/s/js/pack.min.js"></script>
-    <script async src="https://quire.io/s/js/blog.min.js"></script>
+    <!-- <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script> -->
+    <script async src="http://127.0.0.1:8080/s/js/pack.min.js"></script>
+    <script async src="http://127.0.0.1:8080/s/js/blog.min.js"></script>
   </body>
 
 </html>

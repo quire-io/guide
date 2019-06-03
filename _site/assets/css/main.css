@@ -4127,52 +4127,8 @@ a.reversefootnote {
   .adsbygoogle {
     display: none !important;
     height: 1px !important; } }
-#wrap {
-  max-width: 100%;
-  padding-top: 52px;
-  transition: margin-left 1s;
-  position: relative;
-  min-height: 100%; }
+body {
+  font-size: 22px; }
 
-.menu-open #side-menu-toggle {
-  background-position: -26px 0px; }
-
-#header-wrapper {
-  transition: margin-left 1.0s ease; }
-
-.header-wrap {
-  height: auto;
-  background-color: #fff; }
-
-.banner {
-  text-align: center;
-  padding: 96px 0 41px; }
-  .banner h1,
-  .banner p {
-    margin: 0; }
-  .banner h1 {
-    font-size: 51px;
-    font-weight: 300;
-    color: #494949; }
-  .banner h4 {
-    font-size: 28px;
-    font-weight: 300;
-    margin-top: 8px; }
-
-.page__footer {
-  background-color: white; }
-  .page__footer #footer-txt {
-    display: inline-block; }
-  .page__footer .item {
-    font-size: 14px;
-    font-weight: 400;
-    margin: 7px 13px;
-    display: inline; }
-    .page__footer .item:first-child {
-      margin-left: 0 !important; }
-  .page__footer .copy-right {
-    color: rgba(0, 0, 0, 0.42);
-    margin-top: 10px;
-    margin-bottom: 0;
-    font-weight: 400;
-    font-size: 12px; }
+.initial-content {
+  padding-bottom: 40px; }
