@@ -59,8 +59,8 @@
 
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="https://d12y7sg0iam4lc.cloudfront.net/s/css/lato-2.010.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/blog.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://quire.io/s/css/blog.css" /> -->
 
     <meta charset="utf-8">
 
@@ -145,13 +145,81 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--single" data-init="blog">
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
 <![endif]-->
 
-    
+    <div id="wrap">
+      <header id="header-wrapper" role="banner" 
+        class="header-wrap navbar navbar-default navbar-fixed-top">
+        <div id="header" class="container">
+          <div id="quire-logo" class="navbar-header">
+  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
+    <span>toggle menu</span>
+  </button>
+  <h1 class="quire-logo-icon">
+    <em>
+      <a id="home" href="/" title="Quire">
+        <img src="https://d12y7sg0iam4lc.cloudfront.net/s/img/quire_logo.svg" alt="Quire">
+      </a>
+    </em>
+  </h1>
+</div>
+<nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
+  <ul id="header-icons" class="nav navbar-nav navbar-right hide">
+      <li class="item blog active">
+        <a href="/blog">BLOG</a>
+      </li>
+      <li class="item login">
+          <a class="b green" href="/login?continue=http://localhost:4000/docs/quick-start-guide/">LOG IN</a>
+      </li>
+      <li class="item start-free">
+        <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
+      </li>
+      <li class="item feedback hidden-xxs hidden-xs"><a href="/feedback">FEEDBACK</a></li>
+      <li class="item t-user dropdown" id="u-id">
+        <a href="#" class="i-btn user-icon-wrapper dropdown-toggle" data-toggle="dropdown"></a>
+        <ul class="arrow-dropdown-menu dropdown-menu pull-right arrow-border" role="menu">
+          <li class="dropdown-header"></li>
+
+          <li class="u-item"><a href="[:url currentUser]"><i class="icon-user-o"></i>My Profile</a></li>
+          <li class="u-item"><a href="/r/setting?tab=options"><i class="icon-cog-o"></i>Account Settings</a></li>
+
+          <li class="divider"></li>
+
+          <li class="u-item"><a href="/invite"><i class="icon-heart-o"></i>Recommend Quire</a></li>
+          <li class="u-item dropdown-submenu">
+            <a href="#"><i class="icon-question-circle"></i>Help</a>
+            <ul class="dropdown-menu" role="menu">
+              <li class="u-item tutorial">
+                <a href="/tutorial" target="_blank"><i class="icon-graduation-cap-o"></i>Tutorial</a>
+              </li>
+              <li class="u-item">
+                <a href="/w/Getting_Started_with_Quire/" target="_blank"><i class="icon-book-open-o"></i>Getting Started</a>
+              </li>
+              <li class="u-item feedback">
+                <a href="/feedback" class="feedback-item" target="_blank"><i class="icon-inbox-file-word"></i>Feedback</a>
+              </li>
+            </ul>
+          </li>
+
+          <li class="divider"></li>
+          <li class="u-item"><a href="/r/logout"><i class="icon-sign-out"></i>Log out</a></li>
+        </ul>
+      </li>
+  </ul>
+</nav>
+        </div>
+        <div id="side-menu-toggle"></div>
+        <div id="side-menu">
+          <a class="" href="/">ALL</a>
+          
+        </div>
+      </header>
+    </div>
+    <!-- 
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -172,7 +240,7 @@
     </div>
   </div>
 </div>
-
+ -->
 
     <div class="initial-content">
       
@@ -381,7 +449,6 @@
   
   </div>
 
-1111111
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Welcome to Jekyll!">
     <meta itemprop="description" content="The bread and butter of any theme. Below you’ll find the layouts included with Minimal Mistakes, what they look like and the type of content they’ve been built for.">
@@ -619,9 +686,9 @@
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
-        <nav class="navbar-collapse bs-navbar-collapse">  
-  <div id="footer-txt" class="col-sm-12">
-    <ul class="nav navbar-nav">
+        <nav class="footer-wrap">  
+  <div id="footer-txt">
+    <ul class="">
       <li class="item"><a href="/blog">Blog</li>
       <li class="item"><a href="/features">Feature</a></li>
       <li class="item"><a href="/pricing">Pricing</a></li>
