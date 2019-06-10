@@ -28,19 +28,20 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-  # _posts
-  defaults:
-
   # _docs
   - scope:
       path: ""
       type: docs
     values:
       layout: single
+      classes: wide
       read_time: false
       author_profile: false
       share: false
-      comments: false
+      comments:
+        provider: "disqus"
+        disqus:
+        shortname: "dsq-app7162"
       sidebar:
         nav: "docs"
 
