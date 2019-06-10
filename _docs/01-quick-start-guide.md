@@ -4,11 +4,9 @@ title:  "Welcome to Jekyll!"
 permalink: /docs/quick-start-guide/
 date:   2019-05-3 14:25:31 +0800
 categories: jekyll update
+classes: wide
 sidebar:
   nav: "docs"
-toc: true
-toc_label: "Included Layouts"
-toc_icon: "columns"
 ---
 
 
