@@ -15,7 +15,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 4em 0 0.8em;
+    margin: 3.6em 0 0.8em;
     color: rgba(0,0,0,0.8);
 }
 
@@ -43,6 +43,24 @@ a {
 
 	&:visited {
     	color: #3c763d;
+	}
+}
+
+p, a, li, figcaption, td {
+	& > code {
+		background: rgba(0,0,0,0.03);
+
+		.notice--warning code {
+		    background-color: inherit;
+		}
+
+		.notice--danger code {
+		    background-color: inherit;
+		}
+
+		.notice--info code {
+		    background-color: inherit;
+		}
 	}
 }
 
@@ -89,6 +107,10 @@ kbr {
     padding: 0.4em 0.46em;
     border-radius: 4px;
     box-shadow: inset 0 0 0 1px rgba(0,0,0,0.16), inset 0 -1px 0 0 rgba(0, 0, 0, .16);
+}
+
+figcaption {
+    margin: 0 auto;
 }
 
 .initial-content {
@@ -140,13 +162,20 @@ kbr {
 .sidebar {
 	p, li {
 		font-family: inherit;
-    	line-height: 2;
 	}
 
 	.nav__items {
+		li:hover {
+			color: rgba(0,0,0,0.7);
+		}
+
 		.active {
 	    	font-weight: inherit;
 	    	color: #9ac656;
+
+	    	&:hover {
+	    		color: #7bb340;
+	    	}
 	    }
 
 	    & > li {
@@ -155,6 +184,10 @@ kbr {
 	    	& > ul {
 		    	margin-left: 0.8em;
 				color: rgba(0,0,0,0.6);
+
+				& > li {
+					padding: 0.3rem 0;
+				}
 		    }
 	    }
 	}
@@ -166,9 +199,76 @@ kbr {
 	}
 }
 
+.page__meta + .pagination {
+	margin-top: 4em;
+	padding-top: 2.4em;
 
+	.pagination--pager {
+		font-size: 1em;
+		width: auto;
+		display: inline-block;
+		border: 0;
+		padding: 0;
+		font-weight: 400;
 
+		&:not(.disabled) {
+			color: #9ac656;
+		}
 
+		&.prev {
+			float: left;
+
+			&::before {
+				margin-right: 12px;
+		    	content: "\2190";
+			}
+		}
+
+		&.next {
+			float: right;
+
+			&::after {
+			    margin-left: 12px;
+			    content: "\2192";
+			}
+		}
+	}
+}
+
+#main {
+    padding-left: 2em;
+    padding-right: 2em;
+    max-width: 1080px;
+}
+
+.toc__menu {
+    font-size: 1.25em;
+    border-left: 3px solid #EDEDED;
+    margin: 0.6em 0 0.8em 0.8em;
+    width: inherit;
+
+    a {
+    	padding: 0.3rem 0.65rem;
+	    font-weight: inherit;
+	    border-bottom: inherit;
+	}
+}
+
+@media (min-width: 64em) {
+	.sidebar {
+    	width: calc(280px - 1em);
+    }
+
+    .page {
+    	width: calc(100% - 280px);
+    }
+}
+
+@media (max-width: 64em) {
+	#main {
+		max-width: 720px;
+	}
+}
 
 
 
