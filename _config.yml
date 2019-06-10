@@ -27,6 +27,11 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+comments:
+    provider: "disqus"
+    disqus:
+      shortname: "testjjjside"
+
 defaults:
   # _docs
   - scope:
@@ -38,10 +43,7 @@ defaults:
       read_time: false
       author_profile: false
       share: false
-      comments:
-        provider: "disqus"
-        disqus:
-        shortname: "dsq-app7162"
+      comments: true
       sidebar:
         nav: "docs"
 
