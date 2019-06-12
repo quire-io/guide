@@ -21,7 +21,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+search: true
+search_provider: google
+google:
+  search_engine_id: 005273112535255447278:5ndjd1nblwm
+  instant_search: true
 collections:
   docs:
     output: true
