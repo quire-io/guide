@@ -58,6 +58,9 @@ plugins:
   - jekyll-include-cache
   # - jekyll-feed
 
+after_footer_scripts:
+  /assets/js/custom-footer.js
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
