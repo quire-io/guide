@@ -8,6 +8,12 @@ categories: jekyll update
 
 The bread and butter of any theme. Below you'll find the layouts included with Minimal Mistakes, what they look like and the type of content they've been built for.
 
+![map]({{ site.url }}{{ site.baseurl }}/assets/images/test/map.png)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/test/phone.png){: .align-center}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/test/phone.png){: .align-left} 
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/test/phone.png)
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/test/phone.png){: .align-right}
+
 ## Default layout
 
 The base layout all other layouts inherit from. There's not much to this layout apart from pulling in several `_includes`:
