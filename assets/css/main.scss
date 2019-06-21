@@ -242,7 +242,11 @@ figcaption {
 #main {
     padding-left: 2em;
     padding-right: 2em;
-    max-width: 1080px;
+    max-width: 1160px;
+}
+
+#wrap {
+	padding-top: 64px;
 }
 
 .toc__menu {
@@ -258,30 +262,62 @@ figcaption {
 	}
 }
 
-@media (min-width: 64em) and (max-width: 79em) {
+@media (min-width: 80em) {
+	.page {
+    	width: calc(100% - 300px - 3em);
+	}
+}
+
+@media (max-width: 79em) and (min-width: 64em) {
 	.sidebar {
-    	width: calc(280px - 1em);
+    	width: calc(260px - 1em);
     }
 
     .page {
-    	width: calc(100% - 280px);
+    	width: calc(100% - 260px - 3em);
     }
 }
 
-@media (max-width: 64em) {
+@media (max-width: 63.9375em) {
 	#main {
 		max-width: 720px;
 	}
 
 	.sidebar {
 		position: fixed;
-		top: 50px;
+		top: 64px;
+    	box-shadow: 0 12px 24px 0 rgba(0,0,0,0.05);
 		left: 0;
 		right: 0;
 		background-color: white;
 
 		.nav__list {
-			text-align: center;
+		    text-align: left;
+		    max-width: 720px;
+		    margin: auto;
+		    padding-left: 2em;
+		    padding-right: 2em;
+		}
+
+		label {
+		    padding: 0.5em 0;
+		    color: rgba(0,0,0,0.6);
+		    font-size: 0.9em;
+		    font-weight: 400;
+		    border: none;
+		    width: 100%;
+		    margin-bottom: 0.5em;
+
+		    &:hover {
+			    color: #9ac656;
+			    border: inherit;
+			    background: inherit;
+			}
+		}
+
+		input:checked + label {
+		    color: #7bb340;
+		    background: inherit;
 		}
 	}
 
