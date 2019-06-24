@@ -6,8 +6,6 @@ categories: user interface
 ---
 
 
-Overview > User Interface
-
 User Interface
 
 Your Quire workspace is divided into 3 main sections: Sidebar, Main Panel, and Detail Panel. 
@@ -18,19 +16,18 @@ Detail Panel:  access to the task description, attachments, and comments that yo
 
 
 
-
-
-
-
-
-
 ## Sidebar 
 The Sidebar is the space on the left. It is where you can switch between projects, organizations, and members.
 
-You will also be able to access tasks under My Tasks (link), Projects /Organizations under Bookmarks (link), Recent (link) and Smart Folders (link). 
+You will also be able to access tasks under My Tasks, Projects /Organizations under Bookmarks, Recent and Smart Folders. 
+
+
+![interface-sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar.png)
 
 
 Tip: You can keep the sidebar open by pinning it or unpin to hide.
+
+![interface-sidebar-pin]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar_pin.png)
 
 
 
@@ -41,7 +38,7 @@ When you click on projects or organizations in the sidebar, this is where you wi
 Also, you can switch between different kinds of views (List, Board, and Overview) in the main panel. 
 
 
-
+![interface-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_mainPanel.png)
 
 
 
@@ -50,12 +47,15 @@ Also, you can switch between different kinds of views (List, Board, and Overview
 
 ## Detail Panel 
 The Detail Panel is the space on the right.
+
 This is where you will see the detail contents of each task when you click on it in the main panel.
-Here you can add a description , comments (link), assignees (link), start and due dates (link), priority (link), tags (link), and more (link to Advanced task actions).
+Here you can add a description, comments, assignees, start and due dates, priority, tags, and more.
 
 Tip: To open/close the detail panel of a task, simply press the spacebar. Also, to pin or unpin the detail panel, click on the "pin" icon.
 
 
+
+![interface-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_detailPanel.png)
 
 
 
