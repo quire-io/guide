@@ -1,6 +1,7 @@
 docs:
   - title: Getting Started
     children:
+      - title: "User Interface"
         url: /user-interface/
       - title: "Organization vs. Project vs. Task"
         url: /organization-project-task/
@@ -12,8 +13,6 @@ docs:
         url: /navigate-quire/
       - title: "Mobile"
         url: /mobile-apps/
-
-
 
   - title: Task List 
     children:
