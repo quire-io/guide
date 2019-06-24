@@ -4,10 +4,8 @@ permalink: /guide/organization-project-task/
 date:   2019-06-13 14:50:00 +0800
 categories: organization project task
 ---
-Overview > Organization, Project and Task
 
- 
-Organization, Project and Task
+### Organization, Project and Task
 
 
 
@@ -16,11 +14,13 @@ With a Quire account, you can create or access one or more organizations to coll
 
 Each organization has its own set of projects and projects consist of tasks and subtasks. 
 
+
 For example, you are the CEO of your company, who is in charge of many departments: Marketing, Accounting, Human Resources, IT and so on. Each department has their own projects.  
 For the marketing team, they are running different campaigns. You can create an organization for the marketing team and create projects under that marketing organization such as Social Media Campaign, Brand Awareness Campaign, Advertising etc. 
 
 
 
+![organization-overveiw]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/overview.png)
 
 
 
@@ -33,6 +33,7 @@ Tip: When adding members at an organization level, members will be able to see a
 Learn: How to create a new organization?
 
 
+![organization-sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
 
 
 
@@ -49,8 +50,12 @@ Sidebar:
 Projects in the sidebar are grouped by Organization. 
 
 
+![project-sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/project.png)
+
 
 Main panel:
+
+![project-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/mainpanel.png)
 
 
 
@@ -64,9 +69,9 @@ Main panel:
 ## Tasks
 A task is the basic unit of action in Quire. It can be broken down into subtasks, sub-subtasks, and so on. 
 
-You can add a description to tasks or subtasks, comment in them (link), assign them to yourself or others (link), set start and due dates(link), tags(link), and priority (link). 
+You can add a description to tasks or subtasks, comment in them, assign them to yourself or others, set start and due dates, tags, and priority. 
 
-
+![tasks-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/tasks.png)
 
 
 

@@ -9,21 +9,51 @@ docs:
         url: /guide/user-interface/
       - title: "Organization vs. Project vs. Task"
         url: /guide/organization-project-task/
-
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
+      - title: "Members"
+        url: /guide/members/
+      - title: "Project Views"
+        url: /guide/project-view/
       - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+        url: /guide/navigate-quire/
+      - title: "Mobile"
+        url: /guide/mobile-apps/
 
-  - title: Content
+
+
+  - title: Task List 
+    children:
+      - title: "Add Tasks and Subtasks"
+        url: /guide/add-task/
+      - title: "Delete tasks and Undo"
+        url: /guide/delete-task/
+      - title: "Set date and time"
+        url: /guide/set-date-time/
+      - title: "Set assignees"
+        url: /guide/set-assignee/
+      - title: "Assign tags"
+        url: /guide/assign-tags/
+      - title: "Set Priority"
+        url: /guide/set-priority/
+      - title: "Descriptions"
+        url: /guide/descriptions/
+      - title: "Inline assign"
+        url: /guide/inline-assign/
+      - title: "Change Status"
+        url: /guide/set-status/
+      - title: "Comments"
+        url: /guide/comments/
+      - title: "Attachment"
+        url: /guide/attachments/ 
+      - title: "Filters and Sorts"
+        url: /guide/filter-sort/
+      - title: "Mark your tasks"
+        url: /guide/favorite-follow-task/
+      - title: "Multiple select"
+        url: /guide/add-task/  
+
+
+
+  - title: Task List (Advanced)
     children:
       - title: "Working with Posts"
         url: /docs/posts/
