@@ -1,14 +1,10 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
       - title: "User Interface"
-        url: /guide/user-interface/
+        url: /user-interface/
       - title: "Organization vs. Project vs. Task"
-        url: /guide/organization-project-task/
+        url: /organization-project-task/
 
   - title: Customization
     children:

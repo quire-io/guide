@@ -10,7 +10,7 @@
           {% for child in nav.children %}
             {% comment %} set "active" class on current page {% endcomment %}
             {% if child.url == page.url %}
-              {{ nav.title }} > {{ child.title }}
+              {{ nav.title }} <label class="toc-ar">></label> {{ child.title }}
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -50,7 +50,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a>
+            <li><a href="{{ child_url }}" class="{{ active }}"> {{ child.title }}</a>
                       {% if child.url == page.url %}
                         {% include toc.html sanitize=true html=content h_min=2 h_max=2 class="toc__menu" %}
                       {% endif %}

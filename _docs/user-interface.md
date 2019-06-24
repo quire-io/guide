@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/user-interface/
+permalink: /user-interface/
 date:   2019-06-13 12:42:00 +0800
 categories: user interface
 ---

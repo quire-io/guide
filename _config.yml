@@ -17,8 +17,9 @@ name: "Quire & You"
 title: "Quire & You"
 email: feedback@quire.io
 description: "A collaborative task management tool for breaking down goals in hierarchical lists."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/guide" # the subpath of your site, e.g. /blog
+url: "https://quire.io" # the base hostname & protocol for your site, e.g. http://example.com
+# dev_url: "http://127.0.0.1:4000"
 twitter_username: jekyllrb
 github_username:  jekyll
 search: true
@@ -29,15 +30,14 @@ google:
 collections:
   docs:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 comments:
     provider: "disqus"
     disqus:
-      shortname: "testjjjside"
+      shortname: "guide-1"
 
 defaults:
-  # _docs
   - scope:
       path: ""
       type: docs
