@@ -43,4 +43,27 @@ docs:
       - title: "Mark your tasks"
         url: /favorite-follow-task/
       - title: "Multiple select"
-        url: /add-task/  
+        url: /multiple-select/
+
+
+
+  - title: Task List (Advanced)
+    children:
+      - title: "Zoom "
+        url: /zoom/
+      - title: "Move Tasks"
+        url: /move-tasks/
+      - title: "External Team"
+        url: /external-team/
+      - title: "Share link "
+        url: /share-link/
+      - title: "Get Notified"
+        url: /get-notified/
+      - title: "Styling"
+        url: /utility-classes/
+      - title: "Subtask stats"
+        url: /utility-classes/
+      - title: "Task Activity log  "
+        url: /utility-classes/
+      - title: "Print out task list"
+        url: /utility-classes/

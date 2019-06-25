@@ -1,11 +1,12 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /organization-project-task/
+permalink: /guide/organization-project-task/
 date:   2019-06-13 14:50:00 +0800
 categories: organization project task
 ---
 
-### Organization, Project and Task
+
+Organization, Project and Task
 
 
 
@@ -20,7 +21,7 @@ For the marketing team, they are running different campaigns. You can create an 
 
 
 
-![organization-overveiw]({{ site.dev_url }}{{ site.baseurl }}/assets/images/organization-project-task/overview.png)
+![organization overveiw]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/overview.png)
 
 
 
@@ -33,7 +34,7 @@ Tip: When adding members at an organization level, members will be able to see a
 Learn: How to create a new organization?
 
 
-![organization-sidebar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
+![organization sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
 
 
 
@@ -50,12 +51,12 @@ Sidebar:
 Projects in the sidebar are grouped by Organization. 
 
 
-![project-sidebar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/organization-project-task/project.png)
+![project sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/project.png)
 
 
 Main panel:
 
-![project-main-panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/organization-project-task/mainpanel.png)
+![project main panel]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/mainpanel.png)
 
 
 
@@ -71,7 +72,7 @@ A task is the basic unit of action in Quire. It can be broken down into subtasks
 
 You can add a description to tasks or subtasks, comment in them, assign them to yourself or others, set start and due dates, tags, and priority. 
 
-![tasks-main-panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/organization-project-task/tasks.png)
+![tasks-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/tasks.png)
 
 
 

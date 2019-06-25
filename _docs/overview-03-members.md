@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /members/
+permalink: /guide/members/
 date:   2019-06-13 15:50:00 +0800
 categories: members
 ---
@@ -8,7 +8,7 @@ Members
 
 
 
-![members-overview]({{ site.dev_url }}{{ site.baseurl }}/assets/images/members/overview_members.png)
+![members overview]({{ site.url }}{{ site.baseurl }}/assets/images/members/overview_members.png)
 
 
 
@@ -40,7 +40,7 @@ Manage your project members by going to the Members page of your project: click 
 
 
 
-![project-members]({{ site.dev_url }}{{ site.baseurl }}/assets/images/members/project_members.png)
+![project members]({{ site.url }}{{ site.baseurl }}/assets/images/members/project_members.png)
 
 
 
@@ -58,7 +58,7 @@ Manage your organization members by going to the Members page of your organizati
 
 
 
-![organization-members]({{ site.dev_url }}{{ site.baseurl }}/assets/images/members/org_members.png)
+![organization members]({{ site.url }}{{ site.baseurl }}/assets/images/members/org_members.png)
 
 
 
