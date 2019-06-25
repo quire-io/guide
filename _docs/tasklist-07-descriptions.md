@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/descriptions/
+permalink: /descriptions/
 date:   2019-06-21 15:46:00 +0800
 categories: add descriptions
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/assign-tags/
+permalink: /assign-tags/
 date:   2019-06-21 15:40:00 +0800
 categories: assign tags
 ---

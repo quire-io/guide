@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/external-team/
+permalink: /external-team/
 date:   2019-06-24 16:00:00 +0800
 categories: external team
 ---

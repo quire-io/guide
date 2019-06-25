@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/set-assignee/
+permalink: /set-assignee/
 date:   2019-06-21 15:00:00 +0800
 categories: set assignees
 ---

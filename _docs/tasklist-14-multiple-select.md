@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/multiple-select/
+permalink: /multiple-select/
 date:   2019-06-24 14:43:00 +0800
 categories: multiple select
 ---

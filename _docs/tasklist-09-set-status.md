@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/set-status/
+permalink: /set-status/
 date:   2019-06-21 16:06:00 +0800
 categories: set status
 ---

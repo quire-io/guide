@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/attachments/
+permalink: /attachments/
 date:   2019-06-21 16:12:00 +0800
 categories: add attachments
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/favorite-follow-task/
+permalink: /favorite-follow-task/
 date:   2019-06-21 16:06:00 +0800
 categories: set status
 ---

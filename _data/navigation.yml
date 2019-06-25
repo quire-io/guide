@@ -60,7 +60,7 @@ docs:
       - title: "Get Notified"
         url: /get-notified/
       - title: "Styling"
-        url: /utility-classes/
+        url: /styling/
       - title: "Subtask stats"
         url: /utility-classes/
       - title: "Task Activity log  "

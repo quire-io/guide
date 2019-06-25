@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/organization-project-task/
+permalink: /organization-project-task/
 date:   2019-06-13 14:50:00 +0800
 categories: organization project task
 ---

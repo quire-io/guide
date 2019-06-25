@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/share-link/
+permalink: /share-link/
 date:   2019-06-24 16:15:00 +0800
 categories: share link
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/members/
+permalink: /members/
 date:   2019-06-13 15:50:00 +0800
 categories: members
 ---

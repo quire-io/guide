@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/inline-assign/
+permalink: /inline-assign/
 date:   2019-06-21 16:00:00 +0800
 categories: add descriptions
 ---

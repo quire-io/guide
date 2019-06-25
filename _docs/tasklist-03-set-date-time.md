@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/set-date-time/
+permalink: /set-date-time/
 date:   2019-06-14 16:30:00 +0800
 categories: set due dates
 ---

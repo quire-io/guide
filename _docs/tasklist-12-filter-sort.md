@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/filter-sort/
+permalink: /filter-sort/
 date:   2019-06-21 16:18:00 +0800
 categories: filter sort
 ---

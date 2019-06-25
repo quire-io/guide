@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/add-task/
+permalink: /add-task/
 date:   2019-06-14 16:30:00 +0800
 categories: add tasks subtasks
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/zoom/
+permalink: /zoom/
 date:   2019-06-24 16:00:00 +0800
 categories: zoom in zoom out
 ---
