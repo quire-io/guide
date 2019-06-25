@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/navigate-quire/
+permalink: /navigate-quire/
 date:   2019-06-13 16:10:00 +0800
 categories: navigation
 ---
@@ -14,7 +14,7 @@ Click on the arrow beside the project or organization name to bring out more opt
 
 
 
-![project menu]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_projMenu.png)
+![project menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_projMenu.png)
 
 
 
@@ -30,7 +30,7 @@ Click on the arrow beside the project or organization name to bring out more opt
 Right-click on a task to bring out the context menu. 
 
 
-![context menu]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
+![context menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
 
 
 
@@ -54,7 +54,7 @@ Learn more on Multiple Assigning tasks.  (link to Task List > Multiple Assign)
 
 
 
-![bottom batch bar]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_batchBar.png)
+![bottom batch bar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_batchBar.png)
 
 
 
@@ -68,7 +68,7 @@ Learn more about breadcrumbs. (link to Keyboard shortcuts)
 
 
 
-![breadcrumbs ctrl alt]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_alt.png)
+![breadcrumbs ctrl alt]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_alt.png)
 
 
 
@@ -83,7 +83,7 @@ Hit Ctrl+F1 or Fn+F1 (for Mac) to see a complete list of shortcuts to easily man
 
 
 
-![keyboard shortcuts]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_kb.png)
+![keyboard shortcuts]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_kb.png)
 
 
 
@@ -97,7 +97,7 @@ Click on your profile picture for the dropdown menu to appear, then click on Hel
 
 
 
-![help guide]({{ site.url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_userOption.png)
+![help guide]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_userOption.png)
 
 
 

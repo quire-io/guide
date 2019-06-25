@@ -1,74 +1,46 @@
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
       - title: "User Interface"
-        url: /guide/user-interface/
+        url: /user-interface/
       - title: "Organization vs. Project vs. Task"
-        url: /guide/organization-project-task/
+        url: /organization-project-task/
       - title: "Members"
-        url: /guide/members/
+        url: /members/
       - title: "Project Views"
-        url: /guide/project-view/
+        url: /project-view/
       - title: "Navigation"
-        url: /guide/navigate-quire/
+        url: /navigate-quire/
       - title: "Mobile"
-        url: /guide/mobile-apps/
-
-
+        url: /mobile-apps/
 
   - title: Task List 
     children:
       - title: "Add Tasks and Subtasks"
-        url: /guide/add-task/
+        url: /add-task/
       - title: "Delete tasks and Undo"
-        url: /guide/delete-task/
+        url: /delete-task/
       - title: "Set date and time"
-        url: /guide/set-date-time/
+        url: /set-date-time/
       - title: "Set assignees"
-        url: /guide/set-assignee/
+        url: /set-assignee/
       - title: "Assign tags"
-        url: /guide/assign-tags/
+        url: /assign-tags/
       - title: "Set Priority"
-        url: /guide/set-priority/
+        url: /set-priority/
       - title: "Descriptions"
-        url: /guide/descriptions/
+        url: /descriptions/
       - title: "Inline assign"
-        url: /guide/inline-assign/
+        url: /inline-assign/
       - title: "Change Status"
-        url: /guide/set-status/
+        url: /set-status/
       - title: "Comments"
-        url: /guide/comments/
+        url: /comments/
       - title: "Attachment"
-        url: /guide/attachments/ 
+        url: /attachments/ 
       - title: "Filters and Sorts"
-        url: /guide/filter-sort/
+        url: /filter-sort/
       - title: "Mark your tasks"
-        url: /guide/favorite-follow-task/
+        url: /favorite-follow-task/
       - title: "Multiple select"
-        url: /guide/add-task/  
-
-
-
-  - title: Task List (Advanced)
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+        url: /add-task/  

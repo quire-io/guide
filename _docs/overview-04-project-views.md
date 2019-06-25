@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/project-view/
+permalink: /project-view/
 date:   2019-06-13 16:05:00 +0800
 categories: project views
 ---
@@ -18,7 +18,7 @@ Switch between three different views at the header of the project: List, Board, 
 
 
 
-![project views]({{ site.url }}{{ site.baseurl }}/assets/images/project-views/project_views.png)
+![project views]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views.png)
 
 
 The List view lets you break down your big ideas into smaller doable tasks and subtasks in a nested task list. The Board view helps you get focused on the selected crucial tasks in a visual workflow. 
@@ -38,7 +38,7 @@ In this view, you can see your ideas broken down into step-by-step tasks, and fo
 
 
 
-![list view]({{ site.url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
+![list view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
 
 
 
@@ -52,7 +52,7 @@ In this view, you can add multiple boards (link) for one project (eg., Preparati
 
 
 
-![board view]({{ site.url }}{{ site.baseurl }}/assets/images/project-views/project_views_board.png)
+![board view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_board.png)
 
 
 
@@ -72,7 +72,7 @@ This view includes charts, graphs, summaries and recent activities that show you
 
 
 
-![overview view]({{ site.url }}{{ site.baseurl }}/assets/images/project-views/project_views_overview.png)
+![overview view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_overview.png)
 
 
 

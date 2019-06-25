@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-permalink: /guide/mobile-apps/
+permalink: /mobile-apps/
 date:   2019-06-14 16:10:00 +0800
 categories: mobile apps
 ---

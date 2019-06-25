@@ -3,14 +3,14 @@
 <nav class="nav__list">
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  
+
   <label for="ac-toc">
     {% for nav in navigation %}
         {% if nav.children != null %}
           {% for child in nav.children %}
             {% comment %} set "active" class on current page {% endcomment %}
             {% if child.url == page.url %}
-              {{ nav.title }} -> {{ child.title }}
+              {{ nav.title }} <label class="toc-ar">></label> {{ child.title }}
             {% endif %}
           {% endfor %}
         {% endif %}
@@ -50,7 +50,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ child_url }}" class="{{ active }}">{{ child.title }}</a>
+            <li><a href="{{ child_url }}" class="{{ active }}"> {{ child.title }}</a>
                       {% if child.url == page.url %}
                         {% include toc.html sanitize=true html=content h_min=2 h_max=2 class="toc__menu" %}
                       {% endif %}

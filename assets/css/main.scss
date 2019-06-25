@@ -243,6 +243,26 @@ figcaption {
     padding-left: 2em;
     padding-right: 2em;
     max-width: 1160px;
+
+    .search-content {
+    	form {
+			background-color: white;
+			border-bottom: 1px solid #EDEDED;
+			padding: 0.5em;
+			color: rgba(0,0,0,0.7);
+		}
+    }
+
+    .search-content .search-input {
+	    font-size: 1.25em;
+	}
+
+    #cse-search-input-box-id {
+    	&::placeholder {
+			color: rgba(0,0,0,0.42);
+			font-style: normal;
+    	}
+    }
 }
 
 #wrap {
@@ -256,6 +276,7 @@ figcaption {
     width: inherit;
 
     a {
+    	display: inline-block;
     	padding: 0.3rem 0.65rem;
 	    font-weight: inherit;
 	    border-bottom: inherit;
@@ -297,6 +318,14 @@ figcaption {
 		    margin: auto;
 		    padding-left: 2em;
 		    padding-right: 2em;
+
+		    .nav__items {
+		    	font-size: 1.5em;
+		    }
+
+		    a:hover {
+			    text-decoration: none;
+			}
 		}
 
 		label {
@@ -313,20 +342,41 @@ figcaption {
 			    border: inherit;
 			    background: inherit;
 			}
+
+			&:before, &:after {
+			    width: 0;
+			}
 		}
 
-		input:checked + label {
-		    color: #7bb340;
-		    background: inherit;
+		.toc-ar {
+			display: inline;
+			margin: 0 0.5em;
+		}
+
+		input:checked {
+			& + label {
+		    	color: #7bb340;
+		    	background: inherit;
+			}
+
+			& ~ .nav__items {
+			    border-top: 1px solid #ededed;
+			    margin-top: 0.25em;
+			    padding-top: 1em;
+		    }
 		}
 	}
 
 	.page {
-		margin-top: 50px;
+		margin-top: 114px;
 	}
 
 	.sticky-sidebar {
 		overflow: hidden;
+
+		header {
+			opacity: 0.2;
+		}
 
 		.sidebar {
 			bottom: 0;
