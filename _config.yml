@@ -23,14 +23,10 @@ url: "https://quire.io" # the base hostname & protocol for your site, e.g. http:
 twitter_username: jekyllrb
 github_username:  jekyll
 search: true
-search_provider: google
-google:
-  search_engine_id: 005233953568477628153:b1ykntxgopi
-  instant_search: true
+search_full_content: true
 collections:
   docs:
     output: true
-    permalink: /:path/
 
 comments:
     provider: "disqus"

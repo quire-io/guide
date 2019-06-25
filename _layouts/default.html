@@ -68,9 +68,9 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: 'https://quire.io' }}" />
 
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}/s/css/lato-2.010.min.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}/s/css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}/s/css/blog.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}{{ site.baseurl }}/s/css/lato-2.010.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}{{ site.baseurl }}/s/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.dev_url }}{{ site.baseurl }}/s/css/blog.css" />
 
     {% include head.html %}
     {% include head/custom.html %}
@@ -124,8 +124,8 @@
 
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48347893-1"></script> -->
     <!-- <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script> -->
-    <script async src="{{ site.dev_url }}/s/js/pack.min.js"></script>
-    <script async src="{{ site.dev_url }}/s/js/blog.min.js"></script>
+    <script async src="{{ site.dev_url }}{{ site.baseurl }}/s/js/pack.min.js"></script>
+    <script async src="{{ site.dev_url }}{{ site.baseurl }}/s/js/blog.min.js"></script>
   </body>
 
 </html>
