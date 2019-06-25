@@ -22,12 +22,12 @@ The Sidebar is the space on the left. It is where you can switch between project
 You will also be able to access tasks under My Tasks, Projects /Organizations under Bookmarks, Recent and Smart Folders. 
 
 
-![interface-sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar.png)
+![interface-sidebar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar.png)
 
 
 Tip: You can keep the sidebar open by pinning it or unpin to hide.
 
-![interface-sidebar-pin]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar_pin.png)
+![interface-sidebar-pin]({{ site.dev_url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar_pin.png)
 
 
 
@@ -38,7 +38,7 @@ When you click on projects or organizations in the sidebar, this is where you wi
 Also, you can switch between different kinds of views (List, Board, and Overview) in the main panel. 
 
 
-![interface-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_mainPanel.png)
+![interface-main-panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/user-interface/interfac_mainPanel.png)
 
 
 
@@ -55,7 +55,7 @@ Tip: To open/close the detail panel of a task, simply press the spacebar. Also, 
 
 
 
-![interface-main-panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_detailPanel.png)
+![interface-main-panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/user-interface/interfac_detailPanel.png)
 
 
 
