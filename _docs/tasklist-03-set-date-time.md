@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Set Date and Time"
 permalink: /set-date-time/
 date:   2019-06-14 16:30:00 +0800
 categories: set due dates

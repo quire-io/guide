@@ -18,19 +18,19 @@ docs:
     children:
       - title: "Add Tasks and Subtasks"
         url: /add-task/
-      - title: "Delete tasks and Undo"
+      - title: "Delete Tasks and Undo"
         url: /delete-task/
-      - title: "Set date and time"
+      - title: "Set Date and Time"
         url: /set-date-time/
-      - title: "Set assignees"
+      - title: "Set Assignees"
         url: /set-assignee/
-      - title: "Assign tags"
+      - title: "Assign Tags"
         url: /assign-tags/
       - title: "Set Priority"
         url: /set-priority/
       - title: "Descriptions"
         url: /descriptions/
-      - title: "Inline assign"
+      - title: "Inline Assign"
         url: /inline-assign/
       - title: "Change Status"
         url: /set-status/
@@ -40,9 +40,9 @@ docs:
         url: /attachments/ 
       - title: "Filters and Sorts"
         url: /filter-sort/
-      - title: "Mark your tasks"
+      - title: "Mark your Tasks"
         url: /favorite-follow-task/
-      - title: "Multiple select"
+      - title: "Multiple Select"
         url: /multiple-select/
 
 
@@ -55,15 +55,22 @@ docs:
         url: /move-tasks/
       - title: "External Team"
         url: /external-team/
-      - title: "Share link "
+      - title: "Share Link "
         url: /share-link/
       - title: "Get Notified"
         url: /get-notified/
       - title: "Styling"
         url: /styling/
-      - title: "Subtask stats"
+      - title: "Subtask Stats"
         url: /utility-classes/
-      - title: "Task Activity log  "
+      - title: "Task Activity Log  "
         url: /utility-classes/
-      - title: "Print out task list"
+      - title: "Print Out Task List"
         url: /utility-classes/
+
+
+
+
+
+
+

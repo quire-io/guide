@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Filters and Sorts"
 permalink: /filter-sort/
 date:   2019-06-21 16:18:00 +0800
 categories: filter sort

@@ -1,10 +1,9 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Members"
 permalink: /members/
 date:   2019-06-13 15:50:00 +0800
 categories: members
 ---
-Members
 
 
 

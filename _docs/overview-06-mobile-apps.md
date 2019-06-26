@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Mobile"
 permalink: /mobile-apps/
 date:   2019-06-14 16:10:00 +0800
 categories: mobile apps
@@ -8,7 +8,6 @@ categories: mobile apps
 
 
 
-### Mobile Apps
 Quire is also available on mobile apps, making it easier for you to manage projects wherever and whenever you want. 
 
 

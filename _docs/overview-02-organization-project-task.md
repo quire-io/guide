@@ -1,12 +1,11 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Organization vs. Project vs. Task"
 permalink: /organization-project-task/
 date:   2019-06-13 14:50:00 +0800
 categories: organization project task
 ---
 
 
-Organization, Project and Task
 
 
 

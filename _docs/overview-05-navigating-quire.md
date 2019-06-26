@@ -1,12 +1,11 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Navigation"
 permalink: /navigate-quire/
 date:   2019-06-13 16:10:00 +0800
 categories: navigation
 ---
 
 
-Navigating Quire 
 
 
 ## Project/Organization Dropdown Menu

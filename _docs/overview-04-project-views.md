@@ -1,12 +1,11 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Project Views"
 permalink: /project-view/
 date:   2019-06-13 16:05:00 +0800
 categories: project views
 ---
 
 
-Project Views
 
 
 With different positions in a team or different stages in a project, you might need to view your projects in a different way. 

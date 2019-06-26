@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Inline Assign"
 permalink: /inline-assign/
 date:   2019-06-21 16:00:00 +0800
 categories: add descriptions

@@ -1,12 +1,11 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "User Interface"
 permalink: /user-interface/
 date:   2019-06-13 12:42:00 +0800
 categories: user interface
 ---
 
 
-User Interface
 
 Your Quire workspace is divided into 3 main sections: Sidebar, Main Panel, and Detail Panel. 
 

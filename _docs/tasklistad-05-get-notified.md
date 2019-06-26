@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Get Notified"
 permalink: /get-notified/
 date:   2019-06-24 16:18:00 +0800
 categories: get notified

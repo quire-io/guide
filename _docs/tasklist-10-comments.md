@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Comments"
 permalink: /comments/
 date:   2019-06-21 16:08:00 +0800
 categories: add comments

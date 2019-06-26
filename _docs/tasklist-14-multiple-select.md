@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Multiple Select"
 permalink: /multiple-select/
 date:   2019-06-24 14:43:00 +0800
 categories: multiple select

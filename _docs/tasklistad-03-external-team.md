@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "External Team"
 permalink: /external-team/
 date:   2019-06-24 16:00:00 +0800
 categories: external team

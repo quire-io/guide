@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Descriptions"
 permalink: /descriptions/
 date:   2019-06-21 15:46:00 +0800
 categories: add descriptions
