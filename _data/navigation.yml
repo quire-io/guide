@@ -62,9 +62,9 @@ docs:
       - title: "Styling"
         url: /styling/
       - title: "Subtask Stats"
-        url: /utility-classes/
-      - title: "Task Activity Log  "
-        url: /utility-classes/
+        url: /subtask-stats/
+      - title: "Task Activity Log"
+        url: /activity-log/
       - title: "Print Out Task List"
         url: /utility-classes/
 
