@@ -266,7 +266,7 @@ figcaption {
 }
 
 #wrap {
-	padding-top: 64px;
+	padding: 8em 0;
 }
 
 .toc__menu {
@@ -289,7 +289,7 @@ figcaption {
 	}
 }
 
-@media (max-width: 79em) and (min-width: 64em) {
+@media (max-width: 80em) and (min-width: 64em) {
 	.sidebar {
     	width: calc(260px - 1em);
     }
@@ -329,7 +329,7 @@ figcaption {
 		}
 
 		label {
-		    padding: 0.5em 0;
+		    padding: 0.4em 0;
 		    color: rgba(0,0,0,0.6);
 		    font-size: 0.9em;
 		    font-weight: 400;
@@ -348,11 +348,6 @@ figcaption {
 			}
 		}
 
-		.toc-ar {
-			display: inline;
-			margin: 0 0.5em;
-		}
-
 		input:checked {
 			& + label {
 		    	color: #7bb340;
@@ -367,14 +362,10 @@ figcaption {
 		}
 	}
 
-	.page {
-		margin-top: 114px;
-	}
-
 	.sticky-sidebar {
 		overflow: hidden;
 
-		header {
+		#header {
 			opacity: 0.2;
 		}
 

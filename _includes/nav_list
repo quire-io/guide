@@ -10,7 +10,7 @@
           {% for child in nav.children %}
             {% comment %} set "active" class on current page {% endcomment %}
             {% if child.url == page.url %}
-              {{ nav.title }} <label class="toc-ar">></label> {{ child.title }}
+              {{ nav.title }} &nbsp;>&nbsp; {{ child.title }}
             {% endif %}
           {% endfor %}
         {% endif %}

@@ -20,8 +20,8 @@ description: "A collaborative task management tool for breaking down goals in hi
 baseurl: "/guide" # the subpath of your site, e.g. /blog
 url: "https://quire.io" # the base hostname & protocol for your site, e.g. http://example.com
 # dev_url: "http://127.0.0.1:4000"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: quire_io
+github_username:  quire-io
 search: true
 search_full_content: true
 collections:

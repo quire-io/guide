@@ -4302,7 +4302,7 @@ figcaption {
     font-style: normal; }
 
 #wrap {
-  padding-top: 64px; }
+  padding: 8em 0; }
 
 .toc__menu {
   font-size: 1.25em;
@@ -4318,7 +4318,7 @@ figcaption {
 @media (min-width: 80em) {
   .page {
     width: calc(100% - 300px - 3em); } }
-@media (max-width: 79em) and (min-width: 64em) {
+@media (max-width: 80em) and (min-width: 64em) {
   .sidebar {
     width: calc(260px - 1em); }
 
@@ -4346,7 +4346,7 @@ figcaption {
       .sidebar .nav__list a:hover {
         text-decoration: none; }
     .sidebar label {
-      padding: 0.5em 0;
+      padding: 0.4em 0;
       color: rgba(0, 0, 0, 0.6);
       font-size: 0.9em;
       font-weight: 400;
@@ -4359,9 +4359,6 @@ figcaption {
         background: inherit; }
       .sidebar label:before, .sidebar label:after {
         width: 0; }
-    .sidebar .toc-ar {
-      display: inline;
-      margin: 0 0.5em; }
     .sidebar input:checked + label {
       color: #7bb340;
       background: inherit; }
@@ -4370,12 +4367,9 @@ figcaption {
       margin-top: 0.25em;
       padding-top: 1em; }
 
-  .page {
-    margin-top: 114px; }
-
   .sticky-sidebar {
     overflow: hidden; }
-    .sticky-sidebar header {
+    .sticky-sidebar #header {
       opacity: 0.2; }
     .sticky-sidebar .sidebar {
       bottom: 0;
