@@ -42,7 +42,19 @@ a {
 	}
 
 	&:visited {
-    	color: #3c763d;
+    	color: #578214;
+	}
+}
+
+.btn {
+    font-family: inherit;
+}
+
+a, button {
+	&:focus {
+	    outline: thin solid #9ac656;
+	    outline-offset: 0.1rem;
+	    transition: none;
 	}
 }
 
@@ -133,28 +145,133 @@ figcaption {
 	a:not(.btn):not(#goog-wm-sb):hover {
     	text-decoration: none;
 	}
-}
 
-.notice--warning {
-    color: inherit;
-    font-family: inherit;
-    font-size: 0.85em !important;
-    background-color: #fefae2;
-    box-shadow: 0 1px 1px rgba(233, 189, 5, 0.25);
-}
+	img {
+	    border: 1px solid rgba(0,0,0,0.1);
+	    border-radius: 4px;
+	}
 
-.notice--danger {
-    color: inherit;
-    font-family: inherit;
-    font-size: 0.85em !important;
-    background-color: #fff5f5;
-}
+	.notice {
+	    color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
 
-.notice--info {
-    color: inherit;
-    font-family: inherit;
-    font-size: 0.85em !important;
-    background-color: #f3f9fb;
+		a {
+		    color: #939da4;
+
+		    &:hover {
+			    color: #71828D;
+			}
+
+			&:visited {
+			    color: #526878;
+			}
+		}
+	}
+
+	.notice--primary {
+	    color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
+
+		a {
+			&:hover {
+			    color: #555f67;
+			}
+
+			&:visited {
+			    color: #3C4851;
+			}
+		}
+	}
+
+	.notice--info {
+		color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
+	    background-color: #f3f9fb;
+
+		a {
+		    color: #3b9cba;
+
+		    &:hover {
+			    color: #1E86A8;
+			}
+
+			/* a:visited */
+			&:visited {
+			    color: #076A8B;
+			}
+		}
+
+		code {
+		    background-color: #fafeff;
+		}
+	}
+
+	.notice--warning {
+	    color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
+	    background-color: #fefae2;
+	    box-shadow: 0 1px 1px rgba(233, 189, 5, 0.25);
+
+	    a {
+		    color: #eab606;
+		    &:hover {
+			    color: #BA8F00;
+			}
+
+			&:visited {
+			    color: #917000;
+			}
+		}
+	}
+
+	.notice--success {
+	    color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
+	    background-color: #f4faec;
+	    box-shadow: 0 1px 1px rgba(97, 193, 38, 0.25);
+
+		a {
+		    color: #8BC531;
+		    &:hover {
+			    color: #6CA417;
+			}
+
+			&:visited {
+			    color: #4F8103;
+			}
+		}
+
+		code {
+		    background-color: #f9fdf9;
+		}
+	}
+
+	.notice--danger {
+	    color: inherit;
+	    font-family: inherit;
+	    font-size: 0.85em !important;
+	    background-color: #fff5f5;
+
+	    /* a:hover */
+		a {
+			&:hover {
+			    color: #D43A36;
+			}
+
+			&:visited {
+			    color: #AC1D1A;
+			}
+		}
+
+		code {
+		    background-color: #fffbfb;
+		}
+	}
 }
 
 .page__meta, .comment__date {
@@ -194,6 +311,10 @@ figcaption {
 				}
 		    }
 	    }
+
+	    li > a {
+	    	display: inline-block;
+	    }
 	}
 
 	.nav__sub-title {
@@ -206,6 +327,7 @@ figcaption {
 .page__meta + .pagination {
 	margin-top: 4em;
 	padding-top: 2.4em;
+	border-top: 0px;
 
 	.pagination--pager {
 		font-size: 1em;
@@ -236,6 +358,11 @@ figcaption {
 			    content: "\2192";
 			}
 		}
+
+		&:hover {
+			background-color: inherit;
+    		color: #7BB340;
+		}
 	}
 }
 
@@ -253,9 +380,40 @@ figcaption {
 		}
     }
 
-    .search-content .search-input {
-	    font-size: 1.25em;
-	}
+    .search-content {
+    	.search-input {
+	    	border-bottom: 1px solid #ededed;
+		    border-radius: 0px;
+		    padding-bottom: 8px;
+		    color: rgba(0,0,0,0.8);
+		    font-size: 1.25em;
+		}
+
+		.results__found {
+    		color: rgba(0,0,0,0.42);
+    	}
+
+    	.archive__item {
+		    margin-bottom: 0.3em;
+		    padding: 1em 0.5em;
+		    border-radius: 4px;
+
+		    &:hover {
+		    	background: #f8f8f8;
+		    }
+		}
+
+    	.archive__item-title {
+    		font-size: 1em;
+
+    		& > a {
+    			color: rgba(0,0,0,0.8);
+	    		&:hover {
+	    			color: #9ac656;
+	    		}
+    		}
+    	}
+    }
 
     #cse-search-input-box-id {
     	&::placeholder {
@@ -276,7 +434,6 @@ figcaption {
     width: inherit;
 
     a {
-    	display: inline-block;
     	padding: 0.3rem 0.65rem;
 	    font-weight: inherit;
 	    border-bottom: inherit;
