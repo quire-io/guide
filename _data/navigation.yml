@@ -14,6 +14,7 @@ docs:
       - title: "Mobile"
         url: /mobile-apps/
 
+
   - title: Task List 
     children:
       - title: "Add Tasks and Subtasks"
@@ -46,7 +47,6 @@ docs:
         url: /multiple-select/
 
 
-
   - title: Task List (Advanced)
     children:
       - title: "Zoom "
@@ -71,29 +71,52 @@ docs:
 
   - title: Board
     children:
+      - title: "Board Overview"
+        url: /board-overview/
       - title: "Add and Delete Boards"
-        url: /zoom/
+        url: /add-delete-board/
       - title: "Multiple Boards"
-        url: /move-tasks/
+        url: /multiple-boards/
       - title: "Add Tasks to Board"
-        url: /external-team/
+        url: /add-tasks-to-board/
       - title: "Status Column"
-        url: /share-link/
-      - title: "Advanced Actions"
-        url: /get-notified/
+        url: /status-column/
       - title: "Filters and Sorts"
-        url: /styling/
+        url: /board-sort-filter/
       
 
   - title: Project
     children:
       - title: "Add and Delete Project"
-        url: /zoom/
-    
+        url: /add-delete-project/
+      - title: "Edit Project"
+        url: /edit-project/
+      - title: "Add Project Members"
+        url: /add-project-members/
+      - title: "Move Project"
+        url: /move-project/
+      - title: "Archive Project"
+        url: /archive-project/
+      - title: "Follow Project"
+        url: /follow-project/
+      - title: "Project Overview"
+        url: /project-overview/
+      - title: "Reorder Projects"
+        url: /reorder-projects/
+      - title: "Manage Tags"
+        url: /manage-tags/
+      - title: "Public Projects"
+        url: /public-projects/
+      - title: "Leave Project"
+        url: /leave-project/
 
 
-
-
+  - title: Organization
+    children:
+      - title: "Organization Overview"
+        url: /organization-overview/
+      - title: "Manage Organization Members"
+        url: /organization-members/
 
 
 
