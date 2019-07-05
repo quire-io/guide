@@ -19,7 +19,7 @@ email: feedback@quire.io
 description: "A collaborative task management tool for breaking down goals in hierarchical lists."
 baseurl: "/guide" # the subpath of your site, e.g. /blog
 url: "https://quire.io" # the base hostname & protocol for your site, e.g. http://example.com
-dev_url: "http://127.0.0.1:4000"
+# dev_url: "http://127.0.0.1:4000"
 twitter_username: jekyllrb
 github_username:  jekyll
 search: true
