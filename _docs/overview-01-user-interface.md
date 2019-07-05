@@ -10,7 +10,9 @@ categories: user interface
 Your Quire workspace is divided into 3 main sections: Sidebar, Main Panel, and Detail Panel. 
 
 Sidebar: access to My Tasks, Bookmarks, Smart Folders, Recent, Organizations, Projects, and Members.
-Main Panel: display the tasks of the project that you are currently viewing. Access to List view, Board view, Overview, Account settings, Notifications and more.  
+
+Main Panel: display the tasks of the project that you are currently viewing. Access to List view, Board view, Overview, Account settings, Notifications and more.
+
 Detail Panel:  access to the task description, attachments, and comments that you are currently inspecting.
 
 

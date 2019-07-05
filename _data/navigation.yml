@@ -1,5 +1,5 @@
 docs:
-  - title: Getting Started
+  - title: Overview
     children:
       - title: "User Interface"
         url: /user-interface/
@@ -66,7 +66,30 @@ docs:
       - title: "Task Activity Log"
         url: /activity-log/
       - title: "Print Out Task List"
-        url: /utility-classes/
+        url: /print/
+
+
+  - title: Board
+    children:
+      - title: "Add and Delete Boards"
+        url: /zoom/
+      - title: "Multiple Boards"
+        url: /move-tasks/
+      - title: "Add Tasks to Board"
+        url: /external-team/
+      - title: "Status Column"
+        url: /share-link/
+      - title: "Advanced Actions"
+        url: /get-notified/
+      - title: "Filters and Sorts"
+        url: /styling/
+      
+
+  - title: Project
+    children:
+      - title: "Add and Delete Project"
+        url: /zoom/
+    
 
 
 
