@@ -14,11 +14,11 @@ You can also press + or Ctrl+Enter (Cmd+Enter for Mac) to add a task next to you
 
 ### To add a task by clicking:
 
-You can click on add-task.png in the upper-right of your workspace to add a task.
+You can click on + in the upper-right of your workspace to add a task.
 
 quire-add-task.png
 
-You can also click on add-task.png at the far right of a task to add a sibling task.
+You can also click on + at the far right of a task to add a sibling task.
 
 quire-m3-add-task-shortcut.png
 
@@ -31,6 +31,6 @@ You can press Shift+Enter to add a subtask.
 
 ### To add a task by clicking:
 
-You can click on add-subtask.png at the far right of a task to add a subtask.
+You can click on + at the far right of a task to add a subtask.
 
 quire-m3-add-subtask-shortcut.png

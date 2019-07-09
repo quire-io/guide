@@ -5,15 +5,13 @@ date:   2019-06-13 12:42:00 +0800
 categories: user interface
 ---
 
-
-
 Your Quire workspace is divided into 3 main sections: Sidebar, Main Panel, and Detail Panel. 
 
-Sidebar: access to My Tasks, Bookmarks, Smart Folders, Recent, Organizations, Projects, and Members.
+**Sidebar:** access to My Tasks, Bookmarks, Smart Folders, Recent, Organizations, Projects, and Members.
 
-Main Panel: display the tasks of the project that you are currently viewing. Access to List view, Board view, Overview, Account settings, Notifications and more.
+**Main Panel:** display the tasks of the project that you are currently viewing. Access to List view, Board view, Overview, Account settings, Notifications and more.
 
-Detail Panel:  access to the task description, attachments, and comments that you are currently inspecting.
+**Detail Panel:**  access to the task description, attachments, and comments that you are currently inspecting.
 
 
 
@@ -26,7 +24,9 @@ You will also be able to access tasks under My Tasks, Projects /Organizations un
 ![interface sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar.png)
 
 
-Tip: You can keep the sidebar open by pinning it or unpin to hide.
+
+**Tip:** You can keep the sidebar open by pinning it or unpin to hide.
+{: .notice--info}
 
 ![interface sidebar pin]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar_pin.png)
 
@@ -36,7 +36,7 @@ Tip: You can keep the sidebar open by pinning it or unpin to hide.
 The Main Panel is the space in the middle.
 
 When you click on projects or organizations in the sidebar, this is where you will see the relevant contents.
-Also, you can switch between different kinds of views (List, Board, and Overview) in the main panel. 
+Also, you can switch between different kinds of [views](/guide/project-view/) (List, Board, and Overview) in the main panel. 
 
 
 ![interface main panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_mainPanel.png)
@@ -52,8 +52,8 @@ The Detail Panel is the space on the right.
 This is where you will see the detail contents of each task when you click on it in the main panel.
 Here you can add a description, comments, assignees, start and due dates, priority, tags, and more.
 
-Tip: To open/close the detail panel of a task, simply press the spacebar. Also, to pin or unpin the detail panel, click on the "pin" icon.
-
+**Tip:** To open/close the detail panel of a task, simply press the spacebar. Also, to pin or unpin the detail panel, click on the "pin" icon.
+{: .notice--info}
 
 
 ![interface detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_detailPanel.png)

@@ -77,6 +77,8 @@ docs:
         url: /add-delete-board/
       - title: "Multiple Boards"
         url: /multiple-boards/
+      - title: "Advanced Board Actions"
+        url: /advanced-board-actions/      
       - title: "Add Tasks to Board"
         url: /add-tasks-to-board/
       - title: "Status Column"

@@ -23,8 +23,9 @@ Another unique kind of member: External Team.
 When you want to outsource your tasks to someone outside of your team, assign them to an External Team. 
 External Team members can only access the tasks assigned to them. 
 
-Learn: How to create an External Team?  
 
+Learn how to create an External Team. 
+{: .notice}
 
 
 
@@ -43,10 +44,11 @@ Manage your project members by going to the Members page of your project: click 
 
 
 
-Note: There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different permission controls over the tasks and members in the project. Learn more about the permission control here. 
+Note: There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different permission controls over the tasks and members in the project. 
+{: .notice--warning}
 
-
-
+Learn more about the permission control. 
+{: .notice}
 
 
 ## Organization Members
@@ -62,5 +64,5 @@ Manage your organization members by going to the Members page of your organizati
 
 
 Note: There are 5 types of organization members: Admin, Normal+, Normal, Limited+, Guest. All five have different permission controls over the projects, tasks, and members in the organization.
-
+{: .notice--warning}
 
