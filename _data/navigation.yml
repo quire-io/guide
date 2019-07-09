@@ -119,4 +119,83 @@ docs:
         url: /organization-members/
 
 
+  - title: Sidebar
+    children:
+      - title: "My Tasks"
+        url: /my-tasks/
+      - title: "Bookmark"
+        url: /bookmark/
+      - title: "Recent"
+        url: /recent/
+      - title: "Smart Folders"
+        url: /smart-folders/
+      - title: "Members"
+        url: /members/
+
+
+
+  - title: Search
+    children:
+      - title: "Blink Search"
+        url: /blink-searc/
+      - title: "Search Tasks"
+        url: /search-tasks/
+      
+
+
+  - title: Integration
+    children:
+      - title: "Calendar"
+        url: /calendar/
+      - title: "Github"
+        url: /github/ 
+      - title: "Slack"
+        url: /slack/ 
+
+
+
+  - title: Import & Export
+    children:
+      - title: "Import via Copying and Paste"
+        url: /import-via-copy-paste/
+      - title: "Copy from another Application"
+        url: /copy-from-application/
+
+
+
+  - title: Permission Control
+    children:
+      - title: "Organization Level"
+        url: /organization-permission/
+      - title: "Project Level"
+        url: /project-permission/
+
+
+
+
+  - title: Keyboard Shortcuts
+    children:
+      - title: "Keyboard Shortcut Cheetsheet"
+        url: /keyboard-cheetsheet/
+      - title: "Breadcrumbs"
+        url: /breadcrumbs/
+
+
+
+  - title: Profile Settings
+    children:
+      - title: "Profile Photo"
+        url: /profile-photo/
+      - title: "Profile URL"
+        url: /profile-url/    
+
+
+  - title: Account Settings
+    children:
+      - title: "Basics"
+        url: /basic-account-settings/
+      - title: "Reminders"
+        url: /reminders/  
+      - title: "Email Notification"
+        url: /email-notifications/  
 
