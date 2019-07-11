@@ -93,12 +93,10 @@ docs:
         url: /add-delete-project/
       - title: "Edit Project"
         url: /edit-project/
-      - title: "Add Project Members"
+      - title: "Project Members"
         url: /add-project-members/
       - title: "Move Project"
         url: /move-project/
-      - title: "Archive Project"
-        url: /archive-project/
       - title: "Follow Project"
         url: /follow-project/
       - title: "Project Overview"

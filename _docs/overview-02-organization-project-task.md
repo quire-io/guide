@@ -4,6 +4,7 @@ permalink: /organization-project-task/
 date:   2019-06-13 14:50:00 +0800
 categories: organization project task
 ---
+![Quire organization]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/overview.png)
 
 With a Quire account, you can create or access one or more organizations to collaborate and work on projects with different team members.
 
@@ -11,13 +12,8 @@ Each organization has its own set of projects and projects consist of tasks and 
 
 
 For example, you are the CEO of your company, who is in charge of many departments: Marketing, Accounting, Human Resources, IT and so on. Each department has their own projects.  
+
 For the marketing team, they are running different campaigns. You can create an organization for the marketing team and create projects under that marketing organization such as Social Media Campaign, Brand Awareness Campaign, Advertising etc. 
-
-
-
-![organization overveiw]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/overview.png)
-
-
 
 
 ## Organizations

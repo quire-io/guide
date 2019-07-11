@@ -4,10 +4,7 @@ permalink: /members/
 date:   2019-06-13 15:50:00 +0800
 categories: members
 ---
-
-
-
-![members overview]({{ site.url }}{{ site.baseurl }}/assets/images/members/overview_members.png)
+![Quire members]({{ site.url }}{{ site.baseurl }}/assets/images/members/overview_members.png)
 
 
 
@@ -24,10 +21,8 @@ When you want to outsource your tasks to someone outside of your team, assign th
 External Team members can only access the tasks assigned to them. 
 
 
-Learn how to create an External Team. 
+Learn how to create an [External Team](/guide/external-team/). 
 {: .notice}
-
-
 
 
 
@@ -36,11 +31,11 @@ Project members are Quire users who have been invited and have confirmed to join
 
 A project member can add, move, delete, edit tasks in the project. 
 
-Manage your project members by going to the Members page of your project: click on the arrow beside the project name.  (link to Projects > Projects members)
+Manage your [project members](/guide/add-project-members/) by going to the Members page of your project: click on the arrow beside the project name.  
 
 
 
-![project members]({{ site.url }}{{ site.baseurl }}/assets/images/members/project_members.png)
+![Quire project members]({{ site.url }}{{ site.baseurl }}/assets/images/members/project_members.png)
 
 
 
@@ -59,7 +54,7 @@ Manage your organization members by going to the Members page of your organizati
 
 
 
-![organization members]({{ site.url }}{{ site.baseurl }}/assets/images/members/org_members.png)
+![Quire organization members]({{ site.url }}{{ site.baseurl }}/assets/images/members/org_members.png)
 
 
 
