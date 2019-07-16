@@ -44,6 +44,10 @@ a {
 	&:visited {
     	color: #578214;
 	}
+
+	&:focus {
+		outline: 5px auto #9ac656;
+	}
 }
 
 .btn {
@@ -454,6 +458,10 @@ figcaption {
     .page {
     	width: calc(100% - 260px - 3em);
     }
+}
+
+@media (min-width: 64em) {
+	top: 3em;
 }
 
 @media (max-width: 63.9375em) {
