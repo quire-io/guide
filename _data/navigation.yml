@@ -127,7 +127,7 @@ docs:
     children:
       - title: "My Tasks"
         url: /my-tasks/
-      - title: "Bookmark"
+      - title: "Bookmarks"
         url: /bookmark/
       - title: "Recent"
         url: /recent/
@@ -141,7 +141,7 @@ docs:
   - title: Search
     children:
       - title: "Blink Search"
-        url: /blink-searc/
+        url: /blink-search/
       - title: "Search Tasks"
         url: /search-tasks/
       
