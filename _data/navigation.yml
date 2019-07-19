@@ -41,6 +41,8 @@ docs:
         url: /attachments/ 
       - title: "Filters and Sorts"
         url: /filter-sort/
+      - title: "Move Tasks"
+        url: /move-tasks/
       - title: "Mark your Tasks"
         url: /favorite-follow-task/
       - title: "Multiple Select"
@@ -49,10 +51,10 @@ docs:
 
   - title: Task List (Advanced)
     children:
-      - title: "Zoom "
+      - title: "Zoom"
         url: /zoom/
-      - title: "Move Tasks"
-        url: /move-tasks/
+      - title: "Peekaboo"
+        url: /peekaboo/
       - title: "External Team"
         url: /external-team/
       - title: "Share Link "
@@ -73,49 +75,51 @@ docs:
     children:
       - title: "Board Overview"
         url: /board-overview/
-      - title: "Add and Delete Boards"
-        url: /add-delete-board/
+      - title:  "Add and Edit Boards"
+        url: /add-edit-board/
       - title: "Multiple Boards"
-        url: /multiple-boards/
-      - title: "Advanced Board Actions"
-        url: /advanced-board-actions/      
+        url: /multiple-boards/    
       - title: "Add Tasks to Board"
         url: /add-tasks-to-board/
       - title: "Status Column"
         url: /status-column/
-      - title: "Filters and Sorts"
-        url: /board-sort-filter/
+      - title: "Swimlane"
+        url: /board-swimlane/
       
 
   - title: Project
     children:
-      - title: "Add and Delete Project"
-        url: /add-delete-project/
+      - title: "Add Project"
+        url: /add-project/
       - title: "Edit Project"
         url: /edit-project/
-      - title: "Project Members"
-        url: /add-project-members/
       - title: "Move Project"
         url: /move-project/
       - title: "Follow Project"
         url: /follow-project/
-      - title: "Project Overview"
-        url: /project-overview/
+      - title: "Archive Project"
+        url: /archive-project/
       - title: "Reorder Projects"
         url: /reorder-projects/
+      - title: "Project Overview"
+        url: /project-overview/
+      - title: "Project Members"
+        url: /add-project-members/
       - title: "Manage Tags"
         url: /manage-tags/
-      - title: "Public Projects"
-        url: /public-projects/
+      - title: "Projects Settings"
+        url: /project-settings/
       - title: "Leave Project"
         url: /leave-project/
+      - title: "Delete Project"
+        url: /delete-project/
 
 
   - title: Organization
     children:
       - title: "Organization Overview"
         url: /organization-overview/
-      - title: "Manage Organization Members"
+      - title: "Organization Members"
         url: /organization-members/
 
 

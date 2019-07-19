@@ -1,6 +1,6 @@
 ---
-title:  "Add and Delete Boards"
-permalink: /add-delete-board/
+title:  "Add and Edit Boards"
+permalink: /add-edit-board/
 date:   2019-07-09 18:20:00 +0800
 categories: add delete board
 ---
@@ -23,6 +23,15 @@ Learn how to create a new column.
 
 Tip: You can choose a board you have created before as a template. It will then create a empty board with the same status column as the board you have chosen. 
 {: .notice--info}
+
+## Edit board name or URL 
+
+To edit a board name or its URL, click on the pen icon beside the board name and choose “Edit”.
+
+
+## Archive a board 
+To archive a board, click on the pen icon beside the board name and choose “Archive”. 
+You can find the archived board in the Archived category in the dropdown menu. 
 
 
 ## Delete a board 

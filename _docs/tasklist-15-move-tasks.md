@@ -9,6 +9,23 @@ No one can anticipate every change that comes in the future.
 You can quickly and easily move your task(s) in the tree list or to other projects to adapt to any change.
 
 
+## Drag and drop
+
+You can drag and drop a task or multiple tasks to rearrange the order both horizontally and vertically.
+
+quire drag & drop.png
+
+quire drag & drop multi select.png
+
+You can also drag and drop task(s) to a different project in the sidebar.
+
+quire drag tasks to sidebar project.png
+
+In filter view, you can even drag and drop task(s) to reassign an assignee or multiple assignees, a priority, and a due date.
+
+quire drag to assign in filter view.png
+
+
 ## Duplicate a task
 
 
@@ -64,25 +81,6 @@ This duplicate task will close and all of its favorites and followers will be ad
 
 Note: Assignees and attachments from the duplicate task won't be copied over.
 
-
-
-
-
-## Drag and drop
-
-You can drag and drop a task or multiple tasks to rearrange the order both horizontally and vertically.
-
-quire drag & drop.png
-
-quire drag & drop multi select.png
-
-You can also drag and drop task(s) to a different project in the sidebar.
-
-quire drag tasks to sidebar project.png
-
-In filter view, you can even drag and drop task(s) to reassign an assignee or multiple assignees, a priority, and a due date.
-
-quire drag to assign in filter view.png
 
 
 

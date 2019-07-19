@@ -38,10 +38,3 @@ Go to the task's detail panel, and click on the eye icon in the upper-right.
 
 quire m2 follower.png
 
-### To follow a project:
-
-Go to the project's Profile View, and click on the eye icon at the top.
-
-Tip: You can also click on the arrow at the end of the project name at the top to follow it.
-
-quire m2 project follower.png
