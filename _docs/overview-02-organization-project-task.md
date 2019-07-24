@@ -23,7 +23,7 @@ An organization is a collection of multiple projects. View an organization like 
 {: .notice--info}
 
 
-Learn how to create a new organization.
+Learn how to create a new [organization](/guide/add-organization/).
 {: .notice}
 
 ![organization sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
@@ -36,16 +36,14 @@ A project is a collection of tasks. You use a project when you have a big goal a
 **Tip:** You can add members to the project level, meaning they will only have access to the projects you have granted them permission. 
 {: .notice--info}
 
-Learn how to create a new project.
+Learn how to create a new [project](/guide/add-project/).
 {: .notice}
 
 
 {% include figure image_path="/assets/images/organization-project-task/project.png" alt="this is a placeholder image" caption="Sidebar: Projects in the sidebar are grouped by Organization." %}
 
-Main panel:
 
-![project main panel]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/mainpanel.png)
-
+{% include figure image_path="/assets/images/organization-project-task/mainpanel.png" alt="this is a placeholder image" caption="Main panel" %}
 
 
 ## Tasks

@@ -39,25 +39,23 @@ Manage your [project members](/guide/add-project-members/) by going to the Membe
 
 
 
-Note: There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different permission controls over the tasks and members in the project. 
+**Note:** There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different [permission controls](/guide/project-permission/) over the tasks and members in the project. 
 {: .notice--warning}
 
-Learn more about the permission control. 
-{: .notice}
 
 
 ## Organization Members
 Organization members are Quire users who have been invited and have confirmed to join a particular organization.
 An organization member can access projects underneath the organization, and add, move, delete, edit tasks within those projects. 
 
-Manage your organization members by going to the Members page of your organization: click on the arrow beside the project name. (link to Organization > Organization members)
-
+Manage your [organization members](/guide/organization-members/) by going to the Members page of your organization: click on the arrow beside the project name. 
 
 
 ![Quire organization members]({{ site.url }}{{ site.baseurl }}/assets/images/members/org_members.png)
 
 
 
-Note: There are 5 types of organization members: Admin, Normal+, Normal, Limited+, Guest. All five have different permission controls over the projects, tasks, and members in the organization.
+**Note:** There are 5 types of organization members: Admin, Normal+, Normal, Limited+, Guest. 
+All five have different [permission controls](/guide/organization-permission/) over the projects, tasks, and members in the organization.
 {: .notice--warning}
 

@@ -1,6 +1,6 @@
 ---
 title: "Members"
-permalink: /members/
+permalink: /sidebar-members/
 date:   2019-07-19 16:09:00 +0800
 categories: members sidebar
 ---
