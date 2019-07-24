@@ -117,6 +117,8 @@ docs:
 
   - title: Organization
     children:
+      - title: "Add Organization"
+        url: /add-organization/
       - title: "Organization Overview"
         url: /organization-overview/
       - title: "Organization Members"
@@ -134,7 +136,7 @@ docs:
       - title: "Smart Folders"
         url: /smart-folders/
       - title: "Members"
-        url: /members/
+        url: /sidebar-members/
 
 
 
@@ -187,23 +189,19 @@ docs:
         url: /keyboard-cheetsheet/
       - title: "Breadcrumbs"
         url: /breadcrumbs/
+   
 
 
-
-  - title: Profile Settings
+  - title: Profile and Account Settings
     children:
-      - title: "Profile Photo"
-        url: /profile-photo/
-      - title: "Profile URL"
-        url: /profile-url/    
-
-
-  - title: Account Settings
-    children:
-      - title: "Basics"
+      - title: "Profile Settings"
+        url: /profile-settings/  
+      - title: "Basics Account Settings"
         url: /basic-account-settings/
       - title: "Reminders"
         url: /reminders/  
       - title: "Email Notification"
         url: /email-notifications/  
+      - title: "Project Preferences"
+        url: /project-preferences/ 
 
