@@ -6,25 +6,21 @@ categories: add tasks subtasks
 ---
 ## Delete a task
 
-### Delete a task in the main panel:
+**Delete a task in the main panel:**
 
-You can delete a task by clicking on the task twice, and click on the "trash" icon in the main panel:
+1. Click on the task twice, and click on the **bin** icon in the main panel. 
+    ![delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/delete_task.png)
 
-delete task.png
+1. Right-click on the task, and click on **Delete** in the context menu.
+    ![right click delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/right_click_delete.png)
 
-You can also right-click on the task, and click on "Delete" in the context menu.
+1. Simply select a task and press `Ctrl` + `Delete` or `⌘` + `Delete` (on Mac). 
 
-quire m2 delete task 2.png
+**Delete a task in the detail panel:**
 
-Or, you can simply click on the task and press Ctrl+Delete or Cmd+Delete (for Mac) to quickly delete it.
+Click on the "..." icon at the upper-right corner of the detail panel, and click on **Delete this task**.
 
-
-### Delete a task in the detail panel:
-
-To delete a task in the detail panel, click on the "..." icon in the upper-right, and click on "Delete this task".
-
-quire m2 delete task 3.png
-
+![detail panel delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/delete_task_detail.png)
 
 ## Undo
 

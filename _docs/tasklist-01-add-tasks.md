@@ -6,31 +6,32 @@ categories: add tasks subtasks
 ---
 ## Add a task
 
-### To add a task via shortcut:
+**Via keyboard shortcut:**
 
-You can press t to add a task.
+You can hit `t` to add a task.
 
-You can also press + or Ctrl+Enter (Cmd+Enter for Mac) to add a task next to your selected task.
+You can also hit `+` or `Ctrl` + `Enter` (`⌘` + `Enter` on Mac) to add a task next to your selected task.
 
-### To add a task by clicking:
+**Via mouse:**
 
-You can click on + in the upper-right of your workspace to add a task.
+You can click on + at the upper-right of your workspace to add a task.
 
-quire-add-task.png
+![add task]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks/add_task.png)
 
 You can also click on + at the far right of a task to add a sibling task.
 
-quire-m3-add-task-shortcut.png
+![add task shortcut]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks/add_task_shortcut.png)
 
 
 ## Add a subtask
 
-### To add a task via shortcut:
+**Via keyboard shortcut:**
 
-You can press Shift+Enter to add a subtask.
+You can hit `Shift` + `Enter` to add a subtask.
 
-### To add a task by clicking:
+**Via mouse:**
 
-You can click on + at the far right of a task to add a subtask.
+You can click on ![Quire subtask icon]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks/subtask_icon.png) at the far right of a task to add a subtask.
 
-quire-m3-add-subtask-shortcut.png
+
+![add subtask shortcut]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks/add_subtask_shortcut.png)
