@@ -25,7 +25,7 @@ Learn more about our approach here. (What Project Management Did Wrong)
 ## List
 The Lists view is the default view and it shows your project in a hierarchical list of tasks.
  
-In this view, you can see your ideas broken down into step-by-step tasks, and for each task, you can add assignees (link), start/due dates (link), tags (link), descriptions (link), comments (link), and more. 
+In this view, you can see your ideas broken down into step-by-step tasks, and for each task, you can [add assignees](/guide/set-assignee/), [start/due dates](/guide/set-date-time/), [tags](/guide/assign-tags/), [descriptions](/guide/descriptions/), [comments](/guide/comments/), and more. 
 
 ![list view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
 
@@ -34,7 +34,7 @@ In this view, you can see your ideas broken down into step-by-step tasks, and fo
 ## Board
 The Board view shows your project in a visual workflow so you can better manage or focus on a few selected crucial tasks.
 
-In this view, you can add multiple boards (link) for one project (eg., Preparation, Planning) and in each board, add multiple status columns (link) like Development, Testing, Pending, etc.
+In this view, you can add [multiple boards](/guide/multiple-boards) for one project (eg., Preparation, Planning) and in each board, add multiple [status columns](/guide/status-column/) like Development, Testing, Pending, etc.
 
 
 ![board view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_board.png)
@@ -42,7 +42,7 @@ In this view, you can add multiple boards (link) for one project (eg., Preparati
 
 
 ## Overview
-The Overview view shows detailed information/reports (link) of a project.
+The Overview view shows detailed [information/reports](/guide/project-overview/) of a project.
 
 This view includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc.
 

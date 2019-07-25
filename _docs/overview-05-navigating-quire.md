@@ -5,7 +5,7 @@ date:   2019-06-13 16:10:00 +0800
 categories: navigation
 ---
 
-
+Learn how to navigate around Quire's workspace. 
 
 
 ## Project/Organization Dropdown Menu
@@ -20,7 +20,7 @@ Right-click on a task to bring out the context menu.
 
 ![context menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
 
-Note: Only when hovering over a task will show the status circle, date/ assignee icon, and + sign and more. 
+**Note:** Only when hovering over a task will show the status circle, date/ assignee icon, and + sign and more. 
 {: .notice--warning}
 
 
@@ -28,7 +28,7 @@ Note: Only when hovering over a task will show the status circle, date/ assignee
 ## Bottom menu bar
 After multiple selecting tasks, the bottom menu bar will reveal. 
 
-Learn more on Multiple Assigning tasks.  (link to Task List > Multiple Assign)
+Learn more on [Multiple Assigning tasks](/guide/multiple-select/).
 {: .notice}
 
 
@@ -37,9 +37,9 @@ Learn more on Multiple Assigning tasks.  (link to Task List > Multiple Assign)
 
 
 ## Breadcrumbs
-Hit Ctrl (or Alt on Mac) to see the breadcrumbs a.k.a the ID# of the tasks, the root and parent tasks, and attachment/comment/ board icons of tasks if any. 
+Hit `Ctrl` (or `Alt` on Mac) to see the breadcrumbs a.k.a the ID# of the tasks, the root and parent tasks, and attachment/comment/ board icons of tasks if any. 
 
-Learn more about breadcrumbs. (link to Keyboard shortcuts) 
+Learn more about [breadcrumbs](/guide/breadcrumbs/).
 {: .notice}
 
 
@@ -49,7 +49,7 @@ Learn more about breadcrumbs. (link to Keyboard shortcuts)
 
 
 ## Keyboard Shortcuts
-Hit Ctrl+F1 or Fn+F1 (for Mac) to see a complete list of shortcuts to easily manage your tasks. (link to blog)
+Hit `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a complete list of shortcuts to easily manage your tasks. (link to blog)
 
 
 ![keyboard shortcuts]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_kb.png)
