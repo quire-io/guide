@@ -6,26 +6,33 @@ categories: set due dates
 ---
 ## Set due date
 
-You can decide when a task should be done (aka give it a deadline).
+Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-To add due date, click on the "date" icon of a task or use < on the keyboard when the task(s) is selected.
+**To add due date:**
 
-quire-m3-date-picker-icon.png
+1. Click on the **date** icon
 
-You can also click on a shortcut, Today, Tomorrow or Next Week, to add a due date, or None to clear the due date.
+    ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-quire-m3-date-picker.png
+1. Hit `<` on the keyboard when the task(s) is selected.
 
-To add due time, click on "Show more options" at the bottom of the date picker, and toggle on "Set time" at the bottom of the date picker.
+1. Type in `<` when editing a task. 
 
-quire-m3-set-time.png
+Click on a shortcut, `Today`, `Tomorrow` or `Next Week` to add a due date much faster.
 
-You can either press the up or down arrow to select the due time, or type the hour and minute manually.
+Click `None` to clear the due date.
 
-quire-m3-set-due-time.png
+![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-To set start date and time, see here.
+**To add due time:**
 
+Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
+
+![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_time.png)
+
+You can either hit the up or down arrow on your keyboard to select the due time, or type in the hour and minute manually.
+
+![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_due_time.png)
 
 
 
