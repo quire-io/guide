@@ -4,12 +4,14 @@ permalink: /set-assignee/
 date:   2019-06-21 15:00:00 +0800
 categories: set assignees
 ---
-## Set assignees
-To assign a task to a member:
-Click on the assignee icon, and select the member directly or use @ on the keyboard then select the member using the up/down arrow key.
+## Single assignee
+
+To assign a task to a member, click on the assignee icon, and select the member directly or use `@` on the keyboard then select the member using the up/down arrow key.
+
+![set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assginee/add_assignee.png)
 
 
-
+## Multiple assignees
 To assign a task to more than one member (aka multiple members):
 Click on the "assignee" icon, and then the "Add to assignees" icon on the right of each member's name.
 
