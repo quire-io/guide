@@ -1,38 +1,25 @@
 ---
 title:  "Descriptions"
 permalink: /descriptions/
-date:   2019-06-21 15:46:00 +0800
+date:   2019-07-29 15:46:00 +0800
 categories: add descriptions
 ---
-## Add a description
+You can add a description, notes or any relevant details to a task.
+
+You can add a description in the task's detail panel.
+
+To break a line in the description, simply press `Enter`.
+
+To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac). 
+
+The description area also supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon. 
+
+Learn more about [styling](/guide/styling/) your text. 
+{: .notice}
+
+![add task descriptions]({{ site.url }}{{ site.baseurl }}/assets/images/descriptions/add_task_description.png)
 
 
-You can add a description, notes or any relevant details to a task, project or organization.
-
-In a task:
-
-Go to a project's Task Tree view and in a task, you can add a description in its detail panel.
-
-Tip: You can press d to write or edit the description of the selected task.
-
-quire m2 add description.png
-
-In a project:
-
-Go to the project's Profile view and click on the pen icon to add a description.
-
-quire m2 project profile description.png
-
-In an organization:
-
-Go to the organization's Profile view and click on the pen icon to add a description.
-
-quire m2 organization profile description.png
-
-To break a line in the description, you simply press Enter.
-
-To give styles to your text, click on the "?" icon to get helps on Markdown.
-
-To preview what you have just typed, press Ctrl+E or Cmd+E (for Mac)
-
-Tip: You can see whether tasks have description in the main panel (task list) after you press Ctrl (or Alt for Mac).
+**Tip:** You can press `d` to write or edit the description of the selected task. <br>
+A fast way to see whether the tasks have descriptions or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
+{: .notice--info}

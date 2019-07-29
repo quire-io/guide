@@ -1,7 +1,7 @@
 ---
 title:  "Assign Tags"
 permalink: /assign-tags/
-date:   2019-06-21 15:40:00 +0800
+date:   2019-07-29 15:40:00 +0800
 categories: assign tags
 ---
 
@@ -10,74 +10,47 @@ categories: assign tags
 
 You can add, edit, or delete a tag in both the main panel and the detail panel.
 
-In the main panel:
-To add a new tag:
+**To add a new tag:**
 
-In the main panel, click on the "tag" icon, type a tag name and press Enter.
+Click on the **tag** icon, type a tag name and press Enter.
 
-quire m2 main panel add new tag.png
+![add new tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/add_new_tags.png)
 
-To add an existing tag:
+**To add an existing tag:**
 
-In the main panel, click on the "tag" icon of a task to select the tag or use # on the keyboard when the task(s) is selected. 
+Click on the **tag** icon of a task to select the tag or hit `#` on the keyboard when the task(s) is selected. 
 
-quire m2 main panel add existing tag.png
+![add exisiting tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/add_existing_tags.png)
 
-To edit and delete one:
+**Tip:** Drag and drop the tags to reorder them. 
+{: .notice--info}
 
-In the main panel, click on the tag, click on the pen icon, and you can choose to change color, rename or delete it.
+**To edit and delete tags:**
 
-quire m2 main panel edit delete tag.png
+Click on the tag, click on the pen icon, and you can choose to change color, rename or delete it.
 
-In the detail panel:
-To add an existing tag:
+![edit tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/edit_tags.png)
 
-In the detail panel, click on the “Add tag” to select the tag.
+You can [manage all your tags](/guide/manage-tags/) for one specific project in the project's Settings page. Click on the arrow beside the project's name, then choose **Edit tags**.
 
-quire m2 detail panel add existing tag.png
-
-To add a new tag, click on “Add tag” in the description, type a tag name and press Enter. You can also reorder the tags you added by drag and drop.
-
-quire m2 detail panel add new tag.png
-
-To edit or delete a tag, hover over that tag's name, click on the pen icon, and you can choose to change color, rename or delete it.
-
-quire m2 detail panel edit delete tag.png
-
-You can also add, edit or delete a tag in the Settings view's General tab.
-
-quire m2 settings general tags section.png
-
-
-
+![manage tags in project settings]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/tags_settings_page.png)
 
 
 
 ## Global tag
 
-You can add a global tag, so it becomes available in other projects in the same organization.
+Add a global tag, so the tag can become available in other projects in the same organization.
 
-To add a global tag:
+Click on the tag and its pen icon, and check **Visible to all projects**.
 
-Click on the tag icon, type the tag name and press Enter.
+![add global tag]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/global_tag.png)
 
-quire m2 add global tag 1.png
+You can [manage all the global tags](/guide/manage-tags/) in the project's Settings page. Click on the arrow beside the project's name, then choose **Edit tags**.
 
-Next, click on the pen icon and check "Visible to all projects."
+![global tags in project settings]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/global_tags_settings_page.png)
 
-quire m2 add global tag 2.png
-
-To make an existing tag global:
-
-Click on the tag and its pen icon, and check "Visible to all projects."
-
-quire m2 global tag.png
-
-You can also make a tag global in the Settings view's General tab.
-
-quire m2 global tag in settings.png
-
-Note that if you uncheck the box, you would remove the tag from other projects in the same organization.
+**Note:** If you uncheck **Visible to all projects**, you would remove the tag from other projects in the same organization.
+{: .notice--warning}
 
 
 
