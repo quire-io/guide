@@ -4,9 +4,6 @@ permalink: /set-status/
 date:   2019-06-21 16:06:00 +0800
 categories: set status
 ---
-## Add a status
-
-
 You can add status to a task to tell your teammates where it is at.
 
 In the task's detail panel, click on the arrow beside the "Complete" icon to choose a status.

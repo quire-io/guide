@@ -1,12 +1,12 @@
 ---
 title:  "Inline Assign"
 permalink: /inline-assign/
-date:   2019-06-21 16:00:00 +0800
-categories: add descriptions
+date:   2019-07-30 15:00:00 +0800
+categories: inline assign
 ---
 You can add or edit the assignee, tags, start and due date and priority of a task with `@`, `#`, `<>` (with `;`) and `!` directly from the task name.
 
-For example, type **Publish the article** `@crystal` `#Marketing` `<9.30>` in the task name and press Enter.
+For example, type "Publish the article `@crystal` `#Marketing` `<9.30>`" in the task name and press Enter.
 
 ![inline assign]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign.png)
 
@@ -17,7 +17,7 @@ The task will be assigned to Crystal, and have the tag Marketing and due date of
 
 You can also add or remove assignees and tags from a task, without having to type them all over again.
 
-To add one more assignee or tag to a task, type +@assignee or +#tag in the task name. To remove an existing assignee or tag from a task, type -@assignee or -#tag instead.
+To add one more assignee or tag to a task, type `+@assignee` or `+#tag` in the task name. To remove an existing assignee or tag from a task, type `-@assignee` or `-#tag` instead.
 
 ![add or remove tags inline]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign_add_remove.png)
 
@@ -30,14 +30,14 @@ Check out our blog post about inline assigning.
 
 Assign a task to an existing member with `@` directly from the task name.
 
-For example, when you type "Publish the article @crystal in the task name and press Enter, the task will be assigned to Crystal.
+For example, when you type `Publish the article @crystal` in the task name and press Enter, the task will be assigned to Crystal.
 
 
 ## Inline set a start and due date
 
 Set a start date and due date with `<>` and `;` directly from the task name.
 
-For example, when you type "Publish the article <04/30>" in the task name and press Enter, the task will have a due date of **April 30th**.
+For example, when you type `Publish the article <04/30>` in the task name and press Enter, the task will have a due date of **April 30th**.
 
 ![inline assgin due date]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign_due_date.png)
 
@@ -84,39 +84,33 @@ If your day is entered before month, the input allowed:
 
 
 ## Inline add a tag
-You can add a tag with # directly from the task name.
 
-For example, when you type "Publish the article #Urgent in the task name and press Enter, the task will have a tag of Urgent.
+You can add a tag with `#` directly from the task name.
 
-Note: You need to select [tag name] (new tag) in the dropdown if you type it at the end of the task name.
+For example, when you type `Publish the article #Urgent` in the task name and press Enter, the task will have a tag of Urgent.
 
-For more info, check out the blog post here.
-
-
-
-
-
+**Note:** You need to select `[tag name] (new tag)` in the dropdown if you type it at the end of the task name.
+{: .notice--warning}
 
 
 
 ## Inline add a priority
 
-You can add a priority with ! directly from the task name.
+You can add a priority with `!` directly from the task name.
 
-For example, when you type "Publish the article !2 in the task name and press Enter, the task will have a priority of High (an orange star).
+For example, when you type `Publish the article !2` in the task name and press Enter, the task will have a priority of High(an orange up arrow).
 
-For more info, check out the blog post here. 
-
-Note: Priority from high to low is !1, !2, !3 and !4.
-
-
-
+**Note:** Priority from high to low is !1, !2, !3 and !4.
+{: .notice--warning}
 
 
 
 ## Inline add a task to board
-You can add a task to a specific board with ^ directly from the task name.
 
-For example, you can type "Publish the article ^ ” in the task name and use the arrow key to choose which board you want to add the task to.
+You can add a task to a specific board with `^` directly from the task name.
+
+For example, you can type `Publish the article ^` in the task name and use the arrow key to choose which board you want to add the task to.
 
 Note: If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
+{: .notice--warning}
+
