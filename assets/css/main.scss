@@ -56,7 +56,7 @@ a {
 
 a, button {
 	&:focus {
-	    outline: thin solid #9ac656;
+		outline: 3px auto #9ac656;
 	    outline-offset: 0.1rem;
 	    transition: none;
 	}
@@ -153,6 +153,7 @@ figcaption {
 	img {
 	    border: 1px solid rgba(0,0,0,0.1);
 	    border-radius: 4px;
+	    margin: 0.8em 0;
 	}
 
 	.notice {
@@ -444,6 +445,30 @@ figcaption {
 	}
 }
 
+.nav__list {
+	.toc-label:before {
+		position: inherit;
+		color: rgba(0,0,0,0.58);
+		font-size: 24px;
+		top: auto;
+		right: auto;
+		background-color: white;
+		margin-right: 12px;
+
+		content: "\e990";
+	}
+}
+
+.header-wrap {
+	margin-bottom: 1px solid #EDEDED;
+	
+	.t-user {
+		.feedback, .tutorial {
+			display: list-item;
+		}
+	}
+}
+
 @media (min-width: 80em) {
 	.page {
     	width: calc(100% - 300px - 3em);
@@ -461,7 +486,9 @@ figcaption {
 }
 
 @media (min-width: 64em) {
-	top: 3em;
+	.sticky {
+		top: 4em;
+	}
 }
 
 @media (max-width: 63.9375em) {
@@ -479,10 +506,8 @@ figcaption {
 
 		.nav__list {
 		    text-align: left;
-		    max-width: 720px;
+			padding: 0 32px;
 		    margin: auto;
-		    padding-left: 2em;
-		    padding-right: 2em;
 
 		    .nav__items {
 		    	font-size: 1.5em;
