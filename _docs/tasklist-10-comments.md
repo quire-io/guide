@@ -1,52 +1,37 @@
 ---
 title:  "Comments"
 permalink: /comments/
-date:   2019-06-21 16:08:00 +0800
+date:   2019-07-31 16:08:00 +0800
 categories: add comments
 ---
 ## Post a comment
 
+You can chat, discuss and share about what you have accomplished in the comments of a task in the detail panel. 
 
-You can chat, discuss and show what you have accomplished in the comments of a task or project.
+To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac)
 
-In a task:
+The comment area also supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
 
-Go to a project's Task Tree view and click on a task to post comments in its detail panel.
+Learn more about [styling](/guide/styling/) your text. 
+{: .notice}
 
-Tip: You can press c to post comments in the selected task.
+![add comment to task]({{ site.url }}{{ site.baseurl }}/assets/images/comments/add_comments.png)
 
-quire m2 add comment.png
+When you leave a comment in a task, you will automatically become the follower of that task, meaning when other members modify the task's due date or leave another comments, etc. You will get notifications as well. 
 
-In a project:
+Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
 
-Go to the project's Profile view and press Space to post a comment.
-
-quire m2 project detail comment.png
-
-To break a line in the comment, you can simply press Enter.
-
-To give styles to your text, click on the "?" icon to get helps on Markdown.
-
-To preview what you have just typed, press Ctrl + E or Cmd + E (for Mac)
-
-When you left a comment in a task, you will be notified automatically of any updates on this task. For example, when someone changed its due date or left a new comment.
-
-Members who are already the assignees of this task, or followers of this task or its project, will be notified automatically of any updates too.
-
-Tip: You can see whether tasks have comments in the main panel (task list) after you press Ctrl (or Alt for Mac).
-
-
-
-
-
+**Tip:** You can press `C` to post comments in the selected task.<br>
+A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
+{: .notice--info}
 
 
 ## Pin a comment
 
-You can pin (and unpin) a task's comment by clicking on the down arrow
+You can pin (and unpin) a comment by clicking on the down arrow. 
 
-quire m2 pin comment_1.png
+![pin a comment]({{ site.url }}{{ site.baseurl }}/assets/images/comments/pin_comment_1.png)
 
-Then, the important summary or information will show at the top for easy reference.
+You will then see the important summary or information at the top for easy reference.
 
-quire m2 pin comment_2.png
+![pinned comment]({{ site.url }}{{ site.baseurl }}/assets/images/comments/pin_comment_2.png)

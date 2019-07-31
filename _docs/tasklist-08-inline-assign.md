@@ -21,7 +21,7 @@ To add one more assignee or tag to a task, type `+@assignee` or `+#tag` in the t
 
 ![add or remove tags inline]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign_add_remove.png)
 
-Check out our blog post about inline assigning. 
+Check out our blog post about [inline assigning](https://quire.io/blog/p/Type-it-while-you-think-it.html). 
 {: .notice}
 
 

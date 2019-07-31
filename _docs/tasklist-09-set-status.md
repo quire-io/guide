@@ -1,20 +1,23 @@
 ---
 title:  "Change Status"
 permalink: /set-status/
-date:   2019-06-21 16:06:00 +0800
+date:   2019-07-31 16:00:00 +0800
 categories: set status
 ---
-You can add status to a task to tell your teammates where it is at.
+You can change the status of a task to show the progress. 
 
-In the task's detail panel, click on the arrow beside the "Complete" icon to choose a status.
+There are three default statuses: To-Do, In Progress and Completed.
 
-quire m2 add status.png
+![default status]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/default_status_options.png)
 
-There are three task statuses: To-Do, In Progress and Completed.
+**Note:** If the task has been added to a board, the status will follow the boards' status column.
+{: .notice--warning}
 
-If a task's status is To-Do, it means nobody has started working on it.
+In the main panel, right-click on the circle to set a status.
 
-If a task's status is In Progress, it means someone has started working on it.
+![set status in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/set_status_main_panel.png)
 
-If a task's status is Completed, it means the task is done.
+In the detail panel, click on the arrow beside the "Complete" icon to set a status.
+
+![set status in detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/set_status_detail_panel.png)
 

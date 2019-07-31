@@ -39,17 +39,17 @@ Click on the **assignee** icon, and type in the person's email to invite him/her
 
 You could assign a task to a group of members in a single time by using the External team feature.
 
-1. Go to **Edit members** by clicking on the arrow beside your project names. 
+Step 1: Go to **Edit members** by clicking on the arrow beside your project names. 
 
-	![project members page]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/edit_members.png)
+![project members page]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/edit_members.png)
 
-2. Click on **Create new team** under External Teams, create a external team by typing in a name first.
+Step 2: Click on **Create new team** under External Teams, create a external team by typing in a name first.
 
-	![create external team]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/create_external_team.png)
+![create external team]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/create_external_team.png)
 
-3. Enter the emails of your members.
+Step 3: Enter the emails of your members.
 
-	![add external team members]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_external_team_members.png)
+![add external team members]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_external_team_members.png)
 
 Next time, when you want to a assign a task to a group of members, you don't have to add one single member at a time. Instead, you can choose the external team you've just created. 
 
