@@ -9,18 +9,36 @@ $(document).ready(function() {
 		var body = $('body');
 		var open = body.hasClass('open-search');
 		body.toggleClass('open-search', !open);
-		if (!open) {
-			$('#results').html('');
+		if (open) {
+			$('.search-input').focus();
+		} else {
+			$('.search-input').val('');
 		}
 	}
+
+	function toggleSearching(isSearching) {
+		$('body').toggleClass('searching', isSearching);
+	}
+
 	$('.search-toggle a').click(toggleSearch);
 	$('.search-close').click(toggleSearch);
 	$('.search-input').keyup(function(e) {
+		$(this).change();
 		if (e.keyCode == 27)
 			toggleSearch();
-	})
+	}).change(function() {
+		toggleSearching($(this).val().length > 0);
+	}).focus(function() {
+		toggleSearching($(this).val().length > 0);
+	});
 
-	// $('document').
+	$(document)
+	.on('click', function () {
+		toggleSearching(false);
+	})
+	.on('click', '#results, .search-input', function (e) {
+    	e.stopPropagation();//stop close dropdown    
+  	});
 
 	$('.toc__menu').on('click', 'a', function(e) {
 		var idx = this.href.indexOf("#");

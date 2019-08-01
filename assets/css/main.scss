@@ -7,6 +7,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$border-color: #ededed;
+
 body {
 	font-size: 18px;
 	font-family: Lato,-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
@@ -105,7 +107,7 @@ table {
 
 thead {
     background-color: inherit;
-    border-bottom: 2px solid #EDEDED;
+    border-bottom: 2px solid $border-color;
 }
 
 th {
@@ -115,7 +117,7 @@ th {
 
 td {
     padding: 0.8em;
-    border-bottom: 1px solid #EDEDED;
+    border-bottom: 1px solid $border-color;
 }
 
 kbr {
@@ -139,7 +141,7 @@ figcaption {
 	}
 
 	h2 {
-    	border-bottom: 1px solid #EDEDED;
+    	border-bottom: 1px solid $border-color;
 	}
 
 	a:not(.btn):not(#goog-wm-sb):hover {
@@ -367,6 +369,10 @@ figcaption {
 	}
 }
 
+#header-wrapper {
+	border-bottom: 1px solid $border-color;
+}
+
 #main, .search-input-container, .results-panel {
 	max-width: 1160px;
 }
@@ -381,14 +387,13 @@ $search-input-width: 56px;
 	display: none;
 	visibility: visible;
 	width: 100%;
-	border-top: 1px solid #ededed;
-	border-bottom: 1px solid #ededed;
+	border-top: 1px solid $border-color;
 	padding: 0;
 	position: relative;
 
 	form {
 		background-color: white;
-		border-bottom: 1px solid #EDEDED;
+		border-bottom: 1px solid $border-color;
 		padding: 0.5em;
 		color: rgba(0,0,0,0.7);
 	}
@@ -423,6 +428,7 @@ $search-input-width: 56px;
 	}
 
 	.results-container {
+		display: none;
 		position: absolute;
 		top: 64px;
 		left: 0;
@@ -433,7 +439,7 @@ $search-input-width: 56px;
 			
 			.results-margin {
 				margin: 0 $search-input-width 0 2em;
-				border: #ededed 1px solid;
+				border: 1px solid $border-color;
 				box-shadow: 0 12px 24px 0 rgba(0,0,0,0.05);
 				overflow: auto;
 				max-height: 465px;
@@ -470,6 +476,10 @@ $search-input-width: 56px;
 	}
 }
 
+.searching .results-container {
+	display: block;
+}
+
 .open-search .search-content {
 	display: block;
 }
@@ -489,7 +499,7 @@ $search-input-width: 56px;
 
 .toc__menu {
     font-size: 1.25em;
-    border-left: 3px solid #EDEDED;
+    border-left: 3px solid $border-color;
     margin: 0.6em 0 0.8em 0.8em;
     width: inherit;
 
@@ -515,7 +525,7 @@ $search-input-width: 56px;
 }
 
 .header-wrap {
-	margin-bottom: 1px solid #EDEDED;
+	margin-bottom: 1px solid $border-color;
 
 	.t-user {
 		.feedback, .tutorial {
@@ -611,7 +621,7 @@ $search-input-width: 56px;
 			}
 
 			& ~ .nav__items {
-			    border-top: 1px solid #ededed;
+			    border-top: 1px solid $border-color;
 			    margin-top: 0.25em;
 			    padding-top: 1em;
 		    }

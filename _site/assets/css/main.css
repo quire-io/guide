@@ -4196,7 +4196,7 @@ table {
 
 thead {
   background-color: inherit;
-  border-bottom: 2px solid #EDEDED; }
+  border-bottom: 2px solid #ededed; }
 
 th {
   padding: 0.8em;
@@ -4204,7 +4204,7 @@ th {
 
 td {
   padding: 0.8em;
-  border-bottom: 1px solid #EDEDED; }
+  border-bottom: 1px solid #ededed; }
 
 kbr {
   font-size: 0.9em;
@@ -4221,7 +4221,7 @@ figcaption {
 .page__content p {
   margin: 0 0 1.5em; }
 .page__content h2 {
-  border-bottom: 1px solid #EDEDED; }
+  border-bottom: 1px solid #ededed; }
 .page__content a:not(.btn):not(#goog-wm-sb):not(#goog-wm-sb):hover {
   text-decoration: none; }
 .page__content img {
@@ -4354,6 +4354,9 @@ figcaption {
       background-color: inherit;
       color: #7BB340; }
 
+#header-wrapper {
+  border-bottom: 1px solid #ededed; }
+
 #main, .search-input-container, .results-panel {
   max-width: 1160px; }
 
@@ -4366,12 +4369,11 @@ figcaption {
   visibility: visible;
   width: 100%;
   border-top: 1px solid #ededed;
-  border-bottom: 1px solid #ededed;
   padding: 0;
   position: relative; }
   .search-content form {
     background-color: white;
-    border-bottom: 1px solid #EDEDED;
+    border-bottom: 1px solid #ededed;
     padding: 0.5em;
     color: rgba(0, 0, 0, 0.7); }
   .search-content .search-input-container {
@@ -4395,6 +4397,7 @@ figcaption {
         font-size: 24px;
         color: rgba(0, 0, 0, 0.58); }
   .search-content .results-container {
+    display: none;
     position: absolute;
     top: 64px;
     left: 0;
@@ -4403,7 +4406,7 @@ figcaption {
       margin: 0 auto; }
       .search-content .results-container .results-panel .results-margin {
         margin: 0 56px 0 2em;
-        border: #ededed 1px solid;
+        border: 1px solid #ededed;
         box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.05);
         overflow: auto;
         max-height: 465px;
@@ -4425,6 +4428,9 @@ figcaption {
       .search-content .archive__item-title > a:hover {
         color: #9ac656; }
 
+.searching .results-container {
+  display: block; }
+
 .open-search .search-content {
   display: block; }
 
@@ -4437,7 +4443,7 @@ figcaption {
 
 .toc__menu {
   font-size: 1.25em;
-  border-left: 3px solid #EDEDED;
+  border-left: 3px solid #ededed;
   margin: 0.6em 0 0.8em 0.8em;
   width: inherit; }
   .toc__menu a {
@@ -4456,7 +4462,7 @@ figcaption {
   content: "\e990"; }
 
 .header-wrap {
-  margin-bottom: 1px solid #EDEDED; }
+  margin-bottom: 1px solid #ededed; }
   .header-wrap .t-user .feedback, .header-wrap .t-user .tutorial {
     display: list-item; }
   .header-wrap .search-toggle a:before {
