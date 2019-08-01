@@ -10,8 +10,11 @@ $(document).ready(function() {
 	var hash = idx != -1 ? this.href.substring(idx) : null;
 
 	if (hash) {
-		$([document.documentElement, document.body]).animate({
-			scrollTop: $(hash).offset().top - 64/*header height*/
+		var height = $('#header').outerHeight() + $('.toc-label').outerHeight();
+		$('#ac-toc').prop("checked", false).change();
+
+		$([document.documentElement, document.body]).animate({ 
+			scrollTop: $(hash).offset().top - height - 8/*spacing*/
 		}, 500);
 
 		e.preventDefault(); 

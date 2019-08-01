@@ -4,7 +4,7 @@
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
 
-  <label for="ac-toc">
+  <label class="toc-label" for="ac-toc">
     {% for nav in navigation %}
         {% if nav.children != null %}
           {% for child in nav.children %}
