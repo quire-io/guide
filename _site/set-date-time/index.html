@@ -42,11 +42,11 @@
     <link rel="canonical" href="https://quire.io/guide/set-date-time/">
 
     
-      <link rel="next" href="/guide/set-status/" title="Change Status">
+      <link rel="next" href="http://127.0.0.1:4000/guide/favorite-follow-task/" title="Mark your Tasks">
     
 
     
-      <link rel="prev" href="/guide/add-task/" title="Add Tasks and Subtasks">
+      <link rel="prev" href="http://127.0.0.1:4000/guide/add-task/" title="Add Tasks and Subtasks">
     
 
 
@@ -62,9 +62,9 @@
     <link rel="alternate" type="application/rss+xml" title="Quire & You" href="https://quire.io/guide/feed.xml" />
 
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="/guide/s/css/lato-2.010.min.css" />
-    <link rel="stylesheet" type="text/css" href="/guide/s/css/bootstrap/bootstrap.min.css" />
-    <link rel="stylesheet" type="text/css" href="/guide/s/css/blog.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:4000/guide/s/css/lato-2.010.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:4000/guide/s/css/bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://127.0.0.1:4000/guide/s/css/blog.css" />
 
     <meta charset="utf-8">
 
@@ -188,7 +188,7 @@
         
       
       <li class="item login">
-          <a class="b green" href="/login?continue=/guide/set-date-time/">LOG IN</a>
+          <a class="b green" href="/login?continue=http://127.0.0.1:4000/guide/set-date-time/">LOG IN</a>
       </li>
       <li class="item start-free">
         <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
@@ -1465,7 +1465,7 @@
 
 <p>Decide when a task should be done (aka give it a deadline) by setting a due date.</p>
 
-<p><strong>3 ways to add a due date:</strong></p>
+<h4 id="3-ways-to-add-a-due-date">3 ways to add a due date:</h4>
 
 <ol>
   <li>
@@ -1487,7 +1487,7 @@
 
 <p><img src="http://localhost:4000/guide/assets/images/set-date-time/due_date_picker.png" alt="set due date" /></p>
 
-<p><strong>To add due time:</strong></p>
+<h4 id="to-add-due-time">To add due time:</h4>
 
 <p>Click on <strong>Show more options</strong> at the bottom of the date picker, and toggle on <strong>Set time</strong>.</p>
 
@@ -1501,7 +1501,7 @@
 
 <p>You can decide when you would like to start working on a task.</p>
 
-<p><strong>3 ways to add a start date:</strong></p>
+<h4 id="3-ways-to-add-a-start-date">3 ways to add a start date:</h4>
 
 <ol>
   <li>
@@ -1517,7 +1517,7 @@
   </li>
 </ol>
 
-<p>Next, click on <strong>Show more options</strong> at the bottom of the date picker, and toggle on <strong>“Set start date”</strong>.</p>
+<p>Next, click on <strong>Show more options</strong> at the bottom of the date picker, and toggle on <strong>Set start date</strong>.</p>
 
 <p><img src="http://localhost:4000/guide/assets/images/set-date-time/due_date_picker.png" alt="set start date" /></p>
 
@@ -1525,7 +1525,7 @@
 
 <p><img src="http://localhost:4000/guide/assets/images/set-date-time/enter_start_date.png" alt="enter start date" /></p>
 
-<p><strong>To add start time:</strong></p>
+<h4 id="to-add-start-time">To add start time:</h4>
 
 <p>Toggle on <strong>Set time</strong> at the bottom of the date picker.</p>
 
@@ -1543,16 +1543,11 @@
 
 <p>Once you have completed a recurring task, Quire will automatically add the same task in a few seconds with the new date.</p>
 
-<ol>
-  <li>
-    <p>Click on <strong>date</strong> icon, and toggle on <strong>Set to repeat</strong> in the datepicker.</p>
+<p>Step 1: Click on <strong>date</strong> icon, and toggle on <strong>Set to repeat</strong> in the datepicker.</p>
 
-    <p><img src="http://localhost:4000/guide/assets/images/set-date-time/set_repeat.png" alt="set recurring date" /></p>
-  </li>
-  <li>
-    <p>Choose how often and what day you want to repeat the task.</p>
-  </li>
-</ol>
+<p><img src="http://localhost:4000/guide/assets/images/set-date-time/set_repeat.png" alt="set recurring date" /></p>
+
+<p>Step 2: Choose how often and what day you want to repeat the task.</p>
 
 <p><img src="http://localhost:4000/guide/assets/images/set-date-time/set_repeat_frequency.png" alt="set recurring frequency" /></p>
 
@@ -1560,7 +1555,8 @@
 
 <p><img src="http://localhost:4000/guide/assets/images/set-date-time/set_repeat_custom.png" alt="set customize recurring" /></p>
 
-<p>For more information on this, see here.</p>
+<p class="notice">Check out this <a href="https://quire.io/blog/p/Recurring-Tasks.html">blog post</a> for more information.</p>
+
 
         
       </section>
@@ -1584,8 +1580,8 @@
 ">Add Tasks and Subtasks</a>    
     
     
-      <a href="/guide/set-status/" class="pagination--pager next" title="Change Status
-">Change Status</a>
+      <a href="/guide/favorite-follow-task/" class="pagination--pager next" title="Mark your Tasks
+">Mark your Tasks</a>
     
   </nav>
 
@@ -1701,8 +1697,8 @@
 
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48347893-1"></script> -->
     <!-- <script src="https://d12y7sg0iam4lc.cloudfront.net/s/js/jquery-1.10.2.min.js"></script> -->
-    <script async src="/guide/s/js/pack.min.js"></script>
-    <script async src="/guide/s/js/blog.min.js"></script>
+    <script async src="http://127.0.0.1:4000/guide/s/js/pack.min.js"></script>
+    <script async src="http://127.0.0.1:4000/guide/s/js/blog.min.js"></script>
   </body>
 
 </html>
