@@ -85,6 +85,21 @@
         <div id="header" class="container">
           {% include header.html %}
         </div>
+        {% if site.search == true %}
+        <div class="search-content">
+            <div class="results-container">
+              <div class="results-panel">
+                <div class="results-margin">
+                  <div id="results"></div>
+                </div>
+              </div>
+            </div>
+            <div class="search-input-container">
+              <a class="search-close icon-cross"></a>
+              <input type="search" id="search" class="search-input" placeholder="Search..." autofocus />
+            </div>
+          </div>
+        {% endif %}
       </header>
 
       <div class="initial-content">
@@ -101,14 +116,6 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script> -->
       </div>
-
-      {% if site.search == true %}
-        <div id="main" role="main">
-          <div class="search-content">
-            {% include_cached search/search_form.html %}
-          </div>
-        </div>
-      {% endif %}
 
       <div align="center" style="height: 90px">
       </div>
