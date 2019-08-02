@@ -1,7 +1,7 @@
 ---
 title:  "Filters and Sorts"
 permalink: /filter-sort/
-date:   2019-06-21 16:18:00 +0800
+date:   2019-08-02 15:00:00 +0800
 categories: filter sort
 ---
 You can filter/sort the tasks to focus on what mattes to you.
@@ -208,46 +208,47 @@ Click on the **filter** icon, click on Customize, and choose sort by Start Per W
 
 You can sort your tasks by Created Per Week to see tasks you've created in each week.
 
-Click on the filter icon and choose sort by, and select Create Per Week in the drop-down.
+Click on the **filter** icon, click on Customize, and choose Create Per Week.
 
-sort by create per week.png
+![sort by create per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_create_per_week.png)
 
-
-
-
-
-
+**Note:** When sorted by create per week, you won't be able to  add and move tasks.
+{: .notice--warning}
 
 
 ### Update Per Week
+
 You can sort your tasks by Update Per Week to see what tasks have been last modified in each week.
 
-To do so, go to the filter icon, click on Customize, and choose sort by Update Per Week.
+Click on the **filter** icon, click on Customize, and choose sort by Update Per Week.
 
-sort by update per week.png
+![sort by update per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_update_per_week.png)
 
-
-
-
+**Note:** When sorted by update per week, you won't be able to add and move tasks.
+{: .notice--warning}
 
 
 ### Complete Per Week
+
 You can sort your tasks by Complete Per Week to see tasks you've completed in each week.
 
-Click on the filter icon and choose sort by, and select Complete Per Week in the drop-down.
+Click on the **filter** icon, click on Customize, and choose sort by Complete Per Week.
 
-sort by complete per week.png
+![sort by complete per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_complete_per_week.png)
 
-Note: This option will only be available when you chose to see All Tasks or Completed Tasks.
-
-
-
+**Note:** This option will only be available when you chose to see All Tasks or Completed Tasks. <br>
+Also, when sorted by complete per week, you won't be able to add and move tasks.
+{: .notice--warning}
 
 
 ### Name
+
 You can sort your tasks by Name to see tasks ordered alphabetically.
 
-To do so, go to the "filter" icon in the upper-right, click on Customize, and choose sort by Name.
+Click on the **filter** icon, click on Customize, and choose sort by Name.
 
-quire-m3-sort-by-name.png
+![sort by name]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_name.png)
+
+**Note:** When sorted by name, you won't be able to move tasks.
+{: .notice--warning}
 
