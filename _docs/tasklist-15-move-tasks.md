@@ -1,8 +1,8 @@
 ---
 title:  "Move Tasks"
 permalink: /move-tasks/
-date:   2019-06-24 16:02:00 +0800
-categories: zoom in zoom out
+date:   2019-08-02 16:00:00 +0800
+categories: move tasks
 ---
 No one can anticipate every change that comes in the future. 
 You can quickly and easily move your task(s) in the tree list or to other projects to adapt to any change.

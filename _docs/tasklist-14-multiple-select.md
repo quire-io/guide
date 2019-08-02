@@ -4,39 +4,17 @@ permalink: /multiple-select/
 date:   2019-06-24 14:43:00 +0800
 categories: multiple select
 ---
-## Make changes to multiple selected tasks at once
+You can select all tasks by pressing `Ctrl` + `A` (`⌘` + `A` for Mac), or multiple tasks with `Shift` + Upper Arrow, `Shift` + Down Arrow, `Shift` + Click and `⌘` + Click.
+
+Next, you can make changes to them at once by going to the bottom menu bar, by right-clicking on the selected tasks, or by hitting `@`, `<`, `#`, `!`, `^` on the keyboard. 
+
+**Tip:** Jump to the bottom menu bar after selecting the tasks by hitting `Tab` on your keyboard, then use the left/right arrow keys to choose the attributes.  
+{: .notice--info}
 
 
-You can select all tasks by pressing Ctrl + A (⌘ + A for Mac), or multiple tasks with Shift + Upper Arrow, Shift + Down Arrow, Shift + Click and ⌘ + Click.
+## Set assignee, tag, dates, priority and add tasks to board in batch
 
-Next, you can make changes to them at once by going to the bottom menu bar, by right-clicking on the selected tasks, or by using @, <, #, !, ^ on the keyboard. 
-
-Tip: Jump to the bottom menu bar after selecting the tasks by hitting Tab on your keyboard, then use the left/right arrow keys to choose the attributes.  
-
-### The bottom menu bar:
-
-batchbar.png
-
-### Right-click context menu:
-
-rightclick.png
-
-### Use @, <, #, !, ^ on the keyboard:
-
-@ - Add assignee
-< - Add due date
-#- Add tag
-! - Set priority
-^ - Add task to board 
-image.png
-
-
-
-
-
-## Add assignee, tag, dates and priority in batch
-
-You can select multiple tasks, and add one or more assignees, tags, start and/or due date, and priority to them at once.
+You can select multiple tasks then assign tags, due dates, assignees, priorities to them or add them to a board.
 
 ### To add assignees to tasks:
 
@@ -70,7 +48,7 @@ quire-m3-batch-assign-priority-task.png
 
 Tip: Or use ! after selecting the tasks, and use the up/down keys to choose which priority you would like to set the task to. 
 
-### To add a task to a board:
+### To add tasks to a board:
 
 Go to the “Board” icon in the bottom menu bar (or right-click to choose "Add to board") and select a board. 
 
