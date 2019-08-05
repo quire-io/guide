@@ -1,7 +1,7 @@
 ---
 title:  "External Team"
 permalink: /external-team/
-date:   2019-06-24 16:00:00 +0800
+date:   2019-08-05 15:00:00 +0800
 categories: external team
 ---
 You can outsource a task or more to a third party, namely the external team, without having them seeing your other tasks or any of your sensitive data. External team members only have access to the tasks assigned to them.

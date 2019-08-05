@@ -10,7 +10,6 @@ In the task's detail panel, click on **Options** and choose **Peekaboo** in the 
 
 ![peekaboo in the detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/peekaboo_detail_panel.jpg)
 
-
 You can also peekaboo a task by right-clicking and selecting **Peekaboo** in the context menu.
 
 ![peekaboo right click]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/peekaboo_right_click.jpg)
