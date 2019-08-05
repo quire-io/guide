@@ -4,30 +4,30 @@ permalink: /external-team/
 date:   2019-06-24 16:00:00 +0800
 categories: external team
 ---
-
 External teams are external members outside your teams. They only have access to the tasks assigned to them.
 
 ## Create an external team 
 
-To add an external team, go to a project's Options.
+Step 1: Click on the arrow sign beside the project's name.
 
-quire-m3-project-options.png
+![project options]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/project_options.png)
 
-Next, select "Edit members" in the dropdown.
+Step 2: Select **Edit members** in the dropdown.
 
-quire-project-options-edit-members.png
+![project options edit members]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/project_options_edit_members.png)
 
-In the Exteran Teams section, click on "+ Create new team" button.
+Step 3: In the Exteran Teams section, click on **+ Create new team**.
 
-quire-external-team.png
+![create new external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_create_new_team.png)
 
-Then, you choose a name for the team, and add people to it by entering their email addresses.
+Step 4: Choose a name for the team, and add people by entering their email addresses.
 
-quire-add-external-team.png
+![add new external team name]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_add_team_name.png)
 
-To edit an external team (eg. remove an external team member), hover the external team's name and click on the "pen" icon.
 
-quire-edit-external-team.png
+To edit an external team (eg. remove an external team member), hover the external team's name and click on the **pen** icon.
+
+![edit external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_team_edit.png)
 
 To delete an external team, hover the external team's name and click on the "trash" icon.
 
