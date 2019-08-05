@@ -4215,9 +4215,6 @@ kbr {
 figcaption {
   margin: 0 auto; }
 
-.hide {
-  display: inherit !important; }
-
 .page__content p {
   margin: 0 0 1.5em; }
 .page__content h2 {
@@ -4366,7 +4363,8 @@ figcaption {
 
 .search-content {
   display: none;
-  visibility: visible;
+  visibility: hidden;
+  opacity: 0;
   width: 100%;
   border-top: 1px solid #ededed;
   padding: 0;
@@ -4383,14 +4381,17 @@ figcaption {
     .search-content .search-input-container .search-input {
       padding: 12px 56px 12px 17px;
       height: 52px;
-      border-radius: 0px;
+      border-radius: 4px;
       color: rgba(0, 0, 0, 0.8);
       font-size: 22px;
       background-color: #f8f8f8; }
+      .search-content .search-input-container .search-input::placeholder {
+        color: rgba(0, 0, 0, 0.42);
+        font-style: normal; }
     .search-content .search-input-container .search-close {
       position: absolute;
-      right: 0;
-      width: 56px;
+      right: 24px;
+      width: 24px;
       height: 52px;
       padding: 14px; }
       .search-content .search-input-container .search-close:before {
@@ -4405,7 +4406,9 @@ figcaption {
     .search-content .results-container .results-panel {
       margin: 0 auto; }
       .search-content .results-container .results-panel .results-margin {
-        margin: 0 56px 0 2em;
+        margin: 0 3em 0 2em;
+        border-radius: 4px;
+        padding: 8px;
         border: 1px solid #ededed;
         box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.05);
         overflow: auto;
@@ -4429,10 +4432,15 @@ figcaption {
         color: #9ac656; }
 
 .searching .results-container {
-  display: block; }
+  display: block;
+  visibility: visible;
+  opacity: 1; }
 
 .open-search .search-content {
-  display: block; }
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 0.2s linear; }
 
 #main #cse-search-input-box-id::placeholder {
   color: rgba(0, 0, 0, 0.42);
@@ -4459,7 +4467,11 @@ figcaption {
   right: auto;
   background-color: white;
   margin-right: 12px;
+  font-family: 'QuireIcons' !important;
   content: "\e990"; }
+
+#header .t-user a {
+  margin: 6px 0; }
 
 .header-wrap {
   margin-bottom: 1px solid #ededed; }
@@ -4468,6 +4480,8 @@ figcaption {
   .header-wrap .search-toggle a:before {
     font-size: 24px;
     color: rgba(0, 0, 0, 0.58); }
+  .header-wrap .navbar-nav .item .icon-search {
+    margin: 8px 32px 8px 0; }
 
 @media (min-width: 80em) {
   .page {
@@ -4486,7 +4500,7 @@ figcaption {
     max-width: 720px; }
 
   .results-panel {
-    max-width: 640px; }
+    max-width: 720px; }
 
   .sidebar {
     position: fixed;
@@ -4510,7 +4524,7 @@ figcaption {
       font-weight: 400;
       border: none;
       width: 100%;
-      margin-bottom: 0.5em; }
+      margin: 0.4em 0; }
       .sidebar label:hover {
         color: #9ac656;
         border: inherit;
@@ -4522,12 +4536,13 @@ figcaption {
       background: inherit; }
     .sidebar input:checked ~ .nav__items {
       border-top: 1px solid #ededed;
-      margin-top: 0.25em;
+      margin-top: 0;
       padding-top: 1em; }
 
   .sticky-sidebar {
     overflow: hidden; }
     .sticky-sidebar #header {
+      pointer-events: none;
       opacity: 0.2; }
     .sticky-sidebar .sidebar {
       bottom: 0;

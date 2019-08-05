@@ -10,9 +10,11 @@ $(document).ready(function() {
 		var open = body.hasClass('open-search');
 		body.toggleClass('open-search', !open);
 		if (open) {
-			$('.search-input').focus();
-		} else {
 			$('.search-input').val('');
+		} else {
+			setTimeout(function() {
+				$('.search-input').focus();
+			});
 		}
 	}
 

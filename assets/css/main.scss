@@ -131,10 +131,6 @@ figcaption {
     margin: 0 auto;
 }
 
-.hide {
-	display: inherit !important;
-}
-
 .page__content { 
 	p {
 	    margin: 0 0 1.5em;
@@ -382,10 +378,10 @@ figcaption {
     padding-right: 2em;
 }
 
-$search-input-width: 56px;
 .search-content {
 	display: none;
-	visibility: visible;
+	visibility: hidden;
+	opacity: 0;
 	width: 100%;
 	border-top: 1px solid $border-color;
 	padding: 0;
@@ -401,22 +397,27 @@ $search-input-width: 56px;
 	.search-input-container {
 		margin: 12px auto;
     	position: relative;
-    	padding-right: $search-input-width;
+    	padding-right: 56px;
 
 		.search-input {
-			padding: 12px $search-input-width 12px 17px;
+			padding: 12px 56px 12px 17px;
 			height: 52px;
-	    	
-		    border-radius: 0px;
+
+	    	border-radius: 4px;
 		    color: rgba(0,0,0,0.8);
 		    font-size: 22px;
 		    background-color: #f8f8f8;
+
+		    &::placeholder {
+				color: rgba(0,0,0,0.42);
+				font-style: normal;
+		    }
 		}
 
 		.search-close {
 			position: absolute;
-			right: 0;
-			width: $search-input-width;
+			right: 24px;
+			width: 24px;
 			height: 52px;
 			padding: 14px;
 
@@ -438,7 +439,9 @@ $search-input-width: 56px;
 			margin: 0 auto;
 			
 			.results-margin {
-				margin: 0 $search-input-width 0 2em;
+				margin: 0 3em 0 2em;
+				border-radius: 4px;
+				padding: 8px;
 				border: 1px solid $border-color;
 				box-shadow: 0 12px 24px 0 rgba(0,0,0,0.05);
 				overflow: auto;
@@ -478,10 +481,16 @@ $search-input-width: 56px;
 
 .searching .results-container {
 	display: block;
+	visibility: visible;
+	opacity: 1;
 }
 
 .open-search .search-content {
 	display: block;
+	visibility: visible;
+	opacity: 1;
+
+	transition: visibility 0s, opacity 0.2s linear;
 }
 
 #main {
@@ -519,9 +528,13 @@ $search-input-width: 56px;
 		right: auto;
 		background-color: white;
 		margin-right: 12px;
-
+		font-family: 'QuireIcons' !important;
 		content: "\e990";
 	}
+}
+
+#header .t-user a {
+	margin: 6px 0;
 }
 
 .header-wrap {
@@ -539,6 +552,10 @@ $search-input-width: 56px;
 			color: rgba(0,0,0,0.58);
 		}
 	}
+
+	.navbar-nav .item .icon-search {
+    	margin: 8px 32px 8px 0;
+    }
 }
 
 @media (min-width: 80em) {
@@ -569,7 +586,7 @@ $search-input-width: 56px;
 	}
 
 	.results-panel {
-		max-width: 720px - 80px;
+		max-width: 720px;
 	}
 
 	.sidebar {
@@ -601,7 +618,7 @@ $search-input-width: 56px;
 		    font-weight: 400;
 		    border: none;
 		    width: 100%;
-		    margin-bottom: 0.5em;
+		    margin: 0.4em 0;
 
 		    &:hover {
 			    color: #9ac656;
@@ -622,7 +639,7 @@ $search-input-width: 56px;
 
 			& ~ .nav__items {
 			    border-top: 1px solid $border-color;
-			    margin-top: 0.25em;
+			    margin-top: 0;
 			    padding-top: 1em;
 		    }
 		}
@@ -631,7 +648,9 @@ $search-input-width: 56px;
 	.sticky-sidebar {
 		overflow: hidden;
 
+
 		#header {
+			pointer-events: none;
 			opacity: 0.2;
 		}
 

@@ -11,15 +11,15 @@
     <meta property="og:site_name" content="Quire & You">
     <meta property="og:locale" content="">
     
-      <meta property="article:modified_time" content="2019-06-24T16:02:00+08:00">
-      <meta property="article:published_time" content="2019-06-24T16:02:00+08:00">
+      <meta property="article:modified_time" content="2019-08-02T16:00:00+08:00">
+      <meta property="article:published_time" content="2019-08-02T16:00:00+08:00">
       <meta property="article:author" content="https://www.facebook.com/">
       
     
 
     
       
-      <meta property="article:section" content="zoom">
+      <meta property="article:section" content="move">
       
     
 
@@ -42,11 +42,11 @@
     <link rel="canonical" href="https://quire.io/guide/move-tasks/">
 
     
-      <link rel="next" href="/guide/share-link/" title="Share Link">
+      <link rel="next" href="/guide/multiple-select/" title="Multiple Select">
     
 
     
-      <link rel="prev" href="/guide/external-team/" title="External Team">
+      <link rel="prev" href="/guide/favorite-follow-task/" title="Mark your Tasks">
     
 
 
@@ -88,7 +88,7 @@
 
 
 
-  <meta property="article:published_time" content="2019-06-24T16:02:00+08:00">
+  <meta property="article:published_time" content="2019-08-02T16:00:00+08:00">
 
 
 
@@ -160,9 +160,6 @@
         class="header-wrap navbar navbar-default navbar-fixed-top">
         <div id="header" class="container">
           <div id="quire-logo" class="navbar-header">
-  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
-    <span>toggle menu</span>
-  </button>
   <h1 class="quire-logo-icon">
     <em>
       <a id="home" href="/" title="Quire">
@@ -173,6 +170,9 @@
   <div class="self-label">
     <a id="self" href="/guide">Guide</a>
   </div>
+  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
+    <span>toggle menu</span>
+  </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
@@ -184,7 +184,7 @@
       <li class="item login">
           <a class="b green" href="/login?continue=/guide/move-tasks/">LOG IN</a>
       </li>
-      <li class="item start-free">
+      <li class="item start-free hide">
         <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
       </li>
       <li class="item go-to-project hide">
@@ -234,7 +234,7 @@
             </div>
             <div class="search-input-container">
               <a class="search-close icon-cross"></a>
-              <input type="search" id="search" class="search-input" placeholder="Search..." autofocus />
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
             </div>
           </div>
         
@@ -1458,7 +1458,7 @@
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Move Tasks">
     <meta itemprop="description" content="No one can anticipate every change that comes in the future. You can quickly and easily move your task(s) in the tree list or to other projects to adapt to any change.">
-    <meta itemprop="datePublished" content="June 24, 2019">
+    <meta itemprop="datePublished" content="August 02, 2019">
     
 
     <div class="page__inner-wrap">
@@ -1477,81 +1477,89 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 <h2 id="drag-and-drop">Drag and drop</h2>
 
-<p>You can drag and drop a task or multiple tasks to rearrange the order both horizontally and vertically.</p>
+<p>You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.</p>
 
-<p>quire drag &amp; drop.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/drag_and_drop.png" alt="drag and drop" /></p>
 
-<p>quire drag &amp; drop multi select.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/multiple_drag_and_drop.png" alt="drag and drop multiple tasks" /></p>
 
-<p>You can also drag and drop task(s) to a different project in the sidebar.</p>
+<p>You can also drag and drop task(s) in the sidebar to transfer them to another project.</p>
 
-<p>quire drag tasks to sidebar project.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/drag_tasks_to_sidebar.png" alt="drag task to sidebar" /></p>
 
 <p>In filter view, you can even drag and drop task(s) to reassign an assignee or multiple assignees, a priority, and a due date.</p>
 
-<p>quire drag to assign in filter view.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/drag_assign_filter_view.png" alt="drag to assgin in filter view" /></p>
 
 <h2 id="duplicate-a-task">Duplicate a task</h2>
 
-<p>You may have a project with similar tasks. Quire lets you to duplicate a task, so you can use it as a template for your new tasks.</p>
+<p>You may have projects with similar tasks. Quire lets you to duplicate a task, so you can use it as a template for your new tasks.</p>
 
-<p>To duplicate a task, click on the “options” icon in the detail panel and select “Duplicate this task.”</p>
+<p>To duplicate a task, click on the <strong>options</strong> icon in the detail panel and select <strong>Duplicate this task</strong>.</p>
 
-<p>quire m2 detail panel duplicate task.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/duplicate_detail_panel.png" alt="detail panel duplicate this task" /></p>
 
-<p>You can also duplicate a task or more by right-clicking on them, and selecting “Duplicate” in the context menu.</p>
+<p>You can also duplicate a task by right-clicking on the task, and selecting <strong>Duplicate</strong> in the context menu.</p>
 
-<p>quire m2 right-click context menu duplicate task.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/duplicate_right_click.png" alt="right-click duplicate" /></p>
 
-<p>Or much more easier , simply press Ctrl (⌘ for Mac)+C to copy and then Ctrl+V to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste.</p>
+<p>Or much more easier , simply press <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">⌘</code> for Mac) + <code class="highlighter-rouge">C</code> to copy and then <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">V</code> to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste.</p>
 
-<p>image.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/copy_paste_right_click.png" alt="right-click copy and paste" /></p>
 
 <h2 id="transfer-a-task">Transfer a task</h2>
 
-<p>You may have tasks belonging to the wrong project.</p>
+<p>You may have tasks belonging to the wrong project. You can transfer (aka move) them to a different project.</p>
 
-<p>To transfer (aka move) a task to a different project, first click on the “options” icon in the detail panel and select “Transfer this task.”</p>
+<p>Step 1: Click on the <strong>options</strong> icon in the detail panel and select <strong>Transfer this task</strong>.</p>
 
-<p>quire m2 transfer task.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/transfer_detail_panel.png" alt="detail panel transfer this task" /></p>
 
-<p>Next, choose the project the task belongs to.</p>
+<p>Step 2: Choose the project the task belongs to.</p>
 
-<p>quire m2 transfer task dialogue.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/transfer_dialogue.png" alt="transfer task" /></p>
 
-<p>You can also transfer a task or more by right-clicking on them, and selecting “Transfer to” in the context menu.</p>
+<p>You can also transfer a task or more by right-clicking on them, and selecting <strong>Transfer to</strong> in the context menu.</p>
 
-<p>quire m2 right-click context menu transfer task.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/transfer_right_click.png" alt="right-click transfer" /></p>
 
 <h2 id="merge-a-task">Merge a task</h2>
 
 <p>When you have the same tasks, you can merge one into another.</p>
 
-<p>First, in the task’s detail panel, click on Options and choose “Merge this task” in the dropdown.</p>
+<p>Step 1: Click on the <strong>options</strong> icon in the detail panel and select <strong>Merge this task</strong>.</p>
 
-<p>image.png</p>
+<p><img src="https://quire.io/guide/assets/images/move-tasks/merge_detail_panel.png" alt="detail panel merge this task" /></p>
 
-<p>Next, type the name or the ID of the task you want to merge into, select it and click on Merge.
-quire merge tasks 3.png</p>
+<p>Step 2: Type in the name or the ID of the task you want to merge with, and click on <strong>Merge</strong>.</p>
+
+<p><img src="https://quire.io/guide/assets/images/move-tasks/merge_dialogue.png" alt="merge task" /></p>
 
 <p>This duplicate task will close and all of its favorites and followers will be added to the task you’ve selected.</p>
 
-<p>Note: Assignees and attachments from the duplicate task won’t be copied over.</p>
+<p class="notice--warning">Note: Assignees and attachments from the duplicate task won’t be copied over.</p>
 
 <h2 id="using-shortcuts">Using shortcuts</h2>
 
-<p>You can quickly reorder your tasks when they are in focus using Ctrl (Alt for Mac )+Arrow or Ctrl (⌘ for Mac)+X:</p>
+<p>You can quickly reorder your tasks when they are in focus using <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">Alt</code> for Mac )+ Arrow or <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">⌘</code> for Mac)+ <code class="highlighter-rouge">X</code>:</p>
 
-<p>Press Ctrl+Up or Alt+Up to move tasks up
-Press Ctrl+Down or Alt+Down to move tasks down
-Press Ctrl+Left or Alt+Left to move tasks a level up
-Press Ctrl+Right or Alt+Right to move tasks a level down
-Press Ctrl+X to cut a task and then Ctrl+V to paste it somewhere else. 
-You can also indent your task when it is in edit mode:</p>
+<ul>
+  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">Up</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Up</code> to move tasks up</li>
+  <li>Press <code class="highlighter-rouge">Ctrl</code>+ <code class="highlighter-rouge">Down</code> or <code class="highlighter-rouge">Alt</code>+ <code class="highlighter-rouge">Down</code> to move tasks down</li>
+  <li>Press <code class="highlighter-rouge">Ctrl</code>+ <code class="highlighter-rouge">Left</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Left</code> to move tasks a level up</li>
+  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">Right</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Right</code> to move tasks a level down</li>
+  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">X</code> to cut a task and then <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">V</code> to paste it somewhere else</li>
+</ul>
 
-<p>Press Tab to indent the task
-Press Shift+Tab to un-indent the task
-Tip: Press Ctrl+F1 or Fn+F1 (for Mac) to see a complete list of shortcuts.</p>
+<p>You can also indent your task when it is in edit mode:</p>
+
+<ul>
+  <li>Press <code class="highlighter-rouge">Tab</code> to indent the task</li>
+  <li>Press <code class="highlighter-rouge">Shift</code> + <code class="highlighter-rouge">Tab</code> to un-indent the task</li>
+</ul>
+
+<p class="notice--info"><strong>Tip:</strong> Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">F1</code> or <code class="highlighter-rouge">Fn</code> + <code class="highlighter-rouge">F1</code> (for Mac) to see a complete list of shortcuts.</p>
+
 
         
       </section>
@@ -1562,7 +1570,7 @@ Tip: Press Ctrl+F1 or Fn+F1 (for Mac) to see a complete list of shortcuts.</p>
 
 
         
-          <p class="page__date">Last updated on <time datetime="2019-06-24T16:02:00+08:00">June 24, 2019</time></p>
+          <p class="page__date">Last updated on <time datetime="2019-08-02T16:00:00+08:00">August 02, 2019</time></p>
         
       </footer>
 
@@ -1571,12 +1579,12 @@ Tip: Press Ctrl+F1 or Fn+F1 (for Mac) to see a complete list of shortcuts.</p>
       
   <nav class="pagination">
     
-      <a href="/guide/external-team/" class="pagination--pager prev" title="External Team
-">External Team</a>    
+      <a href="/guide/favorite-follow-task/" class="pagination--pager prev" title="Mark your Tasks
+">Mark your Tasks</a>    
     
     
-      <a href="/guide/share-link/" class="pagination--pager next" title="Share Link
-">Share Link</a>
+      <a href="/guide/multiple-select/" class="pagination--pager next" title="Multiple Select
+">Multiple Select</a>
     
   </nav>
 

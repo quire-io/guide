@@ -42,7 +42,7 @@
     <link rel="canonical" href="https://quire.io/guide/set-date-time/">
 
     
-      <link rel="next" href="/guide/favorite-follow-task/" title="Mark your Tasks">
+      <link rel="next" href="/guide/attachments/" title="Attachments">
     
 
     
@@ -160,9 +160,6 @@
         class="header-wrap navbar navbar-default navbar-fixed-top">
         <div id="header" class="container">
           <div id="quire-logo" class="navbar-header">
-  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
-    <span>toggle menu</span>
-  </button>
   <h1 class="quire-logo-icon">
     <em>
       <a id="home" href="/" title="Quire">
@@ -173,6 +170,9 @@
   <div class="self-label">
     <a id="self" href="/guide">Guide</a>
   </div>
+  <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
+    <span>toggle menu</span>
+  </button>
 </div>
 <nav class="navbar-collapse bs-navbar-collapse collapse" role="navigation">
   <ul id="header-icons" class="nav navbar-nav navbar-right hide">
@@ -184,7 +184,7 @@
       <li class="item login">
           <a class="b green" href="/login?continue=/guide/set-date-time/">LOG IN</a>
       </li>
-      <li class="item start-free">
+      <li class="item start-free hide">
         <a href="/signup" class="start-free-btn b green">SIGN UP FOR FREE</a>
       </li>
       <li class="item go-to-project hide">
@@ -234,7 +234,7 @@
             </div>
             <div class="search-input-container">
               <a class="search-close icon-cross"></a>
-              <input type="search" id="search" class="search-input" placeholder="Search..." autofocus />
+              <input type="search" id="search" class="search-input" placeholder="Search" autofocus autocomplete="off" />
             </div>
           </div>
         
@@ -1589,8 +1589,8 @@
 ">Add Tasks and Subtasks</a>    
     
     
-      <a href="/guide/favorite-follow-task/" class="pagination--pager next" title="Mark your Tasks
-">Mark your Tasks</a>
+      <a href="/guide/attachments/" class="pagination--pager next" title="Attachments
+">Attachments</a>
     
   </nav>
 
