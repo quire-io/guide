@@ -6,4 +6,4 @@ categories: multiple boards
 ---
 You can create multiple boards for one project. For example, a board for each milestone of your project. To switch between the boards, tap open the dropdown menu and choose a board.
 
-![multiple boards]({{ site.url }}{{ site.baseurl }}/assets/images/board-overview/multiple_boards.png)
+![multiple boards]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-boards/multiple_boards.png)
