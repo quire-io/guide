@@ -8,9 +8,9 @@ categories: set due dates
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-#### 3 ways to add a due date:
+**3 ways to add a due date:**
 
-1. Click on the **date** icon
+1. Click on the **date** icon.
 
     ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
@@ -24,7 +24,7 @@ Click `None` to clear the due date.
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-#### To add due time:
+**To add due time:**
 
 Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
 
@@ -41,7 +41,7 @@ You can either hit the up or down arrow on your keyboard to select the due time,
 
 You can decide when you would like to start working on a task.
 
-#### 3 ways to add a start date:
+**3 ways to add a start date:**
 
 1. Click on the **date** icon.
 
@@ -60,7 +60,7 @@ Then, you can either pick, or enter a date in the **Start** field.
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
 
 
-#### To add start time:
+**To add start time:**
 
 Toggle on **Set time** at the bottom of the date picker.
 
