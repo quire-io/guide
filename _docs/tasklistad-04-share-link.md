@@ -6,7 +6,7 @@ categories: share link
 ---
 You can send a share link of your project to your clients, so they can access your project without signup.
 
-### To create a share link:
+**To create a share link:**
 
 Step 1: Click on the little arrow beside your project's name, and choose **Edit members**. 
 
@@ -28,7 +28,7 @@ Step 4: Copy the generated link and send it to your clients.
 {: .notice--warning}
 
 
-### To edit a shared link:
+**To edit a shared link:**
 
 You can edit an existing shared link to give it a new deadline.
 

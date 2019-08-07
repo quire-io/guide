@@ -28,7 +28,7 @@ Right-click on a task to bring out the context menu.
 ## Bottom menu bar
 After multiple selecting tasks, the bottom menu bar will reveal. 
 
-Learn more on [Multiple Assigning tasks](/guide/multiple-select/).
+Learn more on [multiple assigning tasks](/guide/multiple-select/).
 {: .notice}
 
 

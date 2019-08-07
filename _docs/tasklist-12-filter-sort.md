@@ -28,7 +28,7 @@ Or you can save a filter by clicking on the **star** icon at the end of the filt
 
 ## Filter your tasks 
 
-### Priority
+**Priority**
 
 You can filter to see a certain priority: **Urgent**, **High**, **Medium** or **Low**.
 
@@ -44,7 +44,7 @@ You can also right-click on a task's priority, and select the priority you want 
 
 ![filter by priority with right-click]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_priority_right_click.png)
 
-### Tags
+**Tags**
 
 You can filter by tag to focus on tasks belonging to a certain context (eg. RD or Sales) or property (eg. Client or Location).
 
@@ -60,7 +60,7 @@ You can also right-click on a task's tag, and select the tag(s) you want to filt
 
 ![filter by tags with right-click]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_tags_right_click.png)
 
-### Boards
+**Boards**
 
 You can filter to see tasks that belong to a certain board.
 
@@ -75,7 +75,7 @@ To filter by more than one board, click on the **+** on the right of each board.
 Learn how to [add tasks to a board](/guide/add-tasks-to-board/).
 {: .notice}
 
-### My Tasks
+**My Tasks**
 
 You can filter to see all the tasks that are assigned to you.  
 
@@ -84,8 +84,7 @@ Click on the **filter** icon, select Customize, and choose filter by My Tasks.
 ![filter by My Tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_my_tasks.png)
 
 
-
-### Unread
+**Unread**
 
 You can filter to see all the tasks you haven’t read yet. 
 
@@ -94,7 +93,7 @@ Click on the **filter** icon, select Customize, and choose Unread.
 ![filter by unread]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_unread.png)
 
 
-### Favorited by me
+**Favorited by me**
 
 You can filter to see all tasks favorited by you.
 
@@ -106,7 +105,7 @@ Learn how to [favorite a task](/guide/favorite-follow-task/).
 {: .notice}
 
 
-### Followed by me
+**Followed by me**
 
 You can see all the tasks that are followed by you using this filter.
 
@@ -118,7 +117,7 @@ Learn how to [follow a task](/guide/favorite-follow-task/).
 {: .notice}
 
 
-### Assigned to / Assigned by
+**Assigned to / Assigned by**
 
 You can see all the tasks which a particular assignee is responsible for by filtering with the condition **Assigned to**.
 
@@ -132,7 +131,7 @@ Learn how to [assign a task](/guide/set-assignee/).
 {: .notice}
 
 
-### Created by
+**Created by**
 
 You can filter by to see all tasks created by a certain member.
 
@@ -146,7 +145,7 @@ Click on the **filter** icon, select Customize, and choose a member from Created
 
 ## Sort your tasks 
 
-### Priority
+**Priority**
 
 You can sort your tasks by Priority to see tasks in the order of urgency.
 
@@ -154,7 +153,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Priority.
 
 ![sort by priority]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_priority.png)
 
-### Assignee
+**Assignee**
 
 You can sort your tasks by Assignee to see who is responsible for what tasks in a glance.
 
@@ -162,7 +161,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Assignee.
 
 ![sort by assignee]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_assignee.png)
 
-### Status
+**Status**
 
 You can sort your tasks by Status to see the progress of your tasks.
 
@@ -170,7 +169,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Status.
 
 ![sort by status]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_status.png)
 
-### Date
+**Date**
 
 You can sort your tasks by Date to see tasks in the order that they're due.
 
@@ -178,7 +177,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Date.
 
 ![sort by date]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_date.png)
 
-### Due Per Week
+**Due Per Week**
 
 You can sort your tasks by Due Per Week to see what tasks are due in each week.
 
@@ -187,7 +186,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Due Per Wee
 ![sort by due per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_due_per_week.png)
 
 
-### Due Per Day
+**Due Per Day**
 
 You can sort your tasks by Due Per Day to see what tasks are due each day.
 
@@ -195,7 +194,7 @@ Click on the **filter** icon, click on Customize, and choose sort Due Per Day.
 
 ![sort by due per day]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_due_per_day.png)
 
-### Start Per Week
+**Start Per Week**
 
 You can sort your tasks by Start Per Week to see tasks you've started to work on each week.
 
@@ -204,7 +203,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Start Per W
 ![sort by start per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_start_per_week.png)
 
 
-### Create Per Week
+**Create Per Week**
 
 You can sort your tasks by Created Per Week to see tasks you've created in each week.
 
@@ -216,7 +215,7 @@ Click on the **filter** icon, click on Customize, and choose Create Per Week.
 {: .notice--warning}
 
 
-### Update Per Week
+**Update Per Week**
 
 You can sort your tasks by Update Per Week to see what tasks have been last modified in each week.
 
@@ -228,7 +227,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Update Per 
 {: .notice--warning}
 
 
-### Complete Per Week
+**Complete Per Week**
 
 You can sort your tasks by Complete Per Week to see tasks you've completed in each week.
 
@@ -241,7 +240,7 @@ Also, when sorted by complete per week, you won't be able to add and move tasks.
 {: .notice--warning}
 
 
-### Name
+**Name**
 
 You can sort your tasks by Name to see tasks ordered alphabetically.
 

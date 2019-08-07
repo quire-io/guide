@@ -13,7 +13,8 @@ For a basic cheat sheet of Quire's Markdown, click on the ![markdown icon]({{ si
 
 For example, you can type the following in a task name, description and comment:
 
-### Color
+**Color**
+
 `{css-style| text} (eg., {color: red|text})`
 
 Let's say you type the following;
@@ -24,19 +25,23 @@ The task list will look like this:
 
 ![markdown color task name]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_color_text_2.png)
 
-### Bold
+**Bold**
+
 `**text**`
 
-### Italic
+**Italic**
+
 `*text*`
 
 **Note:** You can also make your project or organizaton name bold and/or italic.
 {: .notice--warning}
 
-### Underline
+**Underline**
+
 `_text_`
 
-### Strikethrough (Crossed Out)
+**Strikethrough (Crossed Out)**
+
 `~text~`
 
 **Tip:** To quickly add some of the basic styles, simply type `{` and select the style you want.
@@ -44,30 +49,33 @@ The task list will look like this:
 
 ![markdown quick add color to text]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_quick_add_color.png)
 
-### Code
+**Code**
+
 ``text``
 
-### Headers
+**Headers**
+
 `# H1` <br>
 `## H2` <br>
 `### H3` <br>
 
 
-### Numbered List
+**Numbered List**
+
 `1. step1`<br>
 `1. step2`
 
-### Bulleted List
+**Bulleted List**
 
 `* item1`<br>
 `* item2`
 
-### Link
+**Link**
 
 `http://example.com/path`<br>
 `[This link](http://example.com/path)`
 
-### Table
+**Table**
 
 `| Left   | Center   | Right |` <br>
 `| :------ |:-----------:| ------:|` <br>
@@ -79,7 +87,8 @@ The task list will look like this:
 {: .notice--info}
 
 
-### Characters
+**Characters**
+
 You can type `&yen;`, `&reg;`, `&#8451;` and`&#x263B;` which will turn into ¥, ®, ℃, ☻, respectively. These are just a few examples of [html entities](https://www.w3schools.com/html/html_entities.asp) you can enter in a task name, description or comment.
 
 Check out our blog post for a complete [Markdown guide and cheat sheet](https://quire.io/blog/p/Our-Very-Own-Markdown.html). 
