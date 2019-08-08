@@ -120,7 +120,7 @@ td {
     border-bottom: 1px solid $border-color;
 }
 
-kbr {
+kbd {
     font-size: 0.9em;
     padding: 0.4em 0.46em;
     border-radius: 4px;
@@ -375,7 +375,6 @@ figcaption {
 
 #main, .search-input-container {
 	padding-left: 2em;
-    padding-right: 2em;
 }
 
 .search-content {
@@ -400,6 +399,8 @@ figcaption {
     	padding-right: 56px;
 
 		.search-input {
+			width: 100%;
+			display: block;
 			padding: 12px 56px 12px 17px;
 			height: 52px;
 
@@ -490,16 +491,7 @@ figcaption {
 	visibility: visible;
 	opacity: 1;
 
-	transition: visibility 0s, opacity 0.2s linear;
-}
-
-#main {
-    #cse-search-input-box-id {
-    	&::placeholder {
-			color: rgba(0,0,0,0.42);
-			font-style: normal;
-    	}
-    }
+	transition: visibility 0.1s, opacity 0.2s linear
 }
 
 #wrap {
@@ -524,7 +516,7 @@ figcaption {
 		position: inherit;
 		color: rgba(0,0,0,0.58);
 		font-size: 24px;
-		top: auto;
+		top: 3px;
 		right: auto;
 		background-color: white;
 		margin-right: 12px;
