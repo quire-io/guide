@@ -14,7 +14,7 @@ You can also hit `+` or `Ctrl` + `Enter` (`⌘` + `Enter` on Mac) to add a task 
 
 **Via mouse:**
 
-You can click on + at the upper-right of your workspace to add a task.
+You can click on `+` at the upper-right of your workspace to add a task.
 
 ![add task]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks/add_task.png)
 
