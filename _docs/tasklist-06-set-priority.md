@@ -1,7 +1,7 @@
 ---
 title:  "Set Priority"
 permalink: /set-priority/
-date:   2019-07-29 15:40:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: set priority
 ---
 To set priority to a task, click on the **arrow** icon in the middle main panel or hit `!` on the keyboard when the task(s) is selected. 

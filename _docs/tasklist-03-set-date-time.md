@@ -1,22 +1,22 @@
 ---
 title:  "Set Date and Time"
 permalink: /set-date-time/
-date:   2019-06-14 16:30:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: set due dates
 ---
 ## Set due date
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-**3 ways to add a due date:**
+**To add a due date:**
 
-1. Click on the **date** icon.
+- Click on the **date** icon.
 
-    ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
+	![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-1. Hit `<` on the keyboard when the task(s) is selected.
+- Hit `<` on the keyboard when the task(s) is selected.
 
-1. Type in `<` when editing a task. 
+- Type in `<` when editing a task. 
 
 Click on a shortcut, `Today`, `Tomorrow` or `Next Week` to add a due date much faster.
 
@@ -34,6 +34,8 @@ You can either hit the up or down arrow on your keyboard to select the due time,
 
 ![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_due_time.png)
 
+**Tip:** You can enable 24-hour time in the [Account Settings](https://quire.io/r/setting?tab=options). 
+{: .notice--info}
 
 
 
@@ -41,21 +43,22 @@ You can either hit the up or down arrow on your keyboard to select the due time,
 
 You can decide when you would like to start working on a task.
 
-**3 ways to add a start date:**
+**To add a start date:**
 
-1. Click on the **date** icon.
+Step 1: 
+- Click on the **date** icon.
 
 	![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-1. Hit `<` on the keyboard when the task(s) is selected.
+- Hit `<` on the keyboard when the task(s) is selected.
 
-1. Type in `<` when editing a task. 
+- Type in `<` when editing a task. 
 
-Next, click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**.
+Step 2: Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**.
 
 ![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-Then, you can either pick, or enter a date in the **Start** field.
+Step 3: You can either pick, or enter a date in the **Start** field.
 
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
 

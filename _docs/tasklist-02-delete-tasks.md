@@ -1,22 +1,22 @@
 ---
 title:  "Delete Tasks and Undo"
 permalink: /delete-task/
-date:   2019-07-25 16:30:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: delete tasks
 ---
 ## Delete a task
 
 **Delete a task in the main panel:**
 
-Step 1: Click on the task twice, and click on the **bin** icon in the main panel. 
+- Click on the task twice, and click on the **bin** icon in the main panel. 
 
 ![delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/delete_task.png)
 
-Step 2: Right-click on the task, and click on **Delete** in the context menu.
+- Right-click on the task, and click on **Delete** in the context menu.
 
 ![right click delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/right_click_delete.png)
 
-Step 3: Simply select a task and press `Ctrl` + `Delete` or `⌘` + `Delete` (on Mac). 
+- Simply select a task and press `Ctrl` + `Delete` or `⌘` + `Delete` (on Mac). 
 
 **Delete a task in the detail panel:**
 

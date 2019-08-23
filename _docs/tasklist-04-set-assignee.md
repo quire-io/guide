@@ -1,7 +1,7 @@
 ---
 title:  "Set Assignees"
 permalink: /set-assignee/
-date:   2019-07-29 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: set assignees
 ---
 ## Single assignee
@@ -12,7 +12,7 @@ To assign a task to a member, click on the **assignee** icon, and select the mem
 
 
 ## Multiple assignees
-To assign a task to more than one member (aka multiple members),click on the **assignee** icon, and then the **Add to assignees** icon on the right of each member's name.
+To assign a task to more than one member (aka multiple members), click on the **assignee** icon, and then the **Add to assignees** icon on the right of each member's name.
 
 ![set multiple assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/multiple_assignees.png)
 
@@ -21,7 +21,9 @@ You can also right-click on selected task(s) and select **Set assignees** to ass
 ![right click set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/right_click_set_assignees.png)
 
 
-For more details, you can check out here.
+For more details, you can check out our [blog post](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html).
+{: .notice}
+
 
 **Tip:** In the project's Settings page, under Options, you can check the **Multiple assignees** option to always add multiple assignees by default.
 {: .notice--info}
