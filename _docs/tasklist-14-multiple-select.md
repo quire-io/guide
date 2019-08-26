@@ -1,7 +1,7 @@
 ---
 title:  "Multiple Select"
 permalink: /multiple-select/
-date:   2019-08-05 14:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: multiple select
 ---
 You can select all tasks by pressing `Ctrl` + `A` (`⌘` + `A` for Mac), or multiple tasks with `Shift` + Upper Arrow, `Shift` + Down Arrow, `Shift` + Click and `⌘` + Click.

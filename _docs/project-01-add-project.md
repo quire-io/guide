@@ -1,7 +1,17 @@
 ---
 title:  "Add Project"
 permalink: /add-project/
-date:   2019-07-10 15:50:00 +0800
-categories: add delete project
+date:   2019-08-23 15:50:00 +0800
+categories: add project
 ---
 ## Add project 
+
+A Project is a collection of tasks. There is no limitation in the number of tasks you can add in one project. You can assign members for each task, add tags, set due days, etc. for better management of your project.
+
+There are 3 different views: the List view, Board view and Overview view.
+
+
+- Click on the **+** sign beside the search icon at the top right corner. 
+	![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_1.png)
+
+- Click on the arrow beside the organization name, then select **Add project**. 

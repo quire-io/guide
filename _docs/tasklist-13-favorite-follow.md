@@ -1,7 +1,7 @@
 ---
 title:  "Mark your Tasks"
 permalink: /favorite-follow-task/
-date:   2019-08-02 16:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: favorite follow tasks
 ---
 ## Favorite a task
