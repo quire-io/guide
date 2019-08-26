@@ -1,7 +1,7 @@
 ---
 title:  "Inline Assign"
 permalink: /inline-assign/
-date:   2019-07-30 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: inline assign
 ---
 You can add or edit the assignee, tags, start and due date and priority of a task with `@`, `#`, `<>` (with `;`) and `!` directly from the task name.

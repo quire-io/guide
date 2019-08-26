@@ -1,16 +1,16 @@
 ---
 title:  "Filters and Sorts"
 permalink: /filter-sort/
-date:   2019-08-02 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: filter sort
 ---
-You can filter/sort the tasks to focus on what mattes to you.
+You can filter/sort the tasks to focus on what matters to you.
 
 Step 1: Click on the **filter** icon under the navigation bar at the top.
 
 ![filter icon]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_icon.png)
 
-**Tip:** Jump to the filter icon from the selected task by hitting Shift+Tab on your keyboard, then use the down arrow to choose the filter conditions. 
+**Tip:** Jump to the filter icon from the selected task by hitting `Shift` + `Tab` on your keyboard, then use the down arrow to choose the filter conditions. 
 {: .notice--info}
 
 Step 2: Click on **Customize** to select the condition(s) you want to apply.

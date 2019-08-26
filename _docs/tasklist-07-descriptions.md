@@ -1,7 +1,7 @@
 ---
 title:  "Descriptions"
 permalink: /descriptions/
-date:   2019-07-29 15:46:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: add descriptions
 ---
 You can add a description, notes or any relevant details to a task in the detail panel. 

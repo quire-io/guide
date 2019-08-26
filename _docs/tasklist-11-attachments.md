@@ -1,7 +1,7 @@
 ---
 title:  "Attachments"
 permalink: /attachments/
-date:   2019-06-21 16:12:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: add attachments
 ---
 ## Upload files from your computer
@@ -43,7 +43,7 @@ Step 3: Click **Save**, it would look like this.
 
 ![embed image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/embed_image_2.png)
 
-Tip: If you use Chrome, you can copy and paste an image in a description or comment.
+**Tip:** If you use Chrome, you can copy and paste an image in a description or comment.
 {: .notice--info}
 
 
@@ -55,7 +55,7 @@ Step 1: Right-click on the image and select Copy.
 
 ![copy and paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/copy_paste_image.png)
 
-Step 2: Go to a description or comment, and right-click to select Paste (or press Ctrl + V).
+Step 2: Go to a description or comment, and right-click to select Paste (or hit `Ctrl` + `V`).
 
 ![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image.png)
 
@@ -63,6 +63,6 @@ The image would look like this:
 
 ![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image_2.png)
 
-Tip: You can also embed an image via drag & drop.
+**Tip:** You can also embed an image via drag & drop.
 {: .notice--info}
 
