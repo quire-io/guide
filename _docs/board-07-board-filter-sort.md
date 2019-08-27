@@ -1,7 +1,7 @@
 ---
 title:  "Swimlane"
 permalink:  /board-swimlane/
-date:   2019-07-10 15:50:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: board filter sort
 ---
 When your board is sorted by any categories, it immediately creates a visual swimlane for you to keep track of the project. 
