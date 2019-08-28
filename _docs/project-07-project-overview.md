@@ -1,31 +1,33 @@
 ---
 title: "Project Overview"
 permalink: /project-overview/
-date:   2019-07-10 16:27:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: project overview
 ---
 ## Track your project's progress
 
-Go to its Overview (or profile) by clicking on the Overview tab at the top.
+You can see the performance of your projects in their Overview page.
 
-image.png
+Click on the Overview tab at the top.
 
-This is what you will see:
+![project overview tab]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_overview_tab.png)
 
-image.png
+You can see the number of task in progress, and the percentage of tasks being completed in a project.
 
-Tip: The default time range for the progress stats is 6 months, you can narrow down the time range by selecting a range on the progress stats chart allowing it to zoom in. Press “Reset zoom” to go back to the default settings. 
+![project progress stats]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_progress_stats.png)
 
-zoom in progress stats.gif
+**Tip:** The default time range for the progress stats is 6 months, you can narrow down the time range by selecting a range on the progress stats chart allowing it to zoom in. Click on **Reset zoom** to go back to the default settings. 
+{: .notice--info}
+
+![project progress stats]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/progress_stats_zoom_in.gif)
 
 
 ## Project activity log 
+
 You can see what has been done to a project in its activity log.
 
-First, go to the project's Overview page.
+Step 1: Go to the project's Overview page.
 
-Next, scroll to the bottom and click on "Recent Activities”.
+Step 2: Scroll to the bottom and click on **Recent Activities**. You will see a record of the past actions done to the project.
 
-Then, you’d see a record of the past actions done to the project.
-
-Screen Shot 2016-06-27 at 10.38.04 AM.png
+![project activitiy log]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_activity_log.png)

@@ -1,7 +1,7 @@
 ---
 title:  "Print Out Task List"
 permalink: /print/
-date:   2019-08-06 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: print out task list
 ---
 Quire allows you to pretty-print your tasks so you can keep a hard copy of all your tasks in your hands.

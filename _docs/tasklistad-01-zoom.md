@@ -1,7 +1,7 @@
 ---
 title:  "Zoom"
 permalink: /zoom/
-date:   2019-08-05 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: zoom in zoom out
 ---
 To zoom in (aka drill down) a task, simply press `Z`, or click on the options icon in its detail panel and select **Zoom in**.

@@ -1,7 +1,7 @@
 ---
 title:  "Add and Edit Boards"
 permalink: /add-edit-board/
-date:   2019-08-06 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: add delete board
 ---
 ## Add a board

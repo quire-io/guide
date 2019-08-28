@@ -1,7 +1,7 @@
 ---
 title:  "Peekaboo"
 permalink: /peekaboo/
-date:   2019-08-05 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: peekaboo 
 ---
 When your list grows a tad overwhelming, you can pick several tasks that are not actionable at the moment and peekaboo them. The peekaboo tasks will remain hidden from the List/ Board view and reshow several days later. 

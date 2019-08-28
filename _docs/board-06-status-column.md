@@ -1,7 +1,7 @@
 ---
 title:  "Status Column"
 permalink: /status-column/
-date:   2019-08-06 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: status column
 ---
 ## Add a status column 

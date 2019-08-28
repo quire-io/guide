@@ -1,7 +1,7 @@
 ---
 title:  "Get Notified"
 permalink: /get-notified/
-date:   2019-08-05 16:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: get notified
 ---
 You will be notified of new updates, upcoming tasks or overdue tasks in different places.

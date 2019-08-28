@@ -1,7 +1,7 @@
 ---
 title:  "Task Activity Log"
 permalink: /activity-log/
-date:   2019-08-06 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: task activity log
 ---
 You can see what has been done to a task in its activity log.

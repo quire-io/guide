@@ -1,7 +1,7 @@
 ---
 title:  "Board Overview"
 permalink: /board-overview/
-date:   2019-08-06 15:00:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: board overview
 ---
 When it comes to executing a complicated project, a simple nested task list may not be enough. 
