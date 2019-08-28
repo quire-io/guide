@@ -123,6 +123,10 @@ docs:
         url: /organization-overview/
       - title: "Organization Members"
         url: /organization-members/
+      - title: "Leave Organization"
+        url: /leave-organization/
+      - title: "Delete Organization"
+        url: /delete-organization/
 
 
   - title: Sidebar
