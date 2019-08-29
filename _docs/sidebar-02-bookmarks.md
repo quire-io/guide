@@ -1,15 +1,13 @@
 ---
 title:  "Bookmarks"
 permalink: /bookmark/
-date:   2019-07-19 15:58:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: bookmarks
 ---
-Under Bookmarks, you will see projects you have bookmarked.
+You can bookmark a public (or your own private) project by going to **Recent**/**Projects** category at the left sidebar, and clicking on the **Bookmark** icon.
 
-You can bookmark a public (or your own private) project by going to Recent / Projects category in the left sidebar, and clicking on the “Bookmark” icon.
+![add project to bookmark]({{ site.url }}{{ site.baseurl }}/assets/images/bookmark/add_to_bookmark.png)
 
-image.png
+Once you bookmarked a project, it will appear under the category Bookmarks at the sidebar.
 
-Once you bookmarked a project, it will appear under the category Bookmarks in sidebar.
-
-image.png
+![projects under bookmark]({{ site.url }}{{ site.baseurl }}/assets/images/bookmark/project_under_bookmark.png)

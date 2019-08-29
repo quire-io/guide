@@ -8,7 +8,9 @@ categories: organization overview
 
 You can see the Organization progress statistic and the summary of each Project in the Organization. There are charts, percentages, and indicators to give you a comprehensive report of your Organization. 
 
-- Click on the organization in the sidebar. 
+![organization overview]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_overview.png)
+
+- Click on the organization at the sidebar. 
 
 	![organization in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_sidebar.png)
 
