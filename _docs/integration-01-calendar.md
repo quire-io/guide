@@ -1,55 +1,67 @@
 ---
 title:  "Calendar"
 permalink: /calendar/
-date:   2019-07-19 16:19:00 +0800
-categories: calendar
+date:   2019-08-23 15:00:00 +0800
+categories: calendars
 ---
 ## Sync to Google Calendar
 
-To sync your project with Google Calendar, click on the "arrow" icon beside the project name, and select Integrate Calendars.
+Step 1: Click on the arrow icon beside the project name, and select **Integrate Calendars**.
 
-quire-m3-project-integrate-calendar.png
+![integrate with calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/integrate_calendar.png)
 
-Next, choose the tasks and the calendar you want to sync to, and click on "Create Link".
+Step 2: Choose the tasks and the calendar you want to sync to, and click on **Create Link**.
 
-quire-m3-sync-to-google-calendar.png
+![sync with google calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_google_calendar.png)
 
-Follow the steps specified in the description.
+Step 3: Follow below steps.
 
-quire m2 google calendar_3.png
+- Copy the URL above.
+- Go to Google Calendar and find **Other calendars** in the bottom left.
+- Select **Add by URL** from the drop down menu.
+- Paste the URL in the dialogue and click on **Add Calendar**.
+
+**Note:** Only incomplete tasks with due dates will be shown. It may take a day for Google Calendar to be in sync.
+{: .notice--warning}
+
 
 ## Sync to iCal, Outlook or other calendar
 
-To sync your project to iCal, Outlook or other calendar, click on the "arrow" icon beside the project name, and select "Integrate Calendars".
+Step 1: Click on the arrow icon beside the project name, and select **Integrate Calendars**.
 
-quire-m3-project-integrate-calendar.png
+![integrate with calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/integrate_calendar.png)
 
-Next, choose the tasks and the calendar you want to sync to, and click on "Create Link".
+Step 2: Choose the tasks and the calendar you want to sync to, and click on **Create Link**.
 
-quire-m3-sync-to-google-calendar.png
+![sync with other calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_ical.png)
 
-Copy the URL shown and go to your calendar app.
+Step 3: Copy the URL shown and go to your calendar app.
 
-quire m2 ical outlook other calendar_2.png
+![sync with other calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_ical_2.png)
 
-### To sync to Apple Calendar (iCal):
-First, in Apple Calendar, click on File and select New Calendar Subscription.
+**Sync to Apple Calendar (iCal):**
 
-quire sync to apple calendar ical.png
+Step 1: In Apple Calendar, click on **File** and select **New Calendar Subscription**.
 
-Next, paste the URL you copied from Quire into the "Calendar URL" field and click on Subscribe.
+![sync with apple calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_apple_cal.png)
 
-quire sync to apple calendar ical 2.png
+Step 2: Paste the URL you copied from Quire into the **Calendar URL** field and click **Subscribe**.
 
-Then, you can select your preferences. We recommend setting auto-refresh to "Every 5 minutes." Once you are done, click on OK.
+![sync with apple calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_apple_cal_2.png)
 
-quire sync to apple calendar ical 3.png
+Step 3: Select your preferences. We recommend setting auto-refresh to **Every 5 minutes**. Once you are done, click on **OK**.
 
-### To sync to Outlook Calendar:
-First, in Outlook Calendar, click on Add Calendar and select From Internet.
+![sync with apple calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_apple_cal_3.png)
 
-quire sync to outlook calendar.png
+**Sync to Outlook Calendar:**
 
-Next, paste the URL you copied from Quire into the "Link to the calendar" field, enter a name, and Save.
+Step 1: In Outlook Calendar, click on **Add Calendar** and select **From Internet**.
 
-quire sync to outlook calendar 2.png
+![sync with outlook calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_outlook.png)
+
+Step 2: Paste the URL you copied from Quire into the **Link to the calendar**field, enter a name, and **Import**.
+
+![sync with outlook calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_outlook_2.png)
+
+**Note:** The update can take more than 24 hours. 
+{: .notice--warning}

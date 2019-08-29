@@ -4,24 +4,25 @@ permalink: /import-with-json/
 date:   2019-07-23 18:00:00 +0800
 categories: import with json file
 ---
+You can easily export your data from your current project management software to a JSON file, and import all of your data to Quire.
 
-1. Create a new project on Quire 
+Step 1: Create a new project on Quire. 
 
-1.create-project.png
+![create a project]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/create_project.png)
 
-2. Click on the dropdown menu next to your new project's name 
+Step 2: Click on the dropdown menu next to your new project's name. 
 
-2.menu.png
+![import_dropdown_menu]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/dropdown_menu.png)
 
-3. Select and import your local JSON file 
+Step 3: Select and import your local JSON file.
 
-3.select-file.png
+![select a JSON file]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/select_file.png)
 
-4. Successfully import your data to Quire 
+Step 4: Successfully import your data to Quire.
 
-4.import-quire.png
+![import to Quire]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/import_to_quire.png)
 
-Here's a blog for you if you need more details. :)
+Learn more details about importing data at our [blog post](https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html).
 
 ## Migrate from Asana
 

@@ -1,15 +1,15 @@
 ---
 title:  "Blink Search"
 permalink: /blink-search/
-date:   2019-07-12 16:10:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: blink search
 ---
-You can search almost anything, like projects, organizations, cross-projects and members with Blink Search via keywords or even your saved filters.
+You can search almost anything, like projects, organizations, and members or even your saved filters with **Blink Search**.
 
-First, click on its icon in the sidebar, or simply press Ctrl+B or ⌘+B (for Mac).
+Step 1: Hit `Ctrl` + `B` or `⌘` + `B` (for Mac).
 
-blink_search.png
+![blink search]({{ site.url }}{{ site.baseurl }}/assets/images/blink-search/blink_search_1.png)
 
-Next, you can enter any keyword to find what is on your mind.
+Step 2: Enter any keyword to find projects, organizations, etc. 
 
-quire m2 blink search.png
+![blink search popup]({{ site.url }}{{ site.baseurl }}/assets/images/blink-search/blink_search_2.png)
