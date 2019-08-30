@@ -1,10 +1,10 @@
 ---
 title:  "Keyboard Shortcut Cheetsheet"
 permalink: /keyboard-cheetsheet/
-date:   2019-07-23 18:30:00 +0800
+date:   2019-08-23 15:00:00 +0800
 categories: keyboard shortcut cheetsheet
 ---
-### Task Action
+**Task Action**
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
@@ -16,7 +16,7 @@ categories: keyboard shortcut cheetsheet
 | Undo | `⌘` + `Z` | `Ctrl` + `Z`  | 
 | Edit task name | `F2` or `⌥` + `↵` | `F2` or `Alt` + `↵` |
 
-#### Inline Features (works with multiple select tasks also) 
+**Inline Features (works with multiple select tasks also)**
 
 ||MacOS|Windows|
 |:------ |:-----| :-----|
@@ -31,7 +31,7 @@ categories: keyboard shortcut cheetsheet
 | Un-indent | `Shift` + `Tab` | `Shift` + `Tab` |
 | Remove an existing assignee, tags, etc. | `-` | `-` |
 
-### Main Panel
+**Main Panel**
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
@@ -58,7 +58,7 @@ categories: keyboard shortcut cheetsheet
 | Switch between different views | `(` or `)` |  `(` or `)`  |
 
 
-### Detail Panel
+**Detail Panel**
 
 |    | MacOS   | Windows |
 | :------|:-----| :-----|
@@ -69,7 +69,7 @@ categories: keyboard shortcut cheetsheet
 | Refer a task in description or comment | `#` | `#` |
 | Quote selected text in comment reply | `Ctrl` + `Q` | `Alt` + `Q` |
 
-### Help
+**Help**
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|

@@ -6,11 +6,11 @@ categories: get notified
 ---
 You will be notified of new updates, upcoming tasks or overdue tasks in different places.
 
-1. Bell icon at the upper-right corner of your Quire workspace.
+- Bell icon at the upper-right corner of your Quire workspace.
 
 	![bell icon notifications]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/notifications_quire_workspace.png)
 
-2. Your email inbox.
+- Your email inbox.
 
 	![email notifications]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/notifications_email.png)
 
