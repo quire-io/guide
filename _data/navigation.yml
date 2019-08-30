@@ -170,8 +170,8 @@ docs:
         url: /import-via-copy-paste/
       - title: "Import with JSON file"
         url: /import-with-json/
-      - title: "Copy from another Application"
-        url: /copy-from-application/
+      - title: "Copy to another Application"
+        url: /copy-to-application/
       - title: "Export to CSV/JSON file"
         url: /export-to-csv-json/
 
