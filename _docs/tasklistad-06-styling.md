@@ -4,14 +4,12 @@ permalink: /styling/
 date:   2019-08-23 15:00:00 +0800
 categories: styling
 ---
-You can add color, bold, italic, strikethrough, code,  as well as characters to your tasks, so they become more distinguishable.
+You can add color, bold, italic, strikethrough, code,  as well as characters to your task names, descriptions or comments, so they can stand out more.
 
 For a basic cheat sheet of Quire's Markdown, click on the ![markdown icon]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_icon.png)
  icon.
 
 ![markdown icon in detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_icon_detail_panel.png)
-
-For example, you can type the following in a task name, description and comment:
 
 **Color**
 
@@ -94,3 +92,8 @@ You can type `&yen;`, `&reg;`, `&#8451;` and`&#x263B;` which will turn into ¥, 
 Check out our blog post for a complete [Markdown guide and cheat sheet](https://quire.io/blog/p/Our-Very-Own-Markdown.html). 
 {: .notice}
 
+**Emojis**
+
+Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
+
+![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/styling/quire_emoji.png)

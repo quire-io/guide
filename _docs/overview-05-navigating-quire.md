@@ -4,18 +4,17 @@ permalink: /navigate-quire/
 date:   2019-06-13 16:10:00 +0800
 categories: navigation
 ---
-
 Learn how to navigate around Quire's workspace. 
 
-
 ## Project/Organization Dropdown Menu
+
 Click on the arrow beside the project or organization name to bring out more options. 
 
 ![project menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_projMenu.png)
 
 
-
 ## Right-click on task(s)
+
 Right-click on a task to bring out the context menu. 
 
 ![context menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
@@ -24,8 +23,8 @@ Right-click on a task to bring out the context menu.
 {: .notice--warning}
 
 
-
 ## Bottom menu bar
+
 After multiple selecting tasks, the bottom menu bar will reveal. 
 
 Learn more on [multiple assigning tasks](/guide/multiple-select/).
@@ -49,12 +48,14 @@ Learn more about [breadcrumbs](/guide/breadcrumbs/).
 
 
 ## Keyboard Shortcuts
-Hit `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a complete list of shortcuts to easily manage your tasks. (link to blog)
+
+Hit `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a complete list of shortcuts to easily manage your tasks.
 
 
 ![keyboard shortcuts]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_kb.png)
 
-
+Learn more about our [Keyboard Shortcuts](https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html) in our blog post. 
+{: .notice}
 
 ## Help
 Click on your profile picture for the dropdown menu to appear, then click on Help to access helpful resources. 

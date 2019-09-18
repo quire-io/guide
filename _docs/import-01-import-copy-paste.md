@@ -19,3 +19,4 @@ Step 2: Go to your Quire project, click on a task and right click to select **Pa
 If everything looks good, click **Paste**, or you can hit `Ctrl` + `V` again.
 
 Learn more details at our [blog post](https://quire.io/blog/p/How-to-migrate-to-Quire-Copy-and-paste.html). 
+{: .notice}

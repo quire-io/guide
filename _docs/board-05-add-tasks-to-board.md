@@ -6,7 +6,7 @@ categories: add tasks to board
 ---
 ## Add existing tasks 
 
-To add existing tasks, click on the **+** sign at the top right corner of each column. 
+In the Board view, click on the **+** sign at the top right corner of each column. 
 
 ![add existing task to board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_add_existing_tasks.png)
 
@@ -20,11 +20,18 @@ To add existing tasks, click on the **+** sign at the top right corner of each c
 
 ![status change in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_status_change.png)
 
+Or from the List view, you can right-click to choose **Add to board** and select a board. Or hit `^` on the keyboard then use the up/down arrow key to choose which board you want to add to.
+
+![add tasks to board in List view]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/add_tasks_to_board_list.png)
+
+**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
+{: .notice--warning}
+
 ## Create new tasks
 
-To create a new task, click on the **+** sign at the top right corner of each column.
+In the Board view, click on the **+** sign at the top right corner of each column.
 
-Press `Enter` to continue to add new tasks. When done, press `Esc` to finish.   
+Hit `Enter` to continue to add new tasks. When done, hit `Esc` to finish.   
 
 ![create new task in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/create_new_task.png)
 

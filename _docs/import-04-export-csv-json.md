@@ -14,5 +14,5 @@ Step 2: Select **Export CSV or JSON** in the dropdown.
 
 ![export project to CSV or JSON file]({{ site.url }}{{ site.baseurl }}/assets/images/export-to-csv-json/export_project_context_menu.png)
 
-Learn more on Turning projects into Customizable Report at our [blog post](https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html). 
+Learn more on Turning projects into Customizable Report in our [blog post](https://quire.io/blog/p/Turn-Your-Projects-into-Customizable-Reports-in-Excel.html). 
 {: .notice}
