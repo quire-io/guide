@@ -31,3 +31,14 @@ Step 1: Go to the project's Overview page.
 Step 2: Scroll to the bottom and click on **Recent Activities**. You will see a record of the past actions done to the project.
 
 ![project activitiy log]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_activity_log.png)
+
+
+## Post comments 
+
+Discuss and show what you have accomplished in the comments area. 
+
+Step 1: Go to the project’s Overview page.
+
+Step 2: Hit Spacebar to open up the detail panel. 
+
+![project comments]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/open_detail_panel.png)

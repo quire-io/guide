@@ -119,6 +119,8 @@ docs:
     children:
       - title: "Add Organization"
         url: /add-organization/
+      - title: "Edit Organization"
+        url: /edit-organization/
       - title: "Organization Overview"
         url: /organization-overview/
       - title: "Organization Members"
