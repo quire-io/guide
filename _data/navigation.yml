@@ -73,7 +73,7 @@ docs:
 
   - title: Board
     children:
-      - title: "Board Overview"
+      - title: "Board Introduction"
         url: /board-overview/
       - title:  "Add and Edit Boards"
         url: /add-edit-board/

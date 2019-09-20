@@ -35,7 +35,7 @@ Step 2: Scroll to the bottom and click on **Recent Activities**. You will see a 
 
 ## Post comments 
 
-Discuss and show what you have accomplished in the comments area. 
+You can discuss and chat about what you have accomplished with other project members in the comment area. 
 
 Step 1: Go to the project’s Overview page.
 

@@ -1,5 +1,5 @@
 ---
-title:  "Board Overview"
+title:  "Board Introduction"
 permalink: /board-overview/
 date:   2019-08-23 15:00:00 +0800
 categories: board overview
