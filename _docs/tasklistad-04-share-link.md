@@ -10,7 +10,7 @@ You can send a share link of your project to your clients, so they can access yo
 
 Step 1: Click on the little arrow beside your project's name, and choose **Edit members**. 
 
-![edit members to share link]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_edit_members.png)
+![edit members to share link]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/edit_members.png)
 
 Step 2: Scroll down to Shared Links, and click the **+ Create new link** button.
 
@@ -22,9 +22,9 @@ Step 3: Select an expiry date for the share link.
 
 Step 4: Copy the generated link and send it to your clients.
 
-![share link to clients]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_copy_link.png)
+![share link to clients]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_expiry_date_copy.png)
 
-**Note:** Anyone will the link will be able to view your project.
+**Note:** Anyone with the link will be able to view your project.
 {: .notice--warning}
 
 

@@ -10,15 +10,13 @@ You can outsource a task or more to a third party, namely the external team, wit
 
 Step 1: Click on the arrow sign beside the project's name.
 
-![project options]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/project_options.png)
-
 Step 2: Select **Edit members** in the dropdown.
 
-![project options edit members]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/project_options_edit_members.png)
+![project options edit members]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/edit_members.png)
 
-Step 3: In the Exteran Teams section, click on **+ Create new team**.
+Step 3: In the External Teams section, click on **+ Create new team**.
 
-![create new external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_create_new_team.png)
+![create new external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/create_external_team.png)
 
 Step 4: Choose a name for the team, and add people by entering their email addresses.
 
@@ -40,7 +38,7 @@ To delete an external team, hover the external team's name and click on the "tra
 
 Simply click on the **assignee** icon of a task, and turn on the **Assign an external team**.
 
-![assign tasks to external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/assign_tasks_external_team.png)
+![assign tasks to external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/assignee_tasks_external_team.png)
 
 Check out our blog post about [External Team](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html).
 {: .notice}
