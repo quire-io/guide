@@ -8,15 +8,15 @@ categories: assign tags
 
 ## Add, edit or delete a tag
 
-You can add, edit, or delete a tag in both the main panel and the detail panel.
+You can add, edit, or delete a tag in both the **main panel** and the **detail panel**.
 
-**To add a new tag:**
+#### To add a new tag:
 
 Click on the **tag** icon, type a tag name and press Enter.
 
 ![add new tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/add_new_tags.png)
 
-**To add an existing tag:**
+#### To add an existing tag:
 
 Click on the **tag** icon of a task to select the tag or hit `#` on the keyboard when the task(s) is selected. 
 
@@ -25,7 +25,7 @@ Click on the **tag** icon of a task to select the tag or hit `#` on the keyboard
 **Tip:** Drag and drop the tags to reorder them. 
 {: .notice--info}
 
-**To edit and delete tags:**
+#### To edit and delete tags:
 
 Click on the tag, click on the pen icon, and you can choose to change color, rename or delete it.
 

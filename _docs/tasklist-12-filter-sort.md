@@ -25,11 +25,63 @@ Or you can save a filter by clicking on the **star** icon at the end of the filt
 
 ![save filter]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_save.png)
 
+## View your tasks
+
+#### Active Tasks:
+You can see all the active (incomplete) tasks in the project by default.
+
+Click on the **filter** icon under the navigation bar at the top, and you will see Active Tasks.
+
+This view is the default view in your main panel (aka your task list). 
+It includes tasks that have statuses To-Do and In Progress.
+
+![filter by active tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_active_task.png)
+
+#### All Tasks:
+
+You can see all the tasks (both active and completed tasks) in the project.
+
+Click on the **filter** icon under the navigation bar at the top, and choose All Tasks.
+
+![filter by all tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_all_tasks.png)
+
+#### To-Do:
+
+You can see all the tasks that have not been worked on in the project.
+
+Click on the **filter** icon under the navigation bar at the top, select Customize, and choose To-Do after clicking on Active Tasks (or another view you have chosen).
+
+![filter by to do tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_to_do.png)
+
+#### In Progress:
+
+You can see all the tasks that are being worked on in the project.
+
+Click on the **filter** icon under the navigation bar at the top, select Customize, and choose In-Progress after clicking on Active Tasks (or another view you have chosen).
+
+![filter by in progress tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_in_progress.png)
+
+#### Completed Tasks:
+
+You can see all the completed tasks in the project.
+
+Click on the **filter** icon under the navigation bar at the top, select Customize, and choose Completed Tasks after clicking on Active Tasks (or another view you have chosen).
+
+![filter by completed tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_completed_tasks.png)
+
+#### Filter to exclude completed tasks:
+
+You can exclude old completed tasks to speed up performance.
+
+Click on the **filter** icon. Then, choose to hide tasks that are completed in over 30 days, 60 days, 90 days, 120 days, 180 days, 300 days, or 500 days in the dropdown.
+
+If you want to see all completed tasks, choose None in the same dropdown.
+
+![filter by exluded completed tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_excluded_completed_task.png)
 
 ## Filter your tasks 
 
-**Priority**
-
+#### Priority
 You can filter to see a certain priority: **Urgent**, **High**, **Medium** or **Low**.
 
 Click on the **filter** icon, select Customize, and choose filter by Priority.
@@ -44,7 +96,7 @@ You can also right-click on a task's priority, and select the priority you want 
 
 ![filter by priority with right-click]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_priority_right_click.png)
 
-**Tags**
+#### Tags
 
 You can filter by tag to focus on tasks belonging to a certain context (eg. RD or Sales) or property (eg. Client or Location).
 
@@ -60,7 +112,7 @@ You can also right-click on a task's tag, and select the tag(s) you want to filt
 
 ![filter by tags with right-click]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_tags_right_click.png)
 
-**Boards**
+#### Boards
 
 You can filter to see tasks that belong to a certain board.
 
@@ -75,7 +127,7 @@ To filter by more than one board, click on the **+** on the right of each board.
 Learn how to [add tasks to a board](/guide/add-tasks-to-board/).
 {: .notice}
 
-**My Tasks**
+#### My Tasks
 
 You can filter to see all the tasks that are assigned to you.  
 
@@ -84,7 +136,7 @@ Click on the **filter** icon, select Customize, and choose filter by My Tasks.
 ![filter by My Tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_my_tasks.png)
 
 
-**Unread**
+#### Unread
 
 You can filter to see all the tasks you haven’t read yet. 
 
@@ -93,7 +145,7 @@ Click on the **filter** icon, select Customize, and choose Unread.
 ![filter by unread]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_unread.png)
 
 
-**Favorited by me**
+#### Favorited by me
 
 You can filter to see all tasks favorited by you.
 
@@ -105,7 +157,7 @@ Learn how to [favorite a task](/guide/favorite-follow-task/).
 {: .notice}
 
 
-**Followed by me**
+#### Followed by me
 
 You can see all the tasks that are followed by you using this filter.
 
@@ -117,7 +169,7 @@ Learn how to [follow a task](/guide/favorite-follow-task/).
 {: .notice}
 
 
-**Assigned to / Assigned by**
+#### Assigned to / Assigned by
 
 You can see all the tasks which a particular assignee is responsible for by filtering with the condition **Assigned to**.
 
@@ -131,7 +183,7 @@ Learn how to [assign a task](/guide/set-assignee/).
 {: .notice}
 
 
-**Created by**
+#### Created by
 
 You can filter by to see all tasks created by a certain member.
 
@@ -142,10 +194,9 @@ Click on the **filter** icon, select Customize, and choose a member from Created
 
 
 
-
 ## Sort your tasks 
 
-**Priority**
+#### Priority
 
 You can sort your tasks by Priority to see tasks in the order of urgency.
 
@@ -153,7 +204,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Priority.
 
 ![sort by priority]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_priority.png)
 
-**Assignee**
+#### Assignee
 
 You can sort your tasks by Assignee to see who is responsible for what tasks in a glance.
 
@@ -161,7 +212,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Assignee.
 
 ![sort by assignee]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_assignee.png)
 
-**Status**
+#### Status
 
 You can sort your tasks by Status to see the progress of your tasks.
 
@@ -169,7 +220,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Status.
 
 ![sort by status]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_status.png)
 
-**Date**
+#### Date
 
 You can sort your tasks by Date to see tasks in the order that they're due.
 
@@ -177,7 +228,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Date.
 
 ![sort by date]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_date.png)
 
-**Due Per Week**
+#### Due Per Week
 
 You can sort your tasks by Due Per Week to see what tasks are due in each week.
 
@@ -186,7 +237,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Due Per Wee
 ![sort by due per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_due_per_week.png)
 
 
-**Due Per Day**
+#### Due Per Day
 
 You can sort your tasks by Due Per Day to see what tasks are due each day.
 
@@ -194,7 +245,7 @@ Click on the **filter** icon, click on Customize, and choose sort Due Per Day.
 
 ![sort by due per day]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_due_per_day.png)
 
-**Start Per Week**
+#### Start Per Week
 
 You can sort your tasks by Start Per Week to see tasks you've started to work on each week.
 
@@ -203,7 +254,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Start Per W
 ![sort by start per week]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_start_per_week.png)
 
 
-**Create Per Week**
+#### Create Per Week
 
 You can sort your tasks by Created Per Week to see tasks you've created in each week.
 
@@ -215,7 +266,7 @@ Click on the **filter** icon, click on Customize, and choose Create Per Week.
 {: .notice--warning}
 
 
-**Update Per Week**
+#### Update Per Week
 
 You can sort your tasks by Update Per Week to see what tasks have been last modified in each week.
 
@@ -227,7 +278,7 @@ Click on the **filter** icon, click on Customize, and choose sort by Update Per 
 {: .notice--warning}
 
 
-**Complete Per Week**
+#### Complete Per Week
 
 You can sort your tasks by Complete Per Week to see tasks you've completed in each week.
 
@@ -240,7 +291,7 @@ Also, when sorted by complete per week, you won't be able to add and move tasks.
 {: .notice--warning}
 
 
-**Name**
+#### Name
 
 You can sort your tasks by Name to see tasks ordered alphabetically.
 

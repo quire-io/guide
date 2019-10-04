@@ -6,20 +6,34 @@ categories: add comments
 ---
 ## Post a comment
 
-You can chat, discuss and share about what you have accomplished in the comments of a task in the detail panel. 
+You can chat, discuss and share about what you have accomplished in the comments of a task in the detail panel.
+
+It's your instant messenger built right in Quire! Simply click **Add comment** in the detail panel and start chatting.
+
+![add comment to task]({{ site.url }}{{ site.baseurl }}/assets/images/comments/add_comments.png)
+
+#### Style your comments:
+
+The comment area supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
 
 To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac)
-
-The comment area also supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
 
 Learn more about [styling](/guide/styling/) your text. 
 {: .notice}
 
-![add comment to task]({{ site.url }}{{ site.baseurl }}/assets/images/comments/add_comments.png)
+#### Add emojis:
 
 Add emojis to make your description stand out. Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quire_emoji.png)
+
+#### Quote selected text in your reply:
+
+There is an easy way for you to quote someone else's words in your reply.
+
+Simply select the words and press `Ctrl` + `Q`, you will automatically quote the selected text in the comment.
+
+![select words into quote]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quote_message.png)
 
 When you leave a comment in a task, you will automatically become the follower of that task, meaning when other members modify the task's due date or leave another comments, etc. You will get notifications as well. 
 
@@ -28,7 +42,6 @@ Members who are already the assignees of this task or followers of this task or 
 **Tip:** You can press `C` to post comments in the selected task.<br>
 A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
 {: .notice--info}
-
 
 ## Pin a comment
 
