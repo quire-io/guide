@@ -13,6 +13,8 @@ docs:
         url: /navigate-quire/
       - title: "Mobile"
         url: /mobile-apps/
+      - title: "Sync Offline"
+        url: /sync-offline/
 
 
   - title: Task List 
@@ -53,6 +55,8 @@ docs:
     children:
       - title: "Zoom"
         url: /zoom/
+      - title: "Expand/Collapse Levels"
+        url: /expand-collpase/
       - title: "Peekaboo"
         url: /peekaboo/
       - title: "External Team"
@@ -65,6 +69,8 @@ docs:
         url: /styling/
       - title: "Subtask Stats"
         url: /subtask-stats/
+      - title: "Refer to Tasks/Projects"
+        url: /refer-tasks/
       - title: "Task Activity Log"
         url: /activity-log/
       - title: "Print Out Task List"

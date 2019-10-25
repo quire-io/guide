@@ -15,7 +15,7 @@ Learn more about [styling](/guide/styling/) your text.
 
 ![add task descriptions]({{ site.url }}{{ site.baseurl }}/assets/images/descriptions/add_task_description.png)
 
-Add emojis to make your description stand out. Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
+Add emojis to make your description stand out. Type in `:` to get emoji cheat sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/descriptions/quire_emoji.png)
 
