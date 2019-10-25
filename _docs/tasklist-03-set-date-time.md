@@ -8,8 +8,6 @@ categories: set due dates
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-**To add a due date:**
-
 - Click on the **date** icon.
 
 	![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
@@ -18,32 +16,14 @@ Decide when a task should be done (aka give it a deadline) by setting a due date
 
 - Type in `<` when editing a task. 
 
-Click on a shortcut, `Today`, `Tomorrow` or `Next Week` to add a due date much faster.
-
-Click `None` to clear the due date.
+You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly add a due date. To clear the due date, click **None**. 
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
-
-**To add due time:**
-
-Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
-
-![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_time.png)
-
-You can either hit the up or down arrow on your keyboard to select the due time, or type in the hour and minute manually.
-
-![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_due_time.png)
-
-**Tip:** You can enable 24-hour time in the [Account Settings](https://quire.io/r/setting?tab=options). 
-{: .notice--info}
-
 
 
 ## Set start date 
 
 You can decide when you would like to start working on a task.
-
-**To add a start date:**
 
 Step 1: 
 - Click on the **date** icon.
@@ -63,20 +43,21 @@ Step 3: You can either pick, or enter a date in the **Start** field.
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
 
 
-**To add start time:**
+## Set start/due time
 
-Toggle on **Set time** at the bottom of the date picker.
+Step 1: Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
 
-![set time with start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_time_with_start_date.png)
+![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_time.png)
 
-You can either press the up or down arrow to select the start time, or type the hour and minute manually.
+Step 2: You can either hit the up or down arrow on your keyboard to select the due time, or type in the hour and minute manually.
 
-![set start time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_start_time.png)
-
+![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_start_time.png)
 
 **Note:** With both start and due date, you can see the period or duration of your tasks when you [sync to Google Calendar or other](/guide/calendar/). 
 {: .notice--warning}
 
+**Tip:** You can enable 24-hour time in the [Account Settings](https://quire.io/r/setting?tab=options). 
+{: .notice--info}
 
 ## Set tasks as recurring
 

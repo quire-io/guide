@@ -12,11 +12,19 @@ It's your instant messenger built right in Quire! Simply click **Add comment** i
 
 ![add comment to task]({{ site.url }}{{ site.baseurl }}/assets/images/comments/add_comments.png)
 
+When you leave a comment in a task, you will automatically become the **follower** of that task, meaning when other members modify the task's due date or leave another comments, etc. You will get notifications as well. 
+
+Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
+
+**Tip:** You can press `C` to post comments in the selected task.<br>
+A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
+{: .notice--info}
+
 #### Style your comments:
 
 The comment area supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
 
-To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac)
+To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac).
 
 Learn more about [styling](/guide/styling/) your text. 
 {: .notice}
@@ -35,13 +43,6 @@ Simply select the words and press `Ctrl` + `Q`, you will automatically quote the
 
 ![select words into quote]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quote_message.png)
 
-When you leave a comment in a task, you will automatically become the follower of that task, meaning when other members modify the task's due date or leave another comments, etc. You will get notifications as well. 
-
-Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
-
-**Tip:** You can press `C` to post comments in the selected task.<br>
-A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
-{: .notice--info}
 
 ## Pin a comment
 

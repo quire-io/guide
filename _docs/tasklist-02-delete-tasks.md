@@ -6,7 +6,7 @@ categories: delete tasks
 ---
 ## Delete a task
 
-**Delete a task in the main panel:**
+#### Delete a task in the main panel:
 
 - Click on the task twice, and click on the **bin** icon in the main panel. 
 
@@ -18,7 +18,7 @@ categories: delete tasks
 
 - Simply select a task and press `Ctrl` + `Delete` or `⌘` + `Delete` (on Mac). 
 
-**Delete a task in the detail panel:**
+#### Delete a task in the detail panel:
 
 Click on the ... icon at the upper-right corner of the detail panel, and click on **Delete this task**.
 

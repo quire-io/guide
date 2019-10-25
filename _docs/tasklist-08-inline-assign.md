@@ -57,7 +57,7 @@ This works in a task's date picker too.
 
 ![datepicker add or remove days]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/date_picker_add_remove_days.png)
 
-**Date Formats Allowed**
+#### Date Formats Allowed: 
 
 If your month is entered before day, the input allowed:
 
