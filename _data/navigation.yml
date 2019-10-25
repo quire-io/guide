@@ -11,7 +11,7 @@ docs:
         url: /project-view/
       - title: "Navigation"
         url: /navigate-quire/
-      - title: "Mobile"
+      - title: "Sync Across your Devics"
         url: /mobile-apps/
       - title: "Sync Offline"
         url: /sync-offline/
@@ -169,8 +169,15 @@ docs:
         url: /github/ 
       - title: "Slack"
         url: /slack/ 
-
-
+      - title: "Chrome Extension"
+        url: /chrome-extension/
+      - title: "Desktop App using Chrome Shortcut"
+        url: /chrome-desktop-app/ 
+      - title: "Install Apps"
+        url: /install-apps/
+      - title: "Build Your Own Apps"
+        url: /build-apps/
+        
 
   - title: Import & Export
     children:
@@ -197,10 +204,10 @@ docs:
 
   - title: Keyboard Shortcuts
     children:
-      - title: "Keyboard Shortcut Cheetsheet"
-        url: /keyboard-cheetsheet/
-      - title: "Breadcrumbs"
-        url: /breadcrumbs/
+      - title: "Keyboard Shortcut Cheatsheet"
+        url: /keyboard-cheatsheet/
+      - title: "Advanced Mode"
+        url: /advanced-mode/
    
 
 
@@ -217,3 +224,12 @@ docs:
       - title: "Project Preferences"
         url: /project-preferences/ 
 
+
+  - title: Troubleshooting
+    children:
+      - title: "Clear Browser's Cache"
+        url: /clear-cache/
+      - title: "Unregister Your Service Worker"
+        url: /unregister-service-worker/
+      - title: "Merge Two Quire Accounts"
+        url: /merge-accounts/
