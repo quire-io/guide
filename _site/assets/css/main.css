@@ -4444,7 +4444,7 @@ figcaption {
   transition: visibility 0.1s, opacity 0.2s linear; }
 
 #wrap {
-  padding: 8em 0; }
+  padding: 8em 0 414px 0; }
 
 .toc__menu {
   font-size: 1.25em;
@@ -4499,6 +4499,9 @@ figcaption {
   .results-panel {
     max-width: 720px; }
 
+  #wrap {
+    padding-bottom: 636px; }
+
   .sidebar {
     position: fixed;
     top: 64px;
@@ -4545,3 +4548,6 @@ figcaption {
       bottom: 0;
       overflow-y: auto;
       background: rgba(255, 255, 255, 0.98); } }
+@media (max-width: 479px) {
+  #wrap {
+    padding-bottom: 1171px; } }

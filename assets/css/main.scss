@@ -495,7 +495,7 @@ figcaption {
 }
 
 #wrap {
-	padding: 8em 0;
+	padding: 8em 0 414px 0;
 }
 
 .toc__menu {
@@ -581,6 +581,10 @@ figcaption {
 		max-width: 720px;
 	}
 
+	#wrap {
+		padding-bottom: 636px;
+	}
+
 	.sidebar {
 		position: fixed;
 		top: 64px;
@@ -655,6 +659,11 @@ figcaption {
 	}
 }
 
+@media (max-width: 479px) {
+	#wrap {
+		padding-bottom: 1171px;
+	}
+}
 
 
 
