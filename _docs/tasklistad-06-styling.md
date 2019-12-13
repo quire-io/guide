@@ -13,12 +13,11 @@ For a basic cheat sheet of Quire's Markdown, click on the ![markdown icon]({{ si
 
 Here are some formatting example:
 
-**Color**
+#### Color
 
 ```
 {css-style| text} (eg., {color: red|text})
 ```
-
 Let's say you type the following;
 
 ![markdown color text]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_color_text_1.png)
@@ -27,13 +26,13 @@ The task list will look like this:
 
 ![markdown color task name]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_color_text_2.png)
 
-**Bold**
+#### Bold
 
 ```
 **text**
 ```
 
-**Italic**
+#### Italic
 
 ```
 *text*
@@ -42,13 +41,13 @@ The task list will look like this:
 **Note:** You can also make your project or organizaton name bold and/or italic.
 {: .notice--warning}
 
-**Underline**
+#### Underline
 
 ```
 _text_
 ```
 
-**Strikethrough (Crossed Out)**
+#### Strikethrough (Crossed Out)
 
 ```
 ~text~
@@ -59,13 +58,13 @@ _text_
 
 ![markdown quick add color to text]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_quick_add_color.png)
 
-**Code**
+#### Code
 
 ```
 `text·
 ```
 
-**Headers**
+#### Headers
 
 ```
 # H1
@@ -76,7 +75,7 @@ _text_
 ###### H6
 ```
 
-**Numbered List**
+#### Numbered List
 
 ```
 1. step1
@@ -84,7 +83,7 @@ _text_
 3. step3
 ```
 
-**Bulleted List**
+#### Bulleted List
 
 ```
 * item1
@@ -92,7 +91,7 @@ _text_
 * item3
 ```
 
-**Checklist**
+#### Checklist
 
 ```
 - [ ] item
@@ -100,7 +99,7 @@ _text_
 - [ ] item
 ```
 
-**Link**
+#### Link
 ```
 This is a [Google link](https://www.google.com/)
 ```
@@ -108,7 +107,7 @@ This is a [Google link](https://www.google.com/)
 http://example.com/path
 ```
 
-**Table**
+#### Table
 
 ```
 | Left   | Center   | Right |
@@ -122,11 +121,11 @@ http://example.com/path
 {: .notice--info}
 
 
-**Characters**
+#### Characters
 
 You can type `&yen;`, `&reg;`, `&#8451;` and`&#x263B;` which will turn into ¥, ®, ℃, ☻, respectively. These are just a few examples of [html entities](https://www.w3schools.com/html/html_entities.asp) you can enter in a task name, description or comment.
 
-**Emojis**
+#### Emojis
 
 Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
