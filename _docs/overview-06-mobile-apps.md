@@ -1,5 +1,5 @@
 ---
-title:  "Sync Across your Devics"
+title:  "Sync Across your Devices"
 permalink: /mobile-apps/
 date:   2019-06-14 16:10:00 +0800
 categories: mobile apps

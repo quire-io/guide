@@ -66,7 +66,7 @@ Step 1: In Outlook Calendar, click on **Add Calendar** and select **From Interne
 
 ![sync with outlook calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_outlook.png)
 
-Step 2: Paste the URL you copied from Quire into the **Link to the calendar**field, enter a name, and **Import**.
+Step 2: Paste the URL you copied from Quire into the **Link to the calendar** field, enter a name, and **Import**.
 
 ![sync with outlook calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/sync_with_outlook_2.png)
 

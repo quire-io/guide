@@ -12,7 +12,7 @@ Step 1: Click on the profile icon on the upper-right corner of the screen, and c
 
 ![my profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/my_profile.png)
 
-Step 2: Click on the edit (pen) icon.
+Step 2: Click on the **Edit (pen)** icon.
 
 ![edit profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/edit_profile.png)
 
@@ -40,7 +40,7 @@ Step 1: Go to **My Profile**.
 
 ![my profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/my_profile.png)
 
-Step 2: Click on the edit (pen) icon.
+Step 2: Click on the **Edit (pen)** icon.
 
 ![edit profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/edit_profile.png)
 
