@@ -12,7 +12,7 @@ Next, you can make changes to them at once by going to the bottom menu bar, by r
 {: .notice--info}
 
 
-**To add assignees to tasks in batch:**
+#### To add assignees to tasks in batch:
 
 Go to the **assignee** icon in the bottom menu bar (or right-click to choose **Set assignees**). Either click on a member or click on **+** on the right of the member name to add multiple assignees.
 
@@ -26,7 +26,7 @@ To remove assignee(s) from tasks, go to the **assignee** icon in the bottom menu
 ![batch remove assignees]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_remove_assignee.png)
 
 
-**To add dates to tasks in batch:**
+#### To add dates to tasks in batch:
 
 Go to the **date** icon in the bottom menu bar (or right-click to choose **Set due**).
 
@@ -40,7 +40,7 @@ To remove date from tasks, go to the **date** icon in the bottome menu bar (or r
 ![batch remove date]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_remove_date.png)
 
 
-**To add tags to tasks in batch:**
+#### To add tags to tasks in batch:
 
 Go to the **tag** icon in the bottom menu bar (or right-click to choose **Set tags**) and click on **+** on the right of the tag name.
 
@@ -54,7 +54,7 @@ To remove tag(s) from tasks, go to the **tag** icon in the bottom menu bar (or r
 ![batch remove tags]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_remove_tags.png)
 
 
-**To add priority to tasks in batch:**
+#### To add priority to tasks in batch:
 
 Go to the **priority** icon in the bottom menu bar (or right-click to choose **Set priority**) and select a priority.
 
@@ -64,8 +64,7 @@ Go to the **priority** icon in the bottom menu bar (or right-click to choose **S
 {: .notice--info}
 
 
-
-**To add tasks to a board in batch:**
+#### To add tasks to a board in batch:
 
 Go to the **Board** icon in the bottom menu bar (or right-click to choose **Add to board**) and select a board. 
 

@@ -6,8 +6,6 @@ categories: merge 2 Quire accounts
 ---
 When you forget that you have already created a Quire account with a personal email. After using Quire with your work email, you would like to merge both accounts together. 
 
-Follow the below steps:
-
 Step 1: Grant the email A (the one you want to keep) to be admin of all the projects/organizations created by email B.
 
 Step 2: Login in as A and remove the permission of the other one B (the one you don’t want).

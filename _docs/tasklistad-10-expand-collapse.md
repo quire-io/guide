@@ -6,11 +6,13 @@ categories: expand collpase task list levels
 ---
 Quire allows to create a task list with multiple levels. But sometimes you only want to see certain levels of tasks.
 
-You can right click on the collapse (expand) icon of a task for options to expand the tasks.
+You can right click on the **Collapse/Expand** icon of a task for options to expand the tasks.
 
-Or you could use below keyboard shortcuts to expand/ collapse a level at a time. 
+![Collapse/Expand]({{ site.url }}{{ site.baseurl }}/assets/images/expand-collpase/expand_collapse.jpg)
 
-Collapse a group tasks by level `←`	
-Expand a group tasks by level `→`
-Collapse all tasks by level `Shift` + `←`
-Expand all tasks by level `Shift` + `→`
+Or you could use below keyboard shortcuts to collapse/expand a level at a time. 
+
+- Collapse a group tasks by level `←`	
+- Expand a group tasks by level `→`
+- Collapse all tasks by level `Shift` + `←`
+- Expand all tasks by level `Shift` + `→`

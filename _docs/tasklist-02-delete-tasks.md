@@ -20,7 +20,7 @@ categories: delete tasks
 
 #### Delete a task in the detail panel:
 
-Click on the ... icon at the upper-right corner of the detail panel, and click on **Delete this task**.
+Click on the **...** icon at the upper-right corner of the detail panel, and click on **Delete this task**.
 
 ![detail panel delete task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/delete_task_detail.png)
 

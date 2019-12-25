@@ -39,7 +39,7 @@ docs:
         url: /set-status/
       - title: "Comments"
         url: /comments/
-      - title: "Attachment"
+      - title: "Attachments"
         url: /attachments/ 
       - title: "Filters and Sorts"
         url: /filter-sort/
@@ -223,6 +223,11 @@ docs:
         url: /email-notifications/  
       - title: "Project Preferences"
         url: /project-preferences/ 
+
+  - title: Mobile
+    children:
+      - title: "Assign Task to an External Team"
+        url: /mobile-external-team/
 
 
   - title: Troubleshooting
