@@ -45,7 +45,7 @@ docs:
         url: /filter-sort/
       - title: "Move Tasks"
         url: /move-tasks/
-      - title: "Mark your Tasks"
+      - title: "Favorite and Follow Tasks"
         url: /favorite-follow-task/
       - title: "Multiple Select"
         url: /multiple-select/
