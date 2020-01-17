@@ -1,5 +1,5 @@
 ---
-title:  "Mark your Tasks"
+title:  "Favorite and Follow Tasks"
 permalink: /favorite-follow-task/
 date:   2019-08-23 15:00:00 +0800
 categories: favorite follow tasks

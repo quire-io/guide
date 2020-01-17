@@ -1,6 +1,6 @@
 ---
 title:  "Filters and Sorts"
-permalink: /filter-sort/
+permalink: /filter-sort-original/
 date:   2019-08-23 15:00:00 +0800
 categories: filter sort
 ---
