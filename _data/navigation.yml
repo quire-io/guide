@@ -230,6 +230,8 @@ docs:
     children:
       - title: "Assign Task to an External Team"
         url: /mobile-external-team/
+      - title: "Swipe to Change Task Status"
+        url: /change-status-mobile/
 
 
   - title: Troubleshooting
