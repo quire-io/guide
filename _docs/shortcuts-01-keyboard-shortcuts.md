@@ -61,6 +61,8 @@ Or, click on the Help icon on the upper-right of your Quire workspace and select
 | Navigate through workspace (forward) | `Tab` | `Tab` |
 | Navigate through workspace (backward) | `Shift` + `Tab` | `Shift` + `Tab` |
 | Switch between different views | `(` or `)` |  `(` or `)`  |
+| Quick launch or close My Tasks | `=` |  `=`  |
+
 
 
 #### Detail Panel

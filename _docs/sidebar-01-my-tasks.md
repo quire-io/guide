@@ -18,7 +18,7 @@ Those tasks can belong to a specific project or just be the personal tasks witho
 
 #### What can I do with My Tasks?
 
-- You can use the shortcut `>` to launch and close My Tasks. 
+- You can use the shortcut `=` to launch and close My Tasks. 
 - You can use the shortcut `m` to add a task directly to My Tasks.
 - If a task was completed 30 days ago, it will not be shown in My Tasks. 
 - Special filters: Group by project and Filter by project. 
@@ -37,6 +37,6 @@ Those tasks can belong to a specific project or just be the personal tasks witho
 - You cannot reorder other member's My Tasks list. 
 
 
-Check out the [blog post]https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html) to learn more on what you can do with My Tasks.
+Check out the [blog post](https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html) to learn more on what you can do with My Tasks.
 {: .notice}
 

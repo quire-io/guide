@@ -29,6 +29,12 @@ In this view, you can see your ideas broken down into step-by-step tasks, and fo
 
 ![list view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
 
+## Sublist
+The Sublist view lets you create your own personal view for a project.
+
+You can choose to make the sublist only visible to you or to share with other project members. 
+
+![sublist view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/quire_sublist.png)
 
 
 ## Board

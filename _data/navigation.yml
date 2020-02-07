@@ -43,6 +43,8 @@ docs:
         url: /attachments/ 
       - title: "Filters and Sorts"
         url: /filter-sort/
+      - title: "Sublist"
+        url: /sublist/
       - title: "Move Tasks"
         url: /move-tasks/
       - title: "Favorite and Follow Tasks"

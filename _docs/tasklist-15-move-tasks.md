@@ -59,6 +59,8 @@ You can also transfer a task or more by right-clicking on them, and selecting **
 
 ![right-click transfer]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_right_click.png)
 
+**Tip:** To quickly transfer tasks to another project, hold down the `ALT` key and drag the tasks to the project name at the sidebar. 
+{: .notice--warning}
 
 ## Merge a task
 
