@@ -1,5 +1,5 @@
 ---
-title:  "Assign Task to an External Team"
+title:  "External Team"
 permalink: /mobile-external-team/
 date:   2019-08-23 15:00:00 +0800
 categories: assigning a task to an external team on mobile app

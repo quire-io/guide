@@ -121,6 +121,18 @@ http://example.com/path
 {: .notice--info}
 
 
+#### Phone numbers
+```
+(415) 555-2671 
+(415)5552671
+(415) 555 2671
++14155552671
+```
+
+**Note:** We will dial out the number when you click on the phone number.
+{: .notice--warning}
+
+
 #### Characters
 
 You can type `&yen;`, `&reg;`, `&#8451;` and`&#x263B;` which will turn into ¥, ®, ℃, ☻, respectively. These are just a few examples of [html entities](https://www.w3schools.com/html/html_entities.asp) you can enter in a task name, description or comment.
