@@ -8,48 +8,42 @@ categories: set due dates
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-- Click on the **date** icon.
+Click on the **date** icon to set a due date. Or hit `<` on the keyboard when the task(s) is selected.
 
-	![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
-
-- Hit `<` on the keyboard when the task(s) is selected.
-
-- Type in `<` when editing a task. 
+![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
 You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly add a due date. To clear the due date, click **None**. 
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
+
+**Tip:** When editing a task, type `<` to assign a due date inline. See [here](https://quire.io/guide/inline-assign/) for more information. 
+{: .notice--info}
 
 
 ## Set start date 
 
 You can decide when you would like to start working on a task.
 
-Step 1: 
-- Click on the **date** icon.
+Click on the **date** icon to set a start date. Or hit `<` on the keyboard when the task(s) is selected.
 
-	![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
+![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-- Hit `<` on the keyboard when the task(s) is selected.
-
-- Type in `<` when editing a task. 
-
-Step 2: Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**.
+Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**.
 
 ![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-Step 3: You can either pick, or enter a date in the **Start** field.
+You can either pick, or enter a date in the **Start** field.
 
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
 
 
 ## Set start/due time
 
-Step 1: Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
+Click on **Show more options** at the bottom of the date picker, and toggle on **Set time**.
 
 ![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_time.png)
 
-Step 2: You can either hit the up or down arrow on your keyboard to select the due time, or type in the hour and minute manually.
+You can either hit the up or down arrow on your keyboard to select the due time, or type in the hour and minute manually.
 
 ![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_start_time.png)
 
@@ -61,16 +55,13 @@ Step 2: You can either hit the up or down arrow on your keyboard to select the d
 
 ## Set tasks as recurring
 
-You can repeat a task that happens periodically.
+You can repeat a task that happens periodically. Once you have completed a recurring task, Quire will automatically add the same task in a few seconds with the new date.
 
-Once you have completed a recurring task, Quire will automatically add the same task in a few seconds with the new date.
-
-Step 1: Click on **date** icon, and toggle on **Set to repeat** in the datepicker.
+Click on **date** icon, and toggle on **Set to repeat** in the datepicker.
 
 ![set recurring date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_repeat.png)
 
-
-Step 2: Choose how often and what day you want to repeat the task.
+Choose how often and what day you want to repeat the task.
 
 ![set recurring frequency]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_repeat_frequency.png)
 
