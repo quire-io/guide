@@ -12,7 +12,7 @@ You can right click on the **Collapse/Expand** icon of a task for options to exp
 
 Or you could use below keyboard shortcuts to collapse/expand a level at a time. 
 
-- Collapse a group tasks by level `←`	
-- Expand a group tasks by level `→`
-- Collapse all tasks by level `Shift` + `←`
-- Expand all tasks by level `Shift` + `→`
+- Hit `←` to collapse a group tasks by level 	
+- Hit `→` to expand a group tasks by level 
+- Hit `Shift` + `←` to collapse all tasks by level 
+- Hit `Shift` + `→` tp expand all tasks by level 

@@ -28,13 +28,10 @@ Click on the **date** icon to set a start date. Or hit `<` on the keyboard when 
 
 ![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**.
-
-![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
-
-You can either pick, or enter a date in the **Start** field.
+Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**. Pick a date or enter a date in the **Start** field.
 
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
+
 
 
 ## Set start/due time

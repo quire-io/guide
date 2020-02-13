@@ -4,7 +4,7 @@ permalink: /navigate-quire/
 date:   2019-06-13 16:10:00 +0800
 categories: navigation
 ---
-Learn how to navigate around Quire's workspace. 
+Here are some ways to help you better navigate through Quire.
 
 ## Project/Organization Dropdown Menu
 
@@ -19,7 +19,7 @@ Right-click on a task to bring out the context menu.
 
 ![context menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
 
-**Note:** Only when hovering over a task will show the status circle, date/ assignee icon, and + sign and more. 
+**Note:** Only when hovering over a task will show the status circle, date/ assignee icon, and + icon and more. 
 {: .notice--warning}
 
 
@@ -33,6 +33,11 @@ Learn more on [multiple assigning tasks](/guide/multiple-select/).
 
 ![bottom batch bar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_batchBar.png)
 
+## Pin Sidebar or Detail Panel
+
+Click on the **pin** icon to the pin the sidebar or the detail panel. 
+
+![pin detail panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_pin.png)
 
 
 ## Breadcrumbs

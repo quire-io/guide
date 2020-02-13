@@ -6,7 +6,7 @@ categories: filter sort
 ---
 A list can grow super long and overwhelming over time. It becomes easy to get lost in the long list of to dos. Filter and sort your tasks to focus on what matters. 
 
-Click on the Filter icon at the top of the list. There’s several predefined filters for you to choose from. 
+Click on the **Filter** icon at the top of the list. There’s several predefined filters for you to choose from. 
 
 ![predefined filters]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_customize.png)
 
@@ -14,10 +14,11 @@ Click on the Filter icon at the top of the list. There’s several predefined fi
 {: .notice--info}
 
 ## View your tasks
+Click **Customize** for all the filter options to show. 
 
 - Active Tasks (Includes To-Do and In Progress tasks)
 - All Tasks (Includes both Active and Completed tasks)
-- To- Do
+- To-Do
 - In Progress
 - Completed Tasks
 - Peekaboo Tasks
@@ -27,7 +28,7 @@ Click on the Filter icon at the top of the list. There’s several predefined fi
 
 Exclude old completed tasks to speed up the performance of the Quire task list/board. 
 
-You can choose to hide tasks that are completed in over 30 days, 60 days, 90 days, 120 days, 180 days, 300 days, or 500 days. If you want to see all completed tasks, choose None instead. 
+You can choose to hide tasks that are completed in over 30 days, 60 days, 90 days, 120 days, 180 days, 300 days, or 500 days. If you want to see all completed tasks, choose **None** instead. 
 
 ![excluded completed tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_excluded_completed_task.png)
 
@@ -35,7 +36,7 @@ You can choose to hide tasks that are completed in over 30 days, 60 days, 90 day
 
 When you have a sorting option or filter that you use a lot, you can save it so you don’t have to apply the options every time. 
 
-After applying the filters to your tasks, click on the star icon at the end of the filter bar.
+After applying the filters to your tasks, click on the **star** icon at the end of the filter bar.
 
 ![save customized filter]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_save.png)
 
@@ -60,8 +61,7 @@ You can sort your tasks by the options below.
 
 
 #### Sort with two options
-You could sort your tasks up to two different options. 
-Click on the + icon beside an option and choose what option you would like to add. 
+You could sort your tasks up to two different options. Click on the **+** icon beside an option and choose what option you would like to add. 
 
 ![sort with two options]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_two_options.png)
 
@@ -85,8 +85,7 @@ You can filter your tasks by the options below.
 - Created by 
 
 #### Filter by more than one options 
-You can add as many filters to your tasks as you like. 
-Click on the + icon to add a filter. 
+You can add as many filters to your tasks as you like. Click on the **+** icon to add a filter. 
 
 ![multiple filters]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/multiple_filters.png)
 

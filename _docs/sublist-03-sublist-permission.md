@@ -1,15 +1,9 @@
 ---
-title:  "Sublist"
-permalink: /sublist/
+title:  "Sublist Permission"
+permalink: /sublist-permission/
 date:   2019-08-23 15:00:00 +0800
-categories: sublist
+categories: add edit sublists
 ---
-When you are working with multiple team members in the same project, it’s very likely that after a while, the shared task list starts to look like a matrix and everyone doesn’t know where to get started. 
-
-To solve the frustration with an ever-growing task list and boost personal productivity, we introduce you with Quire Sublist. 
-
-![quire sublist]({{ site.url }}{{ site.baseurl }}/assets/images/sublist/quire_sublist.png)
-
 
 #### How to Create a Sublist
 
@@ -38,5 +32,4 @@ Step 4: Create as many sublists as you need.
 
 There is no limitation on how many sublists you can create for a project. A big dream now can be broken down into smaller and manageable to-do lists and sublists.
 
-Learn more on how Sublist helps you bridge the gap between team shared to-do lists and personal productivity here on our [blog](https://quire.io/blog/p/Quire-sublist.html). 
-{: .notice}
+

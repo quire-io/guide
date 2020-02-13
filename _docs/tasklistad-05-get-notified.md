@@ -6,21 +6,20 @@ categories: get notified
 ---
 You will be notified of new updates, upcoming tasks or overdue tasks in different places.
 
-- Bell icon at the upper-right corner of your Quire workspace.
+- [Notifications](/guide/reminders/) at the bell icon at the upper-right corner of your Quire workspace.
 
 	![bell icon notifications]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/notifications_quire_workspace.png)
 
-- Your email inbox.
+- [Email notifications](/guide/email-notifications/). 
 
 	![email notifications]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/notifications_email.png)
 
-Learn more on how to set the frequency of your [email notifications](/guide/email-notifications/).
-{: .notice}
 
+#### When will you get notified?
 
-## Get notified of activities
+You will receive [reminder notifications](/guide/reminders/) and [reminder emails](/guide/email-notifications/ ) when your tasks approach their start date or time, due date or time, and also when they are overdue.
 
-When someone added a task in a project you follow, or left a comment in a task you follow, you will immediately get notified in Quire.
+Also, when someone added a task in a project you follow, or left a comment in a task you follow, you will immediately get notified in Quire.
 
 You will be notified of the following activities if you are:
 
@@ -31,8 +30,4 @@ You will be notified of the following activities if you are:
 | Activities in task assigned to other | | v | | v |
 | Activities in task not assigned | | v | | v |
 
-
-## Get notified of reminders
-
-You will receive [reminder notifications](/guide/reminders/) and [reminder emails](/guide/email-notifications/ ) when your tasks approach their start date or time, due date or time, and also when they are overdue.
 

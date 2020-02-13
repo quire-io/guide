@@ -43,8 +43,6 @@ docs:
         url: /attachments/ 
       - title: "Filters and Sorts"
         url: /filter-sort/
-      - title: "Sublist"
-        url: /sublist/
       - title: "Move Tasks"
         url: /move-tasks/
       - title: "Favorite and Follow Tasks"
@@ -77,6 +75,15 @@ docs:
         url: /activity-log/
       - title: "Print Out Task List"
         url: /print/
+
+  - title: Sublist
+    children:
+      - title: "Sublist Introduction"
+        url: /sublist-introduction/
+      - title: "Add and Edit Sublists"
+        url: /add-sublist/
+      - title: "Sublist Permission"
+        url: /sublist-permission/
 
 
   - title: Board

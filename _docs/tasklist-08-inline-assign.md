@@ -89,7 +89,7 @@ You can add a tag with `#` directly from the task name.
 
 For example, when you type `Publish the article #Urgent` in the task name and press Enter, the task will have a tag of Urgent.
 
-**Note:** You need to select `[tag name] (new tag)` in the dropdown if you type it at the end of the task name.
+**Note:** You need to select **[tag name](new tag)** in the dropdown if you type it at the end of the task name.
 {: .notice--warning}
 
 
@@ -111,6 +111,6 @@ You can add a task to a specific board with `^` directly from the task name.
 
 For example, you can type `Publish the article ^` in the task name and use the arrow key to choose which board you want to add the task to.
 
-Note: If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
+**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
 {: .notice--warning}
 

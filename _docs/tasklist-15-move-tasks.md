@@ -12,9 +12,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.
 
-![drag and drop]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.png)
-
-![drag and drop multiple tasks]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/multiple_drag_and_drop.png)
+![drag and drop to reorder tasks]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.mp4)
 
 You can also drag and drop task(s) in the sidebar to transfer them to another project.
 
