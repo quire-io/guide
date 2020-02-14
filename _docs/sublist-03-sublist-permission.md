@@ -4,32 +4,25 @@ permalink: /sublist-permission/
 date:   2019-08-23 15:00:00 +0800
 categories: add edit sublists
 ---
+There are three options for you to share the sublist with: Project Members, External Team and Personal (yourself).
 
-#### How to Create a Sublist
-
-Step 1: Click on the **+** icon and choose **Add sublist**.
-
-![add sublist]({{ site.url }}{{ site.baseurl }}/assets/images/sublist/add_views.png)
-
-Step 2: Select the tasks for the sublist.
-
-- Select the important tasks to add to the sublist. You can name the newly created sublist and add a customized icon for the sublist title. 
-
-- There are three options for you to share the sublist with: Project Members, External Team, Personal (yourself). 
-
-![create sublist popup]({{ site.url }}{{ site.baseurl }}/assets/images/sublist/create_sublist_pop.png)
-
-**Note:** If you select the root task, the relevant subtasks will also be automatically selected. You can deselect the subtask to choose the tasks you need only. On another hand, subtasks can be selected separately from their root task.
-{: .notice--warning}
+Learn how to create a [Sublist](/guide/add-sublist/). 
+{: .notice}
 
 
-Step 3: Pin and unpin the sublist for quick navigation.
+#### Share Sublist with Project Members 
 
-![pin sublist]({{ site.url }}{{ site.baseurl }}/assets/images/sublist/pin_sub.png)
-
-
-Step 4: Create as many sublists as you need.
-
-There is no limitation on how many sublists you can create for a project. A big dream now can be broken down into smaller and manageable to-do lists and sublists.
+The newly created sublist will be visible to all of the project members (excluding the External Team). There’s no way to customize to selected project members. 
 
 
+#### Share Sublist with External Team
+
+All of the members in External Team can view the tasks within in this sublist. If you add a task in this sublist, it is automatically assigned to the External Team. 
+
+However, if you add a parent task with an already assigned subtask to this sublist, the subtask will not be reassigned to the External Team.
+
+![sublist shared with external team]({{ site.url }}{{ site.baseurl }}/assets/images/sublist-permission/sublist_external_team.png)
+
+#### Create a Personal Sublist 
+
+The newly created sublist will be visible to you only. Other project members cannot view or edit the sublist even with the shared link.

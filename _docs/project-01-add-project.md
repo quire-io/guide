@@ -6,10 +6,10 @@ categories: add project
 ---
 A project is a collection of tasks. There is no limitation in the number of tasks you can add in one project. You can assign members for each task, add tags, set due days, etc. for better management of your project.
 
+Click on the **+** sign beside the search icon at the top right corner, then select **Add project**.
 
+![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_1.png)
 
-- Click on the **+** sign beside the search icon at the top right corner, then select **Add project**.
-	![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_1.png)
+Or click on the arrow beside the organization name, then select **Add project**. 
 
-- Click on the arrow beside the organization name, then select **Add project**. 
-	![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_2.png)
+![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_2.png)

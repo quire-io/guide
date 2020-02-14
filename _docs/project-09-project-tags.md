@@ -12,5 +12,5 @@ All of the tags that are used in this project will show up here. You can click o
 
 ![manage tags settings page]({{ site.url }}{{ site.baseurl }}/assets/images/manage-tags/manage_tags_settings.png)
 
-For more details on how to add tags, see [here](/guide/assign-tags/). 
+Learn more about how to [assign tags to a task](/guide/assign-tags/). 
 {: .notice}

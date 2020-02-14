@@ -6,43 +6,42 @@ categories: add delete board
 ---
 ## Add a board
 
-Step 1: Click on **Add board** to create a new board or click on the **+** sign beside your profile icon at the top right corner.  
+Click on the **+** icon and choose **Add board**.
 
 ![add board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/add_board.png)
 
-Step 2: Type in your board name and choose **Create**. 
+Name the newly created board and add a customized icon for the board title. You can choose who to share the board with: Project members or an External Team.
+
+**Note:** You won't be able to change the board permission once it has been set.  
+{: .notice--warning}
 
 ![create board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/create_board.png)
 
-A blank board consists of 3 default status column: To-Do, In Progress and Completed. 
-
-Learn how to [add tasks to a board](/guide/add-tasks-to-board/). 
-{: .notice}
+A blank board consists of 3 default [status column](/guide/status-column/): To-Do, In Progress and Completed. 
 
 ![default three columns]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/board_default_columns.png)
-
-Learn how to [create a new column](/guide/status-column/). 
-{: .notice}
 
 **Tip:** You can choose a board you have created before as a template. It will then create a empty board with the same status column as the board you have chosen. 
 {: .notice--info}
 
 ## Edit board name or URL 
 
-To edit a board name or its URL, click on the pen icon beside the board name and choose **Edit**.
+Click on the arrow beside the board name and choose **Edit**.
 
 ![edit board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/edit_board.png)
 
 
 ## Archive a board 
 
-To archive a board, click on the pen icon beside the board name and choose **Archive**. You can find the archived board in the Archived category in the dropdown menu. 
+Click on the arrow beside the board name and choose **Archive**. 
+
+You can find the archived board in the Archived category in the dropdown menu. 
 
 ![archive board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/archive_board.png)
 
 ## Delete a board 
 
-To delete a board, click on the pen icon beside the board name and choose **Delete**. 
+Click on the arrow beside the board name and choose **Delete**. 
 
 ![delete board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/delete_board.png)
 

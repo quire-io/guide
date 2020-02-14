@@ -6,14 +6,14 @@ categories: follow project
 ---
 You can follow a project to get notified of any changes made to it.
 
-- Go to the project's Overview, and click on the eye icon at the top.
+Go to the project's Overview, and click on the eye icon at the top.
 
-	![follow project via overview]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_2.png)
+![follow project via overview]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_2.png)
 
 **Note:** You can add a team member as a follower to the project by typing in their name or email address. 
 {: .notice--warning}
 
-- Click on the arrow beside the project name, and choose **Follow**.
+Or click on the arrow beside the project name, and choose **Follow**.
 	
-	![follow project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_1.png)
+![follow project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_1.png)
 
