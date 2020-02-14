@@ -31,3 +31,16 @@ You will be notified of the following activities if you are:
 | Activities in task not assigned | | v | | v |
 
 
+#### Customize notifications in Quire
+
+Click on the dropdown menu next to the project name and scroll down to **Options**.
+
+![project options dropdown]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_options.jpg)
+
+By default, you will get notified about the task reminders, new tasks assigned to you and new comments. You can choose which notifications that you want to receive by selecting these following options. 
+
+![notification options]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_notifications_settings.jpg)
+
+
+**Note:** This setting will only apply to your account instead of every members in this project.
+{: .notice--warning}
