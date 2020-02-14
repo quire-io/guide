@@ -10,18 +10,11 @@ My Tasks is a default task list in Quire. You will see all tasks you should care
 
 #### Which tasks will be included in My Tasks?
 
-- Created by me, no assigned to others, with start or due date
-- Assigned to me
+Tasks in My Tasks can belong to a specific project or just be the personal tasks without being assigned to a project.
+
+- Tasks created by me, not assigned to others, with start or due date
+- Task assigned to me
 - Personal tasks
-
-Those tasks can belong to a specific project or just be the personal tasks without being assigned to a project.
-
-#### What can I do with My Tasks?
-
-- You can use the shortcut `=` to launch and close My Tasks. 
-- You can use the shortcut `m` to add a task directly to My Tasks.
-- If a task was completed 30 days ago, it will not be shown in My Tasks. 
-- Special filters: Group by project and Filter by project. 
 
 #### Personal Tasks
 
@@ -30,6 +23,23 @@ Those tasks can belong to a specific project or just be the personal tasks witho
 - You cannot assign your personal tasks to other users. You can only select yourself as the assignee.
 - You cannot create external team for personal tasks. 
 - You cannot create global tags for personal tasks. The tag for personal tasks is only visible in My Tasks. 
+
+![personal tasks]({{ site.url }}{{ site.baseurl }}/assets/images/my-tasks/personal_tasks.png)
+
+
+#### What can I do with My Tasks?
+
+- Use the shortcut `=` to launch and close My Tasks. 
+- Use the shortcut `m` to add a task directly to My Tasks.
+- If a task was completed 30 days ago, it will not be shown in My Tasks. 
+- Transfer personal tasks from My Tasks to other projects by clicking on the **project** icon or by cutting and pasting the tasks. 
+
+![trasnferring personal tasks]({{ site.url }}{{ site.baseurl }}/assets/images/my-tasks/transfer_personal_task.png)
+
+**Note:** Tasks from specific projects can not be transferred back to My Tasks as personal tasks. 
+{: .notice--warning}
+
+
 
 #### Permission
 
