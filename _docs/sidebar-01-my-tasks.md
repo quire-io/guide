@@ -6,15 +6,19 @@ categories: my tasks
 ---
 My Tasks is a default task list in Quire. You will see all tasks you should care about from all projects and organizations listed in My Tasks.
 
-![My Tasks]({{ site.url }}{{ site.baseurl }}/assets/images/my-tasks/Quire-my-tasks.png)
 
 #### Which tasks will be included in My Tasks?
 
 Tasks in My Tasks can belong to a specific project or just be the personal tasks without being assigned to a project.
 
+The default view for My Tasks is sorted by date. You can sort My Tasks with [two options](/guide/filter-sort/#sort-your-tasks), first by date, then by project, or the other way around.  
+
 - Tasks created by me, not assigned to others, with start or due date
 - Task assigned to me
 - Personal tasks
+
+![My Tasks]({{ site.url }}{{ site.baseurl }}/assets/images/my-tasks/my_tasks.png)
+
 
 #### Personal Tasks
 
