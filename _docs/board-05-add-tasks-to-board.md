@@ -49,3 +49,15 @@ Or you can drag the tasks up and down to reorder your column list.
 
 ![drag and drop tasks to reorder]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/drag_and_drop_reorder.jpg)
 
+
+## Edit the task cover
+
+If you had attached or embedded an image to a task, you can let it show as a task cover image in the board. 
+
+![task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_cover.png)
+
+Click on the **Options** icon on the top right corner of the task in your board. Select **Edit cover** and choose the image that you would like to show as a cover.
+
+![edit task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/edit_cover.png)
+
+
