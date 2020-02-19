@@ -4,7 +4,7 @@ permalink: /add-tasks-subtasks-mobile/
 date:   2019-08-23 15:00:00 +0800
 categories: add tasks subtasks on mobile
 ---
-Here's a [short video tutorial](https://youtu.be/-VxK6M7C3d8) for how to get started on Quire mobile app. 
+Check out this [short video tutorial](https://youtu.be/-VxK6M7C3d8) to learn more on how to get started for Quire mobile app. 
 
 ## Add new tasks 
 

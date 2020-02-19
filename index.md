@@ -1,5 +1,5 @@
 ---
-title: "Utility Classes"
+title: "Guide"
 date:   2019-06-13 12:42:00 +0800
 categories: utility classes
 layout: single
@@ -11,6 +11,24 @@ comments: true
 sidebar:
   nav: "docs"
 ---
+### Welcome to the Ultimate Guide to use Quire!
+
+This is the complete guide for you to get started on Quire, to lay the first brick on your projects and to achieve your dreams! 
+
+Here are some of the helpful tutorials for you to kickstart your projects as well. Check them out!
+
+[Unfold your ideas with Quire Task List](https://quire.io/tutorial)
+
+[Visualize your projects with Quire Kanban Board](https://quire.io/tutorial/board)
+
+[Get focused with Quire Sublist](https://quire.io/tutorial/sublist)
+
+
+
+
+
+
+
 
 Using the Kramdown Markdown renderer with Jekyll allows you to add [block](http://kramdown.gettalong.org/quickref.html#block-attributes) and [inline attributes](http://kramdown.gettalong.org/quickref.html#inline-attributes). This is nice if you want to add custom styling to text and image, and still write in Markdown.
 
@@ -101,15 +119,6 @@ And now we're going to shift things to the **right align**. Again, there should 
 
 ---
 
-![full]({{ "/assets/images/image-alignment-1200x4002.jpg" | relative_url }})
-{: .full}
-
-The image above should extend outside of the parent container on right.
-
-```markdown
-![full](/assets/images/filename.jpg)
-{: .full}
-```
 
 ## Buttons
 
