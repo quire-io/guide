@@ -38,3 +38,15 @@ Go to the detail panel, and click on the **eye** icon in the upper-right.
 Or you can right-click on the task, and select **Follow** in the context menu.
 
 ![right-click to follow a task]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/follow_right_click.png)
+
+
+
+{% capture notice-text %}
+**Note:** 
+- When you create a new task, you will automatically become the follower of that task. 
+- If you are the follower of a parent task, when other members add subtasks underneath, you will become the follower of the subtasks as well. 
+{% endcapture %}
+
+<div class="notice--warning">
+  {{ notice-text | markdownify }}
+</div>
