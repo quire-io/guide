@@ -6,7 +6,7 @@ categories: add tasks subtasks
 ---
 ## Add a task
 
-- Hit `t` on your keyboard to add a task.
+- Hit <kbd>t</kbd> on your keyboard to add a task.
 
 - Hit `+` or `Ctrl` + `Enter` (`⌘` + `Enter` on Mac) to add a task next to your selected task.
 

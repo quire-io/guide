@@ -31,7 +31,7 @@ docs:
         url: /assign-tags/
       - title: "Set Priority"
         url: /set-priority/
-      - title: "Descriptions"
+      - title: "Description"
         url: /descriptions/
       - title: "Inline Assign"
         url: /inline-assign/

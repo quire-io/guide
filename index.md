@@ -11,7 +11,7 @@ comments: true
 sidebar:
   nav: "docs"
 ---
-### Welcome to the Ultimate Guide to use Quire!
+### Welcome to the Ultimate Guide to Quire!
 
 This is the complete guide for you to get started on Quire, to lay the first brick on your projects and to achieve your dreams! 
 
