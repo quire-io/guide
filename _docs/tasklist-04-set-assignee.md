@@ -6,7 +6,7 @@ categories: set assignees
 ---
 ## Single assignee
 
-To assign a task to a member, click on the **assignee** icon, and select the member directly or use `@` on the keyboard then select the member using the up/down arrow key.
+To assign a task to a member, click on the **assignee** icon, and select the member directly or use <kbd>@</kbd> on the keyboard then select the member using the up/down arrow key.
 
 ![set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_assignee.png)
 
@@ -59,4 +59,5 @@ Next time, when you want to a assign a task to a group of members, you don't hav
 
 ## Assign a task to yourself
 
-Click on the **assignee** icon and select yourself, or just press `Ctrl` + `M` on the selected task.
+Click on the **assignee** icon and select yourself, or just press <kbd>Ctrl</kbd> + <kbd>M</kbd> on the selected task.
+

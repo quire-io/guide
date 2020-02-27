@@ -6,7 +6,7 @@ categories: add descriptions
 ---
 You can add a description, notes or any relevant details to a task in the detail panel. 
 
-To preview what you have just typed, hit `Ctrl` + `E` or `⌘` + `E` (on Mac). 
+To preview what you have just typed, hit <kbd>Ctrl</kbd> + <kbd>E</kbd> (or <kbd>⌘</kbd> + <kbd>E</kbd> for Mac). 
 
 The description area also supports markdown to give more styles to your text. Click on the **Markdown** icon to get a simple cheetsheet of Markdwon. 
 

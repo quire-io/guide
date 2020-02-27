@@ -18,7 +18,7 @@ Click on the **tag** icon, type a tag name and press Enter.
 
 #### To add an existing tag:
 
-Click on the **tag** icon of a task to select the tag or hit `#` on the keyboard when the task(s) is selected. 
+Click on the **tag** icon of a task to select the tag or hit <kbd>#</kbd> on the keyboard when the task(s) is selected. 
 
 ![add exisiting tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/add_existing_tags.png)
 

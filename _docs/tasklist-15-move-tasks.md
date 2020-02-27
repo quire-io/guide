@@ -13,7 +13,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.
 
 
-<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; max-width: 722px; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.mp4" type="video/mp4">
 </video>
 

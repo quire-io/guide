@@ -8,7 +8,7 @@ categories: set due dates
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
 
-Click on the **date** icon to set a due date. Or hit `<` on the keyboard when the task(s) is selected.
+Click on the **date** icon to set a due date. Or hit <kbd><</kbd> on the keyboard when the task(s) is selected.
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
@@ -16,7 +16,7 @@ You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-**Tip:** When editing a task, type `<` to assign a due date inline. See [here](https://quire.io/guide/inline-assign/) for more information. 
+**Tip:** When editing a task, type <kbd><</kbd> to assign a due date inline. See [here](https://quire.io/guide/inline-assign/) for more information. 
 {: .notice--info}
 
 
@@ -24,7 +24,7 @@ You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly
 
 You can decide when you would like to start working on a task.
 
-Click on the **date** icon to set a start date. Or hit `<` on the keyboard when the task(s) is selected.
+Click on the **date** icon to set a start date. Or hit <kbd><</kbd> on the keyboard when the task(s) is selected.
 
 ![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
