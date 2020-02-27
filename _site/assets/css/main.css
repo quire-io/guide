@@ -4190,6 +4190,7 @@ figcaption {
   font-family: inherit; }
 
 table {
+  display: table;
   font-family: inherit;
   font-size: 0.9em;
   margin-bottom: 1.6em; }
@@ -4207,6 +4208,8 @@ td {
   border-bottom: 1px solid #ededed; }
 
 kbd {
+  color: rgba(0, 0, 0, 0.7);
+  background-color: transparent;
   font-size: 0.9em;
   padding: 0.4em 0.46em;
   border-radius: 4px;
