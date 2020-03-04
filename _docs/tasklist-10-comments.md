@@ -16,7 +16,7 @@ When you leave a comment in a task, you will automatically become the **follower
 
 Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
 
-**Tip:** You can press `C` to post comments in the selected task.<br>
+**Tip:** You can press <kbd>C</kbd> to post comments in the selected task.<br>
 A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
 {: .notice--info}
 
