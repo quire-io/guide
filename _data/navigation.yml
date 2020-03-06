@@ -92,6 +92,8 @@ docs:
         url: /board-overview/
       - title:  "Add and Edit Boards"
         url: /add-edit-board/
+      - title:  "Board Permission"
+        url: /board-permission/
       - title: "Multiple Boards"
         url: /multiple-boards/    
       - title: "Add Tasks to Board"

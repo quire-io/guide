@@ -15,10 +15,10 @@ Your attached files may look like below:
 ![upload attachments]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/upload_attachments.png)
 
 
-**Note:** The maximum size allowed for each attached file is 5MB, and a total of 200MB for each organization.
+📝 **Note:** The maximum size allowed for each attached file is 5MB, and a total of 200MB for each organization.
 {: .notice--warning}
 
-**Tip:** A fast way to see whether the tasks have attachments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
+💡 **Tip:** A fast way to see whether the tasks have attachments or not without opening the detail panel is to hit <kbd>Ctrl</kbd> (or <kbd>Alt</kbd> for Mac) for toggling on the breadcrumbs. 
 {: .notice--info}
 
 
@@ -43,7 +43,7 @@ Step 3: Click **Save**, it would look like this.
 
 ![embed image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/embed_image_2.png)
 
-**Tip:** If you use Chrome, you can copy and paste an image in a description or comment.
+💡 **Tip:** If you use Chrome, you can copy and paste an image in a description or comment.
 {: .notice--info}
 
 
@@ -55,7 +55,7 @@ Step 1: Right-click on the image and select Copy.
 
 ![copy and paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/copy_paste_image.png)
 
-Step 2: Go to a description or comment, and right-click to select Paste (or hit `Ctrl` + `V`).
+Step 2: Go to a description or comment, and right-click to select Paste (or hit <kbd>Ctrl</kbd> + <kbd>V</kbd>).
 
 ![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image.png)
 
@@ -63,6 +63,6 @@ The image would look like this:
 
 ![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image_2.png)
 
-**Tip:** You can also embed an image via drag & drop.
+💡 **Tip:** You can also embed an image via drag & drop.
 {: .notice--info}
 

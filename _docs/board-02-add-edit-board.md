@@ -12,7 +12,7 @@ Click on the **+** icon and choose **Add board**.
 
 Name the newly created board and add a customized icon for the board title. You can choose who to share the board with: Project members or an External Team.
 
-**Note:** You won't be able to change the board permission once it has been set.  
+📝 **Note:** You won't be able to change the board permission once it has been set.  
 {: .notice--warning}
 
 ![create board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/create_board.png)
@@ -21,7 +21,7 @@ A blank board consists of 3 default [status column](/guide/status-column/): To-D
 
 ![default three columns]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/board_default_columns.png)
 
-**Tip:** You can choose a board you have created before as a template. It will then create a empty board with the same status column as the board you have chosen. 
+💡 **Tip:** You can choose a board you have created before as a template. It will then create a empty board with the same status column as the board you have chosen. 
 {: .notice--info}
 
 ## Edit board name or URL 
@@ -45,5 +45,5 @@ Click on the arrow beside the board name and choose **Delete**.
 
 ![delete board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/delete_board.png)
 
-**Note:** Once the board is deleted, it can’t be undone. Please make sure before deleting it. 
+📝 **Note:** Once the board is deleted, it can’t be undone. Please make sure before deleting it. 
 {: .notice--warning}

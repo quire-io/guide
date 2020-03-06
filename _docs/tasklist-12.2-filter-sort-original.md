@@ -10,7 +10,7 @@ Step 1: Click on the **filter** icon under the navigation bar at the top.
 
 ![filter icon]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_icon.png)
 
-**Tip:** Jump to the filter icon from the selected task by hitting `Shift` + `Tab` on your keyboard, then use the down arrow to choose the filter conditions. 
+**Tip:** Jump to the filter icon from the selected task by hitting <kbd>Shift</kbd> + <kbd>Tab</kbd> on your keyboard, then use the down arrow to choose the filter conditions. 
 {: .notice--info}
 
 Step 2: Click on **Customize** to select the condition(s) you want to apply.

@@ -14,5 +14,5 @@ Quire Sublist also helps you create a focused view for **project members** and e
 
 ![quire sublist]({{ site.url }}{{ site.baseurl }}/assets/images/sublist-introduction/quire_sublist.png)
 
-Learn more on how Sublist helps you bridge the gap between team shared to-do lists and personal productivity here on our [blog](https://quire.io/blog/p/Quire-sublist.html). 
+🔖 Learn more on how Quire Sublist helps you bridge the gap between team shared to-do lists and personal productivity on our [blog](https://quire.io/blog/p/Quire-sublist.html). 
 {: .notice}

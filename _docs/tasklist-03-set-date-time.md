@@ -16,7 +16,7 @@ You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly
 
 ![set due date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/due_date_picker.png)
 
-**Tip:** When editing a task, type <kbd><</kbd> to assign a due date inline. See [here](https://quire.io/guide/inline-assign/) for more information. 
+💡 **Tip:** When editing a task, type <kbd><</kbd> to assign a due date inline. See [here](https://quire.io/guide/inline-assign/) for more information. 
 {: .notice--info}
 
 
@@ -44,10 +44,10 @@ You can either hit the up or down arrow on your keyboard to select the due time,
 
 ![set due time]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/set_start_time.png)
 
-**Note:** With both start and due date, you can see the period or duration of your tasks when you [sync to Google Calendar or other](/guide/calendar/). 
+📝 **Note:** With both start and due date, you can see the period or duration of your tasks when you [sync to Google Calendar or other](/guide/calendar/). 
 {: .notice--warning}
 
-**Tip:** You can enable 24-hour time in the [Account Settings](https://quire.io/r/setting?tab=options). 
+💡 **Tip:** You can enable 24-hour time in the [Account Settings](https://quire.io/r/setting?tab=options). 
 {: .notice--info}
 
 ## Set tasks as recurring

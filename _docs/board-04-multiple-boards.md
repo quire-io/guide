@@ -1,5 +1,5 @@
 ---
-title:  "Create Multiple Boards"
+title:  "Multiple Boards"
 permalink: /multiple-boards/
 date:   2019-08-23 15:00:00 +0800
 categories: multiple boards

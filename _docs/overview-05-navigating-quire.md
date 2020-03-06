@@ -19,7 +19,7 @@ Right-click on a task to bring out the context menu.
 
 ![context menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_contextMenu.png)
 
-**Note:** Only when hovering over a task will show the status circle, date/ assignee icon, and + icon and more. 
+📝 **Note:** Only when hovering over a task will show the status circle, date/ assignee icon, and + icon and more. 
 {: .notice--warning}
 
 
@@ -27,11 +27,10 @@ Right-click on a task to bring out the context menu.
 
 After multiple selecting tasks, the bottom menu bar will reveal. 
 
-Learn more on [multiple assigning tasks](/guide/multiple-select/).
-{: .notice}
-
-
 ![bottom batch bar]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_batchBar.png)
+
+🔖 Learn more on [multiple assigning tasks](/guide/multiple-select/).
+{: .notice}
 
 ## Pin Sidebar or Detail Panel
 
@@ -41,26 +40,24 @@ Click on the **pin** icon to the pin the sidebar or the detail panel.
 
 
 ## Breadcrumbs
-Hit `Ctrl` (or `Alt` on Mac) to see the breadcrumbs a.k.a the ID# of the tasks, the root and parent tasks, and attachment/comment/ board icons of tasks if any. 
 
-Learn more about [breadcrumbs](/guide/breadcrumbs/).
-{: .notice}
-
+Hit <kbd>Ctrl</kbd> (or <kbd>Alt</kbd> on Mac) to see the breadcrumbs a.k.a the ID# of the tasks, the root and parent tasks, and attachment/comment/ board icons of tasks if any. 
 
 ![breadcrumbs ctrl alt]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_alt.png)
 
-
+🔖 Learn more about [breadcrumbs](/guide/breadcrumbs/).
+{: .notice}
 
 
 ## Keyboard Shortcuts
 
-Hit `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a complete list of shortcuts to easily manage your tasks.
-
+Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts to easily manage your tasks.
 
 ![keyboard shortcuts]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_kb.png)
 
-Learn more about our [Keyboard Shortcuts](https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html) in our blog post. 
+🔖 Learn more about our [Keyboard Shortcuts](https://quire.io/blog/p/A-few-shortcuts-that-actually-make-your-life-easier.html) in our blog post. 
 {: .notice}
+
 
 ## Help
 Click on your profile picture for the dropdown menu to appear, then click on Help to access helpful resources. 

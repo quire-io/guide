@@ -12,7 +12,6 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.
 
-
 <video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.mp4" type="video/mp4">
 </video>
@@ -39,7 +38,7 @@ You can also duplicate a task by right-clicking on the task, and selecting **Dup
 
 ![right-click duplicate]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/duplicate_right_click.png)
 
-Or much more easier , simply press `Ctrl` (`⌘` for Mac) + `C` to copy and then `Ctrl` + `V` to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste. 
+Or much more easier , simply press <kbd>Ctrl</kbd> (<kbd>⌘</kbd> for Mac) + <kbd>C</kbd> to copy and then <kbd>Ctrl</kbd> + <kbd>V</kbd> to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste. 
 
 ![right-click copy and paste]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/copy_paste_right_click.png)
 
@@ -61,8 +60,9 @@ You can also transfer a task or more by right-clicking on them, and selecting **
 
 ![right-click transfer]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_right_click.png)
 
-**Tip:** To quickly transfer tasks to another project, hold down the `ALT` key and drag the tasks to the project name at the sidebar. 
-{: .notice--warning}
+💡 **Tip:** To quickly transfer tasks to another project, hold down the <kbd>ALT</kbd> key and drag the tasks to the project name at the sidebar. 
+{: .notice--info}
+
 
 ## Merge a task
 
@@ -78,27 +78,35 @@ Step 2: Type in the name or the ID of the task you want to merge with, and click
 
 This duplicate task will close and all of its favorites and followers will be added to the task you've selected.
 
-Note: Assignees and attachments from the duplicate task won't be copied over.
+📝 **Note:** Assignees and attachments from the duplicate task won't be copied over.
 {: .notice--warning}
 
 
 
 ## Using shortcuts
 
-You can quickly reorder your tasks when they are in focus using `Ctrl` (`Alt` for Mac )+ Arrow or `Ctrl` (`⌘` for Mac)+ `X`:
+Here are some tips for you to move tasks around quickly. 
 
-- Press `Ctrl` + `Up` or `Alt` + `Up` to move tasks up
-- Press `Ctrl`+ `Down` or `Alt`+ `Down` to move tasks down
-- Press `Ctrl`+ `Left` or `Alt` + `Left` to move tasks a level up
-- Press `Ctrl` + `Right` or `Alt` + `Right` to move tasks a level down
-- Press `Ctrl` + `X` to cut a task and then `Ctrl` + `V` to paste it somewhere else
+#### Reorder your tasks:
 
-You can also indent your task when it is in edit mode:
+|    | MacOS   | Windows |
+| :------ |:-----| :-----|
+| Move task(s) up | `⌥` + `↑` | `Ctrl` + `↑` |
+| Move task(s) down | `⌥` + `↓` | `Ctrl` + `↓` |
+| Level up a task | `⌥` + `←` | `Ctrl` + `←` |
+| Level down a task |`⌥` + `→` | `Ctrl` + `→` |
+| Copy selected task(s) | `⌘` + `C` | `Ctrl` + `C` |
+| Paste selected task(s) | `⌘` + `V` | `Ctrl` + `V` |
 
-- Press `Tab` to indent the task
-- Press `Shift` + `Tab` to un-indent the task
 
-**Tip:** Press `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a complete list of shortcuts.
+#### Indent your task when it is in edit mode:
+
+||MacOS|Windows|
+|:------ |:-----| :-----|
+| Indent | `Tab` | `Tab`|
+| Un-indent | `Shift` + `Tab` | `Shift` + `Tab` |
+
+💡 **Tip:** Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts.
 {: .notice--info}
 
 

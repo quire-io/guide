@@ -12,7 +12,7 @@ There are 5 types of organization members.
 
 - **Normal:** Can only see the projects he/she had been invited to, add new projects, and edit the organization's name and profile. Normal members will not be able to manage the organization's members (including inviting new members or existing members) and delete projects.
 
-**Note:** When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
+    **Note:** When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
 {: .notice--warning}
 
 - **Limited+:** Can read all projects in the organization, add tasks, and manage assigned tasks. Limited+ members will not be able to manage the organization's members (including inviting new members or deleting) and delete projects.

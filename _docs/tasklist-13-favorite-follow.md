@@ -20,10 +20,10 @@ You can filter by **Favorited by me** to easily see all the tasks you've favorit
 
 ![filter task favorite by me]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/filter_favorite_by_me.png)
 
-Learn more about [filter and sort](/guide/filter-sort/). 
+🔖 Learn more about [filter and sort](/guide/filter-sort/). 
 {: .notice}
 
-**Note:** A ♥ means you favorited the task, whereas a ♡ means you didn't. And the number beside either heart indicates how many people have favorited the task.
+📝 **Note:** A ♥ means you favorited the task, whereas a ♡ means you didn't. And the number beside either heart indicates how many people have favorited the task.
 {: .notice--warning}
 
 
@@ -42,7 +42,7 @@ Or you can right-click on the task, and select **Follow** in the context menu.
 
 
 {% capture notice-text %}
-**Note:** 
+📝 **Note:** 
 - When you create a new task, you will automatically become the follower of that task. 
 - If you are the follower of a parent task, when other members add subtasks underneath, you will become the follower of the subtasks as well. 
 {% endcapture %}

@@ -42,5 +42,5 @@ By default, you will get notified about the task reminders, new tasks assigned t
 ![notification options]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_notifications_settings.jpg)
 
 
-**Note:** This setting will only apply to your account instead of every members in this project.
+📝 **Note:** This setting will only apply to your account instead of every members in this project.
 {: .notice--warning}

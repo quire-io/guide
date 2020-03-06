@@ -19,12 +19,12 @@ For the marketing team, they are running different campaigns. You can create an 
 ## Organizations
 An organization is a collection of multiple projects. View an organization like a company or a department that works on projects together.  
 
-Learn how to create a new [organization](/guide/add-organization/).
+🔖 Learn how to create a new [organization](/guide/add-organization/).
 {: .notice}
 
 ![organization sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
 
-**Note:** When adding members at an organization level, members will be able to see and access all the projects underneath. 
+📝 **Note:** When adding members at an organization level, members will be able to see and access all the projects underneath. 
 {: .notice--warning}
 
 
@@ -32,16 +32,16 @@ Learn how to create a new [organization](/guide/add-organization/).
 A project is a collection of tasks. You use a project when you have a big goal and you want to break it down into small tasks.
 
 
-Learn how to create a new [project](/guide/add-project/).
+🔖 Learn how to create a new [project](/guide/add-project/).
 {: .notice}
 
 
-{% include figure image_path="/assets/images/organization-project-task/project.png" alt="this is a placeholder image" caption="Sidebar: Projects in the sidebar are grouped by Organization." %}
+{% include figure image_path="/assets/images/organization-project-task/project.png" alt="Quire sidebar project name" caption="Sidebar: Projects in the sidebar are grouped by Organization." %}
 
 
-{% include figure image_path="/assets/images/organization-project-task/mainpanel.png" alt="this is a placeholder image" caption="Main panel" %}
+{% include figure image_path="/assets/images/organization-project-task/mainpanel.png" alt="Quire workspace project name main panel" caption="Main panel" %}
 
-**Note:** You can add members to the project level, meaning they will only have access to the projects you have granted them permission. 
+📝 **Note:** You can add members to the project level, meaning they will only have access to the projects you have granted them permission. 
 {: .notice--warning}
 
 ## Tasks

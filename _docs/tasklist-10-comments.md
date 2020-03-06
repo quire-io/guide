@@ -16,22 +16,22 @@ When you leave a comment in a task, you will automatically become the **follower
 
 Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
 
-**Tip:** You can press <kbd>C</kbd> to post comments in the selected task.<br>
-A fast way to see whether the tasks have comments or not without opening the detail panel is to hit `Ctrl` (or `Alt` for Mac) for toggling on the breadcrumbs. 
+💡 **Tip:** You can hit <kbd>C</kbd> to post comments in the selected task.<br>
+A fast way to see whether the tasks have comments or not without opening the detail panel is to hit <kbd>Ctrl</kbd> (or <kbd>Alt</kbd> for Mac) for toggling on the breadcrumbs. 
 {: .notice--info}
 
 #### Style your comments:
 
 The comment area supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
 
-To preview what you have just typed, press `Ctrl` + `E` or `⌘` + `E` (on Mac).
+To preview what you have just typed, hit <kbd>Ctrl</kbd> + <kbd>E</kbd> or <kbd>⌘</kbd> + <kbd>E</kbd> for Mac.
 
-Learn more about [styling](/guide/styling/) your text. 
+🔖 Learn more about [styling](/guide/styling/) your text. 
 {: .notice}
 
 #### Add emojis:
 
-Add emojis to make your description stand out. Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
+Add emojis to make your description stand out. Type in <kbd>:</kbd> to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quire_emoji.png)
 
@@ -39,7 +39,7 @@ Add emojis to make your description stand out. Type in `:` to get emoji cheet sh
 
 There is an easy way for you to quote someone else's words in your reply.
 
-Simply select the words and press `Ctrl` + `Q`, you will automatically quote the selected text in the comment.
+Simply select the words and press <kbd>Ctrl</kbd> + <kbd>Q</kbd>, you will automatically quote the selected text in the comment.
 
 ![select words into quote]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quote_message.png)
 

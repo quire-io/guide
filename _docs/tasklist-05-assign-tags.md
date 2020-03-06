@@ -4,8 +4,6 @@ permalink: /assign-tags/
 date:   2019-08-23 15:00:00 +0800
 categories: assign tags
 ---
-
-
 ## Add, edit or delete a tag
 
 You can add, edit, or delete a tag in both the **main panel** and the **detail panel**.
@@ -22,7 +20,7 @@ Click on the **tag** icon of a task to select the tag or hit <kbd>#</kbd> on the
 
 ![add exisiting tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/add_existing_tags.png)
 
-**Tip:** Drag and drop the tags to reorder them. 
+💡 **Tip:** Drag and drop the tags to reorder them. 
 {: .notice--info}
 
 #### To edit and delete tags:
@@ -49,7 +47,7 @@ You can [manage all the global tags](/guide/manage-tags/) in the project's Setti
 
 ![global tags in project settings]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/global_tags_settings_page.png)
 
-**Note:** If you uncheck **Visible to all projects**, you would remove the tag from other projects in the same organization.
+📝 **Note:** If you uncheck **Visible to all projects**, you would remove the tag from other projects in the same organization.
 {: .notice--warning}
 
 

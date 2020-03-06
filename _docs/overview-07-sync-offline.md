@@ -11,5 +11,5 @@ If you lose internet connection in the middle of creating a task or adding a com
 
 We will automatically sync what you've done once the connection is back, as long as the page is cached at the client side.
 
-**Note:** Our mobile apps will also work when you don’t have an internet connection. Just like our web version, you would only be able to access the projects that you had accessed when there was internet.
+📝 **Note:** Our mobile apps will also work when you don’t have an internet connection. Just like our web version, you would only be able to access the projects that you had accessed when there was internet.
 {: .notice--warning}

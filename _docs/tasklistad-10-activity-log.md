@@ -6,8 +6,6 @@ categories: task activity log
 ---
 You can see what has been done to a task in its activity log.
 
-Click on a task in the main panel (aka the tree list).
-
 In this task’s detail panel, click on **Created by…**. You would see a record of the past actions done to the task.
 
 ![task activity log]({{ site.url }}{{ site.baseurl }}/assets/images/activity-log/task_activity_log.png)

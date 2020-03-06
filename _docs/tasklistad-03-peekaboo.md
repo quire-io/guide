@@ -30,5 +30,5 @@ You can go to the **Project’s Settings** and change the peekaboo tasks default
 
 ![reshow peekaboo tasks in settings]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_peekaboo_settings.png)
 
-Check out our blog post about [Peekaboo feature and the GTD method](https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html).
+🔖 Check out our blog post about [Peekaboo feature and the GTD method](https://quire.io/blog/p/Quire-Peekaboo-and-GTD-Methodology.html).
 {: .notice}

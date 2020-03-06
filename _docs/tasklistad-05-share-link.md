@@ -24,7 +24,7 @@ Step 4: Copy the generated link and send it to your clients.
 
 ![share link to clients]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_expiry_date_copy.png)
 
-**Note:** Anyone with the link will be able to view your project.
+📝 **Note:** Anyone with the link will be able to view your project.
 {: .notice--warning}
 
 
@@ -34,5 +34,5 @@ You can edit an existing shared link to give it a new deadline.
 
 ![edit share link expiry date]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_edit_expiry_date.png)
 
-Check out our blog post about [sharing projects with clients without them signing up](https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html).
+🔖 Read our blog post about [sharing projects with clients without them signing up](https://quire.io/blog/p/Share-a-project-with-your-clients-without-them-sign-up.html).
 {: .notice}

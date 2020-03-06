@@ -22,7 +22,7 @@ Step 4: Choose a name for the team, and add people by entering their email addre
 
 ![add new external team name]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_add_team_name.png)
 
-**Note:** The number of external members will count towards the total number of 30 members allowed in each organization.
+📝 **Note:** The number of external members will count towards the total number of 30 members allowed in each organization.
 {: .notice--warning}
 
 To edit an external team (eg. remove an external team member), hover the external team's name and click on the **pen** icon.
@@ -40,5 +40,5 @@ Simply click on the **assignee** icon of a task, and turn on the **Assign an ext
 
 ![assign tasks to external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/assignee_tasks_external_team.png)
 
-Check out our blog post about [External Team](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html).
+🔖 Check out our blog post about [External Team](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html).
 {: .notice}

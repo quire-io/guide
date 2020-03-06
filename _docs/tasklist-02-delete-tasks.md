@@ -34,5 +34,5 @@ To see your previous operations list, or the tasks completed/deleted by other me
 
 ![undo task]({{ site.url }}{{ site.baseurl }}/assets/images/delete-tasks/undo_icon.png)
 
-**Note:** The undo icon only remembers the modifications that were made within **7 days**.
+📝 **Note:** The undo button only remembers the modifications that were made within **7 days**.
 {: .notice--warning}

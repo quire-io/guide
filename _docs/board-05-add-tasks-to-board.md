@@ -20,7 +20,7 @@ In the Board view, click on the **+** sign at the top right corner of each colum
 
 ![status change in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_status_change.png)
 
-Or from the List view, you can right-click to choose **Add to board** and select a board. Or hit `^` on the keyboard then use the up/down arrow key to choose which board you want to add to.
+Or from the List view, you can right-click to choose **Add to board** and select a board. Or hit <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose which board you want to add to.
 
 ![add tasks to board in List view]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/add_tasks_to_board_list.png)
 
