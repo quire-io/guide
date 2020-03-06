@@ -37,6 +37,6 @@ You will see a record of the past actions done to the project.
 
 You can discuss and chat about what you have accomplished with other project members in the comment area. 
 
-Go to the project’s Overview page. Hit `Spacebar` to open up the detail panel. 
+Go to the project’s Overview page. Hit <kbd>Spacebar</kbd> to open up the detail panel. 
 
 ![project comments]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/open_detail_panel.png)

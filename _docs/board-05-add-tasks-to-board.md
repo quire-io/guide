@@ -10,12 +10,12 @@ In the Board view, click on the **+** sign at the top right corner of each colum
 
 ![add existing task to board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_add_existing_tasks.png)
 
-**Tip:** You can use the filter bar or simply type in the search bar to narrow down your task list.
+💡 **Tip:** You can use the filter bar or simply type in the search bar to narrow down your task list.
 {: .notice--info}
 
 ![add existing task to board with filter]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_add_exisiting_task_filter.png)
 
-**Note:** If the task you are adding to the board has already been given a status in the list view, there might be status change.   
+📝 **Note:** If the task you are adding to the board has already been given a status in the list view, there might be status change.   
 {: .notice--warning}
 
 ![status change in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_status_change.png)
@@ -24,18 +24,18 @@ Or from the List view, you can right-click to choose **Add to board** and select
 
 ![add tasks to board in List view]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/add_tasks_to_board_list.png)
 
-**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
+📝 **Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
 {: .notice--warning}
 
 ## Create new tasks
 
 In the Board view, click on the **+** sign at the top right corner of each column.
 
-Hit `Enter` to continue to add new tasks. When done, hit `Esc` to finish.   
+Hit <kbd>Enter</kbd> to continue to add new tasks. When done, hit <kbd>Esc</kbd> to finish.   
 
 ![create new task in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/create_new_task.png)
 
-**Note:** The newly created tasks will also be added to the list view as a **root task**. 
+📝 **Note:** The newly created tasks will also be added to the list view as a **root task**. 
 {: .notice--warning}
 
 

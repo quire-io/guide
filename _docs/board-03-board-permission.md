@@ -17,7 +17,5 @@ The newly created board will be visible to all of the project members (excluding
 
 #### Share board with external team
 
-All of the members in External Team can view the tasks within in this board. If you add a task in this board, it is automatically assigned to the External Team. 
-
-However, if you add a parent task with an already assigned subtask to this sublist, the subtask will not be reassigned to the External Team.
+All of the members in [External Team](/guide/external-team/) can view the tasks within in this board. If you add a task in this board, it is automatically assigned to the External Team. 
 

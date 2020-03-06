@@ -15,11 +15,9 @@ Name the newly created board and add a customized icon for the board title. You 
 📝 **Note:** You won't be able to change the board permission once it has been set.  
 {: .notice--warning}
 
-![create board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/create_board.png)
-
 A blank board consists of 3 default [status column](/guide/status-column/): To-Do, In Progress and Completed. 
 
-![default three columns]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/board_default_columns.png)
+![create board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/create_board.png)
 
 💡 **Tip:** You can choose a board you have created before as a template. It will then create a empty board with the same status column as the board you have chosen. 
 {: .notice--info}
@@ -33,9 +31,7 @@ Click on the arrow beside the board name and choose **Edit**.
 
 ## Archive a board 
 
-Click on the arrow beside the board name and choose **Archive**. 
-
-You can find the archived board in the Archived category in the dropdown menu. 
+Click on the arrow beside the board name and choose **Archive**. You can find the archived board will be moved to the Archived category in the drop down menu.
 
 ![archive board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/archive_board.png)
 
