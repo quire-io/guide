@@ -46,7 +46,7 @@
     
 
     
-      <link rel="prev" href="/guide/delete-organization/" title="Delete Organization">
+      <link rel="prev" href="/guide/leave-organization/" title="Leave Organization">
     
 
 
@@ -390,6 +390,9 @@
         
     
         
+          
+            
+            
           
             
             
@@ -1065,6 +1068,16 @@
             
 
             <li><a href="/guide/add-edit-board/" class=""> Add and Edit Boards</a>
+                      
+            </li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/guide/board-permission/" class=""> Board Permission</a>
                       
             </li>
           
@@ -1841,7 +1854,7 @@
         
         <p>There are 5 types of organization members.</p>
 
-<ul>
+<ul class="notice--warning">
   <li>
     <p><strong>Admin:</strong> Can manage all tasks, projects and members in the organization.</p>
   </li>
@@ -1850,10 +1863,10 @@
   </li>
   <li>
     <p><strong>Normal:</strong> Can only see the projects he/she had been invited to, add new projects, and edit the organization’s name and profile. Normal members will not be able to manage the organization’s members (including inviting new members or existing members) and delete projects.</p>
+
+    <p><strong>Note:</strong> When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.</p>
   </li>
 </ul>
-
-<p class="notice--warning"><strong>Note:</strong> When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.</p>
 
 <ul>
   <li>
@@ -1884,8 +1897,8 @@
       
   <nav class="pagination">
     
-      <a href="/guide/delete-organization/" class="pagination--pager prev" title="Delete Organization
-">Delete Organization</a>    
+      <a href="/guide/leave-organization/" class="pagination--pager prev" title="Leave Organization
+">Leave Organization</a>    
     
     
       <a href="/guide/project-permission/" class="pagination--pager next" title="Project Level

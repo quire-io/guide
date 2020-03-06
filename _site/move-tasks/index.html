@@ -411,6 +411,9 @@
             
             
           
+            
+            
+          
         
     
         
@@ -1073,6 +1076,16 @@
             
 
             <li><a href="/guide/add-edit-board/" class=""> Add and Edit Boards</a>
+                      
+            </li>
+          
+            
+            
+
+            
+            
+
+            <li><a href="/guide/board-permission/" class=""> Board Permission</a>
                       
             </li>
           
@@ -1852,7 +1865,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 <p>You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.</p>
 
-<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; max-width: 722px; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="https://quire.io/guide/assets/images/move-tasks/drag_and_drop.mp4" type="video/mp4" />
 </video>
 
@@ -1876,7 +1889,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 <p><img src="https://quire.io/guide/assets/images/move-tasks/duplicate_right_click.png" alt="right-click duplicate" /></p>
 
-<p>Or much more easier , simply press <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">⌘</code> for Mac) + <code class="highlighter-rouge">C</code> to copy and then <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">V</code> to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste.</p>
+<p>Or much more easier , simply press <kbd>Ctrl</kbd> (<kbd>⌘</kbd> for Mac) + <kbd>C</kbd> to copy and then <kbd>Ctrl</kbd> + <kbd>V</kbd> to paste it anywhere you like. Of course, right clicking on the task will also bring up a context menu for copy and paste.</p>
 
 <p><img src="https://quire.io/guide/assets/images/move-tasks/copy_paste_right_click.png" alt="right-click copy and paste" /></p>
 
@@ -1896,7 +1909,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 <p><img src="https://quire.io/guide/assets/images/move-tasks/transfer_right_click.png" alt="right-click transfer" /></p>
 
-<p class="notice--warning"><strong>Tip:</strong> To quickly transfer tasks to another project, hold down the <code class="highlighter-rouge">ALT</code> key and drag the tasks to the project name at the sidebar.</p>
+<p class="notice--info">💡 <strong>Tip:</strong> To quickly transfer tasks to another project, hold down the <kbd>ALT</kbd> key and drag the tasks to the project name at the sidebar.</p>
 
 <h2 id="merge-a-task">Merge a task</h2>
 
@@ -1912,28 +1925,81 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 <p>This duplicate task will close and all of its favorites and followers will be added to the task you’ve selected.</p>
 
-<p class="notice--warning">Note: Assignees and attachments from the duplicate task won’t be copied over.</p>
+<p class="notice--warning">📝 <strong>Note:</strong> Assignees and attachments from the duplicate task won’t be copied over.</p>
 
 <h2 id="using-shortcuts">Using shortcuts</h2>
 
-<p>You can quickly reorder your tasks when they are in focus using <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">Alt</code> for Mac )+ Arrow or <code class="highlighter-rouge">Ctrl</code> (<code class="highlighter-rouge">⌘</code> for Mac)+ <code class="highlighter-rouge">X</code>:</p>
+<p>Here are some tips for you to move tasks around quickly.</p>
 
-<ul>
-  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">Up</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Up</code> to move tasks up</li>
-  <li>Press <code class="highlighter-rouge">Ctrl</code>+ <code class="highlighter-rouge">Down</code> or <code class="highlighter-rouge">Alt</code>+ <code class="highlighter-rouge">Down</code> to move tasks down</li>
-  <li>Press <code class="highlighter-rouge">Ctrl</code>+ <code class="highlighter-rouge">Left</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Left</code> to move tasks a level up</li>
-  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">Right</code> or <code class="highlighter-rouge">Alt</code> + <code class="highlighter-rouge">Right</code> to move tasks a level down</li>
-  <li>Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">X</code> to cut a task and then <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">V</code> to paste it somewhere else</li>
-</ul>
+<h4 id="reorder-your-tasks">Reorder your tasks:</h4>
 
-<p>You can also indent your task when it is in edit mode:</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">MacOS</th>
+      <th style="text-align: left">Windows</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Move task(s) up</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌥</code> + <code class="highlighter-rouge">↑</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">↑</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Move task(s) down</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌥</code> + <code class="highlighter-rouge">↓</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">↓</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Level up a task</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌥</code> + <code class="highlighter-rouge">←</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">←</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Level down a task</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌥</code> + <code class="highlighter-rouge">→</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">→</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Copy selected task(s)</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌘</code> + <code class="highlighter-rouge">C</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">C</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Paste selected task(s)</td>
+      <td style="text-align: left"><code class="highlighter-rouge">⌘</code> + <code class="highlighter-rouge">V</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">V</code></td>
+    </tr>
+  </tbody>
+</table>
 
-<ul>
-  <li>Press <code class="highlighter-rouge">Tab</code> to indent the task</li>
-  <li>Press <code class="highlighter-rouge">Shift</code> + <code class="highlighter-rouge">Tab</code> to un-indent the task</li>
-</ul>
+<h4 id="indent-your-task-when-it-is-in-edit-mode">Indent your task when it is in edit mode:</h4>
 
-<p class="notice--info"><strong>Tip:</strong> Press <code class="highlighter-rouge">Ctrl</code> + <code class="highlighter-rouge">F1</code> or <code class="highlighter-rouge">Fn</code> + <code class="highlighter-rouge">F1</code> (for Mac) to see a complete list of shortcuts.</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">MacOS</th>
+      <th style="text-align: left">Windows</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Indent</td>
+      <td style="text-align: left"><code class="highlighter-rouge">Tab</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Tab</code></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Un-indent</td>
+      <td style="text-align: left"><code class="highlighter-rouge">Shift</code> + <code class="highlighter-rouge">Tab</code></td>
+      <td style="text-align: left"><code class="highlighter-rouge">Shift</code> + <code class="highlighter-rouge">Tab</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<p class="notice--info">💡 <strong>Tip:</strong> Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts.</p>
 
 
         
