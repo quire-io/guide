@@ -6,7 +6,7 @@ categories: edit organization name descriptions
 ---
 You can customize your organization upon to your preference. 
 
-**Note:** You must be Organization Admin to make the changes.
+**Note:** You must be **organization admin** to make the changes.
 {: .notice--warning}
 
 ## Change organization profile picture 

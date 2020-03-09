@@ -6,6 +6,7 @@ categories: add tasks to board
 ---
 ## Add existing tasks 
 
+#### Add tasks from the board view: 
 In the Board view, click on the **+** sign at the top right corner of each column. 
 
 ![add existing task to board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_add_existing_tasks.png)
@@ -18,9 +19,11 @@ In the Board view, click on the **+** sign at the top right corner of each colum
 📝 **Note:** If the task you are adding to the board has already been given a status in the list view, there might be status change.   
 {: .notice--warning}
 
-![status change in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_status_change.png)
+#### Add tasks from the list view: 
 
-Or from the List view, you can right-click to choose **Add to board** and select a board. Or hit <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose which board you want to add to.
+You can right-click to choose **Add to board** and select a board. 
+
+Hitting <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose which board you want to add to can also allow you to add a task to the board. 
 
 ![add tasks to board in List view]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/add_tasks_to_board_list.png)
 
@@ -43,11 +46,12 @@ Hit <kbd>Enter</kbd> to continue to add new tasks. When done, hit <kbd>Esc</kbd>
 
 You can drag and drop your tasks from column to column to reorganize your work or move it to the next status. 
 
-![drag tasks from column to column]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/drag_and_drop_board.jpg)
-
 Or you can drag the tasks up and down to reorder your column list. 
 
-![drag and drop tasks to reorder]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/drag_and_drop_reorder.jpg)
+
+<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/drag_and_drop_reorder.mp4" type="video/mp4">
+</video>
 
 
 ## Edit the task cover

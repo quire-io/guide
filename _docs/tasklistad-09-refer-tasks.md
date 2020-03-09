@@ -8,7 +8,7 @@ categories: refer tasks projects
 
 You can refer to a task by simply typing `#taskname` or `#taskid` in the description or comment.
 
-![refer a task]({{ site.url }}{{ site.baseurl }}/assets/images/refer-tasks/refer_task.jpg)
+![refer a task]({{ site.url }}{{ site.baseurl }}/assets/images/refer-tasks/refer_task.png)
 
 💡 **Tip:** Toggle on the Advanced mode by hitting <kbd>Ctrl</kbd> or <kbd>Alt</kbd> for Mac to see the task ID number. 
 {: .notice--info}

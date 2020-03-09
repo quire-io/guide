@@ -22,7 +22,7 @@ Step 3: Select an expiry date for the share link.
 
 Step 4: Copy the generated link and send it to your clients.
 
-![share link to clients]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_expiry_date_copy.png)
+![copy the share link to clients]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/share_link_expiry_date_copy.png)
 
 📝 **Note:** Anyone with the link will be able to view your project.
 {: .notice--warning}

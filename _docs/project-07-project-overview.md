@@ -16,10 +16,15 @@ You can see the number of task in progress, and the percentage of tasks being co
 
 ![project progress stats]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_progress_stats.png)
 
-**Tip:** The default time range for the progress stats is 6 months, you can narrow down the time range by selecting a range on the progress stats chart allowing it to zoom in. Click on **Reset zoom** to go back to the default settings. 
+💡 **Tip:** The default time range for the progress stats is 6 months, you can narrow down the time range by selecting a range on the progress stats chart allowing it to zoom in. Click on **Reset zoom** to go back to the default settings. 
 {: .notice--info}
 
 ![project progress stats]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/progress_stats_zoom_in.gif)
+
+
+Here you will also be able to see the weekly summary for the project. 
+
+![project weekly summary]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_weekly_summary.png)
 
 
 ## Project activity log 

@@ -10,13 +10,13 @@ You can see the Organization progress statistic and the summary of each Project 
 
 ![organization overview]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_overview.png)
 
-- Click on the organization at the sidebar. 
+Click on the organization at the sidebar to access the organization orverview. 
 
-	![organization in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_sidebar.png)
+![organization in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_sidebar.png)
 
-- Click on the arrow icon beside your project's name, and select **Go to Organiztion**.
+Or click on the arrow icon beside your project's name, and select **Go to Organization**.
 
-	![go to organization via context menu]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_context_menu.png)
+![go to organization via context menu]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_context_menu.png)
 
 
 ## Organization activity log

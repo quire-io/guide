@@ -8,7 +8,7 @@ Quire allows to create a task list with multiple levels. But sometimes you only 
 
 You can right-click on the **Collapse/Expand** icon of a task for options to expand the tasks.
 
-![Collapse/Expand]({{ site.url }}{{ site.baseurl }}/assets/images/expand-collpase/expand_collapse.jpg)
+![Collapse/Expand tasks]({{ site.url }}{{ site.baseurl }}/assets/images/expand-collpase/expand_collapse.png)
 
 #### Keyboard shortcuts: 
 

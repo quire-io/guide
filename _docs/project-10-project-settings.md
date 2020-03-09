@@ -54,6 +54,27 @@ You can choose to change the status of a task, whenever you click on the complet
 ![always show status options]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/always_show_status.png)
 
 
+#### Enable to favorite a task
+
+You can choose to enable project members [favoriting a task](/guide/favorite-follow-task/). 
+
+![enable favoriting a task]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/enable_favorites.png)
+
+#### Display the project icon at the sidebar
+
+You can choose to display the project icon at the sidebar. 
+
+![display the project icon at the sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/display_sidebar_icon.png)
+
+
+#### Set the default days for the peekaboo tasks to reshow
+
+You can choose the deafault days for the [peekaboo tasks](/guide/peekaboo/) to reshow. The default is 7 days.
+
+![set the default days for the peekaboo tasks to reshow]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/reshow_peekaboo.png)
+
+
+
 #### Make your project private or public
 
 You can choose to set a project private only available to your members, or public available to any user.
