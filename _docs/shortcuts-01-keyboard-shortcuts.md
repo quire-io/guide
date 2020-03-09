@@ -4,7 +4,7 @@ permalink: /keyboard-cheatsheet/
 date:   2019-08-23 15:00:00 +0800
 categories: keyboard shortcut cheetsheet
 ---
-Hit `Ctrl` + `F1` or `Fn` + `F1` (for Mac) to see a compact list of shortcuts for easily managing your tasks.
+Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a compact list of shortcuts for easily managing your tasks.
 
 Or, click on the Help icon on the upper-right of your Quire workspace and select Keyboard Shortcuts.
 
@@ -13,55 +13,55 @@ Or, click on the Help icon on the upper-right of your Quire workspace and select
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
-| Quick add a task | `t` | `t`|
-| Enter to add a task | `Enter` | `Enter` |
-| Quick add a subtask | `Shift` + `↵`  |  `Shift` + `↵`|
-| Completed selected task(s) | `⌘` +`/` |  `Ctrl` + `/` |
-| Delete selected task(s) | `⌘` + `Delete` | `Ctrl` + `Backspace`/`Delete`  |
-| Undo | `⌘` + `Z` | `Ctrl` + `Z`  | 
-| Edit task name | `F2` or `⌥` + `↵` | `F2` or `Alt` + `↵` |
+| Quick add a task | <kbd>t</kbd> | <kbd>t</kbd>|
+| Enter to add a task | <kbd>Enter</kbd> | <kbd>Enter</kbd> |
+| Quick add a subtask | <kbd>Shift</kbd> + <kbd>↵</kbd>  |  <kbd>Shift</kbd> + <kbd>↵</kbd>|
+| Completed selected task(s) | <kbd>⌘</kbd> + <kbd>/</kbd> |  <kbd>Ctrl</kbd> + <kbd>/</kbd> |
+| Delete selected task(s) | <kbd>⌘</kbd> + <kbd>Delete</kbd> | <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>/<kbd>Delete</kbd>  |
+| Undo | <kbd>⌘</kbd> + <kbd>Z</kbd> | <kbd>Ctrl</kbd> + <kbd>Z</kbd>  | 
+| Edit task name | <kbd>F2</kbd> or <kbd>⌥</kbd> + <kbd>↵</kbd> | <kbd>F2</kbd> or <kbd>Alt</kbd> + <kbd>↵</kbd> |
 
 #### Inline Features (works with multiple select tasks also)
 
 ||MacOS|Windows|
 |:------ |:-----| :-----|
-|Assign tag to a task | `#` | `#` |
-| Assign task(s) to an assignee | `@` | `@` |
-| Status | `/` | `/` |
-| Date | `< >` | `< >` |
-| Priority | `!` | `!` |
-| Add task(s) to board | `^` | `^` |
-| Assign selected task(s) to yourself | `Ctrl` + `M` | `Ctrl` + `M` |
-| Indent | `Tab` | `Tab`|
-| Un-indent | `Shift` + `Tab` | `Shift` + `Tab` |
-| Remove an existing assignee, tags, etc. | `-` | `-` |
+|Assign tag to a task | <kbd>#</kbd> | <kbd>#</kbd> |
+| Assign task(s) to an assignee | <kbd>@</kbd> | <kbd>@</kbd> |
+| Status | <kbd>/</kbd> | <kbd>/</kbd> |
+| Date | <kbd>< ></kbd> | <kbd>< ></kbd> |
+| Priority | <kbd>!</kbd> | <kbd>!</kbd> |
+| Add task(s) to board | <kbd>^</kbd> | <kbd>^</kbd> |
+| Assign selected task(s) to yourself | <kbd>Ctrl</kbd> + <kbd>M</kbd> | <kbd>Ctrl</kbd> + <kbd>M</kbd> |
+| Indent | <kbd>Tab</kbd> | <kbd>Tab</kbd> |
+| Un-indent | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |
+| Remove an existing assignee, tags, etc. | <kbd>-</kbd> | <kbd>-</kbd> |
 
 #### Main Panel
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
-| Show/Hide breadcrumbs | `⌥` |  `Ctrl`|
-| Print task(s) | `⌘` + `P` |  `Ctrl` + `P`|
-| Move task(s) up or down | `⌥` + `↑` or `⌥` + `↓` | `Ctrl` + `↑` or `Ctrl` + `↓` |
-| Level up or down a task | `⌥` + `←` or `⌥` + `→` | `Ctrl` + `←` or `Ctrl` + `→` |
-| Move task(s) cross columns in board view | `⌥` + `←` or `⌥` + `→` | `Ctrl` + `←` or `Ctrl` + `→` |
-| Cut selected task(s) | `⌘` + `X` | `Ctrl` + `X` |
-| Copy selected task(s) | `⌘` + `C` | `Ctrl` + `C` |
-| Paste selected task(s) | `⌘` + `V` | `Ctrl` + `V` |
-| Multiple select | `Shift` + `↑/↓` | `Shift` + `↑/↓` |
-| Search tasks and comments | `s` | `s` |
-| Blink search (cross-projects or organizations or members) | `⌘` + `B` | `Ctrl` + `B` |
-| Search within page | `⌘` + `F` | `Ctrl` + `F` |
-| Zoom in a selected task | `z` | `z` |
-| Zoom out selected tasks | `a` | `a` |
-| Collapse a group tasks by level | `←` | `←` |
-| Expand a group tasks by level | `→` | `→` |
-| Collapse all tasks by level | `Shift` + `←` | `Shift` + `←` |
-| Expand all tasks by level | `Shift` + `→` | `Shift` + `→` |
-| Navigate through workspace (forward) | `Tab` | `Tab` |
-| Navigate through workspace (backward) | `Shift` + `Tab` | `Shift` + `Tab` |
-| Switch between different views | `(` or `)` |  `(` or `)`  |
-| Quick launch or close My Tasks | `=` |  `=`  |
+| Show/Hide breadcrumbs | <kbd>⌥</kbd> | <kbd>Ctrl</kbd> |
+| Print task(s) | <kbd>⌘</kbd> + <kbd>P</kbd> |  <kbd>Ctrl</kbd> + <kbd>P</kbd> |
+| Move task(s) up or down | <kbd>⌥</kbd> + <kbd>↑</kbd> or <kbd>⌥</kbd> + <kbd>↓</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd> or <kbd>Ctrl</kbd> + <kbd>↓</kbd> |
+| Level up or down a task | <kbd>⌥</kbd> + <kbd>←</kbd> or <kbd>⌥</kbd> + <kbd>→</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> or <kbd>Ctrl</kbd> + <kbd>→</kbd> |
+| Move task(s) cross columns in board view | <kbd>⌥</kbd> + <kbd>←</kbd> or <kbd>⌥</kbd> + <kbd>→</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> or <kbd>Ctrl</kbd> + <kbd>→</kbd> |
+| Cut selected task(s) | <kbd>⌘</kbd> + <kbd>X</kbd> | <kbd>Ctrl</kbd> + <kbd>X</kbd> |
+| Copy selected task(s) | <kbd>⌘</kbd> + <kbd>C</kbd> | <kbd>Ctrl</kbd> + <kbd>C</kbd> |
+| Paste selected task(s) | <kbd>⌘</kbd> + <kbd>V</kbd> | <kbd>Ctrl</kbd> + <kbd>V</kbd> |
+| Multiple select | <kbd>Shift</kbd> + <kbd>↑/↓</kbd> | <kbd>Shift</kbd> + <kbd>↑/↓</kbd> |
+| Search tasks and comments | <kbd>s</kbd> | <kbd>s</kbd> |
+| Blink search (cross-projects or organizations or members) | <kbd>⌘</kbd> + <kbd>B</kbd> | <kbd>Ctrl</kbd> + <kbd>B</kbd> |
+| Search within page | <kbd>⌘</kbd> + <kbd>F</kbd> | <kbd>Ctrl</kbd> + <kbd>F</kbd> |
+| Zoom in a selected task | <kbd>z</kbd> | <kbd>z</kbd> |
+| Zoom out selected tasks | <kbd>a</kbd> | <kbd>a</kbd> |
+| Collapse a group tasks by level | <kbd>←</kbd> | <kbd>←</kbd> |
+| Expand a group tasks by level | <kbd>→</kbd> | <kbd>→</kbd> |
+| Collapse all tasks by level | <kbd>Shift</kbd> + <kbd>←</kbd> | <kbd>Shift</kbd> + <kbd>←</kbd> |
+| Expand all tasks by level | <kbd>Shift</kbd> + <kbd>→</kbd> | <kbd>Shift</kbd> + <kbd>→</kbd> |
+| Navigate through workspace (forward) | <kbd>Tab</kbd> | <kbd>Tab</kbd> |
+| Navigate through workspace (backward) | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |
+| Switch between different views | <kbd>(</kbd> or <kbd>)</kbd> |  <kbd>(</kbd> or <kbd>)</kbd>  |
+| Quick launch or close My Tasks | <kbd>=</kbd> |  <kbd>=</kbd>  |
 
 
 
@@ -69,15 +69,15 @@ Or, click on the Help icon on the upper-right of your Quire workspace and select
 
 |    | MacOS   | Windows |
 | :------|:-----| :-----|
-| Open/Collapse detail panel | `Spacebar` | `Spacebar` |
-| Edit task description | `d` | `d` |
-| Comment on a selected task | `c` | `c` |
-| Mention a member in description or comment | `@` | `@` |
-| Refer a task in description or comment | `#` | `#` |
-| Quote selected text in comment reply | `Ctrl` + `Q` | `Alt` + `Q` |
+| Open/Collapse detail panel | <kbd>Spacebar</kbd> | <kbd>Spacebar</kbd> |
+| Edit task description | <kbd>d</kbd> | <kbd>d</kbd> |
+| Comment on a selected task | <kbd>c</kbd> | <kbd>c</kbd> |
+| Mention a member in description or comment | <kbd>@</kbd> | <kbd>@</kbd> |
+| Refer a task in description or comment | <kbd>#</kbd> | <kbd>#</kbd> |
+| Quote selected text in comment reply | <kbd>Ctrl</kbd> + <kbd>Q</kbd> | <kbd>Alt</kbd> + <kbd>Q</kbd> |
 
 #### Help
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
-| Keyboard shortcut list | `F1` | `F1` |
+| Keyboard shortcut list | <kbd>F1</kbd> | <kbd>F1</kbd> |
