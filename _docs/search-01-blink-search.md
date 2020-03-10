@@ -6,10 +6,10 @@ categories: blink search
 ---
 You can search almost anything, like projects, organizations, and members or even your saved filters with **Blink Search**.
 
-Step 1: Hit `Ctrl` + `B` or `⌘` + `B` (for Mac).
+Hit <kbd>Ctrl</kbd> + <kbd>B</kbd> or <kbd>⌘</kbd> + <kbd>B</kbd> (for Mac).
 
 ![blink search]({{ site.url }}{{ site.baseurl }}/assets/images/blink-search/blink_search_1.png)
 
-Step 2: Enter any keyword to find projects, organizations, etc. 
+Enter any keyword to find projects, organizations, etc. 
 
 ![blink search popup]({{ site.url }}{{ site.baseurl }}/assets/images/blink-search/blink_search_2.png)

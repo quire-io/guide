@@ -16,14 +16,15 @@ Step 2: Select the projects you want to add to this folder.
 
 ![add project to smart folders]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/smart_folder_2.png)
 
-Check out the blog for more information on [Smart Folders](https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html).
+Learn more about Smart Folders in our [blog post](https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html).
 {: .notice}
+
 
 #### Delete a smart folder:
 
 Click on the dropdown menu arrow beside the Smart Folder name, then click on **Delete**.
 
-![delete smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/delete_smart_folder.jpg)
+![delete smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/delete_smart_folder.png)
 
 **Note:** If you delete a smart folder, the projects inside will not be deleted. 
 {: .notice--warning}

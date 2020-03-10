@@ -33,8 +33,8 @@ The default view for My Tasks is sorted by date. You can sort My Tasks with [two
 
 #### What can I do with My Tasks?
 
-- Use the shortcut `=` to launch and close My Tasks. 
-- Use the shortcut `m` to add a task directly to My Tasks.
+- Use the shortcut <kbd>=</kbd> to launch and close My Tasks. 
+- Use the shortcut <kbd>m</kbd> to add a task directly to My Tasks.
 - If a task was completed 30 days ago, it will not be shown in My Tasks. 
 - Transfer personal tasks from My Tasks to other projects by clicking on the **project** icon or by cutting and pasting the tasks. 
 
@@ -51,6 +51,6 @@ The default view for My Tasks is sorted by date. You can sort My Tasks with [two
 - You cannot reorder other member's My Tasks list. 
 
 
-Check out the [blog post](https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html) to learn more on what you can do with My Tasks.
+Learn more about what you can do with My Tasks in our [blog post](https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html). 
 {: .notice}
 
