@@ -25,6 +25,6 @@ For overdue tasks with dates, you can choose to remind you the next day, 2 days 
 
 ![remind overdue tasks]({{ site.url }}{{ site.baseurl }}/assets/images/reminders/remind_overdue_tasks.png)
 
-**Note:** If you have added Chrome Extension in your Chrome browser, you will be notified at any web page even when you are not using Quire.
+**Note:** If you have added [Chrome extension](/guide/chrome-extension/) in your Chrome browser, you will be notified at any web page even when you are not using Quire.
 {: .notice--warning}
 

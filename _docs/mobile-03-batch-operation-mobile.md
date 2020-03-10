@@ -12,4 +12,4 @@ There are two ways to enable multi-selection:
 
 Then, tap on any icon in the menu bar for batch operation.
 
-![batch operation on mobile app]({{ site.url }}{{ site.baseurl }}/assets/images/batch-operation-mobile/quire-android-multi-tasks-batch.jpg)
+![batch operation on mobile app]({{ site.url }}{{ site.baseurl }}/assets/images/batch-operation-mobile/quire-android-multi-tasks-batch.png)

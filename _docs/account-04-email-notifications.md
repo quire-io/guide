@@ -13,5 +13,5 @@ In your Account Settings, you can change how often (eg. Daily and Hourly) you’
 
 ![reply email notifications]({{ site.url }}{{ site.baseurl }}/assets/images/email-notifications/reply_email_notifications.png)
 
-Learn more about the [activities that you will get email notifications](/guide/get-notified/).
+Read more about [activities that you will get email notifications](/guide/get-notified/).
 {: .notice}

@@ -6,7 +6,7 @@ categories: keyboard shortcut cheetsheet
 ---
 Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a compact list of shortcuts for easily managing your tasks.
 
-Or, click on the Help icon on the upper-right of your Quire workspace and select Keyboard Shortcuts.
+Or click on the **Help** icon on the upper-right of your Quire workspace and select **Keyboard Shortcuts**.
 
 
 #### Task Action

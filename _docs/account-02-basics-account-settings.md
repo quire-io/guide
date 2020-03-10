@@ -36,7 +36,7 @@ At **Basics** of your Account Settings, you can change your default language.
 
 ![change language]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/change_language.png)
 
-Note: If the default language is **auto**, the language and the first day of the week (Sunday or Monday) displayed in your calendar will be based on your browser’s language settings.
+**Note:** If the default language is **auto**, the language and the first day of the week (Sunday or Monday) displayed in your calendar will be based on your browser’s language settings.
 {: .notice--warning}
 
 

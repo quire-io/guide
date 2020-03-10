@@ -22,7 +22,8 @@ Step 4: Successfully import your data to Quire.
 
 ![import to Quire]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/import_to_quire.png)
 
-Learn more details about importing data at our [blog post](https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html).
+
+Read more on our blog about [importing your data to Quire](https://quire.io/blog/p/Import-Your-Data-From-Other-Project-Management-Software.html).
 {: .notice}
 
 
@@ -49,22 +50,27 @@ The tags, descriptions and comments will also be transferred into the appropriat
 
 ![imported from Trello board]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/trello_import_1.png)
 
-If you want to work with your project in a nested task list view, you can switch to **List** view. All of your tasks have been successfully transferred there.
+If you want to work with your project in a nested task list view, you can switch to list view. All of your tasks have been successfully transferred there.
 
 ![imported from Trello list]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/trello_import_2.png)
 
 
 ## Migrate from Wunderlist
 
-![migrate from wunderlist]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/migrate_wunderlist.png)
+![imported from Wunderlist]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/wunderlist_import_1.png)
+
 
 All of the lists from the left sidebar in Wunderlist will be treated as root task in Quire, and the tasks inside the lists will be treated as subtasks. 
 
-![imported from Wunderlist]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/wunderlist_import_1.png)
+![migrate from wunderlist]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/migrate_wunderlist.png)
 
-![imported from Wunderlist to Quire]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/wunderlist_import_2.png)
 
 If there’s a subtask in Wunderlist, it will become the sub-subtask in Quire. 
 
 If you wish to treat each list from Wunderlist as a project in Quire, you can move these tasks to other projects.
+
+
+![imported from Wunderlist to Quire]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/wunderlist_import_2.png)
+
+
 

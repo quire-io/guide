@@ -10,11 +10,11 @@ Step 1: Visit **Slack** in our [Quire App Directory](https://quire.io//apps).
 
 Step 2: Click on the **Install** button on the upper right corner to authorize this app and add to your Quire organization. 
 
-![integrate with slack]({{ site.url }}{{ site.baseurl }}/assets/images/slack/integrate_slack.jpg)
+![integrate with slack]({{ site.url }}{{ site.baseurl }}/assets/images/slack/integrate_slack.png)
 
 Step 3: You can choose which scope you would like the app to get access to or decide if you would allow app to access your team members’ email addresses.
 
-![integrate with slack]({{ site.url }}{{ site.baseurl }}/assets/images/slack/integrate_slack2.jpg)
+![integrate with slack]({{ site.url }}{{ site.baseurl }}/assets/images/slack/integrate_slack2.png)
 
 #### Link a Slack Channel to a Quire project:
 
@@ -24,5 +24,5 @@ Step 2: In the channel, type `/quire link [project ID or project URL]`.
 
 ![slack command link project]({{ site.url }}{{ site.baseurl }}/assets/images/slack/slack_command_link_project.png)
 
-Learn more about Slack integration at our [blog post](https://quire.io/blog/p/Quire-and-Slack-work-great-together.html).
+Read more on our blog about [Slack integration](https://quire.io/blog/p/Quire-and-Slack-work-great-together.html).
 {: .notice}

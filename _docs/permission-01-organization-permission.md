@@ -8,16 +8,18 @@ There are 5 types of organization members.
 
 - **Admin:** Can manage all tasks, projects and members in the organization.
 
-- **Normal+:** Can manage all tasks and projects (create new projects under the organization), and edit the organization. Normal+ members will not be able to manage the organization's members (including inviting new members or existing members) and delete projects.
+- **Normal+:** Can read and edit all tasks and projects in the organization. Normal+ members can not manage the members and delete projects in the organization.
 
-- **Normal:** Can only see the projects he/she had been invited to, add new projects, and edit the organization's name and profile. Normal members will not be able to manage the organization's members (including inviting new members or existing members) and delete projects.
+- **Normal:** Can only read and edit the tasks and projects he/she had been invited to in the organization. He/She can create new tasks in those projects. He/She can also create new projects as well. Normal members can not manage the members and delete projects in the organization. 
 
-    **Note:** When Normal members create projects, they become Admins of these projects. But they cannot access other projects they are not members of.
-{: .notice--warning}
+    **Note:** When a normal member creates a project, he/she becomes the **admin** of the project. But he/she still can not access other projects that he/she had not been invited to.
+	{: .notice--warning}
 
-- **Limited+:** Can read all projects in the organization, add tasks, and manage assigned tasks. Limited+ members will not be able to manage the organization's members (including inviting new members or deleting) and delete projects.
+- **Limited+:** Can read all tasks and projects in the organization, add tasks, and manage assigned tasks. Limited+ members can not manage the members and delete projects in the organization. 
 
 - **Guest:** Can only read the organization.
 
-Learn more details on Organization Permission in our [blog post](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 
+![organization permission roles]({{ site.url }}{{ site.baseurl }}/assets/images/organization-permission/organization_permission.png)
+
+Read more on our blog about [organization permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 
 {: .notice}

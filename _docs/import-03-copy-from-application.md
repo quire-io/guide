@@ -8,15 +8,15 @@ You can copy your tasks from Quire and paste them to another application so that
 
 For example, if you want to copy a short list of tasks and send it to a client via Gmail.  
 
-Step 1: Select the tasks you want to copy, press `Ctrl` + `C` (`⌘` + `C` for Mac). 
+Select the tasks you want to copy, press <kbd>Ctrl</kbd> + <kbd>C</kbd> (<kbd>⌘</kbd> + <kbd>C</kbd> for Mac). 
 
 ![copy tasks in Quire]({{ site.url }}{{ site.baseurl }}/assets/images/copy-to-application/copy_tasks_in_quire.png)
 
-Step 2: Go to Gmail (or other applications like Word, Notepad, etc.), hit `Ctrl` + `V`  (`⌘` + `V` for Mac) to paste. 
+Go to Gmail (or other applications like Word, Notepad, etc.), hit <kbd>Ctrl</kbd> + <kbd>V</kbd>  (<kbd>⌘</kbd> + <kbd>V</kbd> for Mac) to paste. 
 
 ![paste to another application]({{ site.url }}{{ site.baseurl }}/assets/images/copy-to-application/paste_to_application.png)
 
 The task list will automatically turn into bullet points, with assignees, due dates, priority and tags written inline.
 
-**Tip:** If you are copying and pasting tasks in Quire, and now you wish to copy from another application to Quire workspace, you need to press `ESC` first. 
+**Tip:** If you are copying and pasting tasks in Quire, and now you wish to copy from another application to Quire workspace, you need to hit <kbd>ESC</kbd> first. 
 {: .notice--info}
