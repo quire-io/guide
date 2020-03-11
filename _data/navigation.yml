@@ -248,8 +248,6 @@ docs:
         url: /board-view-mobile/
       - title: "Advance Mode on Mobile"
         url: /advanced-mode-mobile/
-      - title: "External Team"
-        url: /mobile-external-team/
       - title: "Zoom In and Out"
         url: /zoom-mobile/
       - title: "Quire Android Widget"

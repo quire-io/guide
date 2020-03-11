@@ -6,18 +6,18 @@ categories: organization permission control
 ---
 There are 5 types of organization members.
 
-- **Admin:** Can manage all tasks, projects and members in the organization.
+- **Admin:** Members who can manage all tasks, projects and members in the organization.
 
-- **Normal+:** Can read and edit all tasks and projects in the organization. Normal+ members can not manage the members and delete projects in the organization.
+- **Normal+:** Members who can manage all tasks and projects, add projects, and edit the organization. Normal+ members can not manage the members and delete projects in the organization.
 
-- **Normal:** Can only read and edit the tasks and projects he/she had been invited to in the organization. He/She can create new tasks in those projects. He/She can also create new projects as well. Normal members can not manage the members and delete projects in the organization. 
+- **Normal:** Members who can only read and edit the tasks and projects he/she had been invited to in the organization. He/She can create new tasks in those projects. He/She can also create new projects as well. Normal members can not manage the members and delete projects in the organization. 
 
     **Note:** When a normal member creates a project, he/she becomes the **admin** of the project. But he/she still can not access other projects that he/she had not been invited to.
 	{: .notice--warning}
 
-- **Limited+:** Can read all tasks and projects in the organization, add tasks, and manage assigned tasks. Limited+ members can not manage the members and delete projects in the organization. 
+- **Limited+:** Members who can read all tasks and projects in the organization, add tasks, and manage assigned tasks. Limited+ members can not manage the members and delete projects in the organization. 
 
-- **Guest:** Can only read the organization.
+- **Guest:** Members who can only read the organization.
 
 ![organization permission roles]({{ site.url }}{{ site.baseurl }}/assets/images/organization-permission/organization_permission.png)
 

@@ -10,7 +10,7 @@ There are three default statuses: **To-Do**, **In Progress** and **Completed** a
 
 ![default status]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/default_status_options.png)
 
-📝 **Note:** If the task has been added to a board, the status will follow the boards' status column.
+**Note:** If the task has been added to a board, the status will follow the boards' status column.
 {: .notice--warning}
 
 ## Complete a task
@@ -21,19 +21,19 @@ Click on the **Complete** circle to mark the task as done.
 
 ![complete task in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/complete_task_main_panel.png)
 
-💡 **Tip:** Select a task and hit <kbd>⌘</kbd> + <kbd>/</kbd> to quickly complete it.
+**Tip:** Select a task and hit <kbd>⌘</kbd> + <kbd>/</kbd> to quickly complete it.
 {: .notice--info}
 
 
 ## Set status to tasks
 
-#### Main panel: 
+#### In the main panel
 
 Right-click on the circle to set a status.
 
 ![set status in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/set_status_main_panel.png)
 
-#### Detail panel:
+#### In the detail panel
 
 Click on the arrow beside the **Complete** icon to set a status.
 

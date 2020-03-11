@@ -10,10 +10,11 @@ Click on the **Filter** icon at the top of the list. There’s several predefine
 
 ![predefined filters]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_customize.png)
 
-💡 **Tip:** Jump to the filter icon from the selected task by hitting <kbd>Shift</kbd> + <kbd>Tab</kbd> on your keyboard, then use the down arrow to choose the filter. 
+**Tip:** Jump to the filter icon from the selected task by hitting <kbd>Shift</kbd> + <kbd>Tab</kbd> on your keyboard, then use the down arrow to choose the filter. 
 {: .notice--info}
 
 ## View your tasks
+
 Click **Customize** for all the filter options to show. 
 
 - Active Tasks (Includes To-Do and In Progress tasks)

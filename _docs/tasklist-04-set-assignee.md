@@ -21,11 +21,11 @@ You can also right-click on selected task(s) and select **Set assignees** to ass
 ![right click set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/right_click_set_assignees.png)
 
 
-🔖 Read more about multiple assignees at our [blog post](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html).
+Read more on our blog about [multiple assignees](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html).
 {: .notice}
 
 
-💡 **Tip:** In the project's Settings page, under Options, you can check the **Multiple assignees** option to always add multiple assignees by default.
+**Tip:** In the project's Settings page, under Options, you can check the **Multiple assignees** option to always add multiple assignees by default.
 {: .notice--info}
 
 ![add multiple assignees as default]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_multiple_assignees_default.png)

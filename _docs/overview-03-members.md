@@ -19,7 +19,7 @@ However, Nathan can also access to Brandon's Project 1 because he was granted wi
 Another unique kind of member: **External Team**. When you want to outsource your tasks to someone outside of your team, assign them to an External Team. External Team members can only access the tasks assigned to them. 
 
 
-🔖 Learn how to create an [External Team](/guide/external-team/). 
+Learn how to create an [External Team](/guide/external-team/). 
 {: .notice}
 
 
@@ -37,7 +37,7 @@ Manage your [project members](/guide/add-project-members/) by going to the Membe
 
 
 
-📝 **Note:** There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different [permission controls](/guide/project-permission/) over the tasks and members in the project. 
+**Note:** There are 4 types of project members: Admin, Normal, Limited, Guest. All four have different [permission controls](/guide/project-permission/) over the tasks and members in the project. 
 {: .notice--warning}
 
 
@@ -53,7 +53,7 @@ Manage your [organization members](/guide/organization-members/) by going to the
 
 
 
-📝 **Note:** There are 5 types of organization members: Admin, Normal+, Normal, Limited+, Guest. 
+**Note:** There are 5 types of organization members: Admin, Normal+, Normal, Limited+, Guest. 
 All five have different [permission controls](/guide/organization-permission/) over the projects, tasks, and members in the organization.
 {: .notice--warning}
 

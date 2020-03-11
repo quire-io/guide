@@ -17,7 +17,7 @@ Switch between three different views at the header of the project: List, Board, 
 
 The List view lets you break down your big ideas into smaller doable tasks and subtasks in a nested task list. The Board view helps you get focused on the selected crucial tasks in a visual workflow. 
 
-🔖 Learn more about [what project manager did wrong](https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html). 
+Read more on our our blog about [what project managers did wrong](https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html). 
 {: .notice}
 
 

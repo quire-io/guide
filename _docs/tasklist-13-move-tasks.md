@@ -12,7 +12,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.
 
-<video muted="" loop="" autoplay="" playsinline="" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video muted="" playsinline="" loop="" autoplay="" title="Add tasks" poster="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.png" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.mp4" type="video/mp4">
 </video>
 
@@ -21,7 +21,7 @@ You can also drag and drop task(s) in the sidebar to transfer them to another pr
 
 ![drag task to sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_tasks_to_sidebar.png)
 
-In filter view, you can even drag and drop task(s) to reassign an assignee or multiple assignees, a priority, and a due date.
+In a filtered view, you can even drag and drop task(s) to reassign an assignee or multiple assignees, a priority, and a due date.
 
 ![drag to assgin in filter view]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_assign_filter_view.png)
 
@@ -48,11 +48,11 @@ Or much more easier , simply press <kbd>Ctrl</kbd> (<kbd>⌘</kbd> for Mac) + <k
 
 You may have tasks belonging to the wrong project. You can transfer (aka move) them to a different project.
 
-Step 1: Click on the **options** icon in the detail panel and select **Transfer this task**.
+Click on the **options** icon in the detail panel and select **Transfer this task**.
 
 ![detail panel transfer this task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_detail_panel.png)
 
-Step 2: Choose the project the task belongs to.
+Then choose the project the task belongs to.
 
 ![transfer task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_dialogue.png)
 
@@ -60,7 +60,7 @@ You can also transfer a task or more by right-clicking on them, and selecting **
 
 ![right-click transfer]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_right_click.png)
 
-💡 **Tip:** To quickly transfer tasks to another project, hold down the <kbd>ALT</kbd> key and drag the tasks to the project name at the sidebar. 
+**Tip:** To quickly transfer tasks to another project, hold down the <kbd>ALT</kbd> key and drag the tasks to the project name at the sidebar. 
 {: .notice--info}
 
 
@@ -68,17 +68,17 @@ You can also transfer a task or more by right-clicking on them, and selecting **
 
 When you have the same tasks, you can merge one into another.
 
-Step 1: Click on the **options** icon in the detail panel and select **Merge this task**.
+Click on the **options** icon in the detail panel and select **Merge this task**.
 
 ![detail panel merge this task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/merge_detail_panel.png)
 
-Step 2: Type in the name or the ID of the task you want to merge with, and click on **Merge**.
+Next, type in the name or the ID of the task you want to merge with, and click **Merge**.
 
 ![merge task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/merge_dialogue.png)
 
 This duplicate task will close and all of its favorites and followers will be added to the task you've selected.
 
-📝 **Note:** Assignees and attachments from the duplicate task won't be copied over.
+**Note:** Assignees and attachments from the duplicate task won't be copied over.
 {: .notice--warning}
 
 
@@ -87,7 +87,7 @@ This duplicate task will close and all of its favorites and followers will be ad
 
 Here are some tips for you to move tasks around quickly. 
 
-#### Reorder your tasks:
+#### Reorder your tasks
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
@@ -99,14 +99,14 @@ Here are some tips for you to move tasks around quickly.
 | Paste selected task(s) | `⌘` + `V` | `Ctrl` + `V` |
 
 
-#### Indent your task when it is in edit mode:
+#### Indent your task when it is in edit mode
 
 ||MacOS|Windows|
 |:------ |:-----| :-----|
 | Indent | `Tab` | `Tab`|
 | Un-indent | `Shift` + `Tab` | `Shift` + `Tab` |
 
-💡 **Tip:** Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts.
+**Tip:** Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts.
 {: .notice--info}
 
 

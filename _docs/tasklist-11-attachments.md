@@ -15,10 +15,10 @@ Your attached files may look like below:
 ![upload attachments]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/upload_attachments.png)
 
 
-📝 **Note:** The maximum size allowed for each attached file is 5MB, and a total of 200MB for each organization.
+**Note:** The maximum size allowed for each attached file is 5MB, and a total of 200MB for each organization.
 {: .notice--warning}
 
-💡 **Tip:** A fast way to see whether the tasks have attachments or not without opening the detail panel is to hit <kbd>Ctrl</kbd> (or <kbd>Alt</kbd> for Mac) for toggling on the breadcrumbs. 
+**Tip:** A quick way to see whether the tasks have attachments or not without opening the detail panel is to hit <kbd>Ctrl</kbd> (or <kbd>Alt</kbd> for Mac) for toggling on the [Advanced mode](/guide/advanced-mode/). 
 {: .notice--info}
 
 
@@ -33,17 +33,15 @@ Click on the **Google Drive** icon to select a file to be referenced for this ta
 
 You can embed one or more images in a description or comment to see them directly, instead of attaching them.
 
-Step 1: Click to add or edit a description or comment.
-
-Step 2: Drag and drop the image(s) into the description or comment. 
+Click to add or edit a description or comment. Drag and drop the image(s) into the description or comment. 
 
 ![embed image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/embed_image_1.png)
 
-Step 3: Click **Save**, it would look like this.
+Then, click **Save**, it would look like this.
 
 ![embed image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/embed_image_2.png)
 
-💡 **Tip:** If you use Chrome, you can copy and paste an image in a description or comment.
+**Tip:** If you use Chrome, you can copy and paste an image in a description or comment.
 {: .notice--info}
 
 
@@ -51,18 +49,18 @@ Step 3: Click **Save**, it would look like this.
 
 If you use Chrome (yes only Chrome), you can copy an image in your computer or any webpage, and paste it in a description or comment.
 
-Step 1: Right-click on the image and select Copy.
+Right-click on the image and select Copy.
 
 ![copy and paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/copy_paste_image.png)
 
-Step 2: Go to a description or comment, and right-click to select Paste (or hit <kbd>Ctrl</kbd> + <kbd>V</kbd>).
+Go to a description or comment, and right-click to select Paste (or hit <kbd>Ctrl</kbd> + <kbd>V</kbd>).
 
-![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image.png)
+![paste image in the description]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image.png)
 
-The image would look like this:
+The image would look like below. 
 
-![paste image]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image_2.png)
+![how the pasted image would look like]({{ site.url }}{{ site.baseurl }}/assets/images/attachments/paste_image_2.png)
 
-💡 **Tip:** You can also embed an image via drag & drop.
+**Tip:** You can also embed an image via drag & drop.
 {: .notice--info}
 

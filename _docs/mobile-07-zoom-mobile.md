@@ -6,8 +6,10 @@ categories: zoom in and out
 ---
 You can zoom in on a task to get a clearer view of its subtasks.
 
-#### To zoom in:
+#### Zoom in
+
 Spread two fingers to respectively zoom in a task.
 
-#### To zoom out: 
+#### Zoom out
+
 Pinch two fingers on the screen to respectively zoom out a task.

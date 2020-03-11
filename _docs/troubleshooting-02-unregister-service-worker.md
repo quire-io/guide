@@ -8,13 +8,12 @@ If you have trouble accessing the Quire on your web browswer, you can try the fo
 
 #### Chrome
 
-Step 1: Go to this URL: chrome://serviceworker-internals/
+Go to this URL: `chrome://serviceworker-internals/`
 
 ![service worker URL]({{ site.url }}{{ site.baseurl }}/assets/images/unregister-service-worker/serviceworker_url.png)
 
-
-Step 2: Click on the **Unregister** button of all the Service Workers from there.
+Click on the **Unregister** button of all the Service Workers from there.
 
 ![service worker URL]({{ site.url }}{{ site.baseurl }}/assets/images/unregister-service-worker/unregister_serviceworker.png)
 
-Step 3: Press `Ctrl` + `Shift` + `R` (or `⌘` + `Shift` +`R` for Mac) to refresh the page.
+Lastly, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> for Mac) to refresh your Quire page.

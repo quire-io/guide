@@ -21,7 +21,7 @@ To add one more assignee or tag to a task, type `+@assignee` or `+#tag` in the t
 
 ![add or remove tags inline]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign_add_remove.png)
 
-🔖 Check out our blog post about [inline assigning](https://quire.io/blog/p/Type-it-while-you-think-it.html). 
+Read more on our blog about [inline assigning](https://quire.io/blog/p/Type-it-while-you-think-it.html). 
 {: .notice}
 
 
@@ -57,7 +57,7 @@ When you type `Publish the article <04/30>`in the task name, the task will have 
 
 ![inline add or remove days]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_add_remove_days.png)
 
-💡**Tip:** This works in a task's date picker too.
+**Tip:** This works in a task's date picker too.
 {: .notice--info}
 
 ![datepicker add or remove days]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/date_picker_add_remove_days.png)
@@ -94,7 +94,7 @@ You can add a tag with `#` directly from the task name.
 
 For example, when you type `Publish the article #Urgent` in the task name and press Enter, the task will have a tag of Urgent.
 
-📝 **Note:** You need to select `[tag name](new tag)` in the dropdown if you type it at the end of the task name.
+**Note:** You need to select `[tag name](new tag)` in the dropdown if you type it at the end of the task name.
 {: .notice--warning}
 
 
@@ -105,7 +105,7 @@ You can add a priority with `!` directly from the task name.
 
 For example, when you type `Publish the article !2` in the task name and press Enter, the task will have a priority of High(an orange up arrow).
 
-📝 **Note:** Priority from high to low is !1, !2, !3 and !4.
+**Note:** Priority from high to low is !1, !2, !3 and !4.
 {: .notice--warning}
 
 
@@ -116,6 +116,6 @@ You can add a task to a specific board with `^` directly from the task name.
 
 For example, you can type `Publish the article ^` in the task name and use the arrow key to choose which board you want to add the task to.
 
-📝 **Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
+**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
 {: .notice--warning}
 
