@@ -10,11 +10,11 @@ You can right-click on the **Collapse/Expand** icon of a task for options to exp
 
 ![Collapse/Expand tasks]({{ site.url }}{{ site.baseurl }}/assets/images/expand-collpase/expand_collapse.png)
 
-#### Keyboard shortcuts: 
+#### Keyboard shortcuts
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
-| Collapse a group tasks by level | `←` | `←` |
-| Expand a group tasks by level | `→` | `→` |
-| Collapse all tasks by level | `Shift` + `←` | `Shift` + `←` |
-| Expand all tasks by level | `Shift` + `→` | `Shift` + `→` |
+| Collapse a group tasks by level | <kbd>←</kbd> | <kbd>←</kbd> |
+| Expand a group tasks by level | <kbd>→</kbd> | <kbd>→</kbd> |
+| Collapse all tasks by level | <kbd>Shift</kbd> + <kbd>←</kbd> | <kbd>Shift</kbd> + <kbd>←</kbd> |
+| Expand all tasks by level | <kbd>Shift</kbd> + <kbd>→</kbd> | <kbd>Shift</kbd> + <kbd>→</kbd> |

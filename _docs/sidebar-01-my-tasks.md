@@ -51,6 +51,6 @@ The default view for My Tasks is sorted by date. You can sort My Tasks with [two
 - You cannot reorder other member's My Tasks list. 
 
 
-Learn more about what you can do with My Tasks in our [blog post](https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html). 
+Read more on our blog about what you can do with [My Tasks](https://quire.io/blog/p/Quire-my-tasks-guides-and-tips.html).
 {: .notice}
 

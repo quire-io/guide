@@ -6,12 +6,12 @@ categories: edit project name descriptions
 ---
 You can customize your projects upon to your preference. 
 
-📝 **Note:** You must be **project admin** to make the changes.
+**Note:** You must be **project admin** to make the changes.
 {: .notice--warning}
 
 ## Change project profile picture 
 
-Click on the arrow icon next to your project name then select **Edit name & description**.
+Click on the **arrow** icon next to your project name then select **Edit name & description**.
 
 ![edit project]({{ site.url }}{{ site.baseurl }}/assets/images/edit-project/edit_project_1.png)
 
@@ -22,7 +22,8 @@ The project icon is set by default, you can upload an image by selecting from lo
 
 ## Edit project name 
 
-Click on the arrow icon next to your project name then select **Edit name & description**.
+Click on the **arrow** icon next to your project name then select **Edit name & description**.
+
 ![edit project]({{ site.url }}{{ site.baseurl }}/assets/images/edit-project/edit_project_1.png)
 
 After changing the project name, click on **Save** to save the changes.
@@ -31,7 +32,7 @@ After changing the project name, click on **Save** to save the changes.
 
 ## Add project descriptions
 
-Click on the arrow icon next to your project name then select **Edit name & description**.
+Click on the **arrow** icon next to your project name then select **Edit name & description**.
 
 ![edit project]({{ site.url }}{{ site.baseurl }}/assets/images/edit-project/edit_project_1.png)
 
@@ -44,7 +45,7 @@ After changing the project description, click on **Save** to save the changes.
 
 ## Edit project URL
 
-Click on the arrow icon next to your project name then select **Edit name & description**.
+Click on the **arrow** icon next to your project name then select **Edit name & description**.
 
 ![edit project]({{ site.url }}{{ site.baseurl }}/assets/images/edit-project/edit_project_1.png)
 

@@ -14,7 +14,7 @@ Click on the organization at the sidebar to access the organization orverview.
 
 ![organization in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_sidebar.png)
 
-Or click on the arrow icon beside your project's name, and select **Go to Organization**.
+Or click on the **arrow** icon beside your project's name, and select **Go to Organization**.
 
 ![go to organization via context menu]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_context_menu.png)
 

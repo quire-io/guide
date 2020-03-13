@@ -6,7 +6,7 @@ categories: add edit sublists
 ---
 There are three options for you to share the sublist with: Project Members, External Team and Personal (yourself).
 
-🔖 Learn how to create a [sublist](/guide/add-sublist/). 
+Learn how to create a [sublist](/guide/add-sublist/). 
 {: .notice}
 
 

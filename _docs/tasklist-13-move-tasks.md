@@ -12,7 +12,7 @@ You can quickly and easily move your task(s) in the tree list or to other projec
 
 You can move a task or multiple tasks by dragging them up/down to rearrange its order or left/right to adjust its subtask level.
 
-<video muted="" playsinline="" loop="" autoplay="" title="Add tasks" poster="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.png" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video muted="" playsinline="" loop="" autoplay="" title="drag and drop tasks" poster="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.png" style="max-height: 364px; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/drag_and_drop.mp4" type="video/mp4">
 </video>
 
@@ -85,26 +85,26 @@ This duplicate task will close and all of its favorites and followers will be ad
 
 ## Using shortcuts
 
-Here are some tips for you to move tasks around quickly. 
+Here are some keyboard shortcuts for you to move tasks around quickly. 
 
 #### Reorder your tasks
 
 |    | MacOS   | Windows |
 | :------ |:-----| :-----|
-| Move task(s) up | `⌥` + `↑` | `Ctrl` + `↑` |
-| Move task(s) down | `⌥` + `↓` | `Ctrl` + `↓` |
-| Level up a task | `⌥` + `←` | `Ctrl` + `←` |
-| Level down a task |`⌥` + `→` | `Ctrl` + `→` |
-| Copy selected task(s) | `⌘` + `C` | `Ctrl` + `C` |
-| Paste selected task(s) | `⌘` + `V` | `Ctrl` + `V` |
+| Move task(s) up | <kbd>⌥</kbd> + <kbd>↑</kbd> | <kbd>Ctrl</kbd> + <kbd>↑</kbd> |
+| Move task(s) down | <kbd>⌥</kbd> + <kbd>↓</kbd> | <kbd>Ctrl</kbd> + <kbd>↓</kbd> |
+| Level up a task | <kbd>⌥</kbd> + <kbd>←</kbd> | <kbd>Ctrl</kbd> + <kbd>←</kbd> |
+| Level down a task |<kbd>⌥</kbd> + <kbd>→</kbd> | <kbd>Ctrl</kbd> + <kbd>→</kbd> |
+| Copy selected task(s) | <kbd>⌘</kbd> + <kbd>C</kbd> | <kbd>Ctrl</kbd> + <kbd>C</kbd> |
+| Paste selected task(s) | <kbd>⌘</kbd> + <kbd>V</kbd> | <kbd>Ctrl</kbd> + <kbd>V</kbd> |
 
 
 #### Indent your task when it is in edit mode
 
 ||MacOS|Windows|
 |:------ |:-----| :-----|
-| Indent | `Tab` | `Tab`|
-| Un-indent | `Shift` + `Tab` | `Shift` + `Tab` |
+| Indent | <kbd>Tab</kbd> | <kbd>Tab</kbd>|
+| Un-indent | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |
 
 **Tip:** Hit <kbd>Ctrl</kbd> + <kbd>F1</kbd> or <kbd>Fn</kbd> + <kbd>F1</kbd> (for Mac) to see a complete list of shortcuts.
 {: .notice--info}

@@ -4,9 +4,9 @@ permalink: /mobile-apps/
 date:   2019-06-14 16:10:00 +0800
 categories: mobile apps
 ---
-
 Quire is also available on mobile apps, making it easier for you to manage projects wherever and whenever you want. 
 
+![sync your Quire project across your devices]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-apps/sync_cross_device.png)
 
 
 ## iOS

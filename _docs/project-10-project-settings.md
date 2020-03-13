@@ -4,9 +4,13 @@ permalink: /project-settings/
 date:   2019-08-23 15:00:00 +0800
 categories: project settings
 ---
-You can choose the preferences for a project in its Settings page if you are an **Admin** of this project.
 
-Simply click on the arrow icon beside the project name, and select **Options**.
+
+## Feature settings
+
+If you are an **admin** of the project, you can choose the preferences for the features in the project Settings page. 
+
+Simply click on the **arrow** icon beside the project name, and select **Options**.
 
 ![project settings context menu]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/project_settings_context_menu.png)
 
@@ -62,7 +66,7 @@ You can choose to enable project members [favoriting a task](/guide/favorite-fol
 
 #### Display the project icon at the sidebar
 
-You can choose to display the project icon at the sidebar. 
+You can choose to display the [project icon](/edit-project/) at the sidebar. 
 
 ![display the project icon at the sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/display_sidebar_icon.png)
 
@@ -81,3 +85,20 @@ You can choose to set a project private only available to your members, or publi
 
 ![set project visibility]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/settings_project_visibility.png)
 
+
+
+## Notifications settings
+
+You can customize what kind of [notifications](/guide/get-notified/) in the project that you want to receive. 
+
+Click on the **arrow** icon next to the project name and select **Options**.
+
+![project options dropdown]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_options.png)
+
+By default, you will get notified about the task reminders, new tasks assigned to you and new comments. You can choose which notifications that you want to receive by selecting these following options. 
+
+![notification options]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_notifications_settings.png)
+
+
+**Note:** This setting will only apply to your account instead of every members in this project.
+{: .notice--warning}

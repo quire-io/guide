@@ -6,7 +6,7 @@ categories: reminders
 ---
 You will receive reminder notifications when your tasks approach their start date or time, due date or time, also when they are overdue.
 
-#### Get Reminded of Upcoming Tasks
+#### Get reminded of upcoming tasks
 
 For upcoming tasks with dates, you can choose to remind you 12 hours before, 1 day before, 2 days before, etc.
 
@@ -19,7 +19,7 @@ For upcoming tasks with time, you can choose to remind you at the exact time, 15
 ![remind upcoming tasks with time]({{ site.url }}{{ site.baseurl }}/assets/images/reminders/remind_upcoming_tasks_due_time.png)
 
 
-#### Get Reminded of Overdue Tasks
+#### Get reminded of overdue tasks
 
 For overdue tasks with dates, you can choose to remind you the next day, 2 days later, etc.
 

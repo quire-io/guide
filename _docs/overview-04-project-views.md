@@ -9,13 +9,13 @@ With different positions in a team or different stages in a project, you might n
 
 For example, as a team leader, you probably will need the board view more than your team members to visually track the overall project flow and check if any members are running behind.  
 
-Switch between three different views at the header of the project: List, Board, and Overview. 
+Switch between different views at the header of the project: **List**, **Sublist**, **Board**, and **Overview**. 
 
 
 ![project views]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views.png)
 
 
-The List view lets you break down your big ideas into smaller doable tasks and subtasks in a nested task list. The Board view helps you get focused on the selected crucial tasks in a visual workflow. 
+The List view lets you break down your big ideas into smaller doable tasks and subtasks in a nested task list. The Sublist view allows you to create a persinal list view. The Board view helps you get focused on the selected crucial tasks in a visual workflow. 
 
 Read more on our our blog about [what project managers did wrong](https://quire.io/blog/p/To-Do-List-and-Kanban-What-Project-Management-Did-Wrong.html). 
 {: .notice}
@@ -23,27 +23,31 @@ Read more on our our blog about [what project managers did wrong](https://quire.
 
 
 ## List
+
 The Lists view is the default view and it shows your project in a hierarchical list of tasks.
  
 In this view, you can see your ideas broken down into step-by-step tasks, and for each task, you can [add assignees](/guide/set-assignee/), [start/due dates](/guide/set-date-time/), [tags](/guide/assign-tags/), [descriptions](/guide/descriptions/), [comments](/guide/comments/), and more. 
 
-![list view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
+![Quire list view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_list.png)
+
 
 ## Sublist
-The Sublist view lets you create your own personal view for a project.
+
+The Sublist view lets you create your own [personal view](/guide/sublist-introduction/) for a project.
 
 You can choose to make the sublist only visible to you or to share with other project members. 
 
-![sublist view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/quire_sublist.png)
+![Quiresublist view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/quire_sublist.png)
 
 
 ## Board
-The Board view shows your project in a visual workflow so you can better manage or focus on a few selected crucial tasks.
+
+The Board view shows your project in a [visual workflow](/guide/board-overview/) so you can better manage or focus on a few selected crucial tasks.
 
 In this view, you can add [multiple boards](/guide/multiple-boards) for one project (eg., Preparation, Planning) and in each board, add multiple [status columns](/guide/status-column/) like Development, Testing, Pending, etc.
 
 
-![board view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_board.png)
+![Quire board view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_board.png)
 
 
 
@@ -52,7 +56,7 @@ The Overview view shows detailed [information/reports](/guide/project-overview/)
 
 This view includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc.
 
-![overview view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_overview.png)
+![Quire overview view]({{ site.dev_url }}{{ site.baseurl }}/assets/images/project-views/project_views_overview.png)
 
 
 

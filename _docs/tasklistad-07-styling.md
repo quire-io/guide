@@ -38,7 +38,7 @@ The task list will look like this:
 *text*
 ```
 
-💡 **Tip:** You can also make your project or organizaton name bold and/or italic.
+**Tip:** You can also make your project or organizaton name bold and/or italic.
 {: .notice--info}
 
 #### Underline
@@ -53,7 +53,7 @@ _text_
 ~text~
 ```
 
-💡 **Tip:** To quickly add some of the basic styles, simply type <kbd>{</kbd> and select the style you want.
+**Tip:** To quickly add some of the basic styles, simply type <kbd>{</kbd> and select the style you want.
 {: .notice--info}
 
 ![markdown quick add color to text]({{ site.url }}{{ site.baseurl }}/assets/images/styling/markdown_quick_add_color.png)
@@ -117,7 +117,7 @@ http://example.com/path
 | C | text C | word C |
 ```
 
-💡 **Tip:** You can type `<br>` to break a line in a table cell, and `\<br>` to escape (keep `<br>` in the cell).
+**Tip:** You can type `<br>` to break a line in a table cell, and `\<br>` to escape (keep `<br>` in the cell).
 {: .notice--info}
 
 
@@ -129,7 +129,7 @@ http://example.com/path
 +14155552671
 ```
 
-📝 **Note:** We will dial out the number when you click on the phone number.
+**Note:** We will dial out the number when you click on the phone number.
 {: .notice--warning}
 
 
@@ -143,5 +143,5 @@ Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from web
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/styling/quire_emoji.png)
 
-🔖 Check out our blog post for a complete [Markdown guide and cheat sheet](https://quire.io/blog/p/Our-Very-Own-Markdown.html). 
+Read more on our blog about a complete [Markdown guide and cheat sheet](https://quire.io/blog/p/Our-Very-Own-Markdown.html). 
 {: .notice}

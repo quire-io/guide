@@ -11,7 +11,7 @@ You may have an organization with similar projects.
 
 Quire lets you duplicate a project, so you can use it as a template for new projects.
 
-Click on the arrow beside the project name, and select **Duplicate** in the context menu.
+Click on the **arrow** beside the project name, and select **Duplicate** in the context menu.
 
 ![duplicate project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/move-project/duplicate_project_context_menu.png)
 
@@ -30,7 +30,7 @@ Next, name your new project and choose the organization it belongs to.
 
 You may have projects belonging to the wrong organization.
 
-Click on the arrow beside the project name, and select **Transfer** in the context menu.
+Click on the **arrow** beside the project name, and select **Transfer** in the context menu.
 
 ![transfer project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/move-project/transfer_project_context_menu.png)
 

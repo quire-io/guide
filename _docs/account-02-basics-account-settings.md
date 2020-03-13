@@ -8,7 +8,7 @@ categories: basic account settings
 
 Adding another email address can allow you to log in to Quire account with either email addresses. 
 
-At **Basics** of your Account Settings, click on **+ Add email**, enter your email, then save. 
+At the Basics section of your Account Settings, click on **+ Add email**, enter your email, then save. 
 
 ![add another email]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/add_another_email.png)
 
@@ -17,7 +17,7 @@ At **Basics** of your Account Settings, click on **+ Add email**, enter your ema
 
 You can switch to a light, or dark theme to help you work more comfortably in your workspace.
 
-At **Basics** of your Account Settings, you can change your default theme.
+At the Basics section of your Account Settings, you can change your default theme.
 
 ![change theme]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/change_theme.png)
 
@@ -32,7 +32,7 @@ What Monochrome Dark (dark theme) looks like:
 
 ## Switch to your preferred language
 
-At **Basics** of your Account Settings, you can change your default language.
+At the Basics section of your Account Settings, you can change your default language.
 
 ![change language]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/change_language.png)
 
@@ -42,7 +42,7 @@ At **Basics** of your Account Settings, you can change your default language.
 
 ## Switch to your preferred first day of the week
 
-At **Basics** of your Account Settings, you can go to **First day of week** to change to your preferred first day. 
+At the Basics section of your Account Settings, you can go to **First day of week** to change to your preferred first day. 
 
 ![first day of week]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/first_day_of_week.png)
 
@@ -52,7 +52,7 @@ At **Basics** of your Account Settings, you can go to **First day of week** to c
 
 ## Enable 24-hour time 
 
-At **Basics** of your Account Settings, you can enable 24-hour time. 
+At the Basics section of your Account Settings, you can enable 24-hour time. 
 
 ![enable 24-hour time]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/enable_24_time.png)
 
@@ -61,6 +61,6 @@ At **Basics** of your Account Settings, you can enable 24-hour time.
 
 You can choose to let non-member Quire users see your basic profile information, or hide it from them.
 
-At **Basics** of your Account Settings, choose to make your basic information (excluding email) visible to non-member Quire users, or non-visible.
+At the Basics section of your Account Settings, choose to make your basic information (excluding email) visible to non-member Quire users, or non-visible.
 
 ![change visibility of profile]({{ site.url }}{{ site.baseurl }}/assets/images/basic-account-settings/change_visibility_profile.png)

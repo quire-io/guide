@@ -8,19 +8,19 @@ A smart folder is a folder of all tasks from different projects from different o
 
 ![smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/smart_folder_1.png)
 
-Step 1: Click on the **+** icon at the top right corner.
+Click on the **+** icon at the top right corner.
 
 ![add smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/add_smart_folder.png)
 
-Step 2: Select the projects you want to add to this folder.
+Select the projects you want to add to this folder.
 
 ![add project to smart folders]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/smart_folder_2.png)
 
-Learn more about Smart Folders in our [blog post](https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html).
+Read more on our blog about [Smart Folders](https://quire.io/blog/p/A-few-things-about-tasks-projects-organizations-and-smart-folders.html).
 {: .notice}
 
 
-#### Delete a smart folder:
+#### Delete a smart folder
 
 Click on the dropdown menu arrow beside the Smart Folder name, then click on **Delete**.
 

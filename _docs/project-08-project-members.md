@@ -7,7 +7,7 @@ categories: project members
 
 ## Add project members
 
-Click on the arrow icon beside your project name, and select **Edit members.**
+Click on the **arrow** icon beside your project name, and select **Edit members.**
 
 ![project member context menu]({{ site.url }}{{ site.baseurl }}/assets/images/add-project-members/project_members_context_menu.png)
 

@@ -8,7 +8,7 @@ Organization members are Quire users who have been invited and have confirmed to
 
 ## Add organization members
 
-Click on the arrow icon beside your organization name, and select **Edit Members**.
+Click on the **arrow** icon beside your organization name, and select **Edit Members**.
 
 ![edit members organization context menu]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/organization_members_context_menu.png)
 

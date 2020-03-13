@@ -11,7 +11,7 @@ You can customize your organization upon to your preference.
 
 ## Change organization profile picture 
 
-Click on the arrow icon next to your organization name then select **Edit name & description**.
+Click on the **arrow** icon next to your organization name then select **Edit name & description**.
 
 ![edit organization]({{ site.url }}{{ site.baseurl }}/assets/images/edit-organization/edit_org.png)
 
@@ -22,7 +22,7 @@ The organization icon is set by default, you can upload an image by selecting fr
 
 ## Edit organization name 
 
-Click on the arrow icon next to your organization name then select **Edit name & description**.
+Click on the **arrow** icon next to your organization name then select **Edit name & description**.
 
 ![edit organization]({{ site.url }}{{ site.baseurl }}/assets/images/edit-organization/edit_org.png)
 
@@ -32,7 +32,7 @@ After changing the organization name, click on **Save** to save the changes.
 
 ## Add organization descriptions
 
-Click on the arrow icon next to your project name then select **Edit name & description**.
+Click on the **arrow** icon next to your project name then select **Edit name & description**.
 
 ![edit organization]({{ site.url }}{{ site.baseurl }}/assets/images/edit-organization/edit_org.png)
 
@@ -44,7 +44,7 @@ After changing the organization description, click on **Save** to save the chang
 
 ## Edit organization URL
 
-Click on the arrow icon next to your organization name then select **Edit name & description**.
+Click on the **arrow** icon next to your organization name then select **Edit name & description**.
 
 ![edit organization]({{ site.url }}{{ site.baseurl }}/assets/images/edit-organization/edit_org.png)
 
