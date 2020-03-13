@@ -17,7 +17,25 @@ There are 4 types of project members.
 
 - **Guest:** Members who can only read the tasks and add comments in the project.
 
-![project permission roles]({{ site.url }}{{ site.baseurl }}/assets/images/project-permission/project_permission.png)
+
+---
+<span style="color:orange">R</span> = Read, <span style="color:green">C</span> = Create, <span style="color:blue">E</span> = Edit, <span style="color:red">D</span> = Delete
+
+
+|    | Admin   | Normal |   Limited   | Guest| 
+| :------ |:-----:| :-----:|:-----:| :-----:|
+| **Project** <br>(including project name and description) | <span style="color:orange">R</span>, <span style="color:blue">E</span>, <span style="color:red">D</span>| <span style="color:orange">R</span>, <span style="color:blue">E</span>  |<span style="color:orange">R</span>| <span style="color:orange">R</span>|
+| **Members Management** |  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span> | <span style="color:orange">R</span> |  <span style="color:orange">R</span>   |
+| **External Member Management** |  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span> | <span style="color:orange">R</span> |  <span style="color:orange">R</span>   |
+| **Task**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:orange">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E¹ ²</span>, <span style="color:red">D²</span> |  <span style="color:orange">R</span>   |
+| **Due Date**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:blue">E¹</span> |  <span style="color:orange">R</span>   |
+| **Assignee**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span> |  <span style="color:orange">R</span>   |
+| **Tag**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:blue">E¹ ²</span>|  <span style="color:orange">R</span>   |
+| **Comment**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> |  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span>   |
+
+1 Only when the task is assigned to such member. <br>
+2 Only when the task is created by such member. <br>
+3 Only when it is added by such member. <br>
 
 
 Read more on our blog about [project permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 

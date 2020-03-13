@@ -23,10 +23,13 @@ There are 5 types of organization members.
 **R** = Read, **C** = Create, **E** = Edit, **D** = Delete
 
 |    | Admin   | Normal+ |   Normal   | Limited+ | Guest   | 
-| :------ |:-----| :-----|:-----| :-----|:-----|
+| :------ |:-----:| :-----:|:-----:| :-----:|:-----:|
 | **Organization** <br> (including organization name and profile) | R, E, D | R, E  | R, E   |  R    |  R  |
 | **Members Management**|  R, C, E, D | - | - |  -   | -  |
 | **Projects** | R,C,E,D | R, C, E  | C   |  R    |  -  |
+
+
+![organization permission roles]({{ site.url }}{{ site.baseurl }}/assets/images/organization-permission/organization_permission.png)
 
 
 Read more on our blog about [organization permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 

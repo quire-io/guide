@@ -4,7 +4,7 @@ permalink: /chrome-extension/
 date:   2019-08-23 15:00:00 +0800
 categories: integrate chrome extension
 ---
-You can add the extension to quickly access Quire and get notified of new updates in any web page in Chrome.
+You can add the [extension](https://chrome.google.com/webstore/detail/quire/fafnibnpfejgmleffgpnddkboddbipgm?hl=en) to quickly access Quire and get notified of new updates in any web page in Chrome.
 
 ![chrome extension]({{ site.url }}{{ site.baseurl }}/assets/images/chrome-extension/chrome_extension.png)
 

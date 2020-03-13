@@ -6,7 +6,7 @@ categories: status column
 ---
 ## Add a status column 
 
-There are 3 default status columns when you create a new board. To-Do, In Progress and Completed.
+There are 3 default status columns when you create a new board: **To-Do**, **In Progress** and **Completed**.
 
 ![three default status columns]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/three_default_status_column.png)
 
@@ -15,8 +15,18 @@ You can add new ones and give them a new progress percentage. Click on **Add Col
 
 ![add column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/add_column.png)
 
-**Note:** The progress percentage can’t be the same as the ones that already existed. 
-{: .notice--warning}
+
+{% capture notice-text %}
+**Note:** 
+- The progress percentage can’t be the same as the ones that already existed. 
+- If you would like to set a task's status to the newly created status from the list view, make sure that you have added the task to the board first. 
+{% endcapture %}
+
+<div class="notice--warning">
+  {{ notice-text | markdownify }}
+</div>
+
+
 
 ## Edit a column 
 

@@ -13,6 +13,9 @@ There are three default statuses: **To-Do**, **In Progress** and **Completed** a
 **Note:** If the task has been added to a board, the status will follow the boards' status column.
 {: .notice--warning}
 
+Learn how to [create a new status](/guide/status-column/). 
+{: .notice}
+
 ## Complete a task
 
 We will show you how many subtasks you still have when you hover over the circle.
