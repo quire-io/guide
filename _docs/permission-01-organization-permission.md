@@ -20,16 +20,13 @@ There are 5 types of organization members.
 - **Guest:** Members who can only read the organization.
 
 ---
-**R** = Read, **C** = Create, **E** = Edit, **D** = Delete
+<span style="color:orange">R</span> = Read, <span style="color:green">C</span> = Create, <span style="color:blue">E</span> = Edit, <span style="color:red">D</span> = Delete
 
 |    | Admin   | Normal+ |   Normal   | Limited+ | Guest   | 
 | :------ |:-----:| :-----:|:-----:| :-----:|:-----:|
-| **Organization** <br> (including organization name and profile) | R, E, D | R, E  | R, E   |  R    |  R  |
-| **Members Management**|  R, C, E, D | - | - |  -   | -  |
-| **Projects** | R,C,E,D | R, C, E  | C   |  R    |  -  |
-
-
-![organization permission roles]({{ site.url }}{{ site.baseurl }}/assets/images/organization-permission/organization_permission.png)
+| **Organization** <br> (including organization name and profile) | <span style="color:orange">R</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:blue">E</span>  | <span style="color:orange">R</span>, <span style="color:blue">E</span>   |  <span style="color:orange">R</span>    |  <span style="color:orange">R</span>  |
+| **Members Management**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | - | - |  -   | -  |
+| **Projects** | <span style="color:orange">R</span>,<span style="color:green">C</span>,<span style="color:blue">E</span>,<span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>  | <span style="color:green">C</span>   |  <span style="color:orange">R</span>    |  -  |
 
 
 Read more on our blog about [organization permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 

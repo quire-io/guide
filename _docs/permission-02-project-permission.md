@@ -33,9 +33,9 @@ There are 4 types of project members.
 | **Tag**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:blue">E¹ ²</span>|  <span style="color:orange">R</span>   |
 | **Comment**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span> |  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E³</span>, <span style="color:red">D³</span>   |
 
-1 Only when the task is assigned to such member. <br>
-2 Only when the task is created by such member. <br>
-3 Only when it is added by such member. <br>
+¹ Only when the task is assigned to such member. <br>
+² Only when the task is created by such member. <br>
+³ Only when it is added by such member. <br>
 
 
 Read more on our blog about [project permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 
