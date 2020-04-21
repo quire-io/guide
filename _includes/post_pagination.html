@@ -1,10 +1,34 @@
-{% if page.previous or page.next %}
+<!-- find prev and next -->
+{% for nav in navigation %}
+  {% if next %}
+    {% break %}
+  {% endif %}
+  {% if nav.children != null %}
+    {% for child in nav.children %}
+      {% assign prev0 = current0 %}
+      {% assign current0 = child %}
+
+      {% if current and next == nil %}
+        {% assign next = child %}
+        {% break %}
+      {% endif %}
+
+      {% if child.url == page.url %}
+        {% assign current = child %}
+        {% assign prev = prev0 %}
+      {% endif %}
+
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% if prev or next %}
   <nav class="pagination">
-    {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="pagination--pager prev" title="{{ page.previous.title | markdownify | strip_html }}">{{ page.previous.title | default: "Previous" }}</a>    
+    {% if prev %}
+      <a href="{{ prev.url | relative_url }}" class="pagination--pager prev" title="{{ prev.title | markdownify | strip_html }}">{{ prev.title | default: "Previous" }}</a>    
     {% endif %}
-    {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="pagination--pager next" title="{{ page.next.title | markdownify | strip_html }}">{{ page.next.title | default: "Next" }}</a>
+    {% if next %}
+      <a href="{{ next.url | relative_url }}" class="pagination--pager next" title="{{ next.title | markdownify | strip_html }}">{{ next.title | default: "Next" }}</a>
     {% endif %}
   </nav>
 {% endif %}
