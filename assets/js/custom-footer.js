@@ -30,4 +30,8 @@ $(document).ready(function() {
 
 		return true;
 	});
+
+	var active = $('.nav__items li > a.active');
+	if (active.offset().top > $('body').height())
+		$('.sidebar').scrollTop(active.offset().top - ($('body').height() / 2));
 });

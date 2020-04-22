@@ -622,6 +622,11 @@ figcaption {
 }
 
 @media (min-width: 64em) {
+	.sidebar {
+		&, &.sticky {
+			height: calc(100vh - 144px);
+		}
+	}
 	.sticky {
 		top: 4em;
 	}
