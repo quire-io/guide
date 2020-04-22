@@ -82,6 +82,19 @@ p, a, li, figcaption, td {
 	}
 }
 
+div.highlighter-rouge {
+	background: rgba(0, 0, 0, 0.03);
+    color: rgba(0, 0, 0, 0.7);
+
+    div.highlight {
+    	background: transparent;
+
+    	pre.highlight {
+    		background: transparent;
+    	}
+    }
+}
+
 pre {
     line-height: inherit;
     font-size: 1em;
@@ -172,17 +185,21 @@ figcaption {
 	}
 
 	.notice--primary {
-	    color: inherit;
-	    font-family: inherit;
-	    font-size: 0.85em !important;
+		color: inherit;
+		font-family: inherit;
+		font-size: 0.85em !important;
+		padding: 1.6em 1em;
+		background-color: #f8f9f9;
 
 		a {
+			color: #9ac656;
+
 			&:hover {
-			    color: #555f67;
+			    color: #7BB340;
 			}
 
 			&:visited {
-			    color: #3C4851;
+			    color: #9ac656;
 			}
 		}
 	}
