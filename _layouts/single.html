@@ -59,12 +59,17 @@ layout: default
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
+      <div class="send-feedback notice--primary">
+        Please <a href="https://quire.io/feedback" target="_blank">contact us</a> if you need more assistant.
+      </div>
+
       {% include post_pagination.html %}
     </div>
 
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}

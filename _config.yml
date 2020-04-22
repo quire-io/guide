@@ -28,11 +28,6 @@ collections:
   docs:
     output: true
 
-comments:
-    provider: "disqus"
-    disqus:
-      shortname: "guide-1"
-
 defaults:
   - scope:
       path: ""
