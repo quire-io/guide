@@ -10,11 +10,17 @@
           {% for child in nav.children %}
             {% comment %} set "active" class on current page {% endcomment %}
             {% if child.url == page.url %}
-              {{ nav.title }} &nbsp;>&nbsp; {{ child.title }}
+              {% capture navTitle %}{{ nav.title }} &nbsp;>&nbsp; {{ child.title }}{% endcapture %}
             {% endif %}
           {% endfor %}
         {% endif %}
     {% endfor %}
+
+    {% if navTitle %}
+      {{ navTitle }}
+    {% else %}
+      Menu
+    {% endif %}
   </label>
 
   <ul class="nav__items">
