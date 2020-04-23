@@ -47,6 +47,7 @@ markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
+  - jekyll-last-modified-at
   # - jekyll-feed
 
 after_footer_scripts:
