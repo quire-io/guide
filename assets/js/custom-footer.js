@@ -32,6 +32,6 @@ $(document).ready(function() {
 	});
 
 	var active = $('.nav__items li > a.active');
-	if (active.lengh > 0 && active.offset().top > $('body').height())
+	if (active.length > 0 && active.offset().top > $('body').height())
 		$('.sidebar').scrollTop(active.offset().top - ($('body').height() / 2));
 });
