@@ -23,6 +23,51 @@ Here are some of the helpful tutorials for you to kickstart your projects as wel
 
 [Get focused with Quire Sublist](https://quire.io/tutorial/sublist)
 
+<div class="new-cards">
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/sublist-introduction/">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_1.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">Sublist</div>
+			<div class="new-card-desc">Get focused with your personalized task lists.</div>
+		</div>
+	</a>
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/project-settings//">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_2.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">Project Notifications</div>
+			<div class="new-card-desc">Choose which notifications that you wish to receive.</div>
+		</div>
+	</a>
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/guide/my-tasks//">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_3.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">My Tasks</div>
+			<div class="new-card-desc">All tasks that matter the most to you across projects and organizations.</div>
+		</div>
+	</a>
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/peekaboo/">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_4.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">Peekaboo</div>
+			<div class="new-card-desc">Temporarily tuck away the tasks that are non-actionable in the short time.</div>
+		</div>
+	</a>
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/mobile-apps/">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_5.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">Mobile</div>
+			<div class="new-card-desc">The powerful iOS and Android mobile apps that allow you to stay in sync with the web version.</div>
+		</div>
+	</a>
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/install-apps/">
+		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_6.png" alt="">
+		<div class="new-card-content">
+			<div class="new-card-title">Install Apps</div>
+			<div class="new-card-desc">Effortlessly integrate Quire with your favorite apps.</div>
+		</div>
+	</a>
+</div>
+
 
 
 
