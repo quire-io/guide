@@ -11,18 +11,11 @@ comments: true
 sidebar:
   nav: "docs"
 ---
-### Welcome to the Ultimate Guide to Quire!
+### Welcome to Quire’s ultimate guide!
 
-This is the complete guide for you to get started on Quire, to lay the first brick on your projects and to achieve your dreams! 
+This is the complete guide for you to get started on Quire, to lay the first brick on your projects and to achieve your dreams!
 
-Here are some of the helpful tutorials for you to kickstart your projects as well. Check them out!
-
-[Unfold your ideas with Quire Task List](https://quire.io/tutorial)
-
-[Visualize your projects with Quire Kanban Board](https://quire.io/tutorial/board)
-
-[Get focused with Quire Sublist](https://quire.io/tutorial/sublist)
-
+## What's new
 <div class="new-cards">
 	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/sublist-introduction/">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_1.png" alt="">

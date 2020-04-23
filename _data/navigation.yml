@@ -236,25 +236,6 @@ docs:
         url: /project-preferences/ 
 
 
-  - title: Mobile
-    children:
-      - title: "Add Tasks and Subtasks"
-        url: /add-tasks-subtasks-mobile/
-      - title: "Swipe to Change Task Status"
-        url: /change-status-mobile/
-      - title: "Batch Operation"
-        url: /batch-operation-mobile/
-      - title: "Board View"
-        url: /board-view-mobile/
-      - title: "Advance Mode on Mobile"
-        url: /advanced-mode-mobile/
-      - title: "Zoom In and Out"
-        url: /zoom-mobile/
-      - title: "Quire Android Widget"
-        url: /add-tasks-widget-mobile/
-      - title: "Mobile Video Tutorial"
-        url: /mobile-video-tutorial/
-
 
   - title: Troubleshooting
     children:
