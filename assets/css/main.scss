@@ -150,28 +150,41 @@ table kbd {
 	line-height: 2.5em;
 }
 
-.notice--warning code {
-	padding: 0.1rem;
+.notice--warning, .notice--danger, .notice--info, .notice--primary, .notice--success, .notice {
+	code {
+		padding: 0.1rem;
+	}
 }
 
-.notice--danger code {
-	padding: 0.1rem;
+@mixin notice-icon($url) {
+	padding-left: 55px;
+	position: relative;
+
+	&:before { 
+		content: ' ';
+		background-image: url($url);
+		width: 34px;
+		height: 34px;
+		position: absolute;
+		top: calc(100%/2 - 17px);
+		left: 10px;
+	}
 }
 
-.notice—info code {
-	padding: 0.1rem;
+.notice--warning {
+	@include notice-icon('../images/guide-notice-warning.svg');
 }
 
-.notice--primary code {
-	padding: 0.1rem;
+.notice--danger {
+	@include notice-icon('../images/guide-notice-danger.svg');
 }
 
-.notice--success  code {
-	padding: 0.1rem;
+.notice--info {
+	@include notice-icon('../images/guide-notice-info.svg');
 }
 
-.notice code {
-	padding: 0.1rem;
+.notice {
+	@include notice-icon('../images/guide-notice.svg');
 }
 
 figcaption {
@@ -455,11 +468,11 @@ figcaption {
 	border-bottom: 1px solid $border-color;
 }
 
-#main, .search-input-container, .results-panel {
+#footer, #main, .search-input-container, .results-panel {
 	max-width: 1160px;
 }
 
-#main, .search-input-container {
+#footer, #main, .search-input-container {
 	padding-left: 2em;
 }
 
@@ -581,7 +594,7 @@ figcaption {
 }
 
 #wrap {
-	padding: 8em 0 414px 0;
+	padding: 8em 0 300px 0;
 }
 
 .toc__menu {
@@ -634,6 +647,10 @@ figcaption {
 	.navbar-nav .item .icon-search {
     	margin: 8px 32px 8px 0;
     }
+}
+
+.footer-column {
+	font-size: 14px;
 }
 
 .new-cards {
@@ -717,7 +734,9 @@ figcaption {
 		flex-basis: calc(50% - 24px);
 	}
 
-	#main, .search-input-container {
+	#footer, #main, .search-input-container {
+		padding-left: 1.5em;
+		padding-right: 1.5em;
 		max-width: 720px;
 	}
 
@@ -726,7 +745,7 @@ figcaption {
 	}
 
 	#wrap {
-		padding-bottom: 636px;
+		padding-bottom: 300px;
 	}
 
 	.sidebar {
@@ -809,7 +828,7 @@ figcaption {
 	}
 
 	#wrap {
-		padding-bottom: 1171px;
+		padding-bottom: 520px;
 	}
 }
 
@@ -839,7 +858,7 @@ figcaption {
 
 @media (max-width: 479px) {
 	#wrap {
-		padding-bottom: 1171px;
+		padding-bottom: 980px;
 	}
 }
 
