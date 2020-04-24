@@ -20,13 +20,13 @@ There are 5 types of organization members.
 - **Guest:** Members who can only read the organization.
 
 ---
-<span style="color:orange">R</span> = Read, <span style="color:green">C</span> = Create, <span style="color:blue">E</span> = Edit, <span style="color:red">D</span> = Delete
+<span style="color:#F8A109">R</span> = Read, <span style="color:#91C44B">C</span> = Create, <span style="color:#65AEFF">E</span> = Edit, <span style="color:#EB5F64">D</span> = Delete
 
 |    | Admin   | Normal+ |   Normal   | Limited+ | Guest   | 
 | :------ |:-----:| :-----:|:-----:| :-----:|:-----:|
-| **Organization** <br> (including organization name and profile) | <span style="color:orange">R</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:blue">E</span>  | <span style="color:orange">R</span>, <span style="color:blue">E</span>   |  <span style="color:orange">R</span>    |  <span style="color:orange">R</span>  |
-| **Members Management**|  <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>, <span style="color:red">D</span> | - | - |  -   | -  |
-| **Projects** | <span style="color:orange">R</span>,<span style="color:green">C</span>,<span style="color:blue">E</span>,<span style="color:red">D</span> | <span style="color:orange">R</span>, <span style="color:green">C</span>, <span style="color:blue">E</span>  | <span style="color:green">C</span>   |  <span style="color:orange">R</span>    |  -  |
+| **Organization** <br> (including organization name and profile) | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>  | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>   |  <span style="color:#F8A109">R</span>    |  <span style="color:#F8A109">R</span>  |
+| **Members Management**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | - | - |  -   | -  |
+| **Projects** | <span style="color:#F8A109">R</span>,<span style="color:#91C44B">C</span>,<span style="color:#65AEFF">E</span>,<span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>  | <span style="color:#91C44B">C</span>   |  <span style="color:#F8A109">R</span>    |  -  |
 
 
 Read more on our blog about [organization permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 
