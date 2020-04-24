@@ -24,14 +24,14 @@ This is the complete guide for you to get started on Quire, to lay the first bri
 			<div class="new-card-desc">Get focused with your personalized task lists.</div>
 		</div>
 	</a>
-	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/project-settings//">
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/project-settings/">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_2.png" alt="">
 		<div class="new-card-content">
 			<div class="new-card-title">Project Notifications</div>
 			<div class="new-card-desc">Choose which notifications that you wish to receive.</div>
 		</div>
 	</a>
-	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/guide/my-tasks//">
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/my-tasks/">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_3.png" alt="">
 		<div class="new-card-content">
 			<div class="new-card-title">My Tasks</div>
