@@ -6,7 +6,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
     <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: 'https://quire.io' }}">
-    <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: 'https://quire.io' }}{% else %}{{ site.icon }}{% endif %}">
+    <meta property="og:image" content="/Quire_fluid.png">
     <meta property="og:description" content="The ultimate guide for Quire - a project management software that helps teams and personal use collaborate and achieve great things together.">
     <meta property="og:site_name" content="{{ site.name }}">
     <meta property="og:locale" content="{{ site.locale }}">
