@@ -33,6 +33,9 @@ You can choose to hide tasks that are completed in over 30 days, 60 days, 90 day
 
 ![excluded completed tasks]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/filter_excluded_completed_task.png)
 
+**Note:** This option will appear when you have completed tasks over **60 days** ago. 
+{: .notice--warning}
+
 #### Save a customized filter
 
 When you have a sorting option or filter that you use a lot, you can save it so you don’t have to apply the options every time. 
@@ -44,6 +47,7 @@ After applying the filters to your tasks, click on the **star** icon at the end 
 You will find your saved filters in the dropdown menu at the filter icon.
 
 ![saved filter list]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/saved_filter_list.png)
+
 
 
 ## Group your tasks
@@ -68,12 +72,12 @@ You can group your tasks by the options below:
 #### Group with two options
 You could group your tasks up to two different options. Click on the **+** icon beside an option and choose what option you would like to add. 
 
-![sort with two options]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/sort_two_options.png)
+![group with two options]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/group_two_options.png)
 
 #### Right-click to group tasks quickly
 You could right-click on an option to group your tasks without going to the filter bar. 
 
-![right-click to sort]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/right_click_sort.png)
+![right-click to group]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/right_click_group.png)
 
 ## Sort your tasks
 You can sort your tasks by the options below:
@@ -82,6 +86,11 @@ You can sort your tasks by the options below:
 - Name 
 - Priority 
 - Status
+
+#### Right-click to sort tasks quickly
+You could right-click on an option to sort your tasks without going to the filter bar. 
+
+![right-click to sort]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/right_click_sort_status.png)
 
 
 ## Filter your tasks

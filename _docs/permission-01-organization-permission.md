@@ -26,7 +26,7 @@ There are 5 types of organization members.
 | :------ |:-----:| :-----:|:-----:| :-----:|:-----:|
 | **Organization** <br> (including organization name and profile) | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>  | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E</span>   |  <span style="color:#F8A109">R</span>    |  <span style="color:#F8A109">R</span>  |
 | **Members Management**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | - | - |  -   | -  |
-| **Projects** | <span style="color:#F8A109">R</span>,<span style="color:#91C44B">C</span>,<span style="color:#65AEFF">E</span>,<span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>  | <span style="color:#91C44B">C</span>   |  <span style="color:#F8A109">R</span>    |  -  |
+| **Projects** | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>  | <span style="color:#91C44B">C</span>   |  <span style="color:#F8A109">R</span>    |  -  |
 
 
 Read more on our blog about [organization permission](https://quire.io/blog/p/Roles-&-Permissions-in-Quire.html). 
