@@ -15,23 +15,22 @@ var store = [
         {%- assign teaser = site.teaser -%}
       {%- endif -%}
 
-
-      // search for path of each docs
-      {% for nav in site.data.navigation["docs"] %}
-        {% if needBreak %}
-          {% break %}
-        {% endif %}
-
-        {% if nav.children != null %}
-          {% for child in nav.children %}
-            {% if child.url == doc.url %}
-              {% assign path = nav.title %}
-              {% assign needBreak = true %}
-              {% break %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
+      {% comment %} search for path of each docs {% endcomment %}
+      {%- assign needBreak = false -%}
+      {%- for nav in site.data.navigation["docs"] -%}
+        {%- if needBreak -%}
+          {%- break -%}
+        {%- endif -%}
+        {%- if nav.children != null -%}
+          {%- for child in nav.children -%}
+            {%- if child.url == doc.url -%}
+              {%- assign path = nav.title -%}
+              {%- assign needBreak = true -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
+      {%- endfor -%}
 
       {
         "title": {{ path | append: " > " | append: doc.title | jsonify }},
