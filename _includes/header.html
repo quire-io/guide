@@ -9,6 +9,11 @@
   <div class="self-label">
     <a id="self" href="/guide">Guide</a>
   </div>
+  {% if site.search == true %}
+  <div class="search-toggle x30">
+    <a class="icon-search"></a>
+  </div>
+  {% endif %}
   <button id="menu-toggle" class="navbar-toggle x30 cmn-toggle-switch htx" type="button">
     <span>toggle menu</span>
   </button>
