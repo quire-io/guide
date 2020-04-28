@@ -1,6 +1,6 @@
 
 var initPlugin = function(loggedIn) {//called from blog.js
-	$('.send-feedback a').attr('href', loggedIn ? 'https://quire.io/feedback' : 'mailto:support@quire.io');
+	$('.send-feedback a').attr('href', loggedIn ? 'https://quire.io/feedback' : 'mailto:feedback@quire.io');
 }
 
 $(document).ready(function() {
