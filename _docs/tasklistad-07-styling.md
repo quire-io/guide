@@ -61,7 +61,7 @@ _text_
 #### Code
 
 ```
-`text·
+`text`
 ```
 
 #### Headers
