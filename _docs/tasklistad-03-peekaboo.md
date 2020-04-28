@@ -18,15 +18,19 @@ If the peekaboo tasks aren’t completed yet, it will automatically reshow back 
 
 ![reshow peekaboo tasks]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_peekaboo_task.png)
 
+**Note:** When you peekaboo a completed task, you won’t be able to choose the date for reshowing that task. 
+{: .notice--warning}
+
+
 To see all the peekaboo tasks in this project, click on the **filter** icon under the navigation bar at the top, select **Customize**, and choose **Peekaboo Tasks**. 
 
 ![filter peekaboo tasks]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/filter_peekaboo.png)
 
-For the peekaboo task to reshow in your task list, click n the **options** icon in the task’s detail panel, then choose **Reshow this task** or right-click on the task and choose from the context menu. 
+For the peekaboo task to reshow in your task list, click on the **options** icon in the task’s detail panel, then choose **Reshow this task** or right-click on the task and choose from the context menu. 
 
 ![reshow in the detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_detail_panel.png)
 
-You can go to the **Project’s Settings** and change the peekaboo tasks default to reshow 7 days later to 1, 3, 14, 30 days later.
+You can go to the **[Project’s Settings](https://quire.io/guide/project-settings/#set-the-default-days-for-the-peekaboo-tasks-to-reshow)** and change the peekaboo tasks default to reshow 7 days later to 1, 3, 14, 30 days later.
 
 ![reshow peekaboo tasks in settings]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_peekaboo_settings.png)
 

@@ -6,7 +6,7 @@ categories: install apps
 ---
 As an end-user, you can greatly benefited with a lot of upcoming apps from Quire contributors. 
 
-Visit [Quire App Directory](https://quire.io//apps) to browse which app you want to install to your Quire workspace.
+Visit [Quire App Directory](https://quire.io/apps) to browse which app you want to install to your Quire workspace.
 
 ![Quire app directopry]({{ site.url }}{{ site.baseurl }}/assets/images/install-apps/quire_apps.png)
 
