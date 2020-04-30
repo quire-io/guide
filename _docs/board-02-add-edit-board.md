@@ -28,6 +28,9 @@ Click on the **arrow** icon beside the board name and choose **Edit**.
 
 ![edit board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/edit_board.png)
 
+**Note:** For the board URL, only letters, digits, dashes, dots, and underscores are allowed.
+{: .notice--warning}
+
 
 ## Archive a board 
 

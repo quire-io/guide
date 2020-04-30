@@ -50,6 +50,9 @@ Click on the **arrow** icon beside the sublist name and choose **Edit**.
 
 ![edit sublist's name]({{ site.url }}{{ site.baseurl }}/assets/images/add-sublist/edit_sublist.png)
 
+**Note:** For the sublist URL, only letters, digits, dashes, dots, and underscores are allowed.
+{: .notice--warning}
+
 
 ## Delete a sublist
 

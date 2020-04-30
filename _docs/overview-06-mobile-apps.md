@@ -8,6 +8,9 @@ Quire is also available on mobile apps, making it easier for you to manage proje
 
 ![sync your Quire project across your devices]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-apps/sync_cross_device.png)
 
+Read more on our blog about our newest mobile upgrade - [Quire Mobile 5.0](https://quire.io/blog/p/introducing-new-mobile-app.html). 
+{: .notice}
+
 
 ## iOS
 Download [Quire iOS app](https://apps.apple.com/us/app/quire-unfold-your-ideas/id1095193897) in the App Store.
