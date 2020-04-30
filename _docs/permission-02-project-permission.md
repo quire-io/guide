@@ -8,9 +8,9 @@ There are 4 types of project members.
 
 - **Admin:** Members who can manage all tasks and members in the project.
 
-- **Normal:** Members who can add and edit all tasks and manage the project. Normal members can not manage project the members and delete the projects. 
+- **Normal:** Members who can add and edit all tasks and manage the project. Normal members can not manage the project members and delete the projects. 
 
-- **Limited:** Members who can add new tasks and manage assigned tasks. Limited members can not manage the project's members and delete the tasks created by others.
+- **Limited:** Members who can add new tasks and manage assigned tasks. Limited members can not manage the project members and delete the tasks created by others.
 
 	**Note:** Limited members can only complete tasks that are assigned to or created by them. Also, he/she can can not add or move tasks to a board. 
 	{: .notice--warning}
