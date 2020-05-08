@@ -4154,7 +4154,7 @@ a {
   a:hover {
     color: #7bb340; }
   a:visited {
-    color: #578214; }
+    color: #9ac656; }
   a:focus {
     outline: 5px auto #9ac656; }
 
@@ -4298,11 +4298,9 @@ figcaption {
   font-family: inherit;
   font-size: 0.85em !important; }
   .page__content .notice a {
-    color: #939da4; }
+    color: #60a5ba; }
     .page__content .notice a:hover {
-      color: #71828D; }
-    .page__content .notice a:visited {
-      color: #526878; }
+      color: #448499; }
 .page__content .notice--primary {
   color: inherit;
   font-family: inherit;
@@ -4321,12 +4319,9 @@ figcaption {
   font-size: 0.85em !important;
   background-color: #f3f9fb; }
   .page__content .notice--info a {
-    color: #3b9cba;
-    /* a:visited */ }
+    color: #3b9cba; }
     .page__content .notice--info a:hover {
       color: #1E86A8; }
-    .page__content .notice--info a:visited {
-      color: #076A8B; }
   .page__content .notice--info code {
     background-color: #fafeff; }
 .page__content .notice--warning {
@@ -4339,8 +4334,6 @@ figcaption {
     color: #eab606; }
     .page__content .notice--warning a:hover {
       color: #BA8F00; }
-    .page__content .notice--warning a:visited {
-      color: #917000; }
 .page__content .notice--success {
   color: inherit;
   font-family: inherit;
@@ -4363,8 +4356,6 @@ figcaption {
   /* a:hover */ }
   .page__content .notice--danger a:hover {
     color: #D43A36; }
-  .page__content .notice--danger a:visited {
-    color: #AC1D1A; }
   .page__content .notice--danger code {
     background-color: #fffbfb; }
 
@@ -4374,15 +4365,13 @@ figcaption {
   font-size: 0.85em !important;
   padding: 1.6em 1em;
   background-color: #f8f9f9;
-  /* a */
-  /* a:hover */
-  /* a:visited */ }
+  /* a */ }
   .notice--primary a {
     color: #9ac656; }
-  .notice--primary a:hover {
-    color: #7BB340; }
-  .notice--primary a:visited {
-    color: #9ac656; }
+    .notice--primary a:visited {
+      color: #9ac656; }
+    .notice--primary a:hover {
+      color: #7BB340; }
 
 .send-feedback {
   clear: both;
