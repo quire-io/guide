@@ -6,6 +6,15 @@ categories: import with json file
 ---
 You can easily export your data from your current project management software to a JSON file, and import all of your data to Quire.
 
+
+**Note:** At the moment, we only support importing JSON files that were exported from **Asana**, **Trello**, and **Wunderlist**.
+{: .notice--warning}
+
+
+
+
+#### How to import your JSON file to Quire
+
 Create a new project on Quire. 
 
 ![create a project]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/create_project.png)
@@ -27,6 +36,9 @@ Read more on our blog about [importing your data to Quire](https://quire.io/blog
 {: .notice}
 
 
+
+
+
 ## Migrate from Asana
 
 ![migrate from Asana]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/migrate_asana.png)
@@ -38,6 +50,10 @@ All of the subtasks in the description section on Asana will be treated as subta
 If you wish to use Kanban Board view, you can add your tasks from your task list view to the board.
 
 ![imported from Asana]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/asana_import.png)
+
+
+
+
 
 
 ## Migrate from Trello
@@ -53,6 +69,10 @@ The tags, descriptions and comments will also be transferred into the appropriat
 If you want to work with your project in a nested task list view, you can switch to list view. All of your tasks have been successfully transferred there.
 
 ![imported from Trello list]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/trello_import_2.png)
+
+
+
+
 
 
 ## Migrate from Wunderlist
