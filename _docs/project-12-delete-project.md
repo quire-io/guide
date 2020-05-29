@@ -17,3 +17,7 @@ Click on the **arrow** icon beside your project name, and select **Delete** from
 The deleted projects will be found in the trash bin at the sidebar. You will be able to restore the deleted projects within 7 days. After 7 days, the projects will be deleted permanently.
 
 ![restore a deleted project]({{ site.url }}{{ site.baseurl }}/assets/images/delete-project/restore_project.png)
+
+
+**Note:** The deleted projects will not be counted towards the project limitation (80) per organization. However, you will not be able to restore a deleted project when your active projects has already hit the limit. 
+{: .notice--warning}

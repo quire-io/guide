@@ -17,3 +17,7 @@ The deleted organization will be found in the trash bin at the sidebar. You will
 
 
 ![restore a deleted organization]({{ site.url }}{{ site.baseurl }}/assets/images/delete-organization/restore_project.png)
+
+
+**Note:** The deleted organization will not be counted towards the organization limitation (35) per account. However, you will not be able to restore a deleted organization when your active organization has already hit the limit. 
+{: .notice--warning}

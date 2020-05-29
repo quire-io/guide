@@ -21,6 +21,10 @@ You will receive [reminder notifications](/guide/reminders/) and [reminder email
 
 Also, when someone added a task in a project you follow, or left a comment in a task you follow, you will immediately get notified in Quire.
 
+**Note:** When another member comments on a task you follow or assigns a task to you, an **orange dot** will appear next to the task name.
+{: .notice--warning}
+
+
 You will be notified of the following activities if you are:
 
 |  | Project Member   | Project Follower | Task Assignee | Task Follower |

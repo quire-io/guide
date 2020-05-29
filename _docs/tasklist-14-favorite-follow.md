@@ -8,6 +8,10 @@ categories: favorite follow tasks
 
 You can favorite a task that you think are important to you. Favorites are personal, unlike tags or priority that are seen by all members.
 
+**Note:** A ♥ means you favorited the task, whereas a ♡ means you didn't. And the number beside either heart indicates how many people have favorited the task.
+{: .notice--warning}
+
+
 Go to the detail panel, and click on the ♥ icon in the menu bar.
 
 ![favorite task]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/favorite_task.png)
@@ -23,13 +27,18 @@ You can filter by **Favorited by me** to easily see all the tasks you've favorit
 Learn more on how to [filter and sort](/guide/filter-sort/) your Quire task list/board. 
 {: .notice}
 
-**Note:** A ♥ means you favorited the task, whereas a ♡ means you didn't. And the number beside either heart indicates how many people have favorited the task.
-{: .notice--warning}
 
 
 ## Follow a task
 
-You can follow, or add followers to a task to get notified of any changes made to it.
+You can follow, or add followers to a task to [get notified](/guide/get-notified/) of any changes made to it.
+
+**Note:** When another member comments on a task you follow, an orange dot will appear next to the task name.
+{: .notice--warning}
+
+
+
+#### How to follow a task
 
 Go to the detail panel, and click on the **eye** icon in the upper-right.
 

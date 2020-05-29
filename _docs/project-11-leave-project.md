@@ -12,3 +12,7 @@ Scroll to the bottom of the Members tab, click on **Leave project**.
 
 ![leave project in settings page]({{ site.url }}{{ site.baseurl }}/assets/images/leave-project/leave_project.png)
 
+
+
+**Note:** You can not leave the project if you are also the **admin** of its organization.
+{: .notice--warning}
