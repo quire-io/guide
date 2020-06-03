@@ -1,5 +1,5 @@
 ---
-title:  "Add Tasks to Board"
+title:  "Add and Remove Tasks from Board"
 permalink: /add-tasks-to-board/
 date:   2019-08-23 15:00:00 +0800
 categories: add tasks to board

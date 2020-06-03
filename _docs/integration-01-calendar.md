@@ -4,9 +4,11 @@ permalink: /calendar/
 date:   2019-08-23 15:00:00 +0800
 categories: calendars
 ---
+Sync your Quire tasks with a calendar to see the tasks schedule, track your project and plan ahead. 
+
 ## Sync to Google Calendar
 
-Visit **Google Calendar Sync** in our [Quire App Directory](https://quire.io/apps). Click on the **Install** button on the upper right corner to authorize this app.
+Visit [Google Calendar Sync](https://quire.io/apps/google-calendar-sync) in our Quire App Directory. Click on the **Install** button on the upper right corner to authorize this app.
 
 ![sync with Google Calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/google_calendar_sync.png)
 
@@ -30,7 +32,7 @@ Follow the steps specified in the description.
 
 ## Sync to Apple Calendar, Outlook or other calendar
 
-Visit **Apple Calendar Sync**, **Outlook Calendar Sync** or **Calendar Sync** in our [Quire App Directory](https://quire.io/apps). Click on the **Install** button on the upper right corner to authorize this app.
+Visit [Apple Calendar Sync](https://quire.io/apps/apple-calendar-sync), [Outlook Calendar Sync](https://quire.io/apps/outlook-calendar-sync) or [Calendar Sync](https://quire.io/apps/calendar-sync) in our Quire App Directory. Click on the **Install** button on the upper right corner to authorize this app.
 
 ![sync with Apple Calendar]({{ site.url }}{{ site.baseurl }}/assets/images/calendar/apple_calendar_sync.png)
 

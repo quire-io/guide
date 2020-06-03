@@ -6,7 +6,7 @@ categories: integrate slack
 ---
 You can receive updates about your Quire projects, add tasks to a project, add comments on tasks and many more inside a Slack channel.
 
-Visit **Slack** in our [Quire App Directory](https://quire.io//apps). Click on the **Install** button on the upper right corner to authorize this app and add to your Quire organization. 
+Visit [Slack](https://quire.io/apps/slack) in our Quire App Directory. Click on the **Install** button on the upper right corner to authorize this app and add to your Quire organization. 
 
 ![integrate with slack]({{ site.url }}{{ site.baseurl }}/assets/images/slack/integrate_slack.png)
 
