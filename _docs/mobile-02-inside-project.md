@@ -17,7 +17,15 @@ You can give your tasks [more details](/guide/mobile-app-task/), such as assigni
 There are several different views for a project: **List**, **Sublist**, **Board**, and **Overview**. List view is the default view when you first access the project.
 
 
-<video muted="" playsinline="" loop="" autoplay="" title="switch between different views in a project" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-project/mobile_add_sublist_board.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video 
+muted="" 
+playsinline="" 
+loop="" 
+autoplay="" 
+title="switch between different views in a project" 
+poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-project/mobile_add_sublist_board.png" 
+style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;"
+>
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-project/mobile_add_sublist_board.mp4" type="video/mp4">
 </video>
 
