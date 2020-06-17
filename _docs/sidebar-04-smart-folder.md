@@ -20,6 +20,20 @@ Read more on our blog about [Smart Folders](https://quire.io/blog/p/A-few-things
 {: .notice}
 
 
+#### Quickly navigate to the tasks of a certain project
+
+Click on the project name at the top, then it will direct you to the first task of that project. 
+
+![navigate to task of a certain project]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/quickly_navigate_smart_folder.png)
+
+
+#### Go to a project from a smart folder
+
+Click on the project name in the main panel to go to that project without going through the sidebar.
+
+![go to a project from smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/smart_folder_go_to_project.png)
+
+
 #### Delete a smart folder
 
 Click on the dropdown menu arrow beside the Smart Folder name, then click on **Delete**.

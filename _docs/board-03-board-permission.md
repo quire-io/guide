@@ -4,7 +4,7 @@ permalink: /board-permission/
 date:   2019-08-23 15:00:00 +0800
 categories: board permission
 ---
-There are two options for you to share a board with: Project Members and External Team.
+There are two options for you to share a board with: **Project Members** and **External Team**.
 
 Learn how to [create a board](/guide/add-edit-board/). 
 {: .notice}

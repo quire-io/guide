@@ -96,11 +96,11 @@ docs:
         url: /board-permission/
       - title: "Multiple Boards"
         url: /multiple-boards/    
-      - title: "Add Tasks to Board"
+      - title: "Add and Remove Tasks from Board"
         url: /add-tasks-to-board/
       - title: "Status Column"
         url: /status-column/
-      - title: "Swimlane"
+      - title: "Swimlanes"
         url: /board-swimlane/
       
 
@@ -234,6 +234,18 @@ docs:
         url: /email-notifications/  
       - title: "Project Preferences"
         url: /project-preferences/ 
+
+
+  - title: Mobile
+    children:
+      - title: "Navigating around Quire App"
+        url: /mobile-app-navigation/
+      - title: "Break down a Project"
+        url: /mobile-app-project/
+      - title: "Break down a Task"
+        url: /mobile-app-task/
+      - title: "Helpful Gestures"
+        url: /mobile-app-gestures/
 
 
 

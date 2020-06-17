@@ -30,3 +30,4 @@ You can revoke or change the permission by clicking on the app in **My Apps** se
 
 Read more on our blog about [Quire API](http://quire.io/blog/p/Quire-and-Beyond-Announce-Quire-API.html).
 {: .notice}
+

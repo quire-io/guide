@@ -27,3 +27,17 @@ In the Members tab, click on the [role](/guide/organization-permission/) of the 
 In the Members tab, hover the member and click on the **trash bin** icon.
 
 ![remove organization members]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/organization_remove_member.png)
+
+## Complete member list
+
+Here you can see the complete list of members that are invited to the organization and the projects underneath. 
+
+![view complete member list]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/view_complete_member_list.png)
+
+When hovering over a member section, you can click on the **trash bin** icon to remove this particular member from all the projects in this organization.
+
+![remove member from complete member list]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/org_complete_member_list.png)
+
+**Note:** Only an organization **admin** will be able to see the complete member list. 
+{: .notice--warning}
+

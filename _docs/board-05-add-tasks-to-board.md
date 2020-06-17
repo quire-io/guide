@@ -8,7 +8,7 @@ categories: add tasks to board
 
 #### Add tasks from the board view
 
-In the Board view, click on the **+** sign at the top right corner of each column. 
+Click on the **+** icon at the upper right corner of each column and select **Add existing tasks**.
 
 ![add existing task to board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_add_existing_tasks.png)
 
@@ -23,9 +23,9 @@ In the Board view, click on the **+** sign at the top right corner of each colum
 
 #### Add tasks from the list view
 
-You can right-click to choose **Add to board** and select a board. 
+Right-click on a task and select **Add to board**, then choose a board that you want to add the task to. 
 
-Hitting <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose which board you want to add to can also allow you to add a task to the board. 
+Hitting <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose a board can also allows you to add a task to the board. 
 
 ![add tasks to board in List view]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/add_tasks_to_board_list.png)
 
@@ -35,7 +35,7 @@ Hitting <kbd>^</kbd> on the keyboard then use the up/down arrow key to choose wh
 
 ## Create new tasks
 
-In the Board view, click on the **+** sign at the top right corner of each column.
+Click on the **+** icon at the upper right corner of each colum and select **Create new tasks**. 
 
 Hit <kbd>Enter</kbd> to continue to add new tasks. When done, hit <kbd>Esc</kbd> to finish.   
 
@@ -62,8 +62,29 @@ If you had attached or embedded an image to a task, you can let it show as a tas
 
 ![task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_cover.png)
 
-Click on the **options** icon on the top right corner of the task in your board. Select **Edit cover** and choose the image that you would like to show as a cover.
+Click on the **options** icon on the upper right corner of the task in your board. Select **Edit cover** and choose the image that you would like to show as a cover.
 
 ![edit task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/edit_cover.png)
+
+
+## Remove tasks from board 
+
+#### Remove one task
+
+Click on the **options** icon on the upper right corner of the task in your board and select **Remove task from board**. 
+
+![remove a task from board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/remove_tasks_board.png)
+
+
+#### Remove multiple tasks at once
+
+Hit <kbd>Shift</kbd> or <kbd>Ctrl</kbd> to select multiple tasks on the board and use the bottom menu bar to remove them at once. 
+
+
+![remove multiple tasks from board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/remove_multiple_tasks_board.png)
+
+**Note:** When you remove the tasks from a board, they still exist in the List view. 
+{: .notice--warning}
+
 
 
