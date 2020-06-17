@@ -16,9 +16,6 @@ The new navigation bar enables you to navigate through a series of hierarchical 
 {: .notice--warning}
 
 
-
-
-
 ## Home
 
 You will be able to access all of your projects in this tab, including the bookmarked projects, the recent projects that you have been working on, and your Smart Folders. 

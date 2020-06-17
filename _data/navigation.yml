@@ -194,6 +194,8 @@ docs:
     children:
       - title: "Import via Copying and Paste"
         url: /import-via-copy-paste/
+      - title: "Import a Quire CSV file"
+        url: /import-quire-csv/
       - title: "Import with JSON file"
         url: /import-with-json/
       - title: "Copy to another Application"
