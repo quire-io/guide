@@ -119,3 +119,11 @@ For example, you can type `Publish the article ^` in the task name and use the a
 **Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
 {: .notice--warning}
 
+
+## Inline transfer task to another project
+
+You can transfer a task to another project with `>` directly from the task name.
+
+For example, you can type `Publish the article >` in the task name and use the arrow key to choose which project you want to transfer the task to. 
+
+

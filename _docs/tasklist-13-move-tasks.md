@@ -63,6 +63,8 @@ You can also transfer a task or more by right-clicking on them, and selecting **
 **Tip:** To quickly transfer tasks to another project, hold down the <kbd>ALT</kbd> key and drag the tasks to the project name at the sidebar. 
 {: .notice--info}
 
+Another quick way to transfer a task is by hitting <kbd>></kbd> on the keyboard when the task(s) is selected and use the arrow key to choose which project you want to transfer the task to. 
+
 
 ## Merge a task
 

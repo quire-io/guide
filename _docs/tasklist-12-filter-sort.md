@@ -57,6 +57,8 @@ You can group your tasks by the options below:
 - Assignee
 - Status
 - Tag
+- Board
+- Sublist
 - Date
 - Due Per Week
 - Due Per Day
@@ -86,6 +88,10 @@ You can sort your tasks by the options below:
 - Name 
 - Priority 
 - Status
+
+**Note:** You are unable to reorder (drag and drop) your tasks while in sorted mode.
+{: .notice--warning}
+
 
 #### Right-click to sort tasks quickly
 You could right-click on an option to sort your tasks without going to the filter bar. 

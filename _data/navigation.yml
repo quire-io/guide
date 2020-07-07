@@ -180,6 +180,8 @@ docs:
         url: /github/ 
       - title: "Slack"
         url: /slack/ 
+      - title: "Zapier"
+        url: /zapier/ 
       - title: "Chrome Extension"
         url: /chrome-extension/
       - title: "Desktop App using Chrome Shortcut"
@@ -257,5 +259,7 @@ docs:
         url: /clear-cache/
       - title: "Unregister Your Service Worker"
         url: /unregister-service-worker/
+      - title: "Locked Out of Quire Account"
+        url: /locked-out-account/
       - title: "Merge Two Quire Accounts"
         url: /merge-accounts/

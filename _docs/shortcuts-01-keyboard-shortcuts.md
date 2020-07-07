@@ -31,6 +31,7 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Date | <kbd>< ></kbd> | <kbd>< ></kbd> |
 | Priority | <kbd>!</kbd> | <kbd>!</kbd> |
 | Add task(s) to board | <kbd>^</kbd> | <kbd>^</kbd> |
+| Transfer task to another project | <kbd>></kbd> | <kbd>></kbd> |
 | Assign selected task(s) to yourself | <kbd>Ctrl</kbd> + <kbd>M</kbd> | <kbd>Ctrl</kbd> + <kbd>M</kbd> |
 | Indent | <kbd>Tab</kbd> | <kbd>Tab</kbd> |
 | Un-indent | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |

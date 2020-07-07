@@ -24,7 +24,7 @@ Learn how to create a new [organization](/guide/add-organization/).
 
 ![organization sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-project-task/org.png)
 
-**Note:** When adding members at an organization level, members will be able to see and access all the projects underneath. 
+**Note:** When adding members at an organization level, Admin, Normal+ or Limited+ members will be able to see and access all the projects underneath. Learn more on [organization permission role](/guide/organization-permission/).
 {: .notice--warning}
 
 
