@@ -6,11 +6,9 @@ categories: Quire integration with zapier
 ---
 You can connect with thousands of other apps with Quire and automate all of the routine repetitive workflow using Zapier.
 
-First, sign up for a Zapier account, or sign in if you already have one. 
+First, click on any of the **Use this Zap** buttons below or go to [Quire Integrations](https://zapier.com/apps/quire/integrations) on Zapier.
 
-Then, go to [Quire Integrations page](https://zapier.com/apps/quire/integrations) on Zapier.
-
-Connect Quire and a complementary app to Zapier or you can click on any of the Use this Zap buttons below as well. Follow the steps to set up the Zapier automation.
+Then, sign up for a Zapier account, or sign in if you already have one. Connect Quire and a complementary app to Zapier. Follow the steps to set up the Zapier automation.
 
 Lastly, run your new Zap! The automation runs instantly, so you don’t have to worry about the process!
 
