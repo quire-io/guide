@@ -257,8 +257,6 @@ docs:
     children:
       - title: "Clear Browser's Cache"
         url: /clear-cache/
-      - title: "Unregister Your Service Worker"
-        url: /unregister-service-worker/
       - title: "Locked Out of Quire Account"
         url: /locked-out-account/
       - title: "Merge Two Quire Accounts"

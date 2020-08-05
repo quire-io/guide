@@ -10,7 +10,7 @@ If the email address doesn’t get confirmed within 14 days, you will be locked 
 
 We will not immediately delete your Quire account if you are locked out of your account. However, the inactive account will be deleted after a period of inactivity. 
 
-If you cannot find the confirmation email in your inbox,make sure to check the Spam folder first. In case your account is locked, you can also choose to resend the confirmation email or simply change to another email address. 
+If you cannot find the confirmation email in your inbox, make sure to check the Spam folder first. In case your account is locked, you can also choose to resend the confirmation email or simply change to another email address. 
 
 Follow the instructions in the confirmation email to regain access to your account. 
 

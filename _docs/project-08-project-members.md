@@ -4,6 +4,11 @@ permalink: /add-project-members/
 date:   2019-08-23 15:00:00 +0800
 categories: project members
 ---
+Only the project **Admins** have the permission to add or remove members to a project or change the member's permission. 
+
+Learn more about [project permission control](https://quire.io/guide/project-permission/). 
+{: .notice}
+
 
 ## Add project members
 

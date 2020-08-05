@@ -4,16 +4,39 @@ permalink: /clear-cache/
 date:   2019-08-23 15:00:00 +0800
 categories: clear browser cache
 ---
-If you have trouble accessing the Quire on your web browswer, you can try clearing the browser's cache.
+If you are having trouble with Quire and logging out and back in doesn’t solve your problem, maybe you can try the following ways to troubleshoot. 
 
-#### Chrome
+#### Clear browser cache on Google Chrome 
 
-At the top right, click on the **More options** icon and hover to **More tools**. Click on **Clear browsing data**.
+Right click on a blank space in the Quire workspace. Choose **Inspect**.
 
-![chrome clear browsing data]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_clear_browsing_data.png)
+![right click Inspect]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_inspect.png)
 
-Make sure **Cached images and file** is checked, and click on the **Clear data** button.
 
-![chrome cached images and files]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_cached_images.png)
+At the **Application** tab at the top bar, navigate to the **Cache** section at the sidebar. Under **Cache Storage**, right click on **sw-quire-cache-b1085**  and click **Delete**. 
 
-Lastly, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> +<kbd>R</kbd> for Mac) to refresh your Quire page.
+![clear Google Chrome browser cache]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_clear_cache.png)
+
+Lastly, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> for Mac) to refresh your Quire page.
+
+
+#### Clear browser cache on Safari 
+Click **Develop** at the top menu bar and click **Empty Caches**.
+
+![clear Safari browser cache]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/safari_clear_cache.png)
+
+
+#### Unregister Your Service Worker on Google Chrome
+
+Go to this URL: `chrome://serviceworker-internals/`
+
+![service worker URL]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/serviceworker_url.png)
+
+
+Click on the **Unregister** button of all the Service Workers from there.
+
+![service worker URL]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/unregister_serviceworker.png)
+
+
+Lastly, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> for Mac) to refresh your Quire page.
+
