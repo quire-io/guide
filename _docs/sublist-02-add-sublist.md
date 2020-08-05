@@ -46,7 +46,7 @@ There is no limitation on how many sublists you can create for a project. A big 
 
 ## Edit a sublist name or URL
 
-Click on the **arrow** icon beside the sublist name and choose **Edit**. 
+Click on the **dropdown menu** icon beside the sublist name and choose **Edit**. 
 
 ![edit sublist's name]({{ site.url }}{{ site.baseurl }}/assets/images/add-sublist/edit_sublist.png)
 
@@ -56,7 +56,7 @@ Click on the **arrow** icon beside the sublist name and choose **Edit**.
 
 ## Delete a sublist
 
-Click on the **arrow** icon beside the sublist name and choose **Delete**. 
+Click on the **dropdown menu** icon beside the sublist name and choose **Delete**. 
 
 **Note:** Once the sublist is deleted, it can not be undone. The tasks in the sublist will not be deleted, you can still find them in the main list view.
 {: .notice--warning}

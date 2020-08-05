@@ -13,7 +13,7 @@ Go to the project's Overview, and click on the **eye** icon at the top.
 **Note:** You can add a team member as a follower to the project by typing in their name or email address. 
 {: .notice--warning}
 
-Or click on the **arrow** icon beside the project name, and choose **Follow**.
+Or click on the **dropdown menu** icon beside the project name, and select **Follow**.
 	
 ![follow project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_1.png)
 

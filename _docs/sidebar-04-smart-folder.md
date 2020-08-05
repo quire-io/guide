@@ -36,7 +36,7 @@ Click on the project name in the main panel to go to that project without going 
 
 #### Delete a smart folder
 
-Click on the dropdown menu arrow beside the Smart Folder name, then click on **Delete**.
+Click on the **dropdown menu** icon beside the Smart Folder name, then click on **Delete**.
 
 ![delete smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/delete_smart_folder.png)
 

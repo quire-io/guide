@@ -8,7 +8,7 @@ You can outsource a task or more to a third party, namely the external team, wit
 
 ## Create an external team 
 
-Click on the **arrow** icon beside the project's name. Select **Edit members** in the dropdown menu.
+Click on the **dropdown menu** icon beside the project's name. Select **Edit members** in the dropdown menu.
 
 ![project options edit members]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/edit_members.png)
 
@@ -23,11 +23,11 @@ Choose a name for the team, and add people by entering their email addresses.
 **Note:** The number of external members will count towards the total number of 30 members allowed in each organization.
 {: .notice--warning}
 
-To edit an external team (eg. remove an external team member), hover the external team's name and click on the **pen** icon.
+To edit an external team (eg. remove an external team member), hover the external team's name and click on the **edit (pen)** icon.
 
 ![edit external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_team_edit.png)
 
-To delete an external team, hover the external team's name and click on the **trash** icon.
+To delete an external team, hover the external team's name and click on the **trash bin** icon.
 
 ![delete external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/external_team_delete.png)
 

@@ -8,9 +8,9 @@ categories: project settings
 
 ## Feature settings
 
-If you are an **admin** of the project, you can choose the preferences for the features in the project Settings page. 
+If you are an **admin** of the project, you can choose the preferences for the features in the project settings page. 
 
-Simply click on the **arrow** icon beside the project name, and select **Options**.
+Simply click on the **dropdown menu** icon beside the project name, and select **Options**.
 
 ![project settings context menu]({{ site.url }}{{ site.baseurl }}/assets/images/project-settings/project_settings_context_menu.png)
 
@@ -91,7 +91,7 @@ You can choose to set a project private only available to your members, or publi
 
 You can customize what kind of [notifications](/guide/get-notified/) in the project that you want to receive. 
 
-Click on the **arrow** icon next to the project name and select **Options**.
+Click on the **dropdown menu** icon next to the project name and select **Options**.
 
 ![project options dropdown]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_options.png)
 

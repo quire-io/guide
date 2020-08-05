@@ -4,7 +4,7 @@ permalink: /delete-organization/
 date:   2019-08-23 15:00:00 +0800
 categories: delete organization
 ---
-Click on the **arrow** icon beside your project name, and select **Delete** from More.
+Click on the **three dots** icon beside your project name, and select **Delete** from More.
 
 ![delete organization context menu]({{ site.url }}{{ site.baseurl }}/assets/images/delete-organization/delete_organization_context_menu.png)
 

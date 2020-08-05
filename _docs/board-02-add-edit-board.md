@@ -24,7 +24,7 @@ A blank board consists of 3 default [status column](/guide/status-column/): **To
 
 ## Edit board name or URL 
 
-Click on the **arrow** icon beside the board name and choose **Edit**.
+Click on the **dropdown menu** icon beside the board name and select **Edit**.
 
 ![edit board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/edit_board.png)
 
@@ -34,13 +34,13 @@ Click on the **arrow** icon beside the board name and choose **Edit**.
 
 ## Archive a board 
 
-Click on the **arrow** icon beside the board name and choose **Archive**. You can find the archived board will be moved to the Archived category in the drop down menu.
+Click on the **dropdown menu** icon beside the board name and select **Archive**. You can find the archived board will be moved to the Archived category in the drop down menu.
 
 ![archive board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/archive_board.png)
 
 ## Delete a board 
 
-Click on the **arrow** icon beside the board name and choose **Delete**. 
+Click on the **dropdown menu** icon beside the board name and select **Delete**. 
 
 ![delete board]({{ site.url }}{{ site.baseurl }}/assets/images/add-edit-board/delete_board.png)
 

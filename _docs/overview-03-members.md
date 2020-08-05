@@ -36,7 +36,7 @@ Project members are Quire users who have been invited and have confirmed to join
 
 A project member can add, move, delete, edit tasks in the project. 
 
-Manage your [project members](/guide/add-project-members/) by going to the Members page of your project: click on the arrow beside the project name.  
+Manage your [project members](/guide/add-project-members/) by going to the Members page of your project: click on the **dropdown menu** icon beside the project name.  
 
 
 
@@ -53,7 +53,7 @@ Manage your [project members](/guide/add-project-members/) by going to the Membe
 Organization members are Quire users who have been invited and have confirmed to join a particular organization.
 An organization member can access projects underneath the organization, and add, move, delete, edit tasks within those projects. 
 
-Manage your [organization members](/guide/organization-members/) by going to the Members page of your organization: click on the arrow beside the project name. 
+Manage your [organization members](/guide/organization-members/) by going to the Members page of your organization: click on the **dropdown menu** icon beside the project name. 
 
 
 ![Quire organization members]({{ site.url }}{{ site.baseurl }}/assets/images/members/org_members.png)

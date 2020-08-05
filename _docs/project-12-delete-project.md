@@ -4,7 +4,7 @@ permalink: /delete-project/
 date:   2019-08-23 15:00:00 +0800
 categories: delete project
 ---
-Click on the **arrow** icon beside your project name, and select **Delete** from More.
+Click on the **dropdown menu** icon beside your project name, and select **Delete** from More.
 
 ![delete project context menu]({{ site.url }}{{ site.baseurl }}/assets/images/delete-project/delete_project_context_menu.png)
 

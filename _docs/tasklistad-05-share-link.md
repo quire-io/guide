@@ -8,7 +8,7 @@ You can send a share link of your project to your clients, so they can access yo
 
 #### To create a share link
 
-Click on the **arrow** icon beside your project's name, and choose **Edit members**. 
+Click on the **dropdown menu** icon beside your project's name, and select **Edit members**. 
 
 ![edit members to share link]({{ site.url }}{{ site.baseurl }}/assets/images/share-link/edit_members.png)
 

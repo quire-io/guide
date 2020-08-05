@@ -41,7 +41,7 @@ Click on the **assignee** icon, and type in the person's email to invite him/her
 
 You could assign a task to a group of members in a single time by using the [external team](/guide/external-team/) feature.
 
-Go to **Edit members** by clicking on the arrow beside your project names. 
+Go to **Edit members** by clicking on the **dropdown menu** icon beside your project names. 
 
 ![project members page]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/edit_members.png)
 

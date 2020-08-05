@@ -8,7 +8,7 @@ Here are some ways to help you better navigate through Quire.
 
 ## Project/Organization Dropdown Menu
 
-Click on the arrow beside the project or organization name to bring out more options. 
+Click on the **dropdown menu** icon beside the project or organization name to bring out more options. 
 
 ![project menu]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_projMenu.png)
 

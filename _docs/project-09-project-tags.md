@@ -4,7 +4,7 @@ permalink: /manage-tags/
 date:   2019-08-23 15:00:00 +0800
 categories: global tags
 ---
-Click on the **arrow** icon next to your project name then select **Edit tags**. 
+Click on the **dropdown menu** icon next to your project name then select **Edit tags**. 
 
 ![edit tags context menu]({{ site.url }}{{ site.baseurl }}/assets/images/manage-tags/edit_tags_context_menu.png)
 

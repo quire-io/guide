@@ -37,7 +37,7 @@ You will be notified of the following activities if you are:
 
 #### Customize notifications in Quire
 
-Click on the **arrow** icon next to the project name and select **Options**.
+Click on the **dropdown menu** icon next to the project name and select **Options**.
 
 ![project options dropdown]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_options.png)
 

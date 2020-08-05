@@ -29,7 +29,7 @@ Click on the tag, click on the pen icon, and you can choose to change color, ren
 
 ![edit tags]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/edit_tags.png)
 
-You can [manage all your tags](/guide/manage-tags/) for one specific project in the project's Settings page. Click on the arrow beside the project's name, then choose **Edit tags**.
+You can [manage all your tags](/guide/manage-tags/) for one specific project in the project's Settings page. Click on the **dropdown menu** icon beside the project's name, then select **Edit tags**.
 
 ![manage tags in project settings]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/tags_settings_page.png)
 
@@ -43,7 +43,7 @@ Click on the tag and its pen icon, and check **Visible to all projects**.
 
 ![add global tag]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/global_tag.png)
 
-You can [manage all the global tags](/guide/manage-tags/) in the project's Settings page. Click on the arrow beside the project's name, then choose **Edit tags**.
+You can [manage all the global tags](/guide/manage-tags/) in the project's Settings page. Click on the **dropdown menu** icon beside the project's name, then select **Edit tags**.
 
 ![global tags in project settings]({{ site.url }}{{ site.baseurl }}/assets/images/assign-tags/global_tags_settings_page.png)
 
