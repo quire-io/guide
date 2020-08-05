@@ -6,7 +6,7 @@ categories: add orgnanization
 ---
 An organization is a collection of multiple projects. View an organization like a company or a department that works on projects together.
 
-Click on the **+** icon beside the search icon at the top right corner, then select **Add organization**.
+Click on the **+** icon at the upper right corner, then select **Add organization**.
 
 ![add organization]({{ site.url }}{{ site.baseurl }}/assets/images/add-organization/add_orgnization_1.png)
 

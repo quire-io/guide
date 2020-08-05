@@ -30,7 +30,7 @@ You can add new ones and give them a new progress percentage. Click on **Add Col
 
 ## Edit a column 
 
-Click on the **options** icon at the top right corner of the column and choose **Edit column**.
+Click on the **three dots** icon at the upper right corner of the column and choose **Edit column**.
 
 ![edit column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/edit_column.png)
 
@@ -48,14 +48,14 @@ You can drag the column and drop it at an ideal location.
 
 ## Hide a column 
 
-Click on the **options** icon at the top right corner of the column and choose **Hide column**.
+Click on the **three dots** icon at the upper right corner of the column and choose **Hide column**.
 
 ![hide column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/hide_column.png)
 
 
 ## Peekaboo a column 
 
-Click on the **options** icon at the top right corner of the column and choose **Peekaboo all tasks in this column**.
+Click on the **three dots** icon at the upper right corner of the column and choose **Peekaboo all tasks in this column**.
 
 ![peekaboo the column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/peekaboo_column.png)
 
@@ -65,7 +65,7 @@ Click on the **options** icon at the top right corner of the column and choose *
 
 ## Delete a column 
 
-Click on the **options** icon at the top right corner of the column and choose **Delete column**.
+Click on the **three dots** icon at the upper right corner of the column and choose **Delete column**.
 
 ![delete column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/delete_column.png)
 

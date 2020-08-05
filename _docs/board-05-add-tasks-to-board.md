@@ -62,7 +62,7 @@ If you had attached or embedded an image to a task, you can let it show as a tas
 
 ![task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/board_task_cover.png)
 
-Click on the **options** icon on the upper right corner of the task in your board. Select **Edit cover** and choose the image that you would like to show as a cover.
+Click on the **three dots** icon on the upper right corner of the task in your board. Select **Edit cover** and choose the image that you would like to show as a cover.
 
 ![edit task cover image in board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/edit_cover.png)
 

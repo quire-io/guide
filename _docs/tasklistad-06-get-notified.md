@@ -6,7 +6,7 @@ categories: get notified
 ---
 You will be notified of new updates, upcoming tasks or overdue tasks in different places.
 
-- [Notifications](/guide/reminders/) at the bell icon at the upper-right corner of your Quire workspace.
+- [Notifications](/guide/reminders/) at the bell icon at the upper right corner of your Quire workspace.
 
 	![bell icon notifications]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/notifications_quire_workspace.png)
 

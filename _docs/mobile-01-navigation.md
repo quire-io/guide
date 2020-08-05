@@ -43,7 +43,7 @@ Tap on the **bookmark** icon next to the project’s name.
 
 Smart Folders allow you to view several projects in one place. For example, you can group your lists by Date to have a clearer view of which tasks are overdue or upcoming across different projects.
 
-Tap on the **+** icon at the top right corner and choose **Add smart folder**. 
+Tap on the **+** icon at the upper right corner and choose **Add smart folder**. 
 
 
 ![add smart folder on mobile app]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-navigation/mobile_add_smart_folder.png)
@@ -54,7 +54,7 @@ Tap on the **+** icon at the top right corner and choose **Add smart folder**.
 
 When you access My Tasks for the first time, we will group the My Tasks by **Date** as default. You can have a clear view of which tasks are already overdue and what shall be done next. 
 
-Feel free to change the filter by tapping on the **filter** icon at the top right corner. 
+Feel free to change the filter by tapping on the **filter** icon at the upper right corner. 
 
 
 ![mobile app my tasks tab]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-navigation/mobile_my_tasks.png)

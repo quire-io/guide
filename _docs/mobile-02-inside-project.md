@@ -74,7 +74,7 @@ To save the customized filters, tap on the **star** icon at the right side in th
 
 If you would like to see the list of members of the project, tap on the project name at the top to access Overview first. Then tap on the **members** icon. 
 
-Or tap on the **options** icon at the top right corner, then **Edit project**. You will be able to modify the project members and [external team members](https://quire.io/guide/external-team/) there. 
+Or tap on the **three dots** icon at the upper right corner, then **Edit project**. You will be able to modify the project members and [external team members](https://quire.io/guide/external-team/) there. 
 
 
 ![project members on mobile app]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-project/mobile_project_members.png)
@@ -83,11 +83,11 @@ Or tap on the **options** icon at the top right corner, then **Edit project**. Y
 
 ## Global tags
 
-If you would like to view all of your tags for the project, tap on the **options** icon at the upper right corner, then **Edit project**, then **Project tags**. 
+If you would like to view all of your tags for the project, tap on the **three dots** icon at the upper right corner, then **Edit project**, then **Project tags**. 
 
 If you set the tags to be **Visible to all projects**, you won’t need to create the same tags again in other projects within the same organization.
 
-To set the tags visible to all projects (global tags), tap on the **options** icon for the tag, then **Edit tag**, and toggle on **Visible to all projects**. 
+To set the tags visible to all projects (global tags), tap on the **three dots** icon for the tag, then **Edit tag**, and toggle on **Visible to all projects**. 
 
 
 

@@ -8,11 +8,11 @@ categories: profile settings
 
 Choose a photo of yourself or an image you like and set it as your profile picture.
 
-Click on the **profile** icon on the upper-right corner of the screen, and click **My Profile**.
+Click on the **profile** icon on the upper right corner of the screen, and click **My Profile**.
 
 ![my profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/my_profile.png)
 
-Click on the **edit** icon.
+Click on the **Edit (pen)** icon.
 
 ![edit profile]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/edit_profile.png)
 

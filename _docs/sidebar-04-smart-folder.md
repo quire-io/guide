@@ -8,7 +8,7 @@ A smart folder is a folder of all tasks from different projects from different o
 
 ![smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/smart_folder_1.png)
 
-Click on the **+** icon at the top right corner.
+Click on the **+** icon at the upper right corner.
 
 ![add smart folder]({{ site.url }}{{ site.baseurl }}/assets/images/smart-folders/add_smart_folder.png)
 
