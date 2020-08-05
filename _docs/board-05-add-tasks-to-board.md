@@ -71,7 +71,7 @@ Click on the **three dots** icon on the upper right corner of the task in your b
 
 #### Remove one task
 
-Click on the **options** icon on the upper right corner of the task in your board and select **Remove task from board**. 
+Click on the **three dots** icon on the upper right corner of the task in your board and select **Remove task from board**. 
 
 ![remove a task from board]({{ site.url }}{{ site.baseurl }}/assets/images/add-tasks-to-board/remove_tasks_board.png)
 

@@ -30,7 +30,7 @@ In a filtered view, you can even drag and drop task(s) to reassign an assignee o
 
 You may have projects with similar tasks. Quire lets you to duplicate a task, so you can use it as a template for your new tasks.
 
-To duplicate a task, click on the **options** icon in the detail panel and select **Duplicate this task**.
+To duplicate a task, click on the **three dots** icon in the detail panel and select **Duplicate this task**.
 
 ![detail panel duplicate this task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/duplicate_detail_panel.png)
 
@@ -48,7 +48,7 @@ Or much more easier , simply press <kbd>Ctrl</kbd> (<kbd>⌘</kbd> for Mac) + <k
 
 You may have tasks belonging to the wrong project. You can transfer (aka move) them to a different project.
 
-Click on the **options** icon in the detail panel and select **Transfer this task**.
+Click on the **three dots** icon in the detail panel and select **Transfer this task**.
 
 ![detail panel transfer this task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/transfer_detail_panel.png)
 
@@ -70,7 +70,7 @@ Another quick way to transfer a task is by hitting <kbd>></kbd> on the keyboard 
 
 When you have the same tasks, you can merge one into another.
 
-Click on the **options** icon in the detail panel and select **Merge this task**.
+Click on the **three dots** icon in the detail panel and select **Merge this task**.
 
 ![detail panel merge this task]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/merge_detail_panel.png)
 
