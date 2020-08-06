@@ -12,5 +12,13 @@ You will find your archived project in the Archived category in the sidebar.
 
 ![archive project in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/archive-project/archive_project_2.png)
 
-**Note:** The archived projects are counted towards the 80 project limitation. 
-{: .notice--warning}
+
+{% capture notice-text %}
+**Note:** 
+- When you archive a project, it will be archived to all the members who have access to that project.
+- The archived projects are counted towards the 80-project limitation (per organization). 
+{% endcapture %}
+
+<div class="notice--warning">
+  {{ notice-text | markdownify }}
+</div>

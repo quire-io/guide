@@ -43,6 +43,10 @@ Or much more easier , simply press <kbd>Ctrl</kbd> (<kbd>⌘</kbd> for Mac) + <k
 ![right-click copy and paste]({{ site.url }}{{ site.baseurl }}/assets/images/move-tasks/copy_paste_right_click.png)
 
 
+**Note:** When copying a task, the comments of the original task won't be copied. 
+{: .notice--warning}
+
+
 
 ## Transfer a task
 

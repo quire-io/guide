@@ -17,7 +17,6 @@ At the **Application** tab at the top bar, navigate to the **Cache** section at 
 
 ![clear Google Chrome browser cache]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_clear_cache.png)
 
-Lastly, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd> for Mac) to refresh your Quire page.
 
 
 #### Clear browser cache on Safari 
