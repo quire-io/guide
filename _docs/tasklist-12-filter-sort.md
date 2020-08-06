@@ -84,10 +84,10 @@ You could right-click on an option to group your tasks without going to the filt
 ## Sort your tasks
 You can sort your tasks by the options below:
 
-- Date
-- Name 
 - Priority 
 - Status
+- Date
+- Name 
 
 **Note:** You are unable to reorder (drag and drop) your tasks while in sorted mode.
 {: .notice--warning}
@@ -105,6 +105,8 @@ You can filter your tasks by the options below:
 - Priority
 - Tags
 - Board
+- Date
+- Content
 - My Tasks
 - Unread
 - Favorited by me 
