@@ -138,6 +138,8 @@ docs:
         url: /add-organization/
       - title: "Edit Organization"
         url: /edit-organization/
+      - title: "Reorder Organizations"
+        url: /reorder-organizations/
       - title: "Organization Overview"
         url: /organization-overview/
       - title: "Organization Members"
