@@ -6,7 +6,8 @@ categories: reorder organizations
 ---
 By default, the organizations are ordered in alphabetical order at the Projects section at the sidebar. But you could drag and drop to reorder Organizations.
 
-This rearrangement will only be applicable for your **personal view**. Others in the same organizations won’t be able to see your new rearrangement.
+**Note:** This rearrangement will only be applicable for your **personal view**. Others in the same organizations won’t be able to see your new rearrangement.
+{: .notice--warning}
 
 
 ![reorder organization drag and drop]({{ site.url }}{{ site.baseurl }}/assets/images/reorder-organizations/reorder_organizations.png)

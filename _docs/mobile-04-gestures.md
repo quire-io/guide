@@ -6,6 +6,53 @@ categories: helpful gestures
 ---
 Here is a list of helpful gestures to help you navigate through Quire mobile app more quickly. 
 
+
+#### Quick-add a task to a certain position
+Drag the green **add** icon at the bottom right and drop it at the position you would like to add the task. 
+
+<video muted="" playsinline="" loop="" autoplay="" title="quick add a task to a certain position" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_quick_add.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_quick_add.mp4" type="video/mp4">
+</video>
+
+
+#### Edit task name
+Swipe left on a task, then tap on **pen** icon. 
+
+
+<video muted="" playsinline="" loop="" autoplay="" title="edit task name in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_edit_task.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_edit_task.mp4" type="video/mp4">
+</video>
+
+
+#### Add a root task or a subtask
+Swipe left on a task, then tap the **add** icon. 
+
+
+<figure>
+<video muted="" playsinline="" loop="" autoplay="" title="add new task in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_task.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_task.mp4" type="video/mp4">
+</video>
+  <figcaption>Add a root task directly underneath a specific task</figcaption>
+</figure>
+
+
+<figure>
+<video muted="" playsinline="" loop="" autoplay="" title="add subtask in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_subtask.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_subtask.mp4" type="video/mp4">
+</video>
+  <figcaption>Add a subtask directly underneath a specific task</figcaption>
+</figure>
+
+
+#### Add task to Board or Sublist view
+Drag and drop the task(s) to the view bar at the top. 
+
+<video muted="" playsinline="" loop="" autoplay="" title="add tasks to board or sublist view" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_add_to_view.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_add_to_view.mp4" type="video/mp4">
+</video>
+
+
+
 #### Reorder tasks
 Drag and drop the task to your preferred position. 
 
@@ -51,35 +98,6 @@ Swipe up on the message to dismiss an in-app notification.
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_dismiss_notification.mp4" type="video/mp4">
 </video>
 
-
-
-#### Edit task name
-Swipe left on a task, then tap on **pen** icon. 
-
-
-<video muted="" playsinline="" loop="" autoplay="" title="edit task name in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_edit_task.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_edit_task.mp4" type="video/mp4">
-</video>
-
-
-#### Add a root task or a subtask
-Swipe left on a task, then tap the **add** icon. 
-
-
-<figure>
-<video muted="" playsinline="" loop="" autoplay="" title="add new task in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_task.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_task.mp4" type="video/mp4">
-</video>
-  <figcaption>Add a root task directly underneath a specific task</figcaption>
-</figure>
-
-
-<figure>
-<video muted="" playsinline="" loop="" autoplay="" title="add subtask in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_subtask.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_new_subtask.mp4" type="video/mp4">
-</video>
-  <figcaption>Add a subtask directly underneath a specific task</figcaption>
-</figure>
 
 
 

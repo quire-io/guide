@@ -13,10 +13,9 @@ Right click on a blank space in the Quire workspace. Choose **Inspect**.
 ![right click Inspect]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_inspect.png)
 
 
-At the **Application** tab at the top bar, navigate to the **Cache** section at the sidebar. Under **Cache Storage**, right click on **sw-quire-cache-b1085**  and click **Delete**. 
+At the **Application** tab at the top bar, navigate to the **Cache** section at the sidebar. Under **Cache Storage**, right click on **sw-quire-cache-bxxxx** (the number after b stands for the version number, it will change over time) and click **Delete**. 
 
 ![clear Google Chrome browser cache]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/chrome_clear_cache.png)
-
 
 
 #### Clear browser cache on Safari 
