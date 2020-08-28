@@ -7,6 +7,9 @@ categories: break down a task
 
 You can set assignees, due dates, tags and add more details to a task in the detail panel. 
 
+Check out our [Youtube channel](https://www.youtube.com/channel/UCNblmAyAjOfq2y2OzQbkhlQ) for mobile tutorial videos!
+{: .notice--info}
+
 ## Set assignees 
 
 Click on **Add assignee** in the detail panel. Select a project member as an assignee or type in an email address to invite a new member and assign the task to him. 
