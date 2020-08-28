@@ -15,7 +15,7 @@ sidebar:
 
 This is the complete guide for you to get started on Quire, to lay the first brick on your projects and to achieve your dreams!
 
-## What's new
+## Highlights
 <div class="new-cards">
 	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/sublist-introduction/">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_1.png" alt="">
