@@ -48,6 +48,9 @@ You will find your saved filters in the dropdown menu at the filter icon.
 
 ![saved filter list]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/saved_filter_list.png)
 
+**Note:** The saved customized filters will synced to your [Quire mobile app](/guide/mobile-apps/). You won't need to save the filters again.
+{: .notice--warning}
+
 
 
 ## Group your tasks

@@ -11,6 +11,9 @@ You can give your tasks [more details](/guide/mobile-app-task/), such as assigni
 
 ![add tasks on mobile app]({{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-project/mobile_add_tasks.png)
 
+Learn how to [add tasks using Siri](https://quire.io/blog/p/quire-siri.html).
+{: .notice}
+
 
 ## Views
 

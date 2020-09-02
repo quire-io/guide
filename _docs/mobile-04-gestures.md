@@ -117,7 +117,7 @@ Swipe left on a task, then tap the **trash bin** icon.
 
 Swipe from the right edge of your phone or long press on a task, then select the tasks that you want to make changes to. 
 
-Apply settings (i.e. due dates, assigneses, etc) to the selected tasks by using the bottom menu bar. 
+Apply settings (i.e. due dates, assignees, etc) to the selected tasks by using the bottom menu bar. 
 
 
 <video muted="" playsinline="" loop="" autoplay="" title="multiple select tasks in main panel" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_multiple_select.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
