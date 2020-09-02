@@ -45,7 +45,7 @@ This is the complete guide for you to get started on Quire, to lay the first bri
 			<div class="new-card-desc">Temporarily tuck away the tasks that are non-actionable in the short time.</div>
 		</div>
 	</a>
-	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/mobile-apps/">
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/mobile-app-navigation/">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_5.png" alt="">
 		<div class="new-card-content">
 			<div class="new-card-title">Mobile</div>

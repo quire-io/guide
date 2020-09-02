@@ -12,4 +12,4 @@ For example, when you sort by assignees, the board will group all the tasks that
 
 
 Read more on our blog about [Swimlanes](https://quire.io/blog/p/Kanban-board-swimlane.html). 
-{: .notice--warning}
+{: .notice}
