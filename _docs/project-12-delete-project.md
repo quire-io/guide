@@ -14,7 +14,8 @@ Click on the **dropdown menu** icon beside your project name, and select **Delet
 ![delete project dialogue]({{ site.url }}{{ site.baseurl }}/assets/images/delete-project/delete_project_dialogue.png)
 
 
-The deleted projects will be found in the trash bin at the sidebar. You will be able to restore the deleted projects within 7 days. After 7 days, the projects will be deleted permanently.
+The deleted projects will be found in the trash bin at the sidebar. You will be able to restore the deleted projects within 7 days. After 7 days, the projects will be deleted permanently. Click on the **three dots** icon next to the project name in Trash to restore or delete the project right away.
+
 
 ![restore a deleted project]({{ site.url }}{{ site.baseurl }}/assets/images/delete-project/restore_project.png)
 

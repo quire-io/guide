@@ -13,7 +13,7 @@ Click on the **three dots** icon beside your project name, and select **Delete**
 
 ![delete organization dialogue]({{ site.url }}{{ site.baseurl }}/assets/images/delete-organization/delete_organization_dialogue.png)
 
-The deleted organization will be found in the trash bin at the sidebar. You will be able to restore the deleted organizations within 7 days. After 7 days, the organizations will be deleted permanently.
+The deleted organization will be found in the trash bin at the sidebar. You will be able to restore the deleted organizations within 7 days. After 7 days, the organizations will be deleted permanently. Click on the **three dots** icon next to the organization name in Trash to restore or delete the organization right away.
 
 
 ![restore a deleted organization]({{ site.url }}{{ site.baseurl }}/assets/images/delete-organization/restore_project.png)
