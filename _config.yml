@@ -28,6 +28,9 @@ collections:
   docs:
     output: true
 
+social:
+  name: Quire
+
 defaults:
   - scope:
       path: ""

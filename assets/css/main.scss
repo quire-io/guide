@@ -354,6 +354,8 @@ figcaption {
 }
 
 .sidebar {
+	z-index: 1000;
+
 	p, li {
 		font-family: inherit;
 	}
@@ -673,6 +675,11 @@ figcaption {
 	font-size: 16px;
 	color: rgba(0, 0, 0, 0.58);
 	line-height: 21px;
+}
+
+.footer-wrap {
+	position: inherit;
+    bottom: auto;
 }
 
 @media (min-width: 80em) {

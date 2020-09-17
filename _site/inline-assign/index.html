@@ -103,9 +103,16 @@
 
 
 
-
-
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Quire",
+      "url": "https://quire.io/guide/"
+    
+  }
+</script>
 
 
 
@@ -456,6 +463,7 @@
   <li><a href="#inline-add-a-task-to-board">Inline add a task to board</a></li>
   <li><a href="#inline-transfer-task-to-another-project">Inline transfer task to another project</a></li>
 </ul>
+
                       
             </li>
           
@@ -1484,9 +1492,9 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>You can add or edit the assignee, tags, start and due date and priority of a task with <code class="highlighter-rouge">@</code>, <code class="highlighter-rouge">#</code>, <code class="highlighter-rouge">&lt; &gt;</code> (with <code class="highlighter-rouge">;</code>) and <code class="highlighter-rouge">!</code> directly from the task name.</p>
+        <p>You can add or edit the assignee, tags, start and due date and priority of a task with <code class="language-plaintext highlighter-rouge">@</code>, <code class="language-plaintext highlighter-rouge">#</code>, <code class="language-plaintext highlighter-rouge">&lt; &gt;</code> (with <code class="language-plaintext highlighter-rouge">;</code>) and <code class="language-plaintext highlighter-rouge">!</code> directly from the task name.</p>
 
-<p>Type <code class="highlighter-rouge">Publish the article @crystal #Marketing&lt; &lt;9.30&gt;</code> in the task name.</p>
+<p>Type <code class="language-plaintext highlighter-rouge">Publish the article @crystal #Marketing&lt; &lt;9.30&gt;</code> in the task name.</p>
 
 <p><img src="https://quire.io/guide/assets/images/inline-assign/inline_assign.png" alt="inline assign" /></p>
 
@@ -1496,7 +1504,7 @@
 
 <p>You can also add or remove assignees and tags from a task, without having to type them all over again.</p>
 
-<p>To add one more assignee or tag to a task, type <code class="highlighter-rouge">+@assignee</code> or <code class="highlighter-rouge">+#tag</code> in the task name. To remove an existing assignee or tag from a task, type <code class="highlighter-rouge">-@assignee</code> or <code class="highlighter-rouge">-#tag</code> instead.</p>
+<p>To add one more assignee or tag to a task, type <code class="language-plaintext highlighter-rouge">+@assignee</code> or <code class="language-plaintext highlighter-rouge">+#tag</code> in the task name. To remove an existing assignee or tag from a task, type <code class="language-plaintext highlighter-rouge">-@assignee</code> or <code class="language-plaintext highlighter-rouge">-#tag</code> instead.</p>
 
 <p><img src="https://quire.io/guide/assets/images/inline-assign/inline_assign_add_remove.png" alt="add or remove tags inline" /></p>
 
@@ -1504,15 +1512,15 @@
 
 <h2 id="inline-assign-a-task">Inline assign a task</h2>
 
-<p>Assign a task to an existing member with <code class="highlighter-rouge">@</code> directly from the task name.</p>
+<p>Assign a task to an existing member with <code class="language-plaintext highlighter-rouge">@</code> directly from the task name.</p>
 
-<p>When you type <code class="highlighter-rouge">Publish the article @crystal</code> in the task name, the task will be assigned to <strong>Crystal</strong>.</p>
+<p>When you type <code class="language-plaintext highlighter-rouge">Publish the article @crystal</code> in the task name, the task will be assigned to <strong>Crystal</strong>.</p>
 
 <h2 id="inline-set-a-start-and-due-date">Inline set a start and due date</h2>
 
-<p>Set a start date and due date with <code class="highlighter-rouge">&lt; &gt;</code> and <code class="highlighter-rouge">;</code> directly from the task name.</p>
+<p>Set a start date and due date with <code class="language-plaintext highlighter-rouge">&lt; &gt;</code> and <code class="language-plaintext highlighter-rouge">;</code> directly from the task name.</p>
 
-<p>When you type <code class="highlighter-rouge">Publish the article &lt;04/30&gt;</code>in the task name, the task will have a due date of <strong>April 30th</strong>.</p>
+<p>When you type <code class="language-plaintext highlighter-rouge">Publish the article &lt;04/30&gt;</code>in the task name, the task will have a due date of <strong>April 30th</strong>.</p>
 
 <p><img src="https://quire.io/guide/assets/images/inline-assign/inline_assign_due_date.png" alt="inline assgin due date" /></p>
 
@@ -1520,19 +1528,19 @@
 
 <ul>
   <li>
-    <p>Type <code class="highlighter-rouge">&lt;04/30;&gt;</code>, the task will have a start date of <strong>April 30th</strong>.</p>
+    <p>Type <code class="language-plaintext highlighter-rouge">&lt;04/30;&gt;</code>, the task will have a start date of <strong>April 30th</strong>.</p>
   </li>
   <li>
-    <p>Type <code class="highlighter-rouge">&lt;04/30;05/05&gt;</code>, the task will have a start date of <strong>April 30th</strong> and a due date of <strong>May 5th</strong>.</p>
+    <p>Type <code class="language-plaintext highlighter-rouge">&lt;04/30;05/05&gt;</code>, the task will have a start date of <strong>April 30th</strong> and a due date of <strong>May 5th</strong>.</p>
   </li>
   <li>
-    <p>Type <code class="highlighter-rouge">&lt;today&gt;</code> or <code class="highlighter-rouge">&lt;tomorrow&gt;</code> or <code class="highlighter-rouge">&lt;next week&gt;</code> to quickly set due date.</p>
+    <p>Type <code class="language-plaintext highlighter-rouge">&lt;today&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;tomorrow&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;next week&gt;</code> to quickly set due date.</p>
   </li>
   <li>
-    <p>Type <code class="highlighter-rouge">&lt;+1d&gt;</code>, <code class="highlighter-rouge">&lt;+1w&gt;</code> or <code class="highlighter-rouge">&lt;+1m&gt;</code> to add one more <strong>day</strong>, one more <strong>week</strong> or one more <strong>month</strong> to the due date, counting from today.</p>
+    <p>Type <code class="language-plaintext highlighter-rouge">&lt;+1d&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;+1w&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;+1m&gt;</code> to add one more <strong>day</strong>, one more <strong>week</strong> or one more <strong>month</strong> to the due date, counting from today.</p>
   </li>
   <li>
-    <p>Type <code class="highlighter-rouge">&lt;+n&gt;</code> (eg. <code class="highlighter-rouge">&lt;+5&gt;</code>) or <code class="highlighter-rouge">&lt;-n&gt;</code> (eg. <code class="highlighter-rouge">&lt;-5&gt;</code>) to add or remove more days from the start and/or due date, counting from today.</p>
+    <p>Type <code class="language-plaintext highlighter-rouge">&lt;+n&gt;</code> (eg. <code class="language-plaintext highlighter-rouge">&lt;+5&gt;</code>) or <code class="language-plaintext highlighter-rouge">&lt;-n&gt;</code> (eg. <code class="language-plaintext highlighter-rouge">&lt;-5&gt;</code>) to add or remove more days from the start and/or due date, counting from today.</p>
   </li>
 </ul>
 
@@ -1572,33 +1580,33 @@
 
 <h2 id="inline-add-a-tag">Inline add a tag</h2>
 
-<p>You can add a tag with <code class="highlighter-rouge">#</code> directly from the task name.</p>
+<p>You can add a tag with <code class="language-plaintext highlighter-rouge">#</code> directly from the task name.</p>
 
-<p>For example, when you type <code class="highlighter-rouge">Publish the article #Urgent</code> in the task name and press Enter, the task will have a tag of Urgent.</p>
+<p>For example, when you type <code class="language-plaintext highlighter-rouge">Publish the article #Urgent</code> in the task name and press Enter, the task will have a tag of Urgent.</p>
 
-<p class="notice--warning"><strong>Note:</strong> You need to select <code class="highlighter-rouge">[tag name](new tag)</code> in the dropdown if you type it at the end of the task name.</p>
+<p class="notice--warning"><strong>Note:</strong> You need to select <code class="language-plaintext highlighter-rouge">[tag name](new tag)</code> in the dropdown if you type it at the end of the task name.</p>
 
 <h2 id="inline-add-a-priority">Inline add a priority</h2>
 
-<p>You can add a priority with <code class="highlighter-rouge">!</code> directly from the task name.</p>
+<p>You can add a priority with <code class="language-plaintext highlighter-rouge">!</code> directly from the task name.</p>
 
-<p>For example, when you type <code class="highlighter-rouge">Publish the article !2</code> in the task name and press Enter, the task will have a priority of High(an orange up arrow).</p>
+<p>For example, when you type <code class="language-plaintext highlighter-rouge">Publish the article !2</code> in the task name and press Enter, the task will have a priority of High(an orange up arrow).</p>
 
 <p class="notice--warning"><strong>Note:</strong> Priority from high to low is !1, !2, !3 and !4.</p>
 
 <h2 id="inline-add-a-task-to-board">Inline add a task to board</h2>
 
-<p>You can add a task to a specific board with <code class="highlighter-rouge">^</code> directly from the task name.</p>
+<p>You can add a task to a specific board with <code class="language-plaintext highlighter-rouge">^</code> directly from the task name.</p>
 
-<p>For example, you can type <code class="highlighter-rouge">Publish the article ^</code> in the task name and use the arrow key to choose which board you want to add the task to.</p>
+<p>For example, you can type <code class="language-plaintext highlighter-rouge">Publish the article ^</code> in the task name and use the arrow key to choose which board you want to add the task to.</p>
 
 <p class="notice--warning"><strong>Note:</strong> If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board.</p>
 
 <h2 id="inline-transfer-task-to-another-project">Inline transfer task to another project</h2>
 
-<p>You can transfer a task to another project with <code class="highlighter-rouge">&gt;</code> directly from the task name.</p>
+<p>You can transfer a task to another project with <code class="language-plaintext highlighter-rouge">&gt;</code> directly from the task name.</p>
 
-<p>For example, you can type <code class="highlighter-rouge">Publish the article &gt;</code> in the task name and use the arrow key to choose which project you want to transfer the task to.</p>
+<p>For example, you can type <code class="language-plaintext highlighter-rouge">Publish the article &gt;</code> in the task name and use the arrow key to choose which project you want to transfer the task to.</p>
 
 
         
@@ -1846,7 +1854,6 @@
     </div>
     
   <script src="/guide/assets/js/main.min.js"></script>
-  <script defer src="https://use.fontawesome.com/releases/v5.8.2/js/all.js" integrity="sha384-DJ25uNYET2XCl5ZF++U8eNxPWqcKohUUBUpKGlNLMchM7q4Wjg2CUpjHLaL8yYPH" crossorigin="anonymous"></script>
 
 
 
@@ -1860,7 +1867,6 @@
 
 
   
-    
     <script src="/guide/assets/js/custom-footer.js"></script>
   
 
