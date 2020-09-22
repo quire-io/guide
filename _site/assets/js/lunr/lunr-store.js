@@ -161,16 +161,22 @@ var store = [{
         "url": "https://quire.io/guide/slack/",
         "teaser": null
       },{
-        "title": "Integration > Chrome Extension",
-        "excerpt":"You can add the extension to quickly access Quire and get notified of new updates in any web page in Chrome.      You can also choose to turn the desktop notifications on or off, and how often you’d like to receive them. Simply right-click on the plug in, and select Options.     ","categories": ["integrate","chrome","extension"],
-        "tags": [],
-        "url": "https://quire.io/guide/chrome-extension/",
-        "teaser": null
-      },{
         "title": "Integration > Zapier",
         "excerpt":"You can connect with thousands of other apps with Quire and automate all of the routine repetitive workflow using Zapier.   First, click on any of the Use this Zap buttons below or go to Quire Integrations on Zapier.   Then, sign up for a Zapier account, or sign in if you already have one. Connect Quire and a complementary app to Zapier. Follow the steps to set up the Zapier automation.   Lastly, run your new Zap! The automation runs instantly, so you don’t have to worry about the process!     Read more on our blog about Zapier integration.  ","categories": ["Quire","integration","with","zapier"],
         "tags": [],
         "url": "https://quire.io/guide/zapier/",
+        "teaser": null
+      },{
+        "title": "Integration > Gmail Add-on",
+        "excerpt":"Quire for Gmail Add-on lets you turn your emails into tasks without leaving your mailbox.   Installing Gmail Add-on  Visit Gmail Add-on in our Quire App Directory. Click on the Install button on the upper right corner to authorize this app and add to your Quire organization.      You can choose which scope you would like the app to get access to or decide if you would allow the app to access your team members’ email addresses.      Install Quire for Gmail Add-on on G Suite Marketplace then follow the prompts granting the add-on access.   Or you can click on the plus icon on the right side of your Gmail inbox. Then it will direct you to the G Suite Marketplace. Follow the prompts to grant access for the add-on.   Adding tasks via Gmail Add-on   Select an email then the Gmail Add-on will automatically load the email subject as task name and email body as task description in the right panel. You can select the project in the project list that you would like to add the task to.   You can add more details to the task, such as due dates, assignees and tags. Then click Create Task.      Note: You won’t be able to invite new assignees or create new tags using the Gmail Add-on. It will only recognize the existing user ID or email address and tags in your Quire project.   Uninstall Quire Gmail Add-on   Go to Manage Apps in the G Suite Marketplace, click on the three dotted options icon and click Uninstall.  ","categories": ["quire","gmail","add","on"],
+        "tags": [],
+        "url": "https://quire.io/guide/quire-gmail-add-on/",
+        "teaser": null
+      },{
+        "title": "Integration > Chrome Extension",
+        "excerpt":"You can add the extension to quickly access Quire and get notified of new updates in any web page in Chrome.      You can also choose to turn the desktop notifications on or off, and how often you’d like to receive them. Simply right-click on the plug in, and select Options.     ","categories": ["integrate","chrome","extension"],
+        "tags": [],
+        "url": "https://quire.io/guide/chrome-extension/",
         "teaser": null
       },{
         "title": "Integration > Desktop App using Chrome Shortcut",
