@@ -184,6 +184,8 @@ docs:
         url: /slack/ 
       - title: "Zapier"
         url: /zapier/ 
+      - title: "Gmail Add-on"
+        url: /quire-gmail-add-on/ 
       - title: "Chrome Extension"
         url: /chrome-extension/
       - title: "Desktop App using Chrome Shortcut"
