@@ -575,21 +575,27 @@ var store = [{
         "url": "https://quire.io/guide/print/",
         "teaser": null
       },{
-        "title": "Troubleshooting > Clear Browser's Cache",
-        "excerpt":"If you are having trouble with Quire and logging out and back in doesn’t solve your problem, maybe you can try the following ways to troubleshoot.   Clear browser cache on Google Chrome   Right click on a blank space in the Quire workspace. Choose Inspect.      At the Application tab at the top bar, navigate to the Cache section at the sidebar. Under Cache Storage, right click on sw-quire-cache-bxxxx (the number after b stands for the version number, it will change over time) and click Delete.      Clear browser cache on Safari  Click Develop at the top menu bar and click Empty Caches.      Unregister Your Service Worker on Google Chrome   Go to this URL: chrome://serviceworker-internals/      Click on the Unregister button of all the Service Workers from there.      Lastly, hit Ctrl + Shift + R (or ⌘ + Shift + R for Mac) to refresh your Quire page.   ","categories": ["clear","browser","cache"],
+        "title": "Troubleshooting > Compatible Browsers",
+        "excerpt":"Quire works best with the official and latest browser version of:      Google Chrome   Safari   Mozilla Firefox   Microsoft Edge   If you are not sure how to update your browser, please click on these following links:      Update Google Chrome   Update Safari   Update Mozilla Firefox   Update Edge  ","categories": ["Quire","compatible","browsers"],
         "tags": [],
-        "url": "https://quire.io/guide/clear-cache/",
+        "url": "https://quire.io/guide/compatible-browsers/",
         "teaser": null
       },{
-        "title": "Troubleshooting > Merge Two Quire Accounts",
-        "excerpt":"When you forget that you have already created a Quire account with a personal email. After using Quire with your work email, you would like to merge both accounts together.   Step 1: Grant email A (the one you want to keep) to be admin of all the projects/organizations created by email B.   Step 2: Login in as A and remove the permission of the other one B (the one you don’t want).   Step 3: Delete B account.   Step 4: Add email B as the second email to the account associated with email A in the Account Settings.      Step 5: Both email A and email B can access the same Quire account.  ","categories": ["merge","2","Quire","accounts"],
+        "title": "Troubleshooting > Clear Browser's Cache",
+        "excerpt":"If you are having trouble with Quire and logging out and back in doesn’t solve your problem, maybe you can try the following ways to troubleshoot.   Clear browser cache on Google Chrome   Right click on a blank space in the Quire workspace. Choose Inspect.      At the Application tab at the top bar, navigate to the Cache section at the sidebar. Under Cache Storage, right click on sw-quire-cache-bxxxx (the number after b stands for the version number, it will change over time) and click Delete.      Clear browser cache on Safari  Click Develop at the top menu bar and click Empty Caches.      Clear browser cache on Firefox   Click on the menu button at the upper right corner of Firefox and select Preferences.  Then go to the Privacy &amp; Security tab at the right hand side.   In the Cookies and Site Data section, click Clear Data.   Lastly, click on the Clear button to clear cache.   Clear browser cache on Microsoft Edge   Click on the More Options button at the upper right corner of the Edge browser and select Settings. Then go to the Privacy and services tab at the right hand side.   In the Clear browsing data section, click Choose what to clear.   Lastly, click on the Clear Now button to clear cache.   Unregister Your Service Worker on Google Chrome   Go to this URL: chrome://serviceworker-internals/      Click on the Unregister button of all the Service Workers from there.      Lastly, hit Ctrl + Shift + R (or ⌘ + Shift + R for Mac) to refresh your Quire page.   ","categories": ["clear","browser","cache"],
         "tags": [],
-        "url": "https://quire.io/guide/merge-accounts/",
+        "url": "https://quire.io/guide/clear-cache/",
         "teaser": null
       },{
         "title": "Troubleshooting > Locked Out of Quire Account",
         "excerpt":"Please remember to confirm your email address right after you signed up for a Quire account.   If the email address doesn’t get confirmed within 14 days, you will be locked out of your account after the 14th day.   We will not immediately delete your Quire account if you are locked out of your account. However, the inactive account will be deleted after a period of inactivity.   If you cannot find the confirmation email in your inbox, make sure to check the Spam folder first. In case your account is locked, you can also choose to resend the confirmation email or simply change to another email address.   Follow the instructions in the confirmation email to regain access to your account.   Note: If you cannot receive the confirmation email after resending it a couple of times, please reach out to us at feedback@quire.io.  ","categories": ["locked","out","of","Quire","account","regain","access"],
         "tags": [],
         "url": "https://quire.io/guide/locked-out-account/",
+        "teaser": null
+      },{
+        "title": "Troubleshooting > Merge Two Quire Accounts",
+        "excerpt":"When you forget that you have already created a Quire account with a personal email. After using Quire with your work email, you would like to merge both accounts together.   Step 1: Grant email A (the one you want to keep) to be admin of all the projects/organizations created by email B.   Step 2: Login in as A and remove the permission of the other one B (the one you don’t want).   Step 3: Delete B account.   Step 4: Add email B as the second email to the account associated with email A in the Account Settings.      Step 5: Both email A and email B can access the same Quire account.  ","categories": ["merge","2","Quire","accounts"],
+        "tags": [],
+        "url": "https://quire.io/guide/merge-accounts/",
         "teaser": null
       },]
