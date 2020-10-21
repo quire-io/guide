@@ -24,6 +24,26 @@ Click **Develop** at the top menu bar and click **Empty Caches**.
 ![clear Safari browser cache]({{ site.url }}{{ site.baseurl }}/assets/images/clear-cache/safari_clear_cache.png)
 
 
+#### Clear browser cache on Firefox  
+
+Click on the menu button at the upper right corner of Firefox and select **Preferences**.  Then go to the **Privacy & Security** tab at the right hand side. 
+
+In the **Cookies and Site Data** section, click **Clear Data**. 
+
+Lastly, click on the **Clear** button to clear cache. 
+
+
+#### Clear browser cache on Microsoft Edge 
+
+Click on the More Options button at the upper right corner of the Edge browser and select **Settings**. Then go to the **Privacy and services** tab at the right hand side. 
+
+
+In the **Clear browsing data** section, click **Choose what to clear**. 
+
+Lastly, click on the **Clear Now** button to clear cache. 
+
+
+
 #### Unregister Your Service Worker on Google Chrome
 
 Go to this URL: `chrome://serviceworker-internals/`
