@@ -259,6 +259,8 @@ docs:
 
   - title: Troubleshooting
     children:
+      - title: "Compatible Browsers"
+        url: /compatible-browsers/
       - title: "Clear Browser's Cache"
         url: /clear-cache/
       - title: "Locked Out of Quire Account"
