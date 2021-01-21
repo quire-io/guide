@@ -186,6 +186,8 @@ docs:
         url: /zapier/ 
       - title: "Gmail Add-on"
         url: /quire-gmail-add-on/ 
+      - title: "Microsoft Teams"
+        url: /microsoft-teams/ 
       - title: "Chrome Extension"
         url: /chrome-extension/
       - title: "Desktop App using Chrome Shortcut"
