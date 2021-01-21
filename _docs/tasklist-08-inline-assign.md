@@ -33,11 +33,11 @@ Assign a task to an existing member with `@` directly from the task name.
 When you type `Publish the article @crystal` in the task name, the task will be assigned to **Crystal**.
 
 
-## Inline set a start and due date
+## Inline set a date and time
 
 Set a start date and due date with `< >` and `;` directly from the task name.
 
-When you type `Publish the article <04/30>`in the task name, the task will have a due date of **April 30th**.
+When you type `Publish the article <04/30>` in the task name, the task will have a due date of **April 30th**.
 
 ![inline assgin due date]({{ site.url }}{{ site.baseurl }}/assets/images/inline-assign/inline_assign_due_date.png)
 
@@ -50,6 +50,8 @@ When you type `Publish the article <04/30>`in the task name, the task will have 
 - Type `<04/30;05/05>`, the task will have a start date of **April 30th** and a due date of **May 5th**.
 
 - Type `<today>` or `<tomorrow>` or `<next week>` to quickly set due date.
+
+- Type `<04/30 13:00>`, the task will be set to due on **April 30th 13:00**.
 
 - Type `<+1d>`, `<+1w>` or `<+1m>` to add one more **day**, one more **week** or one more **month** to the due date, counting from today.
 
