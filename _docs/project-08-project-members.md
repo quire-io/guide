@@ -16,21 +16,9 @@ Click on the **dropdown menu** icon beside your project name, and select **Edit 
 
 ![project member context menu]({{ site.url }}{{ site.baseurl }}/assets/images/add-project-members/project_members_context_menu.png)
 
-Next, click **+ Invite new member** to invite people by entering their email addresses or their username.
+Next, click **+ Invite new member** to invite people by entering their email addresses.
 
 ![invite project members]({{ site.url }}{{ site.baseurl }}/assets/images/add-project-members/invite_project_members.png)
-
-
-You can also invite a new member by clicking on the **assignee** icon in the main panel and entering their email addresses or their username. 
-
-![invite new project members in the main panel]({{ site.url }}{{ site.baseurl }}/assets/images/add-project-members/invite_new_members.png)
-
-The newly invited members will automatically join the project once they accept the email invitations.
-
-
-**Note:** When inviting a member to a new project or organization, the member will show up in the autocomplete dropdown menu if he/she has already been in the same project or organization with you before. 
-{: .notice--warning}
-
 
 ## Change member's permission
 

@@ -24,9 +24,8 @@ Click on the **Complete** circle to mark the task as done.
 
 ![complete task in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/complete_task_main_panel.png)
 
-**Tip:** Select a task and hit <kbd>Ctrl</kbd> + <kbd>/</kbd> (for Windows) or <kbd>⌘</kbd> + <kbd>/</kbd> (for Mac) to quickly complete it.
+**Tip:** Select a task and hit <kbd>⌘</kbd> + <kbd>/</kbd> to quickly complete it.
 {: .notice--info}
-
 
 
 ## Set status to tasks
@@ -37,14 +36,9 @@ Right-click on the circle to set a status.
 
 ![set status in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/set_status_main_panel.png)
 
-
-
 #### In the detail panel
 
 Click on the arrow beside the **Complete** icon to set a status.
 
 ![set status in detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-status/set_status_detail_panel.png)
 
-
-**Tip:** You can set to always [see status options](https://quire.io/guide/project-settings/#always-see-status-options-when-click-on-the-complete-icon) when you click on the complete icon in the Project Settings. 
-{: .notice--info}
