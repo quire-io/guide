@@ -12,9 +12,15 @@ Click on the **dropdown menu** icon beside your organization name, and select **
 
 ![edit members organization context menu]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/organization_members_context_menu.png)
 
-Then, click **+ Invite new members** to invite people by entering their email addresses.
+Then, click **+ Invite new members** to invite people by entering their email addresses or their username.
 
 ![invite organization members]({{ site.url }}{{ site.baseurl }}/assets/images/organization-members/organization_invite_members.png)
+
+
+**Note:** When inviting a member to a new project or organization, the member will show up in the autocomplete dropdown menu if he/she has already been in the same project or organization with you before. 
+{: .notice--warning}
+
+
 
 ## Change member's permission
 

@@ -12,7 +12,7 @@ There are 4 types of project members.
 
 - **Limited:** Members who can add new tasks and manage assigned tasks. Limited members can not manage the project members and delete the tasks created by others.
 
-	**Note:** Limited members can only complete tasks that are assigned to or created by them. Also, he/she can can not add or move tasks to a board. 
+	**Note:** Limited members can only complete tasks that are assigned to or created by them. Also, he/she can not add or move tasks to a board. 
 	{: .notice--warning}
 
 - **Guest:** Members who can only read the tasks and add comments in the project.
