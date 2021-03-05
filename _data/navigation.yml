@@ -256,7 +256,8 @@ docs:
         url: /mobile-app-task/
       - title: "Helpful Gestures"
         url: /mobile-app-gestures/
-
+      - title: "Google Assistant"
+        url: /google-assistant/
 
 
   - title: Troubleshooting

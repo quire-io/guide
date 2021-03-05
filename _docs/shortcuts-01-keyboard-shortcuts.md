@@ -61,7 +61,8 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Expand all tasks by level | <kbd>Shift</kbd> + <kbd>→</kbd> | <kbd>Shift</kbd> + <kbd>→</kbd> |
 | Navigate through workspace (forward) | <kbd>Tab</kbd> | <kbd>Tab</kbd> |
 | Navigate through workspace (backward) | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |
-| Switch between different views | <kbd>(</kbd> or <kbd>)</kbd> |  <kbd>(</kbd> or <kbd>)</kbd>  |
+| Switch among different tabs | <kbd>(</kbd> or <kbd>)</kbd> |  <kbd>(</kbd> or <kbd>)</kbd>  |
+| Switch among different task views | <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd> |  <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd>  |
 | Quick launch or close My Tasks | <kbd>=</kbd> |  <kbd>=</kbd>  |
 
 

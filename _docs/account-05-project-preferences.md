@@ -8,12 +8,17 @@ Go to your Account Settings to change your projects preferences.
 
 ![project preferences]({{ site.url }}{{ site.baseurl }}/assets/images/project-preferences/project_preferences.png)
 
-**Note:** These settings will only be visible to yourself. 
+**Note:** These settings will only be visible to yourself and are set to all the projects in every organization. 
 {: .notice--warning}
 
 #### Display mode
 
-You can switch between Basic and [Advanced](https://quire.io/guide/advanced-mode/) mode in this setting or you can hit <kbd>Ctrl</kbd> for Windows/ <kbd>Alt</kbd> for Mac in the main panel to toggle on and off the Advanced mode. 
+You can switch between Basic and [Advanced](https://quire.io/guide/advanced-mode/) mode in this setting or you can hit <kbd>Ctrl</kbd> for Windows/ <kbd>Alt</kbd> for Mac in the main panel to toggle it on and off.
+
+#### Pin detail panel by default
+
+If checked, the detail panel in each project will be pinned by default. However, when you unpin a certain project’s detail panel, our system will remember it, which means that it will still be unpinned when you switch to another project and switch back. 
+
 
 #### Collapse all subtask by default
 
