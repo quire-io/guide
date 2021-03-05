@@ -30,11 +30,11 @@
 </url>
 <url>
 <loc>https://quire.io/guide/profile-settings/</loc>
-<lastmod>2020-08-06T14:36:27+08:00</lastmod>
+<lastmod>2021-03-05T18:43:38+08:00</lastmod>
 </url>
 <url>
 <loc>https://quire.io/guide/basic-account-settings/</loc>
-<lastmod>2020-03-13T16:30:16+08:00</lastmod>
+<lastmod>2021-03-05T18:43:38+08:00</lastmod>
 </url>
 <url>
 <loc>https://quire.io/guide/reminders/</loc>
@@ -46,7 +46,7 @@
 </url>
 <url>
 <loc>https://quire.io/guide/project-preferences/</loc>
-<lastmod>2021-01-21T10:42:59+08:00</lastmod>
+<lastmod>2021-03-05T18:43:38+08:00</lastmod>
 </url>
 <url>
 <loc>https://quire.io/guide/board-overview/</loc>
@@ -153,6 +153,10 @@
 <lastmod>2020-09-02T15:27:44+08:00</lastmod>
 </url>
 <url>
+<loc>https://quire.io/guide/google-assistant/</loc>
+<lastmod>2021-03-05T18:43:38+08:00</lastmod>
+</url>
+<url>
 <loc>https://quire.io/guide/add-organization/</loc>
 <lastmod>2020-08-05T16:16:31+08:00</lastmod>
 </url>
@@ -246,7 +250,7 @@
 </url>
 <url>
 <loc>https://quire.io/guide/keyboard-cheatsheet/</loc>
-<lastmod>2020-07-07T16:11:49+08:00</lastmod>
+<lastmod>2021-03-05T18:43:38+08:00</lastmod>
 </url>
 <url>
 <loc>https://quire.io/guide/advanced-mode/</loc>
@@ -314,7 +318,7 @@
 </url>
 <url>
 <loc>https://quire.io/guide/inline-assign/</loc>
-<lastmod>2020-07-07T16:11:49+08:00</lastmod>
+<lastmod>2021-03-05T15:41:52+08:00</lastmod>
 </url>
 <url>
 <loc>https://quire.io/guide/set-status/</loc>
