@@ -1,5 +1,5 @@
 ---
-title:  "Import with JSON file"
+title:  "Import with JSON file (Migrate from other apps)"
 permalink: /import-with-json/
 date:   2019-08-23 15:00:00 +0800
 categories: import with json file
@@ -7,7 +7,7 @@ categories: import with json file
 You can easily export your data from your current project management software to a JSON file, and import all of your data to Quire.
 
 
-**Note:** At the moment, we only support importing JSON files that were exported from **Asana**, **Trello**, and **Wunderlist**.
+**Note:** At the moment, we only support importing JSON files that were exported from **Asana**, **Trello**, **Wunderlist**, and **Todoist**.
 {: .notice--warning}
 
 
@@ -92,5 +92,12 @@ If you wish to treat each list from Wunderlist as a project in Quire, you can mo
 
 ![imported from Wunderlist to Quire]({{ site.url }}{{ site.baseurl }}/assets/images/import-with-json/wunderlist_import_2.png)
 
+## Migrate from Todoist
 
+Use this [open source tool](https://darekkay.com/todoist-export/) to export your data from Todoist into a JSON file (save as a JSON file from the web browser). 
+
+ All projects from Todoist will be imported to **one single Quire project**. You can use the [transfer feature](https://quire.io/guide/move-project/) to split into different projects and organizations.
+
+ Read more on our blog about [switching from Todoist to Quire](https://quire.io/blog/p/todoist-alternatives.html).
+{: .notice}
 

@@ -12,7 +12,7 @@ There are 4 types of project members.
 
 - **Limited:** Members who can add new tasks and manage assigned tasks. Limited members can not manage the project members and delete the tasks created by others.
 
-	**Note:** Limited members can only complete tasks that are assigned to or created by them. Also, he/she can not add or move tasks to a board. 
+	**Note:** Limited members can only complete tasks that are assigned to or created by them. Also, he/she can not add or move tasks to a Sublist. 
 	{: .notice--warning}
 
 - **Guest:** Members who can only read the tasks and add comments in the project.
@@ -31,7 +31,7 @@ There are 4 types of project members.
 | **Due Date**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E¹</span> |  <span style="color:#F8A109">R</span>   |
 | **Assignee**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span> |  <span style="color:#F8A109">R</span>   |
 | **Tag**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#65AEFF">E¹ ²</span>|  <span style="color:#F8A109">R</span>   |
-| **Comment**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span> |  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span>   |
+| **Comment**|  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E</span>, <span style="color:#EB5F64">D</span> | <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span> |  <span style="color:#F8A109">R</span>, <span style="color:#91C44B">C</span>, <span style="color:#65AEFF">E³</span>, <span style="color:#EB5F64">D³</span>   |
 
 ¹ Only when the task is assigned to such member. <br>
 ² Only when the task is created by such member. <br>

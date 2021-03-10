@@ -21,7 +21,7 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Undo | <kbd>⌘</kbd> + <kbd>Z</kbd> | <kbd>Ctrl</kbd> + <kbd>Z</kbd>  | 
 | Edit task name | <kbd>F2</kbd> or <kbd>⌥</kbd> + <kbd>↵</kbd> | <kbd>F2</kbd> or <kbd>Alt</kbd> + <kbd>↵</kbd> |
 
-#### Inline Features (works with multiple select tasks also)
+#### Task modification (works with multiple select tasks also)
 
 ||MacOS|Windows|
 |:------ |:-----| :-----|
@@ -37,6 +37,11 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Un-indent | <kbd>Shift</kbd> + <kbd>Tab</kbd> | <kbd>Shift</kbd> + <kbd>Tab</kbd> |
 | Remove an existing assignee, tags, etc. | <kbd>-</kbd> | <kbd>-</kbd> |
 
+
+Learn more about [inline assigning](/guide/inline-assign/). 
+{: .notice}
+
+
 #### Main Panel
 
 |    | MacOS   | Windows |
@@ -50,7 +55,15 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Copy selected task(s) | <kbd>⌘</kbd> + <kbd>C</kbd> | <kbd>Ctrl</kbd> + <kbd>C</kbd> |
 | Paste selected task(s) | <kbd>⌘</kbd> + <kbd>V</kbd> | <kbd>Ctrl</kbd> + <kbd>V</kbd> |
 | Multiple select | <kbd>Shift</kbd> + <kbd>↑/↓</kbd> | <kbd>Shift</kbd> + <kbd>↑/↓</kbd> |
+| Select all the relevant subtasks | <kbd>⌘</kbd> + <kbd>E</kbd> | <kbd>Ctrl</kbd> + <kbd>E</kbd> |
 | Search tasks and comments | <kbd>s</kbd> | <kbd>s</kbd> |
+| Open and close the sidebar | <kbd>⌘</kbd> + <kbd>S</kbd> | <kbd>Ctrl</kbd> + <kbd>S</kbd> |
+
+**Note:** The shortcut for opening and closing the sidebar only works when the sidebar is **not pinned**.
+{: .notice--warning}
+
+|    | MacOS   | Windows |
+| :------ |:-----| :-----|
 | Blink search (cross-projects or organizations or members) | <kbd>⌘</kbd> + <kbd>B</kbd> | <kbd>Ctrl</kbd> + <kbd>B</kbd> |
 | Search within page | <kbd>⌘</kbd> + <kbd>F</kbd> | <kbd>Ctrl</kbd> + <kbd>F</kbd> |
 | Zoom in a selected task | <kbd>z</kbd> | <kbd>z</kbd> |
@@ -64,6 +77,7 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Switch among different tabs | <kbd>(</kbd> or <kbd>)</kbd> |  <kbd>(</kbd> or <kbd>)</kbd>  |
 | Switch among different task views | <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd> |  <kbd>1</kbd>, <kbd>2</kbd>, <kbd>3</kbd>  |
 | Quick launch or close My Tasks | <kbd>=</kbd> |  <kbd>=</kbd>  |
+| Enter/leave full screen mode | <kbd>⌘</kbd> + <kbd>.</kbd> |  <kbd>Ctrl</kbd> + <kbd>.</kbd> |
 
 
 
@@ -77,6 +91,8 @@ Or click on the **Help** icon on the upper-right of your Quire workspace and sel
 | Mention a member in description or comment | <kbd>@</kbd> | <kbd>@</kbd> |
 | Refer a task in description or comment | <kbd>#</kbd> | <kbd>#</kbd> |
 | Quote selected text in comment reply | <kbd>Ctrl</kbd> + <kbd>Q</kbd> | <kbd>Alt</kbd> + <kbd>Q</kbd> |
+| Edit the last comment (cursor needs to be in the comment input area) | <kbd>↑</kbd> | <kbd>↑</kbd> |
+
 
 #### Help
 

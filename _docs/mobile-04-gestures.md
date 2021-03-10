@@ -6,6 +6,21 @@ categories: helpful gestures
 ---
 Here is a list of helpful gestures to help you navigate through Quire mobile app more quickly. 
 
+- [Quick-add a task to a certain position](https://quire.io/guide/mobile-app-gestures/#quick-add-a-task-to-a-certain-position)
+- [Edit task name](https://quire.io/guide/mobile-app-gestures/#edit-task-name)
+- [Add a root task or a subtask](https://quire.io/guide/mobile-app-gestures/#add-a-root-task-or-a-subtask)
+- [Add task to another tab](/guide/mobile-app-gestures/#add-task-to-another-tab)
+- [Reorder tasks](https://quire.io/guide/mobile-app-gestures/#reorder-tasks)
+- [View task’s status](https://quire.io/guide/mobile-app-gestures/#view-tasks-status)
+- [Change a task’s status](https://quire.io/guide/mobile-app-gestures/#change-a-tasks-status)
+- [Complete a task](https://quire.io/guide/mobile-app-gestures/#complete-a-task)
+- [Dismiss an in-app notification or an undo message](https://quire.io/guide/mobile-app-gestures/#dismiss-an-in-app-notification-or-an-undo-message)
+- [Delete task](https://quire.io/guide/mobile-app-gestures/#delete-task)
+- [Select multiple tasks and apply settings](https://quire.io/guide/mobile-app-gestures/#select-multiple-tasks-and-apply-settings)
+- [View the task’s path](https://quire.io/guide/mobile-app-gestures/#view-the-tasks-path)
+- [Zoom in and zoom out ](/guide/mobile-app-gestures/#zoom-in-and-zoom-out)
+- [Switch between different display mode](/guide/mobile-app-gestures/#switch-between-different-display-mode)
+
 
 #### Quick-add a task to a certain position
 Drag the green **add** icon at the bottom right and drop it at the position you would like to add the task. 
@@ -44,10 +59,10 @@ Swipe left on a task, then tap the **add** icon.
 </figure>
 
 
-#### Add task to Board or Sublist view
-Drag and drop the task(s) to the view bar at the top. 
+#### Add task to another tab
+Drag and drop the task(s) to the tab bar at the top. 
 
-<video muted="" playsinline="" loop="" autoplay="" title="add tasks to board or sublist view" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_add_to_view.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
+<video muted="" playsinline="" loop="" autoplay="" title="add task to another tab" poster="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_add_to_view.png" style="max-height: 100%; margin: 0 auto; width: 100%; border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 4px; margin: 0.8em 0;">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/images/mobile-app-gestures/mobile_add_to_view.mp4" type="video/mp4">
 </video>
 
@@ -131,7 +146,7 @@ Apply settings (i.e. due dates, assignees, etc) to the selected tasks by using t
 
 
 #### View the task’s path
-Tap on a task and enter its detail panel, then slide the screen down to view the task’s path.
+Tap on a task and enter its detail panel, then slide the screen down to view the task’s path. You can tap on the task name in the path to navigate to that certain task in the main panel.
 
 
 

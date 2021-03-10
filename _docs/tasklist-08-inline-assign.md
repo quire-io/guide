@@ -112,16 +112,6 @@ For example, when you type `Publish the article !2` in the task name and press E
 
 
 
-## Inline add a task to board
-
-You can add a task to a specific board with `^` directly from the task name.
-
-For example, you can type `Publish the article ^` in the task name and use the arrow key to choose which board you want to add the task to.
-
-**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
-{: .notice--warning}
-
-
 ## Inline transfer task to another project
 
 You can transfer a task to another project with `>` directly from the task name.
