@@ -4,7 +4,8 @@ permalink: /external-team/
 date:   2019-08-23 15:00:00 +0800
 categories: external team
 ---
-You can outsource a task or more to a third party, namely the external team, without having them seeing your other tasks or any of your sensitive data. External team members only have access to the tasks assigned to them.
+You can outsource a task or more to a third party, namely the external team, without having them seeing your other tasks or any of your sensitive data. External team members only have access to the tasks assigned to them. They can only create subtasks under the assigned tasks and manage them. 
+
 
 ## Create an external team 
 
@@ -37,6 +38,10 @@ To delete an external team, hover the external team's name and click on the **tr
 Simply click on the **assignee** icon of a task, and turn on the **Assign an external team**.
 
 ![assign tasks to external team]({{ site.url }}{{ site.baseurl }}/assets/images/external-team/assignee_tasks_external_team.png)
+
+
+**Note:** If the task has already been assigned to an external team, you can still assign it to a project member.
+{: .notice--warning}
 
 Read more on our blog about [External Team](https://quire.io/blog/p/5-Easy-Steps-to-Quires-External-Team.html).
 {: .notice}

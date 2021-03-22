@@ -8,6 +8,10 @@ When your board is sorted by any categories, it immediately creates a visual swi
 
 For example, when you sort by assignees, the board will group all the tasks that belong to each assignee and lay them out under the assignees’ names. 
 
+Learn more on how to [sort and filter your tasks](/guide/filter-sort/). 
+{: .notice}
+
+
 ![filter board swimlane]({{ site.url }}{{ site.baseurl }}/assets/images/board-swimlane/board_swimlane.png)
 
 

@@ -7,6 +7,8 @@ docs:
         url: /organization-project-task/
       - title: "Members"
         url: /members/
+      - title: "Project Workspace"
+        url: /project-workspace/
       - title: "Project Views"
         url: /project-view/
       - title: "Navigation"
@@ -53,6 +55,10 @@ docs:
 
   - title: Task List (Advanced)
     children:
+      - title: "Create Sublists"
+        url: /create-sublists/
+      - title: "Sublist Permission"
+        url: /sublist-permission/
       - title: "Zoom"
         url: /zoom/
       - title: "Expand/Collapse Levels"
@@ -76,29 +82,12 @@ docs:
       - title: "Print Out Task List"
         url: /print/
 
-  - title: Sublist
-    children:
-      - title: "Sublist Introduction"
-        url: /sublist-introduction/
-      - title: "Add and Edit Sublists"
-        url: /add-sublist/
-      - title: "Sublist Permission"
-        url: /sublist-permission/
-
 
   - title: Board
     children:
-      - title: "Board Introduction"
-        url: /board-overview/
-      - title:  "Add and Edit Boards"
-        url: /add-edit-board/
-      - title:  "Board Permission"
-        url: /board-permission/
-      - title: "Multiple Boards"
-        url: /multiple-boards/    
-      - title: "Add and Remove Tasks from Board"
-        url: /add-tasks-to-board/
-      - title: "Status Column"
+      - title: "Track Progress with Board"
+        url: /track-with-board-view/
+      - title: "Board Column"
         url: /status-column/
       - title: "Swimlanes"
         url: /board-swimlane/
