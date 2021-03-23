@@ -88,7 +88,7 @@ You can drag the column and drop it at an ideal location.
 ## Hide a column
 Click on the **More Options** icon at the upper right corner of the column and choose **Hide column** or **Hide column for everyone**.
 
-![hide a column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/hide_column.png)
+![hide a column]({{ site.url }}{{ site.baseurl }}/assets/images/status-column/board_hide_column.png)
 
 
 
