@@ -91,6 +91,18 @@ docs:
         url: /status-column/
       - title: "Swimlanes"
         url: /board-swimlane/
+
+
+  - title: Timeline
+    children:
+      - title: "Reschedule Tasks in Timeline"
+        url: /reschedule-tasks-in-timeline/
+      - title: "Task Color in Timeline"
+        url: /task-color-timeline/
+      - title: "Navigate around the Timeline"
+        url: /navigate-in-timeline/
+      - title: "Grid view in Timeline"
+        url: /grid-view-timeline/
       
 
   - title: Project

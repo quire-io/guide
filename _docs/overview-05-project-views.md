@@ -15,7 +15,7 @@ Click on the **Tree** or **Board** or **Timeline** icon at the upper right corne
 ## Tree 
 When it comes to breaking down your project into small doable tasks, a Tree list is what you need. 
 
-You can view a Tree list as a traditional to-do list with a twist. In Quire, we called it the Nested Tree list. 
+You can view a Tree list as a traditional to-do list with a twist. In Quire, we called it the **Nested Tree list**. 
 
 For big, challenging projects, you can break down ideas into chunks, and further into small, bite-sized pieces. What you then get is a well-structured, well-planned hierarchical actionable list of tasks and subtasks.
 
@@ -66,7 +66,7 @@ You can resize the task list by hovering over the separating line between the ta
 ![Quire view timeline]({{ site.url }}{{ site.baseurl }}/assets/images/project-views/quire_timeline.png)
 
 
-Learn more about how to set and reschedule dates to tasks in Timeline view. 
+Learn more about how to [set and reschedule dates to tasks in Timeline view](/guide/reschedule-tasks-in-timeline/). 
 {: .notice}
 
 

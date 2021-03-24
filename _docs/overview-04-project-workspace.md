@@ -6,7 +6,7 @@ categories: project workspace
 ---
 In a Quire workspace, you will have mainly three different spaces for you to work on: **List**, **Sublist** and **Overview**. 
 
-![project view tabs]({{ site.url }}{{ site.baseurl }}/assets/images/project-workspace/project_tab_sublist.png)
+![project view tabs]({{ site.url }}{{ site.baseurl }}/assets/images/project-workspace/project_tabs.png)
 
 
 We will explain more on how each space can help you with your project’s workflow below.
@@ -45,4 +45,4 @@ The Overview shows detailed information/reports of a project.
 
 It includes charts, graphs, summaries and recent activities that show you how much has been done, how much needs to be done, etc. 
 
-![project view overview]({{ site.url }}{{ site.baseurl }}/assets/images/project-workspace/project_tab_sublist.png)
+![project view overview]({{ site.url }}{{ site.baseurl }}/assets/images/project-workspace/project_tab_overview.png)
