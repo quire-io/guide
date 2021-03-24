@@ -563,6 +563,30 @@ var store = [{
         "url": "https://quire.io/guide/sublist-permission/",
         "teaser": null
       },{
+        "title": "Timeline > Reschedule Tasks in Timeline",
+        "excerpt":"The tasks that either have a start date or due date or both, a dot will appear at the end of the task in the Timeline view.   You can hover over the dot to see the time duration of the task. Click on the dot to quickly slide to the task timespan bar.         Learn more about the meaning of the color for task timespan bar.   Set dates to task  The dot indicates there’s a time frame associated with the task. When there isn’t a dot, you can set a date to the task.   Click to select a task first, then click on the Timeline view to set a due date to the task or drag to set a duration.      Reschedule tasks’ dates  You can hover over the timespan bar to see the duration of the task.   To reschedule the date, drag the start or due date to extend or shorten the task duration. You can also drag to move the whole timespan bar altogether to reschedule the dates.         Another way to add dates to your task is through the detail panel. Double clicking on the task or hitting Spacebar can open up the detail panel. Or you can right click on a task to open up the context menu.   To reschedule your tasks in bulk, hit Shift to select multiple tasks and reschedule them all at once.         To remove the date from the task, right click on the timespan bar and select Clear date.     ","categories": ["reschedult","tasks","in","timeline","view"],
+        "tags": [],
+        "url": "https://quire.io/guide/reschedule-tasks-in-timeline/",
+        "teaser": null
+      },{
+        "title": "Timeline > Task Color in Timeline",
+        "excerpt":"You can choose to color your tasks timespan bar by Date, Priority, Tag, or leave it as None.         If a parent task has a different duration than its subtask, the timespan bar of the parent task will mark as a gray slashed bar that covers the time duration of the subtasks as well.      Color by Date  This is the default setting when you first switch to the Timeline view.   The color will follow the dates that have been given to the task accordingly.      Yellow: Tasks that need to be done today.   Red: Tasks that are overdue.   Blue: Tasks that are upcoming or due later.   Gray: Tasks that have been completed.   Color by Priority  The color will follow the priority that has been assigned to the task accordingly.   Color by Tag  The color will follow the first tag that has been assigned to the task accordingly.   Color by Status  The color will follow the status that has been assigned to the task accordingly.   None  When set to None, the timespan bar will not have any colors.  ","categories": ["task","color","in","timeline","view"],
+        "tags": [],
+        "url": "https://quire.io/guide/task-color-timeline/",
+        "teaser": null
+      },{
+        "title": "Timeline > Navigate around the Timeline",
+        "excerpt":"Below are some ways that you can navigate quickly around the Timeline view.      Click on the Today button on the upper right corner to jump to Today date.           If there are dots below the date at the calendar header, it means there are tasks assigned to that date. Click on the date to jump to the tasks.           To reschedule your tasks in bulk, hit Shift to select multiple tasks and reschedule them all at once.           Click on the arrow at the lower left corner to show or hide the task list in the Timeline view.       Note: You can resize the task list by hovering over the separating line between the list and the Timeline view.           Grab or scroll on the calendar header and move right or left.            Grab the blank space of the Timeline view to move around (up/down/right/left).                Zoom in and out on your Timeline by change to Day view, Week view, Month view, Year view. You can also choose to show or hide the weekends.         Use Filter to sort and group your timeline in however order you may like. You can choose to view your timeline by task status, assignees, or priority.         View more details in the Timeline view: toggle on the Advanced mode to see the status, priority, assignees, tags, subtask counts, etc if the task has any.      ","categories": ["navigate","in","timeline","view"],
+        "tags": [],
+        "url": "https://quire.io/guide/navigate-in-timeline/",
+        "teaser": null
+      },{
+        "title": "Timeline > Grid view in Timeline",
+        "excerpt":"Since the task list in the Timeline view shows very limited information, you can toggle on the Grid view by clicking on the Timeline button.   The default columns in the Grid view are Status, Priority, Assignee, Tags, Start, and Due. You can choose more options that you want to show in the dropdown menu. You can resize the column width if needed.     ","categories": ["grid","in","timline","view"],
+        "tags": [],
+        "url": "https://quire.io/guide/grid-view-timeline/",
+        "teaser": null
+      },{
         "title": "Troubleshooting > Compatible Browsers",
         "excerpt":"Quire works best with the official and latest browser version of:      Google Chrome   Safari   Mozilla Firefox   Microsoft Edge   If you are not sure how to update your browser, please click on these following links:      Update Google Chrome   Update Safari   Update Mozilla Firefox   Update Edge  ","categories": ["Quire","compatible","browsers"],
         "tags": [],
