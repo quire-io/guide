@@ -330,13 +330,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Project > Leave Project",
-        "excerpt":"Click on the dropdown menu icon beside your project name, and select Edit members.      Scroll to the bottom of the Members tab, click on Leave project.      Note: You can not leave the project if you are also the admin of its organization.  ","categories": ["leave","projects"],
+        "excerpt":"Click on the dropdown menu icon beside your project name, and select Edit members.      Scroll to the bottom of the Members tab, click on Leave project.      Note: You can NOT leave the project if you are also the admin of its organization.  ","categories": ["leave","projects"],
         "tags": [],
         "url": "https://quire.io/guide/leave-project/",
         "teaser": null
       },{
         "title": "Project > Delete Project",
-        "excerpt":"Click on the dropdown menu icon beside your project name, and select Delete from More.      Note: Only an admin of the project would be able to delete it.      The deleted projects will be found in the trash bin at the sidebar. You will be able to restore the deleted projects within 7 days. After 7 days, the projects will be deleted permanently. Click on the three dots icon next to the project name in Trash to restore or delete the project right away.      Note: The deleted projects will not be counted towards the project limitation (80) per organization. However, you will not be able to restore a deleted project when your active projects has already hit the limit.  ","categories": ["delete","project"],
+        "excerpt":"Click on the dropdown menu icon beside your project name, and select Delete from More.      Note: Only an admin of the project would be able to delete it.      The deleted projects will be found in the trash bin at the sidebar. You will be able to restore the deleted projects within 7 days. After 7 days, the projects will be deleted permanently. Click on the three dots icon next to the project name in Trash to restore or delete the project right away.      Note: The deleted projects will not be counted towards the project limitation (80) per organization. However, you will not be able to restore a deleted project when your active projects have already hit the limit.  ","categories": ["delete","project"],
         "tags": [],
         "url": "https://quire.io/guide/delete-project/",
         "teaser": null
