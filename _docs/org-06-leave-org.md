@@ -13,5 +13,5 @@ Scroll to the bottom of the Members tab, click on **Leave organization**.
 ![leave organization in settings page]({{ site.url }}{{ site.baseurl }}/assets/images/leave-organization/leave_organization_settings.png)
 
 
-**Note:** You can NOT leave the organization if you are the only **organization admin** left. 
+**Note:** You can NOT leave the organization if you are the **only organization admin** left. 
 {: .notice--warning}

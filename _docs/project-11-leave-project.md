@@ -14,5 +14,5 @@ Scroll to the bottom of the Members tab, click on **Leave project**.
 
 
 
-**Note:** You can not leave the project if you are also the **admin** of its organization.
+**Note:** You can NOT leave the project if you are also the **admin** of its organization.
 {: .notice--warning}
