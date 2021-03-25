@@ -17,7 +17,7 @@ This is the complete guide for you to get started on Quire, to lay the first bri
 
 ## Highlights
 <div class="new-cards">
-	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/sublist-introduction/">
+	<a class="new-card" href="{{ site.url }}{{ site.baseurl }}/project-workspace/#sublist">
 		<img class="new-card-image" src="{{ site.url }}{{ site.baseurl }}/assets/images/index/thumbnail_1.png" alt="">
 		<div class="new-card-content">
 			<div class="new-card-title">Sublist</div>
