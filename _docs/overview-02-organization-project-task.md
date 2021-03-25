@@ -38,11 +38,12 @@ Learn how to create a new [project](/guide/add-project/).
 
 {% include figure image_path="/assets/images/organization-project-task/project.png" alt="Quire sidebar project name" caption="Sidebar: Projects in the sidebar are grouped by Organization." %}
 
+{% include figure image_path="/assets/images/organization-project-task/mainpanel.png" alt="Quire workspace project name main panel" caption="Project name shown in the main panel" %}
 
-{% include figure image_path="/assets/images/organization-project-task/mainpanel.png" alt="Quire workspace project name main panel" caption="Main panel" %}
 
-**Note:** You can add members to the project level, meaning they will only have access to the projects you have granted them permission. 
+**Note:** You can add members to the project level, meaning they will only have access to the projects you have granted them permission. Learn more on [project permission role](/guide/project-permission/).
 {: .notice--warning}
+
 
 ## Tasks
 A task is the basic unit of action in Quire. It can be broken down into subtasks, sub-subtasks, and so on. 

@@ -38,6 +38,10 @@ Click on the **pin** icon to the pin the sidebar or the detail panel.
 
 ![pin detail panel]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_pin.png)
 
+**Tip:** You can open up the sidebar by hitting <kbd>Ctrl</kbd> or  <kbd>⌘</kbd> + <kbd>s</kbd>. 
+{: .notice--info}
+
+
 
 ## Advanced mode (Breadcrumbs)
 
@@ -60,8 +64,7 @@ Read more on our blog about Quire's [keyboard shortcuts](https://quire.io/blog/p
 
 
 ## Help
-Click on your profile picture for the dropdown menu to appear, then click on Help to access helpful resources. 
-
+Click on your profile picture for the dropdown menu to appear, then click on **Help** to access helpful resources. 
 
 ![help guide]({{ site.dev_url }}{{ site.baseurl }}/assets/images/navigating-quire/nav_userOption.png)
 

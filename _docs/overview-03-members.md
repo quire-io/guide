@@ -8,19 +8,18 @@ categories: members
 
 
 
-There are two types of member levels: project level and organization level. 
+There are two types of member levels: **project level** and **organization level**. 
 
 If you are a member at the organization level, you would have access to all the projects underneath.
 If you are a member at the project level, you would only have access to the projects that you have been granted permission. 
 
 For example, Brandon and Nathan both have access to all of the projects under their own organizations.
-However, Nathan can also access to Brandon's Project 1 because he was granted with permission with Project 1 but not the otherprojects in Brandon’s organization.
+However, Nathan can also access Brandon's Project 1 because he was granted permission with Project 1 but not the other projects in Brandon’s organization.
+
 
 
 **Tip:** To see the [complete member list](/guide/organization-members/#complete-member-list) for those who are involved in your organization, go to the Organization’s Member page.
 {: .notice--info}
-
-
 
 
 Another unique kind of member: **External Team**. When you want to outsource your tasks to someone outside of your team, assign them to an External Team. External Team members can only access the tasks assigned to them. 
