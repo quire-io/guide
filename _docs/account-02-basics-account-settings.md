@@ -23,7 +23,7 @@ Our system will send a confirmation email to your email inbox right away. Please
 
 ## Add another email address to your account
 
-Adding another email address can allow you to log in to Quire account with either email addresses. 
+Adding another email address can allow you to log in to a Quire account with either email addresses. 
 
 At the Basics section of your Account Settings, under Email, click on **+ Add email**, enter your email, then save. 
 
@@ -40,9 +40,7 @@ At the Basics section of your Account Settings, under Password, click on the **C
 
 ## Reset your password
 
-If you have forgot your password, go to our [Forgot password page](https://quire.io/r/forgot) and follow the instructions to reset your password. 
-
-
+If you have forgotten your password, go to our [Forgot password page](https://quire.io/r/forgot) and follow the instructions to reset your password. 
 
 
 ## Switch to your preferred theme

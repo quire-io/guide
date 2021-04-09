@@ -11,30 +11,36 @@ To assign a task to a member, click on the **assignee** icon, and select the mem
 ![set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_assignee.png)
 
 
-## Multiple assignees
-To assign a task to more than one member (aka multiple members), click on the **assignee** icon, and then the **Add to assignees** icon on the right of each member's name.
-
-![set multiple assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/multiple_assignees.png)
-
 You can also right-click on selected task(s) and select **Set assignees** to assign the task(s).
 
 ![right click set assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/right_click_set_assignees.png)
 
 
+**Tip:** You can also [invite new members who are new to Quire](/guide/set-assignee/#assign-tasks-to-members-who-are-new-to-quire). 
+{: .notice--info}
+
+## Multiple assignees
+To assign a task to more than one member (aka multiple members), click on the **assignee** icon, and then the **Add to assignees** icon on  to toggle on the multiple assignees mode.
+
+![set multiple assignee]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/multiple_assignees.png)
+
 Read more on our blog about [multiple assignees](https://quire.io/blog/p/Time-to-break-the-myth-of-Multiple-Assignees-in-Task-Management.html).
 {: .notice}
 
-
-**Tip:** In the project's Settings page, under Options, you can check the **Multiple assignees** option to always add multiple assignees by default.
+**Tip:** In the project's settings page, under Options, you can check the **Multiple assignees** option to always add multiple assignees by default.
 {: .notice--info}
 
 ![add multiple assignees as default]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/add_multiple_assignees_default.png)
+
 
 ## Assign tasks to members who are new to Quire
 
 Click on the **assignee** icon, and type in the person's email to invite him/her to the project. They will automatically join the project once they accept the email invitations. 
 
 ![invite new members]({{ site.url }}{{ site.baseurl }}/assets/images/set-assignee/invite_new_members.png)
+
+**Tip:** You can also [invite new members](/guide/add-project-members/) in the project member page. 
+{: .notice--info}
 
 
 ## For a group of members who are on Quire

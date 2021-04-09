@@ -22,7 +22,7 @@ The Sidebar is the space on the left. It is where you can switch between project
 You will also be able to access tasks under [My Tasks](/guide/my-tasks/), Projects /Organizations under [Bookmarks](/guide/bookmark/), [Recent](/guide/recent/) and [Smart Folders](/guide/smart-folders/). 
 
 
-![Quire sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar.png)
+![Quire sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interface_sidebar.png)
 
 {% capture notice-text %}
 **Tips:** 
@@ -36,7 +36,7 @@ You will also be able to access tasks under [My Tasks](/guide/my-tasks/), Projec
 
 
 
-![Quire sidebar pin]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_sidebar_pin.png)
+![Quire sidebar pin]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interface_sidebar_pin.png)
 
 
 
@@ -47,7 +47,7 @@ When you click on projects or organizations in the sidebar, this is where you wi
 
 Also, you can switch between different kinds of [views](/guide/project-view/) (Tree, Board, and Timeline) in the main panel. 
 
-![Quire main panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_mainPanel.png)
+![Quire main panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interface_mainPanel.png)
 
 
 
@@ -67,7 +67,7 @@ Here you can add a [description](/guide/descriptions/), [comments](/guide/commen
   {{ notice-text | markdownify }}
 </div>
 
-![Quire detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interfac_detailPanel.png)
+![Quire detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/user-interface/interface_detailPanel.png)
 
 
 

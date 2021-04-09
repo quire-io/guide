@@ -4,6 +4,13 @@ permalink: /set-date-time/
 date:   2019-08-23 15:00:00 +0800
 categories: set due dates
 ---
+Setting dates and time to your task in your project can help you to keep track of which tasks are falling behind and which tasks are completed beforehand.
+
+You will also [get reminded](https://quire.io/guide/get-notified/) via in-app notifications or email notifications of upcoming tasks or tasks that are about to be due.
+
+If you switch your List or Sublist to the [Timeline view](/guide/reschedule-tasks-in-timeline/), you can also see your tasks with dates spread out in an horizontal timeline view. It can provide you a clear overview of when the project starts and ends. 
+
+
 ## Set due date
 
 Decide when a task should be done (aka give it a deadline) by setting a due date.
@@ -24,11 +31,13 @@ You can click on a shortcut, **Today**, **Tomorrow** or **Next Week** to quickly
 
 You can decide when you would like to start working on a task.
 
-Click on the **date** icon to set a start date. Or hit <kbd><</kbd> on the keyboard when the task(s) is selected.
+Click on the **date** icon to set a start date. Or hit <kbd><</kbd> on the keyboard when the task(s) is selected. Then click on **Show more options** at the bottom of the date picker.
 
-![set start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_icon.png)
 
-Click on **Show more options** at the bottom of the date picker, and toggle on **Set start date**. Pick a date or enter a date in the **Start** field.
+![show more options]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/date_more_options.png)
+
+
+Toggle on **Set start date** and pick a date or enter a date in the **Start** field.
 
 ![enter start date]({{ site.url }}{{ site.baseurl }}/assets/images/set-date-time/enter_start_date.png)
 

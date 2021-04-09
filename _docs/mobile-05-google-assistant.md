@@ -22,7 +22,7 @@ Then, just simply say what you want Quire to help you with:
 - Add a task to [task name] [due date]
 
 
-![google assistant]({{ site.url }}{{ site.baseurl }}/assets/images/google-assistant/google_assistant_add_task.png)
+![google assistant]({{ site.url }}{{ site.baseurl }}/assets/images/google-assistant/quire_google_assistant.png)
 
 
 Read more on our blog about [Google Assistant](https://quire.io/blog/p/google-assistant.html).

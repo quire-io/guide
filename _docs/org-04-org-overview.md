@@ -10,7 +10,7 @@ You can see the Organization progress statistic and the summary of each Project 
 
 ![organization overview]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_overview.png)
 
-Click on the organization at the sidebar to access the organization orverview. 
+Click on the organization at the sidebar to access the organization overview. 
 
 ![organization in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/organization-overview/organization_sidebar.png)
 

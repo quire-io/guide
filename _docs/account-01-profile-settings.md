@@ -26,7 +26,7 @@ Drag your picture or select it from your computer to upload. Click **Set as prof
 
 ![drag a photo]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/drag_photo.png)
 
-You may need to crop your picture before you set it as profile picture.
+You may need to crop your picture before you set it as a profile picture.
 
 **Note:** Choose to use a different color for your profile icon with **Change Icon Color**.
 {: .notice--warning}
@@ -37,7 +37,9 @@ You may need to crop your picture before you set it as profile picture.
 
 You can also change your name and add some basic information to your profile here. 
 
-Your basic information (name, profile description, company and website, excluding your email) will be visible to non-member Quire users. You can change your profile visibility in the [Account Settings](https://quire.io/guide/basic-account-settings/#change-the-visibility-of-your-profile).
+Your basic information (name, profile description, company and website, excluding your email) will be visible to non-member Quire users. You can change your profile visibility in the [Account Settings](/guide/basic-account-settings/#change-the-visibility-of-your-profile).
+
+![profile basic information]({{ site.url }}{{ site.baseurl }}/assets/images/profile-settings/basic_information.png)
 
 
 

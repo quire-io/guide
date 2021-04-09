@@ -44,12 +44,11 @@ When you type `Publish the article <04/30>` in the task name, the task will have
 
 #### Example date formats you can type:
 
-
 - Type `<04/30;>`, the task will have a start date of **April 30th**.
 
 - Type `<04/30;05/05>`, the task will have a start date of **April 30th** and a due date of **May 5th**.
 
-- Type `<today>` or `<tomorrow>` or `<next week>` to quickly set due date.
+- Type `<today>` or `<tomorrow>` or `<next week>` to quickly set the due date.
 
 - Type `<04/30 13:00>`, the task will be set to due on **April 30th 13:00**.
 

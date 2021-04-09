@@ -4,7 +4,7 @@ permalink: /set-priority/
 date:   2019-08-23 15:00:00 +0800
 categories: set priority
 ---
-To set priority to a task, click on the **arrow** icon in the middle main panel or hit <kbd>!</kbd> on the keyboard when the task(s) is selected. 
+To set priority to a task, click on the **arrow** icon in the middle main panel or hit <kbd>!</kbd> on the keyboard when the task(s) is selected, then select the priority using the up/down arrow key.
 
 ![set priority in main panel]({{ site.url }}{{ site.baseurl }}/assets/images/set-priority/set_priority_main_panel.png)
 
