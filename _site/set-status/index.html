@@ -11,7 +11,7 @@
     <meta property="og:site_name" content="Quire & You">
     <meta property="og:locale" content="">
     
-      <meta property="article:modified_time" content="2021-01-21T10:42:59+08:00">
+      <meta property="article:modified_time" content="2021-04-09T12:32:14+08:00">
       <meta property="article:published_time" content="2019-08-23T15:00:00+08:00">
       <meta property="article:author" content="https://www.facebook.com/">
       
@@ -93,7 +93,7 @@
 
 
 
-  <meta property="article:modified_time" content="2021-01-21T10:42:59+08:00">
+  <meta property="article:modified_time" content="2021-04-09T12:32:14+08:00">
 
 
 
@@ -475,7 +475,7 @@
 
             <li><a href="/guide/set-status/" class="active"> Change Status</a>
                       
-                        <ul class="toc__menu"><li><a href="#complete-a-task">Complete a task</a></li><li><a href="#set-status-to-tasks">Set status to tasks</a></li></ul>
+                        <ul class="toc__menu"><li><a href="#set-status-to-a-task">Set status to a task</a></li><li><a href="#complete-a-task">Complete a task</a></li><li><a href="#create-new-statuses">Create new statuses</a></li><li><a href="#edit-the-statuses">Edit the statuses</a></li></ul>
 
                       
             </li>
@@ -1512,7 +1512,7 @@
     <meta itemprop="headline" content="Change Status">
     <meta itemprop="description" content="You can change the status of a task to show the progress.">
     <meta itemprop="datePublished" content="August 23, 2019">
-    <meta itemprop="dateModified" content="January 21, 2021">
+    <meta itemprop="dateModified" content="April 09, 2021">
 
     <div class="page__inner-wrap">
       
@@ -1527,39 +1527,59 @@
         
         <p>You can change the status of a task to show the progress.</p>
 
-<p>There are three default statuses: <strong>To-Do</strong>, <strong>In Progress</strong> and <strong>Completed</strong> and some other percentages statuses for you to choose from.</p>
+<p>There are three default statuses: <strong>To-Do</strong>, <strong>In Progress</strong> and <strong>Completed</strong>.</p>
 
-<p><img src="https://quire.io/guide/assets/images/set-status/default_status_options.png" alt="default status" /></p>
+<h2 id="set-status-to-a-task">Set status to a task</h2>
+<p>In the main panel, right click on the status circle to set a status.</p>
 
-<p class="notice--warning"><strong>Note:</strong> If the task has been added to a board, the status will follow the boards’ status column.</p>
+<p><img src="https://quire.io/guide/assets/images/set-status/default_status_options.png" alt="default statuses" /></p>
 
-<p class="notice">Learn how to <a href="/guide/status-column/">create a new status</a>.</p>
+<p>Or in the detail panel, you can click on the arrow beside the <strong>Complete</strong> icon to set a status.</p>
+
+<p class="notice--info"><strong>Tip:</strong> You can set to always <a href="/guide/project-settings/#always-see-status-options-when-click-on-the-complete-icon">see status options</a> when you click on the complete icon in the Project Settings.</p>
+
+<p><img src="https://quire.io/guide/assets/images/set-status/set_status_detail_panel.png" alt="set status in detail panel" /></p>
 
 <h2 id="complete-a-task">Complete a task</h2>
 
-<p>We will show you how many subtasks you still have when you hover over the circle.</p>
-
-<p>Click on the <strong>Complete</strong> circle to mark the task as done.</p>
+<p>We will show you how many subtasks you still have when you hover over the circle. Click on the <strong>Complete</strong> circle to mark the task as done.</p>
 
 <p><img src="https://quire.io/guide/assets/images/set-status/complete_task_main_panel.png" alt="complete task in main panel" /></p>
 
 <p class="notice--info"><strong>Tip:</strong> Select a task and hit <kbd>Ctrl</kbd> + <kbd>/</kbd> (for Windows) or <kbd>⌘</kbd> + <kbd>/</kbd> (for Mac) to quickly complete it.</p>
 
-<h2 id="set-status-to-tasks">Set status to tasks</h2>
+<h2 id="create-new-statuses">Create new statuses</h2>
+<p>In the main panel, right click on the status icon at the left hand side of the task name, and select <strong>Add new status</strong>.</p>
 
-<h4 id="in-the-main-panel">In the main panel</h4>
+<p><img src="https://quire.io/guide/assets/images/set-status/status_options_add_new.png" alt="add new status" /></p>
 
-<p>Right-click on the circle to set a status.</p>
+<p>Or you can click on the dropdown menu icon beside the project name at the top and select <strong>Edit status</strong>. Then click <strong>+ Add new status</strong> to create new statuses.</p>
 
-<p><img src="https://quire.io/guide/assets/images/set-status/set_status_main_panel.png" alt="set status in main panel" /></p>
+<p><img src="https://quire.io/guide/assets/images/set-status/edit_status.png" alt="edit status" /></p>
 
-<h4 id="in-the-detail-panel">In the detail panel</h4>
+<div class="notice--warning">
+  
+<p><strong>Note:</strong></p>
+<ul>
+  <li>The progress percentage below 100% (not including 100%) can’t be the same as the ones that already existed.</li>
+  <li>However, you can create multiple statuses for the progress 100%. For example, you can name the statuses as <strong>Cancelled</strong> or <strong>Won’t do</strong>, etc. If you filter by Active Tasks in the List view, the tasks applied with these statuses will be hidden as well.</li>
+</ul>
 
-<p>Click on the arrow beside the <strong>Complete</strong> icon to set a status.</p>
+</div>
 
-<p><img src="https://quire.io/guide/assets/images/set-status/set_status_detail_panel.png" alt="set status in detail panel" /></p>
+<p class="notice">Learn more about how to <a href="/guide/status-column/#add-a-new-status-column">create new statuses in Board view</a>.</p>
 
-<p class="notice--info"><strong>Tip:</strong> You can set to always <a href="https://quire.io/guide/project-settings/#always-see-status-options-when-click-on-the-complete-icon">see status options</a> when you click on the complete icon in the Project Settings.</p>
+<h2 id="edit-the-statuses">Edit the statuses</h2>
+<p>In the main panel, right click on the status icon at the left hand side of the task name, hover over the status you want to edit and click the <strong>edit (pen)</strong> icon.</p>
+
+<p><img src="https://quire.io/guide/assets/images/set-status/status_options_edit.png" alt="edit status by right clicking on the status icon" /></p>
+
+<p>Or you can also edit the statuses in the Project Settings page.</p>
+
+<p><img src="https://quire.io/guide/assets/images/set-status/edit_status.png" alt="edit status" /></p>
+
+<p><img src="https://quire.io/guide/assets/images/set-status/status_settings_page.png" alt="edit status in project settings page" /></p>
+
 
         
       </section>
@@ -1570,7 +1590,7 @@
 
 
         
-          <p class="page__date">Last updated on <time datetime="2021-01-21">January 21, 2021</time></p>
+          <p class="page__date">Last updated on <time datetime="2021-04-09">April 09, 2021</time></p>
         
       </footer>
 
