@@ -35,7 +35,7 @@ Go to the **date** icon in the bottom menu bar (or right-click to choose **Set d
 **Tip:** Or use <kbd><</kbd> after selecting the tasks, then use the arrow keys to choose the date, or continue type in the due date. 
 {: .notice--info}
 
-To remove date from tasks, go to the **date** icon in the bottome menu bar (or right-click to choose **Set due**) and click on **None**.
+To remove date from tasks, go to the **date** icon in the bottom menu bar (or right-click to choose **Set due**) and click on **None**.
 
 ![batch remove date]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_remove_date.png)
 
@@ -64,18 +64,11 @@ Go to the **priority** icon in the bottom menu bar (or right-click to choose **S
 {: .notice--info}
 
 
-#### Add tasks to a board in batch
+#### Add tasks to a Sublist in batch
 
-Go to the **Board** icon in the bottom menu bar (or right-click to choose **Add to board**) and select a board. 
+Go to the **Sublist** icon in the bottom menu bar (or right-click to choose **Set sublist**) and select a sublist. 
 
-![batch assign board]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_assign_board.png)
+![batch assign to sublist]({{ site.url }}{{ site.baseurl }}/assets/images/multiple-select/batch_assign_board.png)
 
-**Note:** If the project doesn’t have a board, you would need to create a board first, in order to add the task to a board. 
-{: .notice--warning}
-
-**Tip:** Or use <kbd>^</kbd> after selecting the tasks, and use the up/down keys to choose which board you would like to add the task to. 
+**Tip:** Or use <kbd>^</kbd> after selecting the tasks, and use the up/down keys to choose which Sublist you would like to add the task to. 
 {: .notice--info}
-
-
-
-

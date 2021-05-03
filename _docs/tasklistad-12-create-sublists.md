@@ -44,6 +44,11 @@ Or you can even right click on the selected tasks in the main List and select **
 {: .notice--info}
 
 
+When you drag a task from one Sublist tab to another, the task will be removed from the former and added to the latter. 
+
+You can hold the <kbd>Alt</kbd> key while you drag the task from one Sublist to another, this way, the tasks will be added to both Sublists. 
+
+
 ## Remove tasks from Sublist
 You can remove tasks from a Sublist by selecting the tasks in the Edit menu or you  can drag the tasks from the Sublist back to the main List tab. 
 
@@ -86,8 +91,3 @@ Click on the **dropdown menu** icon beside the Sublist name and choose **Delete*
 
 **Note:** Once the Sublist is deleted, it can not be undone. Please make sure before deleting it. The tasks in the Sublist will not be deleted, you can still find them in the main List tab.
 {: .notice--warning}
-
-
-
-
-

@@ -12,7 +12,7 @@ It's your instant messenger built right in Quire! Simply click **Add comment** i
 
 ![add comment to task]({{ site.url }}{{ site.baseurl }}/assets/images/comments/add_comments.png)
 
-When you leave a comment in a task, you will automatically become the **follower** of that task, meaning when other members modify the task's due date or leave another comments, etc. You will get notifications as well. 
+When you leave a comment in a task, you will automatically become the **follower** of that task, meaning when other members modify the task's due date or leave other comments, etc. You will get notifications as well. 
 
 Members who are already the assignees of this task or followers of this task or its project will get notified automatically of any updates too.
 
@@ -21,7 +21,7 @@ Members who are already the assignees of this task or followers of this task or 
 
 #### Style your comments
 
-The comment area supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheetsheet of Markdwon.
+The comment area supports markdown to give more styles to your text. You could click on the **Markdown** icon to get a simple cheat sheet of Markdown.
 
 To preview what you have just typed, hit <kbd>Ctrl</kbd> + <kbd>E</kbd> or <kbd>⌘</kbd> + <kbd>E</kbd> for Mac.
 
@@ -30,7 +30,7 @@ Learn more on how to [style](/guide/styling/) your text in Quire.
 
 #### Add emojis
 
-Add emojis to make your description stand out. Type in <kbd>:</kbd> to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
+Add emojis to make your description stand out. Type in <kbd>:</kbd> to get an emoji cheat sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/comments/quire_emoji.png)
 

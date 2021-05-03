@@ -6,7 +6,7 @@ categories: favorite follow tasks
 ---
 ## Favorite a task
 
-You can favorite a task that you think are important to you. Favorites are personal, unlike tags or priority that are seen by all members.
+You can favorite a task that you think is important to you. Favorites are personal, unlike tags or priority that are seen by all members.
 
 **Note:** A ♥ means you favorited the task, whereas a ♡ means you didn't. And the number beside either heart indicates how many people have favorited the task.
 {: .notice--warning}
@@ -24,9 +24,8 @@ You can filter by **Favorited by me** to easily see all the tasks you've favorit
 
 ![filter task favorite by me]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/filter_favorite_by_me.png)
 
-Learn more on how to [filter and sort](/guide/filter-sort/) your Quire task list/board. 
+Learn more on how to [filter and sort](/guide/filter-sort/) your Quire task list. 
 {: .notice}
-
 
 
 ## Follow a task
@@ -44,16 +43,16 @@ Go to the detail panel, and click on the **eye** icon in the upper-right.
 
 ![follow a task]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/follow_task.png)
 
+
 Or you can right-click on the task, and select **Follow** in the context menu.
 
 ![right-click to follow a task]({{ site.url }}{{ site.baseurl }}/assets/images/favorite-follow-task/follow_right_click.png)
-
-
 
 {% capture notice-text %}
 **Note:** 
 - When you create a new task, you will automatically become the follower of that task. 
 - If you are the follower of a parent task, when other members add subtasks underneath, you will become the follower of the subtasks as well. 
+- The project **Admin** or **Normal** members can edit the followers of the task. 
 {% endcapture %}
 
 <div class="notice--warning">

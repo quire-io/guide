@@ -38,8 +38,9 @@ The task list will look like this:
 *text*
 ```
 
-**Tip:** You can also make your project or organizaton name bold and/or italic.
+**Tip:** You can also make your project or organization name bold and/or italic.
 {: .notice--info}
+
 
 #### Underline
 
@@ -133,13 +134,21 @@ http://example.com/path
 {: .notice--warning}
 
 
+#### Videos
+```
+https://www.w3schools.com/html/movie.mp4
+https://www.youtube.com/embed/EngW7tLk6R8
+https://player.vimeo.com/video/253989945
+```
+
+
 #### Characters
 
 You can type `&yen;`, `&reg;`, `&#8451;` and`&#x263B;` which will turn into ¥, ®, ℃, ☻, respectively. These are just a few examples of [html entities](https://www.w3schools.com/html/html_entities.asp) you can enter in a task name, description or comment.
 
 #### Emojis
 
-Type in `:` to get emoji cheet sheet or you can copy and paste an emoji from websites like getemoji.com. 
+Type in `:` to get an emoji cheat sheet or you can copy and paste an emoji from websites like getemoji.com. 
 
 ![add emojis]({{ site.url }}{{ site.baseurl }}/assets/images/styling/quire_emoji.png)
 

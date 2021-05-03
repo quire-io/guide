@@ -6,7 +6,7 @@ categories: peekaboo
 ---
 When your list grows a tad overwhelming, you can pick several tasks that are not actionable at the moment and peekaboo them. The peekaboo tasks will remain hidden from the List/ Board view and reshow several days later. 
 
-In the task's detail panel, click on the **three dots** icon and choose **Peekaboo** in the dropdown menu.
+In the task's detail panel, click on the **More Options** icon and choose **Peekaboo** in the dropdown menu.
 
 ![peekaboo in the detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/peekaboo_detail_panel.png)
 
@@ -26,11 +26,11 @@ To see all the peekaboo tasks in this project, click on the **filter** icon unde
 
 ![filter peekaboo tasks]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/filter_peekaboo.png)
 
-For the peekaboo task to reshow in your task list, click on the **three dots** icon in the task’s detail panel, then choose **Reshow this task** or right-click on the task and choose from the context menu. 
+For the peekaboo task to reshow in your task list, click on the **More Options** icon in the task’s detail panel, then choose **Reshow this task** or right-click on the task and choose from the context menu. 
 
 ![reshow in the detail panel]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_detail_panel.png)
 
-You can go to the [Project’s Settings](https://quire.io/guide/project-settings/#set-the-default-days-for-the-peekaboo-tasks-to-reshow) and change the peekaboo tasks default to reshow 7 days later to 1, 3, 14, 30 days later.
+You can go to the [Project’s Settings](/guide/project-settings/#set-the-default-days-for-the-peekaboo-tasks-to-reshow) and change the peekaboo tasks default to reshow 7 days later to 1, 3, 14, 30 days later.
 
 ![reshow peekaboo tasks in settings]({{ site.url }}{{ site.baseurl }}/assets/images/peekaboo/reshow_peekaboo_settings.png)
 

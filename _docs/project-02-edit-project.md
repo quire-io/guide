@@ -4,7 +4,7 @@ permalink: /edit-project/
 date:   2019-08-23 15:00:00 +0800
 categories: edit project name descriptions
 ---
-You can customize your projects upon to your preference. 
+You can customize your projects to your preference. 
 
 **Note:** You must be **project admin** to make the changes.
 {: .notice--warning}

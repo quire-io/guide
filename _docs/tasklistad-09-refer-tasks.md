@@ -6,7 +6,9 @@ categories: refer tasks projects
 ---
 ## Refer to tasks
 
-You can refer to a task from the same project by typing `#taskname` or `#taskid` in the description or comment. When the task is completed, the referred task showned in the description or comment will be crossed off automatically. 
+You can refer to a task from the same project by typing `#taskname` or `#taskid` in the description or comment. When the referred task is completed, the `#taskname` showed in the description or comment will be crossed off automatically. 
+
+If the referred task is deleted or transferred to another project, the `#taskname` showed in the description will not update automatically. 
 
 ![refer a task]({{ site.url }}{{ site.baseurl }}/assets/images/refer-tasks/refer_task.png)
 

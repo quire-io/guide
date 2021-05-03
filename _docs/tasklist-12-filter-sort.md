@@ -48,9 +48,8 @@ You will find your saved filters in the dropdown menu at the filter icon.
 
 ![saved filter list]({{ site.url }}{{ site.baseurl }}/assets/images/filter-sort/saved_filter_list.png)
 
-**Note:** The saved customized filters will synced to your [Quire mobile app](/guide/mobile-apps/). You won't need to save the filters again.
+**Note:** The saved customized filters will sync to your [Quire mobile app](/guide/mobile-apps/). You won't need to save the filters again.
 {: .notice--warning}
-
 
 
 ## Group your tasks
@@ -60,18 +59,19 @@ You can group your tasks by the options below:
 - Assignee
 - Status
 - Tag
-- Board
 - Sublist
 - Date
 - Due Per Week
 - Due Per Day
 - Start Per Week
-- Create Per Week (You can not add or move tasks in this mode.)
-- Update Per Week (You can not add or move tasks in this mode.)
-- Complete Per Week (This only appears when in All Tasks. You can not add or move tasks in this mode.)
+- Create Per Week (You can not add or move tasks in this filter.)
+- Update Per Week (You can not add or move tasks in this filter.)
+- Complete Per Week (This option only appears when in All Tasks. You can not add or move tasks in this filter.)
 
-**Note:** The task order will follow the orignial task list structure (how you have listed the task before applying any filters). You can later sort the tasks by Date, Name, Priority, and Status. 
+
+**Note:** The task order will follow the original task list structure (how you have listed the task before applying any filters). You can later sort the tasks by Date, Name, Priority, and Status. 
 {: .notice--warning}
+
 
 
 #### Group with two options
@@ -107,7 +107,6 @@ You can filter your tasks by the options below:
 
 - Priority
 - Tags
-- Board
 - Date
 - Content
 - My Tasks
@@ -117,6 +116,7 @@ You can filter your tasks by the options below:
 - Assigned to 
 - Assigned by
 - Created by 
+
 
 #### Filter by more than one options 
 You can add as many filters to your tasks as you like. Click on the **+** icon to add a filter. 

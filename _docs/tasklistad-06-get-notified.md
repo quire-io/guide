@@ -19,7 +19,7 @@ You will be notified of new updates, upcoming tasks or overdue tasks in differen
 
 You will receive [reminder notifications](/guide/reminders/) and [reminder emails](/guide/email-notifications/ ) when your tasks approach their start date or time, due date or time, and also when they are overdue.
 
-Also, when someone added a task in a project you follow, or left a comment in a task you follow, you will immediately get notified in Quire.
+Also, when someone added a task in [a project you follow](/guide/follow-project/), or left a comment in [a task you follow](/guide/favorite-follow-task/#follow-a-task), you will immediately get notified in Quire.
 
 **Note:** When another member comments on a task you follow or assigns a task to you, an **orange dot** will appear next to the task name.
 {: .notice--warning}
@@ -41,10 +41,11 @@ Click on the **dropdown menu** icon next to the project name and select **Option
 
 ![project options dropdown]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_options.png)
 
-By default, you will get notified about the task reminders, new tasks assigned to you and new comments. You can choose which notifications that you want to receive by selecting these following options. 
+By default, you will get notified about the task reminders, all new comments and all other updates for the tasks you follow. You can choose which notifications that you want to receive by selecting these following options. 
 
 ![notification options]({{ site.url }}{{ site.baseurl }}/assets/images/get-notified/project_notifications_settings.png)
 
 
-**Note:** This setting will only apply to your account instead of every members in this project.
+**Note:** This setting will only apply to your account instead of every member in this project.
 {: .notice--warning}
+

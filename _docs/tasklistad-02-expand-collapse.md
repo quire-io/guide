@@ -4,7 +4,7 @@ permalink: /expand-collpase/
 date:   2019-08-23 15:00:00 +0800
 categories: expand collpase task list levels
 ---
-Quire allows to create a task list with multiple levels. But sometimes you only want to see certain levels of tasks.
+Quire allows you to create a task list with multiple levels. But sometimes you only want to see certain levels of tasks.
 
 You can right-click on the **Collapse/Expand** icon of a task for options to expand the tasks.
 
