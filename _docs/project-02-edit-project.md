@@ -6,7 +6,7 @@ categories: edit project name descriptions
 ---
 You can customize your projects to your preference. 
 
-**Note:** You must be **project admin** to make the changes.
+**Note:** You must be **[project admin](/guide/add-project-members/)** to make the changes.
 {: .notice--warning}
 
 ## Change project profile picture 

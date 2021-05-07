@@ -12,7 +12,7 @@ Learn more about [project permission control](https://quire.io/guide/project-per
 
 ## Add project members
 
-Click on the **dropdown menu** icon beside your project name, and select **Edit members.**
+Click on the **dropdown menu** icon beside your project name, and select **Edit members**.
 
 ![project member context menu]({{ site.url }}{{ site.baseurl }}/assets/images/add-project-members/project_members_context_menu.png)
 
@@ -30,6 +30,14 @@ The newly invited members will automatically join the project once they accept t
 
 **Note:** When inviting a member to a new project or organization, the member will show up in the autocomplete dropdown menu if he/she has already been in the same project or organization with you before. 
 {: .notice--warning}
+
+
+Another kind of member within a project is called the [External Team](/guide/external-team/). This feature is great for those members who are in charge of outsourced tasks.  
+
+When a member is added as an External Team member, he/she will only be able to see the tasks that are assigned to him/her. 
+
+External Team members also can only create subtasks under the assigned tasks and manage them. 
+
 
 
 ## Change member's permission

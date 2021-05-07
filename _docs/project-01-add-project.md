@@ -16,6 +16,8 @@ Or click on the dropdown menu icon beside the organization name, then select **A
 
 ![add project]({{ site.url }}{{ site.baseurl }}/assets/images/add-project/add_project_2.png)
 
+Another way to add a project is to click on the **+** icon next to Workspace in the sidebar. 
+
 
 ## Add new project from existing project
 

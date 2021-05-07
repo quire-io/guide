@@ -43,7 +43,6 @@ Or you can even right click on the selected tasks in the main List and select **
 **Tip:** Hitting <kbd>^</kbd> on the keyboard then using the up/down arrow key to choose a sublist can also allow you to add a task to the sublist.
 {: .notice--info}
 
-
 When you drag a task from one Sublist tab to another, the task will be removed from the former and added to the latter. 
 
 You can hold the <kbd>Alt</kbd> key while you drag the task from one Sublist to another, this way, the tasks will be added to both Sublists. 

@@ -14,15 +14,14 @@ By default, the projects are in alphabetical order at the Projects section at th
 
 Also, you could transfer a project from one organization to another by dragging and dropping. 
 
-For resetting the orders of your projects, click on the **three dots** icon beside each organization instead. 
+For resetting the orders of your projects, click on the **More Options** icon beside each organization instead. 
 
 ![reset projects to default order]({{ site.url }}{{ site.baseurl }}/assets/images/reorder-projects/reset_project_default.png)
 
 
-You can hide your projects to make your Projects section more organized. 
+You can hide your projects to make your Workspace section at the sidebar more organized. 
 
-Hover over the project name and click on the **hide** icon. You will find all the hidden projects at the bottom of the Projects section. 
-
+Hover over the project name and click on the **hide** icon. You will find all the hidden projects at the bottom of the Workspace section. 
 
 ![hide projects]({{ site.url }}{{ site.baseurl }}/assets/images/reorder-projects/hide_projects.png)
 

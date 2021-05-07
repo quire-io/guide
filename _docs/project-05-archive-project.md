@@ -12,6 +12,8 @@ You will find your archived project in the Archived category in the sidebar.
 
 ![archive project in sidebar]({{ site.url }}{{ site.baseurl }}/assets/images/archive-project/archive_project_2.png)
 
+You can also find the archived projects in the Organization Overview page.
+
 
 {% capture notice-text %}
 **Note:** 

@@ -6,13 +6,11 @@ categories: project overview
 ---
 ## Track your project's progress
 
-You can see the performance of your projects in their Overview page.
-
-Click on the Overview tab at the top.
+You can see the performance of your projects in their Overview page. Click on the Overview tab at the top.
 
 ![project overview tab]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_overview_tab.png)
 
-You can see the number of task in progress, and the percentage of tasks being completed in a project.
+You can see the number of tasks in progress, and the percentage of tasks being completed in a project.
 
 ![project progress stats]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_progress_stats.png)
 
@@ -29,19 +27,16 @@ Here you will also be able to see the weekly summary for the project.
 
 ## Project activity log 
 
-You can see what has been done to a project in its activity log.
-
-Go to the project's Overview page and scroll to the bottom and click on **Recent Activities**. 
+You can see what has been done to a project in its activity log. Click on the Overview tab at the top and scroll to the bottom and click on **Recent Activities**. 
 
 You will see a record of the past actions done to the project.
 
-![project activitiy log]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_activity_log.png)
-
+![project activity log]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/project_activity_log.png)
 
 ## Post comments 
 
 You can discuss and chat about what you have accomplished with other project members in the comment area. 
 
-Go to the project’s Overview page. Hit <kbd>Spacebar</kbd> to open up the detail panel. 
+Click on the Overview tab at the top and hit <kbd>Spacebar</kbd> to open up the detail panel. 
 
 ![project comments]({{ site.url }}{{ site.baseurl }}/assets/images/project-overview/open_detail_panel.png)

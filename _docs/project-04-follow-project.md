@@ -4,9 +4,9 @@ permalink: /follow-project/
 date:   2019-08-23 15:00:00 +0800
 categories: follow project
 ---
-You can follow a project to get notified of any changes made to it.
+You can follow a project to [get notified](/guide/get-notified/) of any changes made to it, including getting notified about any modifications made to the tasks inside the project.
 
-Go to the project's Overview, and click on the **eye** icon at the top.
+Go to the project's Overview tab, and click on the **eye** icon at the top.
 
 ![follow project via overview]({{ site.url }}{{ site.baseurl }}/assets/images/follow-project/follow_project_2.png)
 
